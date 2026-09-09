@@ -9,13 +9,15 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def main() -> None:
-    project = tomllib.loads((ROOT / "pyproject.toml").read_text())["project"]
+    project = tomllib.loads((ROOT / "pyproject.toml").read_text(encoding="utf-8"))["project"]
     expected = "v" + project["version"]
     if os.environ.get("RELEASE_TAG") != expected:
         raise SystemExit(f"Release tag must match package metadata: {expected}")
-    if "awaiting owner confirmation" in (ROOT / "LICENSE").read_text():
+    if "awaiting owner confirmation" in (ROOT / "LICENSE").read_text(encoding="utf-8"):
         raise SystemExit("The owner must confirm the MIT copyright attribution before release.")
-    annotations = json.loads((ROOT / "tests/fixtures/real/annotations.json").read_text())
+    annotations = json.loads(
+        (ROOT / "tests/fixtures/real/annotations.json").read_text(encoding="utf-8")
+    )
     reviewed = [item for item in annotations if item["review_status"] == "human_reviewed"]
     if len(reviewed) < 120:
         raise SystemExit(f"Human corpus review incomplete: {len(reviewed)}/120 pages.")

@@ -1,0 +1,2 @@
+# Preserve snapshot hashes, including files with mixed line endings, on every OS.
+tests/fixtures/** -text

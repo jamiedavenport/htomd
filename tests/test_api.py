@@ -7,7 +7,9 @@ import pytest
 
 import htomd
 
-CASES = json.loads((Path(__file__).parent / "fixtures/synthetic/cases.json").read_text())
+CASES = json.loads(
+    (Path(__file__).parent / "fixtures/synthetic/cases.json").read_text(encoding="utf-8")
+)
 
 
 @pytest.mark.parametrize("case", CASES, ids=lambda case: case["id"])

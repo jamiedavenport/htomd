@@ -27,6 +27,15 @@ run = [
 description = "Run safe Ruff fixes and formatting through pre-commit"
 run = "uv run --locked pre-commit run --all-files"
 
+# Task tools keep the older CI interpreters in mise.lock.
+[tasks."test:3.12"]
+tools.python = "3.12.14"
+run = "uv run --locked pytest"
+
+[tasks."test:3.13"]
+tools.python = "3.13.15"
+run = "uv run --locked pytest"
+
 [tasks.build]
 description = "Build and validate release distributions"
 run = ["uv build --no-sources", "uv run --locked python tools/check_dist.py"]

@@ -12,7 +12,7 @@ from htomd._parser import parse
 from htomd._tree import walk
 
 FIXTURES = Path(__file__).parent / "fixtures/real"
-MANIFEST = json.loads((FIXTURES / "manifest.json").read_text())
+MANIFEST = json.loads((FIXTURES / "manifest.json").read_text(encoding="utf-8"))
 
 
 def test_corpus_distribution() -> None:
@@ -73,14 +73,15 @@ def test_captured_development_output(path: Path) -> None:
     assert item["split"] == "development"
     raw = (FIXTURES / (item["id"] + ".html")).read_bytes()
     document = extract(raw.decode(item["encoding"]), url=item["source_url"])
-    assert document.markdown == path.read_text()
+    assert document.markdown == path.read_text(encoding="utf-8")
     assert (
-        asdict(document.metadata) == json.loads(path.with_suffix(".json").read_text())["metadata"]
+        asdict(document.metadata)
+        == json.loads(path.with_suffix(".json").read_text(encoding="utf-8"))["metadata"]
     )
 
 
 def test_annotation_inventory_matches_snapshots() -> None:
-    annotations = json.loads((FIXTURES / "annotations.json").read_text())
+    annotations = json.loads((FIXTURES / "annotations.json").read_text(encoding="utf-8"))
     assert {row["id"]: row["sha256"] for row in annotations} == {
         row["id"]: row["sha256"] for row in MANIFEST
     }
@@ -89,7 +90,9 @@ def test_annotation_inventory_matches_snapshots() -> None:
 
 
 @pytest.mark.parametrize(
-    "case", json.loads((FIXTURES / "curated.json").read_text()), ids=lambda case: case["id"]
+    "case",
+    json.loads((FIXTURES / "curated.json").read_text(encoding="utf-8")),
+    ids=lambda case: case["id"],
 )
 def test_curated_real_regressions(case: dict[str, Any]) -> None:
     item = next(item for item in MANIFEST if item["id"] == case["id"])
@@ -105,7 +108,7 @@ def test_curated_real_regressions(case: dict[str, Any]) -> None:
 
 REVIEWED = [
     row
-    for row in json.loads((FIXTURES / "annotations.json").read_text())
+    for row in json.loads((FIXTURES / "annotations.json").read_text(encoding="utf-8"))
     if row["review_status"] == "human_reviewed"
 ]
 
@@ -127,4 +130,4 @@ def test_human_reviewed_expectations(row: dict[str, Any]) -> None:
     for key, expected in row["metadata"].items():
         assert getattr(document.metadata, key) == expected
     if row["exact_markdown"]:
-        assert document.markdown == (FIXTURES / row["exact_markdown"]).read_text()
+        assert document.markdown == (FIXTURES / row["exact_markdown"]).read_text(encoding="utf-8")
