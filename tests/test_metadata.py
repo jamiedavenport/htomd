@@ -102,3 +102,16 @@ def test_unsafe_canonical_is_omitted() -> None:
 def test_missing_fields_are_none() -> None:
     metadata = extract("").metadata
     assert all(getattr(metadata, key) is None for key in metadata.__slots__)
+
+
+def test_first_qualified_jsonld_survives_tree_cleanup() -> None:
+    html = """<script type="application/json">{"@type":"Article","author":"Wrong"}</script>
+    <script type="application/ld+json">invalid</script>
+    <script type="application/ld+json">{"@type":"Product","author":"Wrong"}</script>
+    <script type="application/ld+json">{"@type":"Article","author":"First"}</script>
+    <script type="application/ld+json">{"@type":"Article","author":"Second"}</script>
+    <article><p class="byline">Local author</p><p>Keep.</p></article>"""
+    result = extract(html)
+    assert result.metadata.author == "First"
+    assert '"@type"' not in result.markdown
+    assert "Keep." in result.markdown

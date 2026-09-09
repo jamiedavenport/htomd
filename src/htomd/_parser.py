@@ -65,6 +65,8 @@ IMPLIED: dict[str, tuple[frozenset[str], frozenset[str]]] = {
     "option": (frozenset({"option"}), frozenset({"select", "datalist"})),
 }
 END_SCOPES = {"li": {"ul", "ol"}, "td": {"tr", "table"}, "th": {"tr", "table"}, "tr": {"table"}}
+PARAGRAPH_SCOPE = (frozenset({"p"}), frozenset({"table", "td", "th", "li"}))
+ANCHOR_SCOPE = (frozenset({"a"}), frozenset({"p", "div", "li"}))
 
 
 class TreeParser(HTMLParser):
@@ -86,11 +88,11 @@ class TreeParser(HTMLParser):
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         if tag in P_BREAKERS:
-            self.close_in_scope(frozenset({"p"}), frozenset({"table", "td", "th", "li"}))
+            self.close_in_scope(*PARAGRAPH_SCOPE)
         if tag in IMPLIED:
             self.close_in_scope(*IMPLIED[tag])
         if tag == "a":
-            self.close_in_scope(frozenset({"a"}), frozenset({"p", "div", "li"}))
+            self.close_in_scope(*ANCHOR_SCOPE)
         parent = self.stack[-1]
         node = Node(tag, {name: value or "" for name, value in attrs}, parent=parent)
         parent.children.append(node)
@@ -110,7 +112,7 @@ class TreeParser(HTMLParser):
             if current == tag:
                 del self.stack[index:]
                 return
-            if current in END_SCOPES.get(tag, set()):
+            if current in END_SCOPES.get(tag, ()):
                 break
         self.recoveries += 1
 

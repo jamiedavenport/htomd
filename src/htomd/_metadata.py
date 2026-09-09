@@ -63,22 +63,19 @@ def author_name(value: object) -> str | None:
     return None
 
 
-def read_jsonld(root: Node) -> dict[str, object]:
-    for node in walk(root):
-        if node.tag != "script" or node.attrs.get("type", "").lower() != "application/ld+json":
-            continue
-        try:
-            value = json.loads(text_content(node, normalize=False))
-        except (ValueError, RecursionError):
-            continue
-        article = next(json_articles(value), None)
-        if article is not None:
-            return article
-    return {}
+def read_jsonld(node: Node) -> dict[str, object]:
+    if node.attrs.get("type", "").lower() != "application/ld+json":
+        return {}
+    try:
+        value = json.loads(text_content(node, normalize=False))
+    except (ValueError, RecursionError):
+        return {}
+    return next(json_articles(value), {})
 
 
 def read_metadata(root: Node, url: str | None, base: str | None) -> Metadata:
     fields: dict[str, str] = {}
+    article: dict[str, object] = {}
     title = language = canonical = None
     for node in walk(root):
         if node.tag == "meta":
@@ -92,7 +89,8 @@ def read_metadata(root: Node, url: str | None, base: str | None) -> Metadata:
             language = string(node.attrs.get("lang") or node.attrs.get("xml:lang"))
         elif node.tag == "link" and "canonical" in node.attrs.get("rel", "").lower().split():
             canonical = canonical or safe_url(node.attrs.get("href", ""), base) or None
-    article = read_jsonld(root)
+        elif node.tag == "script" and not article:
+            article = read_jsonld(node)
     return Metadata(
         title=fields.get("og:title") or title or string(article.get("headline")),
         author=fields.get("author") or author_name(article.get("author")),
@@ -109,7 +107,9 @@ def read_metadata(root: Node, url: str | None, base: str | None) -> Metadata:
 
 
 def refine_metadata(metadata: Metadata, selected: list[Node]) -> Metadata:
-    heading = author = published = None
+    heading = None
+    author = metadata.author or None
+    published = metadata.published_time or None
     for root in selected:
         for node in walk(root):
             if node.tag == "h1" and heading is None:

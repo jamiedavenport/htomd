@@ -22,18 +22,23 @@ def walk(root: Node) -> Iterator[Node]:
     while stack:
         node = stack.pop()
         yield node
-        stack.extend(child for child in reversed(node.children) if isinstance(child, Node))
+        for child in reversed(node.children):
+            if isinstance(child, Node):
+                stack.append(child)
 
 
-def postorder(root: Node) -> Iterator[Node]:
+def postorder(root: Node, *, leaf_tags: frozenset[str] = frozenset()) -> Iterator[Node]:
+    """Visit children before parents, without descending into literal leaf tags."""
     stack = [(root, False)]
     while stack:
         node, visited = stack.pop()
-        if visited:
+        if visited or node.tag in leaf_tags:
             yield node
             continue
         stack.append((node, True))
-        stack.extend((child, False) for child in reversed(node.children) if isinstance(child, Node))
+        for child in reversed(node.children):
+            if isinstance(child, Node):
+                stack.append((child, False))
 
 
 def text_content(root: Node, *, normalize: bool = True) -> str:

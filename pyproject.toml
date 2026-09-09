@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "htomd"
-version = "0.1.0"
+version = "0.1.1"
 description = "Focused Markdown and metadata from messy HTML, in pure Python"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -46,6 +46,7 @@ htomd = ["py.typed"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["."]
 addopts = "-ra"
 
 [tool.ruff]

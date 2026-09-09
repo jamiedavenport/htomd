@@ -11,15 +11,20 @@ import tempfile
 import zipfile
 from email.parser import BytesParser
 from importlib.metadata import version
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 ROOT = Path(__file__).resolve().parents[1]
 SMOKE = """
 from importlib.metadata import distribution
+from importlib.util import find_spec
 from pathlib import Path
 import htomd
 assert htomd.convert('<article><h1>Tea</h1><p>Steep.</p></article>') == '# Tea\\n\\nSteep.\\n'
 assert distribution('htomd').requires is None
+assert not any(
+    find_spec(name)
+    for name in ('markdownify', 'html2text', 'trafilatura', 'html_to_markdown', 'htmd')
+)
 assert any(
     entry.group == 'console_scripts' and entry.name == 'htomd' and entry.value == 'htomd._cli:main'
     for entry in distribution('htomd').entry_points
@@ -29,9 +34,20 @@ assert 'site-packages' in htomd.__file__
 """
 
 
+def assert_no_benchmark_files(names: list[str]) -> None:
+    for name in names:
+        parts = PurePosixPath(name).parts
+        assert not any(
+            part in {"tools", ".benchmark", "benchmark", "benchmarks", "locks", "results"}
+            or part.startswith(".venv")
+            for part in parts
+        ), f"Benchmark/development file in distribution: {name}"
+
+
 def inspect(wheel: Path, source: Path) -> None:
     with zipfile.ZipFile(wheel) as archive:
         names = archive.namelist()
+        assert_no_benchmark_files(names)
         metadata = BytesParser().parsebytes(
             archive.read(next(name for name in names if name.endswith("/METADATA")))
         )
@@ -42,6 +58,12 @@ def inspect(wheel: Path, source: Path) -> None:
         assert all(".so" not in name and ".pyd" not in name for name in names)
     with tarfile.open(source) as archive:
         names = archive.getnames()
+        assert_no_benchmark_files(names)
+        metadata_file = archive.extractfile(
+            next(name for name in names if name.endswith("/PKG-INFO"))
+        )
+        assert metadata_file is not None
+        assert BytesParser().parsebytes(metadata_file.read()).get_all("Requires-Dist") is None
         assert any(name.endswith("/LICENSE") for name in names)
         assert any(name.endswith("/src/htomd/py.typed") for name in names)
         assert not any("/tests/" in name or "/fixtures/" in name for name in names)

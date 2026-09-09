@@ -4,3 +4,4 @@ prune tests
 prune tools
 prune .github
 exclude .pre-commit-config.yaml uv.lock
+prune .benchmark

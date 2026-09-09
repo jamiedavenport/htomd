@@ -52,3 +52,12 @@ def test_convert_delegates(monkeypatch: pytest.MonkeyPatch) -> None:
     expected = htomd.Document("sentinel", htomd.Metadata(), htomd.Diagnostics("fallback"))
     monkeypatch.setattr(htomd, "extract", lambda html, url=None: expected)
     assert htomd.convert("anything") == "sentinel"
+
+
+def test_nested_code_markup_preserves_literal_text() -> None:
+    html = (
+        "<article><p><code><b>x</b> &amp; <i>y</i></code></p>"
+        '<pre><code class="language-python"><span>if x:</span>\n'
+        "  print(&quot;tea&quot;)</code></pre></article>"
+    )
+    assert htomd.convert(html) == '`x & y`\n\n```python\nif x:\n  print("tea")\n```\n'

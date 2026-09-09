@@ -9,6 +9,7 @@ from ._tree import SPACE, Node, elements, postorder, text_content
 from ._urls import destination, safe_url
 
 EMPHASIS = {"em": "*", "i": "*", "strong": "**", "b": "**", "s": "~~", "del": "~~", "strike": "~~"}
+LITERAL_TAGS = frozenset({"pre", "code", "kbd", "samp"})
 BLOCKS = frozenset(
     {
         "p",
@@ -27,6 +28,7 @@ BLOCKS = frozenset(
     }
 )
 MARKUP = re.compile(r"([\\`*_~\[\]])")
+BLOCK_NEIGHBORS = BLOCKS | HEADINGS | {"ul", "ol", "pre", "table", "blockquote", "hr", "li"}
 BLOCK_START = re.compile(r"(^|\n)(\s*)(#{1,6}(?=\s)|[-+](?=\s)|\d+[.)](?=\s)|[=~-]{3,}(?=\s|$))")
 
 
@@ -242,16 +244,19 @@ def serialize_block(tag: str, body: str) -> str:
 
 def child_parts(node: Node, rendered: dict[Node, str]) -> list[str]:
     parts = []
-    block_tags = BLOCKS | HEADINGS | {"ul", "ol", "pre", "table", "blockquote", "hr", "li"}
     for index, child in enumerate(node.children):
         if isinstance(child, Node):
             parts.append(rendered[child])
             continue
         if child.isspace():
-            neighbors = (
-                node.children[max(0, index - 1) : index] + node.children[index + 1 : index + 2]
-            )
-            if any(isinstance(other, Node) and other.tag in block_tags for other in neighbors):
+            previous = node.children[index - 1] if index else None
+            following = node.children[index + 1] if index + 1 < len(node.children) else None
+            if (
+                isinstance(previous, Node)
+                and previous.tag in BLOCK_NEIGHBORS
+                or isinstance(following, Node)
+                and following.tag in BLOCK_NEIGHBORS
+            ):
                 continue
         parts.append(escape(SPACE.sub(" ", child)))
     return parts
@@ -261,8 +266,9 @@ def render(selected: list[Node], base: str | None) -> str:
     output = []
     for root in selected:
         rendered: dict[Node, str] = {}
-        for node in postorder(root):
-            parts = child_parts(node, rendered)
+        for node in postorder(root, leaf_tags=LITERAL_TAGS):
+            # Code serializers read raw text, so rendering their descendants is wasted work.
+            parts = [] if node.tag in LITERAL_TAGS else child_parts(node, rendered)
             body = join_parts(parts)
             rendered[node] = serialize(node, body, rendered, base)
         output.append(rendered[root])

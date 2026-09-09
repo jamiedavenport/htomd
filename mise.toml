@@ -39,3 +39,15 @@ run = "uv run --locked pytest"
 [tasks.build]
 description = "Build and validate release distributions"
 run = ["uv build --no-sources", "uv run --locked python tools/check_dist.py"]
+
+[tasks.benchmark]
+description = "Build isolated environments and benchmark all 115 offline snapshots"
+run = "python -m tools.benchmark.run"
+
+[tasks."benchmark:smoke"]
+description = "Build isolated environments and smoke-test every benchmark adapter"
+run = "python -m tools.benchmark.run --smoke --output .benchmark/smoke.json"
+
+[tasks."benchmark:report"]
+description = "Generate the detailed report and README tables from saved measurements"
+run = "python -m tools.benchmark.report tools/benchmark/results/macos-arm64.json --readme"

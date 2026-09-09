@@ -1,4 +1,4 @@
-"""Select content using cached evidence, then clean only the selected region."""
+"""Filter the parsed tree, then select content using cached evidence."""
 
 from __future__ import annotations
 
@@ -75,6 +75,8 @@ POSITIVE = frozenset(
 )
 REFERENCES = frozenset({"footnotes", "references", "endnotes", "bibliography"})
 PUNCTUATION = re.compile(r"[,.;:!?。，；：！？،؛]")
+CAMEL_CASE = re.compile(r"([a-z])([A-Z])")
+HINT_WORDS = re.compile(r"[a-z0-9]+")
 HIDDEN_STYLE = re.compile(
     r"(?:^|;)\s*(?:display\s*:\s*none|visibility\s*:\s*(?:hidden|collapse))\s*(?:!important\s*)?(?:;|$)",
     re.I,
@@ -103,8 +105,10 @@ class Stats:
 
 def hints(node: Node) -> set[str]:
     value = node.attrs.get("class", "") + " " + node.attrs.get("id", "")
-    value = re.sub(r"([a-z])([A-Z])", r"\1 \2", value)
-    return set(re.findall(r"[a-z0-9]+", value.lower()))
+    if value == " ":
+        return set()
+    value = CAMEL_CASE.sub(r"\1 \2", value)
+    return set(HINT_WORDS.findall(value.lower()))
 
 
 def explicitly_hidden(node: Node) -> bool:
@@ -116,22 +120,20 @@ def explicitly_hidden(node: Node) -> bool:
 
 
 def visible_tree(root: Node) -> Node:
-    """Copy visible content so metadata remains available on the original tree."""
-    result = Node(root.tag, root.attrs.copy())
-    stack = [(root, result, False)]
+    """Filter in place; explicit metadata has already been read from the full tree."""
+    stack = [(root, False)]
     while stack:
-        original, target, local = stack.pop()
-        local = local or original.tag in {"article", "main"} or original.attrs.get("role") == "main"
-        for child in original.children:
-            if isinstance(child, str):
-                target.children.append(child)
-                continue
-            if excluded(child, local):
-                continue
-            copied = Node(child.tag, child.attrs.copy(), parent=target)
-            target.children.append(copied)
-            stack.append((child, copied, local))
-    return result
+        node, local = stack.pop()
+        local = local or node.tag in {"article", "main"} or node.attrs.get("role") == "main"
+        kept: list[Node | str] = []
+        for child in node.children:
+            if isinstance(child, Node):
+                if excluded(child, local):
+                    continue
+                stack.append((child, local))
+            kept.append(child)
+        node.children = kept
+    return root
 
 
 def excluded(node: Node, local: bool) -> bool:
@@ -145,9 +147,13 @@ def excluded(node: Node, local: bool) -> bool:
     return node.tag in {"header", "footer"} and not local
 
 
-def statistics(root: Node) -> dict[Node, Stats]:
-    result: dict[Node, Stats] = {}
+def statistics(root: Node, result: dict[Node, Stats] | None = None) -> dict[Node, Stats]:
+    """Accumulate subtree evidence, reusing entries unaffected by cleanup."""
+    if result is None:
+        result = {}
     for node in postorder(root):
+        if node in result:
+            continue
         stat = Stats()
         for child in node.children:
             if isinstance(child, str):
@@ -155,8 +161,15 @@ def statistics(root: Node) -> dict[Node, Stats]:
                 stat.punctuation += len(PUNCTUATION.findall(child))
             else:
                 other = result[child]
-                for field in Stats.__slots__:
-                    setattr(stat, field, getattr(stat, field) + getattr(other, field))
+                stat.characters += other.characters
+                stat.linked += other.linked
+                stat.punctuation += other.punctuation
+                stat.blocks += other.blocks
+                stat.headings += other.headings
+                stat.code += other.code
+                stat.cells += other.cells
+                stat.images += other.images
+                stat.controls += other.controls
         stat.blocks += int(node.tag in EVIDENCE and stat.characters > 0)
         stat.headings += int(node.tag in HEADINGS and stat.characters > 0)
         stat.code += int(node.tag == "pre")
@@ -192,18 +205,29 @@ def conditional_clutter(node: Node, stat: Stats) -> bool:
     return False
 
 
-def clean(root: Node) -> tuple[Node, int]:
+def clean(root: Node) -> tuple[dict[Node, Stats], int]:
     stats = statistics(root)
     removed = 0
+    changed: set[Node] = set()
     for node in walk(root):
         kept: list[Node | str] = []
         for child in node.children:
             if isinstance(child, Node) and conditional_clutter(child, stats[child]):
                 removed += 1
+                changed.add(node)
             else:
                 kept.append(child)
         node.children = kept
-    return root, removed
+    # Cleanup decisions above use the original evidence. Only parents of removed
+    # content and their ancestors need new statistics for subsequent selection.
+    for changed_node in changed:
+        ancestor: Node | None = changed_node
+        while ancestor is not None and ancestor in stats:
+            del stats[ancestor]
+            ancestor = ancestor.parent
+    if removed:
+        stats = statistics(root, stats)
+    return stats, removed
 
 
 def plausible(node: Node, stat: Stats, *, semantic: bool = False) -> bool:
@@ -313,8 +337,8 @@ def fallback(root: Node, stats: dict[Node, Stats]) -> list[Node]:
 
 
 def select(root: Node) -> tuple[list[Node], Diagnostics]:
-    visible, removed = clean(visible_tree(root))
-    stats = statistics(visible)
+    visible = visible_tree(root)
+    stats, removed = clean(visible)
     ranked = scores(visible, stats, relaxed=False)
     notes = [f"Removed {removed} conditionally identified clutter blocks."] if removed else []
     winner = semantic_candidate(visible, stats, ranked)
