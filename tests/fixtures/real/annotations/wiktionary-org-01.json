@@ -1,0 +1,8062 @@
+[
+  {
+    "node_index": 58,
+    "tag": "li",
+    "text": "Main page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-mainpage-description",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Community portal",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-portal",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "li",
+    "text": "Requested entries",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-requestedarticles",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Recent changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-recentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 70,
+    "tag": "li",
+    "text": "Random entry",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randompage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-help",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "Glossary",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Glossary",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Contact us",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-contact",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Special pages",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-specialpages",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "Donations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 144,
+    "tag": "li",
+    "text": "Donations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "h2",
+    "text": "Contents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "vector-pinnable-header-label"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Beginning",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-mw-content-text",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 177,
+    "tag": "li",
+    "text": "1 Translingual Toggle Translingual subsection 1.1 Etymology 1.2 Symbol 1.3 See also",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Translingual",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 186,
+    "tag": "li",
+    "text": "1.1 Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "1.2 Symbol",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Symbol",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "1.3 See also",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-See_also",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "2 English Toggle English subsection 2.1 Etymology 1 2.1.1 Alternative forms 2.1.2 Pronunciation 2.1.3 Noun 2.1.3.1 Usage notes 2.1.3.2 Synonyms 2.1.3.3 Hyponyms 2.1.3.4 Derived terms 2.1.3.5 Descendants 2.1.3.6 Translations 2.1.4 Verb 2.1.5 Adjective 2.2 Etymology 2 2.2.1 Noun 2.2.1.1 Usage notes 2.3 References 2.4 Anagrams",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-English",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "2.1 Etymology 1 2.1.1 Alternative forms 2.1.2 Pronunciation 2.1.3 Noun 2.1.3.1 Usage notes 2.1.3.2 Synonyms 2.1.3.3 Hyponyms 2.1.3.4 Derived terms 2.1.3.5 Descendants 2.1.3.6 Translations 2.1.4 Verb 2.1.5 Adjective",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_1",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "2.1.1 Alternative forms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Alternative_forms",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "2.1.2 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 231,
+    "tag": "li",
+    "text": "2.1.3 Noun 2.1.3.1 Usage notes 2.1.3.2 Synonyms 2.1.3.3 Hyponyms 2.1.3.4 Derived terms 2.1.3.5 Descendants 2.1.3.6 Translations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "2.1.3.1 Usage notes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Usage_notes",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "2.1.3.2 Synonyms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Synonyms",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "2.1.3.3 Hyponyms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Hyponyms",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 255,
+    "tag": "li",
+    "text": "2.1.3.4 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Derived_terms",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 261,
+    "tag": "li",
+    "text": "2.1.3.5 Descendants",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Descendants",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "2.1.3.6 Translations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Translations",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "2.1.4 Verb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Verb",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 279,
+    "tag": "li",
+    "text": "2.1.5 Adjective",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Adjective",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "2.2 Etymology 2 2.2.1 Noun 2.2.1.1 Usage notes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 291,
+    "tag": "li",
+    "text": "2.2.1 Noun 2.2.1.1 Usage notes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_2",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 297,
+    "tag": "li",
+    "text": "2.2.1.1 Usage notes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Usage_notes_2",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 303,
+    "tag": "li",
+    "text": "2.3 References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-References",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 309,
+    "tag": "li",
+    "text": "2.4 Anagrams",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Anagrams",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 315,
+    "tag": "li",
+    "text": "3 Asturian Toggle Asturian subsection 3.1 Etymology 1 3.1.1 Noun 3.2 Etymology 2 3.2.1 Verb 3.3 Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Asturian",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 324,
+    "tag": "li",
+    "text": "3.1 Etymology 1 3.1.1 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_1_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 330,
+    "tag": "li",
+    "text": "3.1.1 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_3",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 336,
+    "tag": "li",
+    "text": "3.2 Etymology 2 3.2.1 Verb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_2_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 342,
+    "tag": "li",
+    "text": "3.2.1 Verb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Verb_2",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "3.3 Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Further_reading",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 354,
+    "tag": "li",
+    "text": "4 Basque Toggle Basque subsection 4.1 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Basque",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 363,
+    "tag": "li",
+    "text": "4.1 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_4",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 369,
+    "tag": "li",
+    "text": "5 Chinese Toggle Chinese subsection 5.1 Etymology 5.2 Pronunciation 5.3 Noun 5.3.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Chinese",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 378,
+    "tag": "li",
+    "text": "5.1 Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_3",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 384,
+    "tag": "li",
+    "text": "5.2 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 390,
+    "tag": "li",
+    "text": "5.3 Noun 5.3.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_5",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 396,
+    "tag": "li",
+    "text": "5.3.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Derived_terms_2",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 402,
+    "tag": "li",
+    "text": "6 Ese Toggle Ese subsection 6.1 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Ese",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 411,
+    "tag": "li",
+    "text": "6.1 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_6",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 417,
+    "tag": "li",
+    "text": "7 Estonian Toggle Estonian subsection 7.1 Verb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Estonian",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 426,
+    "tag": "li",
+    "text": "7.1 Verb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Verb_3",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 432,
+    "tag": "li",
+    "text": "8 Galician Toggle Galician subsection 8.1 Etymology 1 8.1.1 Pronunciation 8.1.2 Noun 8.1.2.1 Derived terms 8.2 Etymology 2 8.2.1 Pronunciation 8.2.2 Noun 8.3 References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Galician",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 441,
+    "tag": "li",
+    "text": "8.1 Etymology 1 8.1.1 Pronunciation 8.1.2 Noun 8.1.2.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_1_3",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 447,
+    "tag": "li",
+    "text": "8.1.1 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation_3",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 453,
+    "tag": "li",
+    "text": "8.1.2 Noun 8.1.2.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_7",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 459,
+    "tag": "li",
+    "text": "8.1.2.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Derived_terms_3",
+      "class": "vector-toc-list-item vector-toc-level-4"
+    }
+  },
+  {
+    "node_index": 465,
+    "tag": "li",
+    "text": "8.2 Etymology 2 8.2.1 Pronunciation 8.2.2 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_2_3",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 471,
+    "tag": "li",
+    "text": "8.2.1 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation_4",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 477,
+    "tag": "li",
+    "text": "8.2.2 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_8",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 483,
+    "tag": "li",
+    "text": "8.3 References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-References_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 489,
+    "tag": "li",
+    "text": "9 Hungarian Toggle Hungarian subsection 9.1 Etymology 9.2 Pronunciation 9.3 Noun 9.3.1 Declension 9.3.2 Derived terms 9.3.3 Descendants 9.4 Further reading 9.5 Anagrams",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Hungarian",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 498,
+    "tag": "li",
+    "text": "9.1 Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_4",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 504,
+    "tag": "li",
+    "text": "9.2 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation_5",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 510,
+    "tag": "li",
+    "text": "9.3 Noun 9.3.1 Declension 9.3.2 Derived terms 9.3.3 Descendants",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_9",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 516,
+    "tag": "li",
+    "text": "9.3.1 Declension",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Declension",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 522,
+    "tag": "li",
+    "text": "9.3.2 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Derived_terms_4",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 528,
+    "tag": "li",
+    "text": "9.3.3 Descendants",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Descendants_2",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 534,
+    "tag": "li",
+    "text": "9.4 Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Further_reading_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 540,
+    "tag": "li",
+    "text": "9.5 Anagrams",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Anagrams_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 546,
+    "tag": "li",
+    "text": "10 Māori Toggle Māori subsection 10.1 Etymology 10.2 Pronunciation 10.3 Adjective 10.3.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Māori",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 555,
+    "tag": "li",
+    "text": "10.1 Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_5",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 561,
+    "tag": "li",
+    "text": "10.2 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation_6",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 567,
+    "tag": "li",
+    "text": "10.3 Adjective 10.3.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Adjective_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 573,
+    "tag": "li",
+    "text": "10.3.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Derived_terms_5",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 579,
+    "tag": "li",
+    "text": "11 Old English Toggle Old English subsection 11.1 Pronunciation 11.2 Numeral",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Old_English",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 588,
+    "tag": "li",
+    "text": "11.1 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation_7",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 594,
+    "tag": "li",
+    "text": "11.2 Numeral",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Numeral",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 600,
+    "tag": "li",
+    "text": "12 Rapa Nui Toggle Rapa Nui subsection 12.1 Etymology 12.2 Noun 12.2.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Rapa_Nui",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 609,
+    "tag": "li",
+    "text": "12.1 Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_6",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 615,
+    "tag": "li",
+    "text": "12.2 Noun 12.2.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_10",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 621,
+    "tag": "li",
+    "text": "12.2.1 Derived terms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Derived_terms_6",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 627,
+    "tag": "li",
+    "text": "13 Sedang Toggle Sedang subsection 13.1 Noun 13.2 References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Sedang",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 636,
+    "tag": "li",
+    "text": "13.1 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_11",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 642,
+    "tag": "li",
+    "text": "13.2 References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-References_3",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 648,
+    "tag": "li",
+    "text": "14 Spanish Toggle Spanish subsection 14.1 Alternative forms 14.2 Etymology 14.3 Pronunciation 14.4 Noun 14.5 Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Spanish",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 657,
+    "tag": "li",
+    "text": "14.1 Alternative forms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Alternative_forms_2",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 663,
+    "tag": "li",
+    "text": "14.2 Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Etymology_7",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 669,
+    "tag": "li",
+    "text": "14.3 Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Pronunciation_8",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 675,
+    "tag": "li",
+    "text": "14.4 Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Noun_12",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 681,
+    "tag": "li",
+    "text": "14.5 Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Further_reading_3",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 698,
+    "tag": "h1",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "firstHeading",
+      "class": "firstHeading mw-first-heading"
+    }
+  },
+  {
+    "node_index": 709,
+    "tag": "li",
+    "text": "العربية",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ar mw-list-item"
+    }
+  },
+  {
+    "node_index": 712,
+    "tag": "li",
+    "text": "Asturianu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ast mw-list-item"
+    }
+  },
+  {
+    "node_index": 715,
+    "tag": "li",
+    "text": "Azərbaycanca",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-az mw-list-item"
+    }
+  },
+  {
+    "node_index": 718,
+    "tag": "li",
+    "text": "Беларуская",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-be mw-list-item"
+    }
+  },
+  {
+    "node_index": 721,
+    "tag": "li",
+    "text": "Betawi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bew mw-list-item"
+    }
+  },
+  {
+    "node_index": 724,
+    "tag": "li",
+    "text": "Български",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bg mw-list-item"
+    }
+  },
+  {
+    "node_index": 727,
+    "tag": "li",
+    "text": "বাংলা",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bn mw-list-item"
+    }
+  },
+  {
+    "node_index": 730,
+    "tag": "li",
+    "text": "Català",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ca mw-list-item"
+    }
+  },
+  {
+    "node_index": 733,
+    "tag": "li",
+    "text": "Čeština",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cs mw-list-item"
+    }
+  },
+  {
+    "node_index": 736,
+    "tag": "li",
+    "text": "Cymraeg",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cy mw-list-item"
+    }
+  },
+  {
+    "node_index": 739,
+    "tag": "li",
+    "text": "Dansk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-da mw-list-item"
+    }
+  },
+  {
+    "node_index": 742,
+    "tag": "li",
+    "text": "Deutsch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-de mw-list-item"
+    }
+  },
+  {
+    "node_index": 745,
+    "tag": "li",
+    "text": "Zazaki",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-diq mw-list-item"
+    }
+  },
+  {
+    "node_index": 748,
+    "tag": "li",
+    "text": "Ελληνικά",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-el mw-list-item"
+    }
+  },
+  {
+    "node_index": 751,
+    "tag": "li",
+    "text": "Esperanto",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-eo mw-list-item"
+    }
+  },
+  {
+    "node_index": 754,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-es mw-list-item"
+    }
+  },
+  {
+    "node_index": 757,
+    "tag": "li",
+    "text": "Eesti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-et mw-list-item"
+    }
+  },
+  {
+    "node_index": 760,
+    "tag": "li",
+    "text": "Euskara",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-eu mw-list-item"
+    }
+  },
+  {
+    "node_index": 763,
+    "tag": "li",
+    "text": "فارسی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fa mw-list-item"
+    }
+  },
+  {
+    "node_index": 766,
+    "tag": "li",
+    "text": "Suomi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fi mw-list-item"
+    }
+  },
+  {
+    "node_index": 769,
+    "tag": "li",
+    "text": "Na Vosa Vakaviti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fj mw-list-item"
+    }
+  },
+  {
+    "node_index": 772,
+    "tag": "li",
+    "text": "Français",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fr mw-list-item"
+    }
+  },
+  {
+    "node_index": 775,
+    "tag": "li",
+    "text": "Galego",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gl mw-list-item"
+    }
+  },
+  {
+    "node_index": 778,
+    "tag": "li",
+    "text": "हिन्दी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hi mw-list-item"
+    }
+  },
+  {
+    "node_index": 781,
+    "tag": "li",
+    "text": "Magyar",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hu mw-list-item"
+    }
+  },
+  {
+    "node_index": 784,
+    "tag": "li",
+    "text": "Հայերեն",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hy mw-list-item"
+    }
+  },
+  {
+    "node_index": 787,
+    "tag": "li",
+    "text": "Interlingua",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ia mw-list-item"
+    }
+  },
+  {
+    "node_index": 790,
+    "tag": "li",
+    "text": "Bahasa Indonesia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-id mw-list-item"
+    }
+  },
+  {
+    "node_index": 793,
+    "tag": "li",
+    "text": "Ido",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-io mw-list-item"
+    }
+  },
+  {
+    "node_index": 796,
+    "tag": "li",
+    "text": "Íslenska",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-is mw-list-item"
+    }
+  },
+  {
+    "node_index": 799,
+    "tag": "li",
+    "text": "Italiano",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-it mw-list-item"
+    }
+  },
+  {
+    "node_index": 802,
+    "tag": "li",
+    "text": "日本語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ja mw-list-item"
+    }
+  },
+  {
+    "node_index": 805,
+    "tag": "li",
+    "text": "Қазақша",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kk mw-list-item"
+    }
+  },
+  {
+    "node_index": 808,
+    "tag": "li",
+    "text": "ភាសាខ្មែរ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-km mw-list-item"
+    }
+  },
+  {
+    "node_index": 811,
+    "tag": "li",
+    "text": "ಕನ್ನಡ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kn mw-list-item"
+    }
+  },
+  {
+    "node_index": 814,
+    "tag": "li",
+    "text": "한국어",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ko mw-list-item"
+    }
+  },
+  {
+    "node_index": 817,
+    "tag": "li",
+    "text": "Kurdî",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ku mw-list-item"
+    }
+  },
+  {
+    "node_index": 820,
+    "tag": "li",
+    "text": "Limburgs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-li mw-list-item"
+    }
+  },
+  {
+    "node_index": 823,
+    "tag": "li",
+    "text": "Lombard",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lmo mw-list-item"
+    }
+  },
+  {
+    "node_index": 826,
+    "tag": "li",
+    "text": "ລາວ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lo mw-list-item"
+    }
+  },
+  {
+    "node_index": 829,
+    "tag": "li",
+    "text": "Lietuvių",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lt mw-list-item"
+    }
+  },
+  {
+    "node_index": 832,
+    "tag": "li",
+    "text": "Latviešu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lv mw-list-item"
+    }
+  },
+  {
+    "node_index": 835,
+    "tag": "li",
+    "text": "Malagasy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mg mw-list-item"
+    }
+  },
+  {
+    "node_index": 838,
+    "tag": "li",
+    "text": "Māori",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mi mw-list-item"
+    }
+  },
+  {
+    "node_index": 841,
+    "tag": "li",
+    "text": "Minangkabau",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-min mw-list-item"
+    }
+  },
+  {
+    "node_index": 844,
+    "tag": "li",
+    "text": "Македонски",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mk mw-list-item"
+    }
+  },
+  {
+    "node_index": 847,
+    "tag": "li",
+    "text": "മലയാളം",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ml mw-list-item"
+    }
+  },
+  {
+    "node_index": 850,
+    "tag": "li",
+    "text": "ဘာသာမန်",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mnw mw-list-item"
+    }
+  },
+  {
+    "node_index": 853,
+    "tag": "li",
+    "text": "မြန်မာဘာသာ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-my mw-list-item"
+    }
+  },
+  {
+    "node_index": 856,
+    "tag": "li",
+    "text": "Nederlands",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nl mw-list-item"
+    }
+  },
+  {
+    "node_index": 859,
+    "tag": "li",
+    "text": "Norsk bokmål",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-no mw-list-item"
+    }
+  },
+  {
+    "node_index": 862,
+    "tag": "li",
+    "text": "Occitan",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-oc mw-list-item"
+    }
+  },
+  {
+    "node_index": 865,
+    "tag": "li",
+    "text": "Oromoo",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-om mw-list-item"
+    }
+  },
+  {
+    "node_index": 868,
+    "tag": "li",
+    "text": "Polski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pl mw-list-item"
+    }
+  },
+  {
+    "node_index": 871,
+    "tag": "li",
+    "text": "Português",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pt mw-list-item"
+    }
+  },
+  {
+    "node_index": 874,
+    "tag": "li",
+    "text": "Română",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ro mw-list-item"
+    }
+  },
+  {
+    "node_index": 877,
+    "tag": "li",
+    "text": "Русский",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ru mw-list-item"
+    }
+  },
+  {
+    "node_index": 880,
+    "tag": "li",
+    "text": "Sängö",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sg mw-list-item"
+    }
+  },
+  {
+    "node_index": 883,
+    "tag": "li",
+    "text": "Srpskohrvatski / српскохрватски",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sh mw-list-item"
+    }
+  },
+  {
+    "node_index": 886,
+    "tag": "li",
+    "text": "සිංහල",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-si mw-list-item"
+    }
+  },
+  {
+    "node_index": 889,
+    "tag": "li",
+    "text": "Simple English",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-simple mw-list-item"
+    }
+  },
+  {
+    "node_index": 892,
+    "tag": "li",
+    "text": "Slovenčina",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sk mw-list-item"
+    }
+  },
+  {
+    "node_index": 895,
+    "tag": "li",
+    "text": "Српски / srpski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sr mw-list-item"
+    }
+  },
+  {
+    "node_index": 898,
+    "tag": "li",
+    "text": "Sunda",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-su mw-list-item"
+    }
+  },
+  {
+    "node_index": 901,
+    "tag": "li",
+    "text": "Svenska",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sv mw-list-item"
+    }
+  },
+  {
+    "node_index": 904,
+    "tag": "li",
+    "text": "Kiswahili",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sw mw-list-item"
+    }
+  },
+  {
+    "node_index": 907,
+    "tag": "li",
+    "text": "தமிழ்",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ta mw-list-item"
+    }
+  },
+  {
+    "node_index": 910,
+    "tag": "li",
+    "text": "తెలుగు",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-te mw-list-item"
+    }
+  },
+  {
+    "node_index": 913,
+    "tag": "li",
+    "text": "Тоҷикӣ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tg mw-list-item"
+    }
+  },
+  {
+    "node_index": 916,
+    "tag": "li",
+    "text": "ไทย",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-th mw-list-item"
+    }
+  },
+  {
+    "node_index": 919,
+    "tag": "li",
+    "text": "Tagalog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tl mw-list-item"
+    }
+  },
+  {
+    "node_index": 922,
+    "tag": "li",
+    "text": "Türkçe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tr mw-list-item"
+    }
+  },
+  {
+    "node_index": 925,
+    "tag": "li",
+    "text": "ئۇيغۇرچە / Uyghurche",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ug mw-list-item"
+    }
+  },
+  {
+    "node_index": 928,
+    "tag": "li",
+    "text": "Українська",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-uk mw-list-item"
+    }
+  },
+  {
+    "node_index": 931,
+    "tag": "li",
+    "text": "اردو",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ur mw-list-item"
+    }
+  },
+  {
+    "node_index": 934,
+    "tag": "li",
+    "text": "Tiếng Việt",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vi mw-list-item"
+    }
+  },
+  {
+    "node_index": 937,
+    "tag": "li",
+    "text": "Walon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-wa mw-list-item"
+    }
+  },
+  {
+    "node_index": 940,
+    "tag": "li",
+    "text": "粵語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-yue mw-list-item"
+    }
+  },
+  {
+    "node_index": 943,
+    "tag": "li",
+    "text": "閩南語 / Bân-lâm-gí",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh-min-nan mw-list-item"
+    }
+  },
+  {
+    "node_index": 946,
+    "tag": "li",
+    "text": "中文",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh mw-list-item"
+    }
+  },
+  {
+    "node_index": 956,
+    "tag": "li",
+    "text": "Entry",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-nstab-main",
+      "class": "selected mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 959,
+    "tag": "li",
+    "text": "Discussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-talk",
+      "class": "mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 975,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view",
+      "class": "selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 978,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 981,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1001,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view-more",
+      "class": "selected mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1005,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1009,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1017,
+    "tag": "li",
+    "text": "What links here",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-whatlinkshere",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1020,
+    "tag": "li",
+    "text": "Related changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-recentchangeslinked",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1023,
+    "tag": "li",
+    "text": "Upload file",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-upload",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1026,
+    "tag": "li",
+    "text": "Permanent link",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-permalink",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1029,
+    "tag": "li",
+    "text": "Page information",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-info",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1032,
+    "tag": "li",
+    "text": "Cite this page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-cite",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1035,
+    "tag": "li",
+    "text": "Get shortened URL",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-urlshortener",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1042,
+    "tag": "li",
+    "text": "Create a book",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-create_a_book",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1045,
+    "tag": "li",
+    "text": "Download as PDF",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-download-as-rl",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1048,
+    "tag": "li",
+    "text": "Printable version",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-print",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1102,
+    "tag": "h2",
+    "text": "Translingual",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Translingual"
+    }
+  },
+  {
+    "node_index": 1109,
+    "tag": "h3",
+    "text": "Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology"
+    }
+  },
+  {
+    "node_index": 1115,
+    "tag": "p",
+    "text": "Abbreviation of English Temiar.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1124,
+    "tag": "h3",
+    "text": "Symbol",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Symbol"
+    }
+  },
+  {
+    "node_index": 1130,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1134,
+    "tag": "li",
+    "text": "(international standards) ISO 639-3 language code for Temiar.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1147,
+    "tag": "h3",
+    "text": "See also",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "See_also"
+    }
+  },
+  {
+    "node_index": 1155,
+    "tag": "li",
+    "text": "Wiktionary’s coverage of Temiar terms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1158,
+    "tag": "h2",
+    "text": "English",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "English"
+    }
+  },
+  {
+    "node_index": 1181,
+    "tag": "figcaption",
+    "text": "A cup of tea in Scotland.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1186,
+    "tag": "figcaption",
+    "text": "Names like cha in red, names like tea in blue, and other names in grey",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1190,
+    "tag": "h3",
+    "text": "Etymology 1",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_1"
+    }
+  },
+  {
+    "node_index": 1197,
+    "tag": "p",
+    "text": "First appears c. 1655, in the English translation Álvaro Semedo’s writings. From Dutch thee, from Hokkien 茶 (tê) (Amoy dialect), from Old Chinese, ultimately from Proto-Sino-Tibetan *s-la (“leaf, tea”). Introduced to English and other Western European languages by the Dutch East India Company, who sourced their tea in Amoy; compare Malay teh along the same trade route. Doublet of chai and cha (and, distantly, the first element of lahpet), from same Proto-Sino-Tibetan root; see discussion of cognates.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1238,
+    "tag": "p",
+    "text": "The word for “tea” in many languages is of Sinitic origin (due to China being the origin of the plant), and thus there are many cognates; see translations. These are from one of two proximate sources, reflected in the phonological shape: forms with a stop (e.g. /t/) are derived from Min Nan tê, while forms with an affricate (e.g. /tʃ/) are derived from other Sinitic languages, like Mandarin chá or Cantonese caa4 (all written as 茶). Different languages borrowed one or the other form (specific language and point in time varied), reflecting trade ties, generally Min Nan tê if by ocean trade from Fujian, Cantonese caa4 if by ocean trade from Guangdong, or northern Chinese chá if by overland trade or by ocean trade from India.[1]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1254,
+    "tag": "p",
+    "text": "Thus Western and Northern European languages borrowed tê (with the exception of Portuguese, which uses chá; despite being by ocean trade, their source was in Macao, not Amoy), while chá borrowings are used over a very large geographical area of Eurasia and Africa: Southern and Eastern Europe, and on through Turkish, Arabic, North and East Africa, Persian, Central Asian, and Indic languages. In Europe the tê/chá line is Italian/Slovene, Hungarian/Romanian, German/Czech, Polish/Ukrainian, Baltics/Russian, Finnish/Karelian, Northern Sami/Inari Sami. tê was also borrowed in European trade stops in Southern India and coastal Africa, though chá borrowings are otherwise more prevalent in these regions, via Arabic or Indic, due to earlier trade. The situation in Southeast Asia is complex due to multiple influences, and some languages borrowed both forms, such as Malay teh and ca.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1268,
+    "tag": "p",
+    "text": "Noun sense 12 (“information, especially gossip”) may be originally from T standing for truth, which evolved into tea. An alternative explanation dates back to gay African-American culture in the 1970s and alludes to women gossiping over afternoon tea.[2]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1286,
+    "tag": "li",
+    "text": "tay (obsolete or dialectal)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1302,
+    "tag": "li",
+    "text": "(Received Pronunciation) enPR: tē, IPA(key): /tiː/, [tʰɪj ~ tʰiː]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1315,
+    "tag": "li",
+    "text": "Audio (Received Pronunciation):(file)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1320,
+    "tag": "td",
+    "text": "Audio (Received Pronunciation):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1333,
+    "tag": "td",
+    "text": "(file)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "audiometa",
+      "style": "font-size: 80%;"
+    }
+  },
+  {
+    "node_index": 1335,
+    "tag": "li",
+    "text": "(General American) enPR: tē, IPA(key): /ti/, [tʰi]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1348,
+    "tag": "li",
+    "text": "Audio (General American):(file)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1353,
+    "tag": "td",
+    "text": "Audio (General American):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1366,
+    "tag": "td",
+    "text": "(file)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "audiometa",
+      "style": "font-size: 80%;"
+    }
+  },
+  {
+    "node_index": 1368,
+    "tag": "li",
+    "text": "Audio (Australia):(file)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1373,
+    "tag": "td",
+    "text": "Audio (Australia):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1386,
+    "tag": "td",
+    "text": "(file)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "audiometa",
+      "style": "font-size: 80%;"
+    }
+  },
+  {
+    "node_index": 1388,
+    "tag": "li",
+    "text": "Homophones: T, te, tee, ti",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1399,
+    "tag": "li",
+    "text": "Rhymes: -iː",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1409,
+    "tag": "p",
+    "text": "tea (countable and uncountable, plural teas)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1420,
+    "tag": "li",
+    "text": "(uncountable) The tea plant (Camellia sinensis); (countable) a variety of this plant. Darjeeling tea is grown in India.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_tea_plant_Camellia_sinensis,_in_any_subspecific_variety",
+      "data-lang": "en",
+      "data-id": "tea plant Camellia sinensis, in any subspecific variety"
+    }
+  },
+  {
+    "node_index": 1438,
+    "tag": "dd",
+    "text": "Darjeeling tea is grown in India.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1444,
+    "tag": "li",
+    "text": "(uncountable) The dried leaves or buds of the tea plant; (countable) a variety of such leaves. Go to the supermarket and buy some Darjeeling tea. Not for all the tea in China.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_leaves_or_buds_of_tea_plant_Camellia_sinensis",
+      "data-lang": "en",
+      "data-id": "leaves or buds of tea plant Camellia sinensis"
+    }
+  },
+  {
+    "node_index": 1463,
+    "tag": "dd",
+    "text": "Go to the supermarket and buy some Darjeeling tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1468,
+    "tag": "dd",
+    "text": "Not for all the tea in China.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1474,
+    "tag": "li",
+    "text": "(uncountable) The drink made by infusing these dried leaves or buds in hot water. Would you like some tea? She is drinking her tea right now. 1921, Ben Travers, chapter 2, in A Cuckoo in the Nest, Garden City, N.Y.: Doubleday, Page & Company, published 1925, →OCLC:Mother […] considered that the exclusiveness of Peter's circle was due not to its distinction, but to the fact that it was an inner Babylon of prodigality and whoredom, from which every Kensingtonian held aloof, except on the conventional tip-and-run excursions in pursuit of shopping, tea and theatres.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_beverage_made_from_tea_plant_Camellia_sinensis",
+      "data-lang": "en",
+      "data-id": "beverage made from tea plant Camellia sinensis"
+    }
+  },
+  {
+    "node_index": 1489,
+    "tag": "dd",
+    "text": "Would you like some tea?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1493,
+    "tag": "dd",
+    "text": "She is drinking her tea right now.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1498,
+    "tag": "li",
+    "text": "1921, Ben Travers, chapter 2, in A Cuckoo in the Nest, Garden City, N.Y.: Doubleday, Page & Company, published 1925, →OCLC:Mother […] considered that the exclusiveness of Peter's circle was due not to its distinction, but to the fact that it was an inner Babylon of prodigality and whoredom, from which every Kensingtonian held aloof, except on the conventional tip-and-run excursions in pursuit of shopping, tea and theatres.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1511,
+    "tag": "dd",
+    "text": "Mother […] considered that the exclusiveness of Peter's circle was due not to its distinction, but to the fact that it was an inner Babylon of prodigality and whoredom, from which every Kensingtonian held aloof, except on the conventional tip-and-run excursions in pursuit of shopping, tea and theatres.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1519,
+    "tag": "li",
+    "text": "(Southern US) Specifically sweet tea, an iced tea supersaturated with sugar.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1527,
+    "tag": "li",
+    "text": "Any drink which is similar to Camellia sinensis tea in some way: 2019 February 12, Maryea Flaherty, Anti-Inflammatory Drinks for Health: 100 Smoothies, Shots, Teas, Broths, and Seltzers to Help Prevent Disease, Lose Weight, Increase Energy, Look Radiant, Reduce Pain, and More!, Simon and Schuster, →ISBN, page 141:Mushroom Tea / 8 cups water / 1 cup dried reishi mushroom pieces [...] 1. Start by making Reishi Mushroom Tea: Bring water to a boil in a medium saucepan. 2. Add the reishi mushroom pieces […] (uncountable) Any similar drink made by infusing parts of various other plants. Hyponym: herbal tea camomile tea; mint tea 2017 January 3, Gilles Diederichs, My Anti-Stress Year: 52 Weeks of Soothing Activities and Wellness Advice, Simon and Schuster, →ISBN:Curcuma tea relieves colds […] (uncountable, in combination) Meat stock served as a hot drink. beef tea",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_beverage_similar_to_Camellia_sinensis_beverage_in_some_way",
+      "data-lang": "en",
+      "data-id": "beverage similar to Camellia sinensis beverage in some way"
+    }
+  },
+  {
+    "node_index": 1533,
+    "tag": "li",
+    "text": "2019 February 12, Maryea Flaherty, Anti-Inflammatory Drinks for Health: 100 Smoothies, Shots, Teas, Broths, and Seltzers to Help Prevent Disease, Lose Weight, Increase Energy, Look Radiant, Reduce Pain, and More!, Simon and Schuster, →ISBN, page 141:Mushroom Tea / 8 cups water / 1 cup dried reishi mushroom pieces [...] 1. Start by making Reishi Mushroom Tea: Bring water to a boil in a medium saucepan. 2. Add the reishi mushroom pieces […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1542,
+    "tag": "dd",
+    "text": "Mushroom Tea / 8 cups water / 1 cup dried reishi mushroom pieces [...] 1. Start by making Reishi Mushroom Tea: Bring water to a boil in a medium saucepan. 2. Add the reishi mushroom pieces […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1553,
+    "tag": "li",
+    "text": "(uncountable) Any similar drink made by infusing parts of various other plants. Hyponym: herbal tea camomile tea; mint tea 2017 January 3, Gilles Diederichs, My Anti-Stress Year: 52 Weeks of Soothing Activities and Wellness Advice, Simon and Schuster, →ISBN:Curcuma tea relieves colds […]",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_beverage_similar_to_Camellia_sinensis_beverage_but_made_from_other_plants",
+      "data-lang": "en",
+      "data-id": "beverage similar to Camellia sinensis beverage but made from other plants"
+    }
+  },
+  {
+    "node_index": 1568,
+    "tag": "dd",
+    "text": "Hyponym: herbal tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1573,
+    "tag": "dd",
+    "text": "camomile tea; mint tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1579,
+    "tag": "li",
+    "text": "2017 January 3, Gilles Diederichs, My Anti-Stress Year: 52 Weeks of Soothing Activities and Wellness Advice, Simon and Schuster, →ISBN:Curcuma tea relieves colds […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1587,
+    "tag": "dd",
+    "text": "Curcuma tea relieves colds […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1597,
+    "tag": "li",
+    "text": "(uncountable, in combination) Meat stock served as a hot drink. beef tea",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_meat_stock_as_beverage",
+      "data-lang": "en",
+      "data-id": "meat stock as beverage"
+    }
+  },
+  {
+    "node_index": 1610,
+    "tag": "dd",
+    "text": "beef tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1615,
+    "tag": "li",
+    "text": "(countable, Commonwealth, Northern US) A cup of any of these drinks, often with milk, sugar, lemon, or tapioca pearls. We'd like one tea and one coffee, please.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_one_serving_of_any_such_beverage",
+      "data-lang": "en",
+      "data-id": "one serving of any such beverage"
+    }
+  },
+  {
+    "node_index": 1633,
+    "tag": "dd",
+    "text": "We'd like one tea and one coffee, please.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1637,
+    "tag": "li",
+    "text": "(East Asia, Southern US) A glass of these drinks.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1648,
+    "tag": "li",
+    "text": "(uncountable, UK) A light midafternoon meal, typically but not necessarily including tea. I won't make it to the breakfast event, but I'll see you at the tea. 1951, C. S. Lewis, Prince Caspian: The Return to Narnia:But the gorge of the Rush was not at all a nice place for travelling either. I mean, it was not a nice place for people in a hurry. For an afternoon's ramble ending in a picnic tea it would have been delightful. 1991 September, Stephen Fry, chapter 1, in The Liar, London: Heinemann, →ISBN, section I, page 16:Tea was a very special institution, revolving as it did around the ceremony and worship of Toast. In a place [public schools] where alcohol, tobacco and drugs were forbidden, it was essential that something should take their place as a powerful and public totem of virility and cool. Toast, for reasons lost in time, was the substance chosen.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_midafternoon_meal",
+      "data-lang": "en",
+      "data-id": "midafternoon meal"
+    }
+  },
+  {
+    "node_index": 1663,
+    "tag": "dd",
+    "text": "I won't make it to the breakfast event, but I'll see you at the tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1668,
+    "tag": "li",
+    "text": "1951, C. S. Lewis, Prince Caspian: The Return to Narnia:But the gorge of the Rush was not at all a nice place for travelling either. I mean, it was not a nice place for people in a hurry. For an afternoon's ramble ending in a picnic tea it would have been delightful.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1675,
+    "tag": "dd",
+    "text": "But the gorge of the Rush was not at all a nice place for travelling either. I mean, it was not a nice place for people in a hurry. For an afternoon's ramble ending in a picnic tea it would have been delightful.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1679,
+    "tag": "li",
+    "text": "1991 September, Stephen Fry, chapter 1, in The Liar, London: Heinemann, →ISBN, section I, page 16:Tea was a very special institution, revolving as it did around the ceremony and worship of Toast. In a place [public schools] where alcohol, tobacco and drugs were forbidden, it was essential that something should take their place as a powerful and public totem of virility and cool. Toast, for reasons lost in time, was the substance chosen.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1693,
+    "tag": "dd",
+    "text": "Tea was a very special institution, revolving as it did around the ceremony and worship of Toast. In a place [public schools] where alcohol, tobacco and drugs were forbidden, it was essential that something should take their place as a powerful and public totem of virility and cool. Toast, for reasons lost in time, was the substance chosen.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1703,
+    "tag": "li",
+    "text": "(uncountable, Commonwealth, Ireland) Synonym of supper, the main evening meal, whether or not it includes the drink tea. The family were sitting round the table, eating their tea. 1933, Frank Clune, Try Anything Once, Sydney: Angus and Robertson, page 38:Breakfast was composed of a meal which reminded me of a linseed poultice; for dinner there were potatoes boiled in their jackets with beef saltier than the ocean itself. [...] Tea was something like breakfast. 2018, Ray Wyre, Tim Tate, The Murder of Childhood, page 126:Jacki set about making the tea—bacon grills with chips and bread and butter.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_evening_meal",
+      "data-lang": "en",
+      "data-id": "evening meal"
+    }
+  },
+  {
+    "node_index": 1718,
+    "tag": "dd",
+    "text": "The family were sitting round the table, eating their tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1723,
+    "tag": "li",
+    "text": "1933, Frank Clune, Try Anything Once, Sydney: Angus and Robertson, page 38:Breakfast was composed of a meal which reminded me of a linseed poultice; for dinner there were potatoes boiled in their jackets with beef saltier than the ocean itself. [...] Tea was something like breakfast.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1733,
+    "tag": "dd",
+    "text": "Breakfast was composed of a meal which reminded me of a linseed poultice; for dinner there were potatoes boiled in their jackets with beef saltier than the ocean itself. [...] Tea was something like breakfast.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1737,
+    "tag": "li",
+    "text": "2018, Ray Wyre, Tim Tate, The Murder of Childhood, page 126:Jacki set about making the tea—bacon grills with chips and bread and butter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1745,
+    "tag": "dd",
+    "text": "Jacki set about making the tea—bacon grills with chips and bread and butter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1750,
+    "tag": "li",
+    "text": "(cricket) The break in play between the second and third sessions. Australia were 490 for 7 at tea on the second day. 2009, “What do cricketers eat at tea? When is it safe to flush on the train? What's a plujit?”, Notes and queries: Life and style, in The Guardian‎[2]:As recently as the mid-80s the players would be given a bottle of beer at lunchtime at some county grounds, and \"tea\" still meant a cup of tea into the 90s.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_break_between_sessions_in_cricket_sport",
+      "data-lang": "en",
+      "data-id": "break between sessions in cricket sport"
+    }
+  },
+  {
+    "node_index": 1762,
+    "tag": "dd",
+    "text": "Australia were 490 for 7 at tea on the second day.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1767,
+    "tag": "li",
+    "text": "2009, “What do cricketers eat at tea? When is it safe to flush on the train? What's a plujit?”, Notes and queries: Life and style, in The Guardian‎[2]:As recently as the mid-80s the players would be given a bottle of beer at lunchtime at some county grounds, and \"tea\" still meant a cup of tea into the 90s.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1778,
+    "tag": "dd",
+    "text": "As recently as the mid-80s the players would be given a bottle of beer at lunchtime at some county grounds, and \"tea\" still meant a cup of tea into the 90s.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1783,
+    "tag": "li",
+    "text": "(slang, dated) Synonym of marijuana. 1940, Raymond Chandler, Farewell, My Lovely, Penguin, published 2010, page 103:So they were evidence. Evidence of what? That a man occasionally smoked a stick of tea, a man who looked as if any touch of the exotic would appeal to him. On the other hand lots of tough guys smoked marijuana […] . 1946, Milton “Mezz” Mezzrow, Bernard Wolfe, “Them First Kicks are a Killer”, in Really the Blues, New York, N.Y.: Random House, book 2 (1923–1928: Chicago, Chicago), page 74:Tea puts a musician in a real masterly sphere, and that's why so many jazzmen have used it. 1947 March 11, William Burroughs, letter: Here in Texas possession of tea is a felony calling for 2 years. 1948 June, Anatole Broyard, “A Portrait of the Hipster”, in Partisan Review:Jive music and tea were the two most important components of the hipster's life. 1957 September 5, Jack Kerouac, On the Road, New York, N.Y.: Viking Press, →OCLC:Seeing that we didn’t know anything about ourselves, he whipped out three sticks of tea and said to go ahead, supper’d be ready soon.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_cannabis",
+      "data-lang": "en",
+      "data-id": "cannabis"
+    }
+  },
+  {
+    "node_index": 1796,
+    "tag": "li",
+    "text": "1940, Raymond Chandler, Farewell, My Lovely, Penguin, published 2010, page 103:So they were evidence. Evidence of what? That a man occasionally smoked a stick of tea, a man who looked as if any touch of the exotic would appeal to him. On the other hand lots of tough guys smoked marijuana […] .",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1806,
+    "tag": "dd",
+    "text": "So they were evidence. Evidence of what? That a man occasionally smoked a stick of tea, a man who looked as if any touch of the exotic would appeal to him. On the other hand lots of tough guys smoked marijuana […] .",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1814,
+    "tag": "li",
+    "text": "1946, Milton “Mezz” Mezzrow, Bernard Wolfe, “Them First Kicks are a Killer”, in Really the Blues, New York, N.Y.: Random House, book 2 (1923–1928: Chicago, Chicago), page 74:Tea puts a musician in a real masterly sphere, and that's why so many jazzmen have used it.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1826,
+    "tag": "dd",
+    "text": "Tea puts a musician in a real masterly sphere, and that's why so many jazzmen have used it.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1830,
+    "tag": "li",
+    "text": "1947 March 11, William Burroughs, letter: Here in Texas possession of tea is a felony calling for 2 years.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1834,
+    "tag": "dd",
+    "text": "Here in Texas possession of tea is a felony calling for 2 years.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1837,
+    "tag": "li",
+    "text": "1948 June, Anatole Broyard, “A Portrait of the Hipster”, in Partisan Review:Jive music and tea were the two most important components of the hipster's life.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1846,
+    "tag": "dd",
+    "text": "Jive music and tea were the two most important components of the hipster's life.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1850,
+    "tag": "li",
+    "text": "1957 September 5, Jack Kerouac, On the Road, New York, N.Y.: Viking Press, →OCLC:Seeing that we didn’t know anything about ourselves, he whipped out three sticks of tea and said to go ahead, supper’d be ready soon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1861,
+    "tag": "dd",
+    "text": "Seeing that we didn’t know anything about ourselves, he whipped out three sticks of tea and said to go ahead, supper’d be ready soon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1866,
+    "tag": "li",
+    "text": "(slang, especially gay slang and African-American Vernacular) Information, especially gossip. Spill the tea on that drama, hon. 1992, Lea DeLaria, “Ms. DeLaria's Dating Tips for Dykes”, in Bulldyke in a China Shop (spoken-word comedy album):Now I've told you that I've taken LSD, and you think I'm gonna leap through a window or something like that. And you know why that is, that's because of Art Linkletter's daughter.... But let me give you the tea on her, see, she took LSD, realized she was Art Linkletter's daughter, and threw herself out of the window! 2015, Sonya Shuman, Doors of the Church Are Open: Smoke & Mirrors by Sonya Shuman:\"What's the tea on you and China? Where she at Alicia? You should know where ya baby at.\" 2024 July 23, Sara Belcher, “JD Vance's Public Venmo Will Make You Want to Private Yours”, in Distractify‎[3]:For those looking for tea on someone, one of the first places you should look is their Venmo account. ... Though most people have found out how to make all of their transactions private, preventing snooping eyes from seeing how many times they've gone out for brunch in the last month, JD Vance hasn't seemed to figure that out yet.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "senseid",
+      "id": "English:_information,_especially_gossip",
+      "data-lang": "en",
+      "data-id": "information, especially gossip"
+    }
+  },
+  {
+    "node_index": 1880,
+    "tag": "dd",
+    "text": "Spill the tea on that drama, hon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1886,
+    "tag": "li",
+    "text": "1992, Lea DeLaria, “Ms. DeLaria's Dating Tips for Dykes”, in Bulldyke in a China Shop (spoken-word comedy album):Now I've told you that I've taken LSD, and you think I'm gonna leap through a window or something like that. And you know why that is, that's because of Art Linkletter's daughter.... But let me give you the tea on her, see, she took LSD, realized she was Art Linkletter's daughter, and threw herself out of the window!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1894,
+    "tag": "dd",
+    "text": "Now I've told you that I've taken LSD, and you think I'm gonna leap through a window or something like that. And you know why that is, that's because of Art Linkletter's daughter.... But let me give you the tea on her, see, she took LSD, realized she was Art Linkletter's daughter, and threw herself out of the window!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1898,
+    "tag": "li",
+    "text": "2015, Sonya Shuman, Doors of the Church Are Open: Smoke & Mirrors by Sonya Shuman:\"What's the tea on you and China? Where she at Alicia? You should know where ya baby at.\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1905,
+    "tag": "dd",
+    "text": "\"What's the tea on you and China? Where she at Alicia? You should know where ya baby at.\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1909,
+    "tag": "li",
+    "text": "2024 July 23, Sara Belcher, “JD Vance's Public Venmo Will Make You Want to Private Yours”, in Distractify‎[3]:For those looking for tea on someone, one of the first places you should look is their Venmo account. ... Though most people have found out how to make all of their transactions private, preventing snooping eyes from seeing how many times they've gone out for brunch in the last month, JD Vance hasn't seemed to figure that out yet.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1917,
+    "tag": "dd",
+    "text": "For those looking for tea on someone, one of the first places you should look is their Venmo account. ... Though most people have found out how to make all of their transactions private, preventing snooping eyes from seeing how many times they've gone out for brunch in the last month, JD Vance hasn't seemed to figure that out yet.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1929,
+    "tag": "li",
+    "text": "In most places tea is assumed to mean hot tea, while in the southern United States, it is assumed to mean iced tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1944,
+    "tag": "li",
+    "text": "(plant): tea plant, tea tree, tea bush",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1955,
+    "tag": "li",
+    "text": "(leaves): tea leaves",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1962,
+    "tag": "li",
+    "text": "(beverage): see Thesaurus:tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1969,
+    "tag": "li",
+    "text": "(beverages similar to tea): herb tea, herbal tea, infusion, tisane",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1982,
+    "tag": "li",
+    "text": "(a light meal): see afternoon tea & Thesaurus:meal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2000,
+    "tag": "li",
+    "text": "(beverage): see Thesaurus:tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2018,
+    "tag": "li",
+    "text": "Abyssinian tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2021,
+    "tag": "li",
+    "text": "afternoon tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2024,
+    "tag": "li",
+    "text": "Algerian tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2027,
+    "tag": "li",
+    "text": "all the tea in China",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2030,
+    "tag": "li",
+    "text": "antitea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2033,
+    "tag": "li",
+    "text": "Appalachian tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2036,
+    "tag": "li",
+    "text": "Arabian tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2039,
+    "tag": "li",
+    "text": "arrowroot tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2042,
+    "tag": "li",
+    "text": "balm tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2045,
+    "tag": "li",
+    "text": "bed-tea, bed tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2050,
+    "tag": "li",
+    "text": "beef tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2053,
+    "tag": "li",
+    "text": "black tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2056,
+    "tag": "li",
+    "text": "bloom tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2059,
+    "tag": "li",
+    "text": "boba tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2062,
+    "tag": "li",
+    "text": "body tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2065,
+    "tag": "li",
+    "text": "bone apple tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2068,
+    "tag": "li",
+    "text": "Brazilian tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2071,
+    "tag": "li",
+    "text": "breakfast tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2074,
+    "tag": "li",
+    "text": "brick-tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2077,
+    "tag": "li",
+    "text": "Brigham tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2080,
+    "tag": "li",
+    "text": "bubble tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2083,
+    "tag": "li",
+    "text": "builders' tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2086,
+    "tag": "li",
+    "text": "builder's tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2089,
+    "tag": "li",
+    "text": "builders' tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2092,
+    "tag": "li",
+    "text": "Bushman's tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2095,
+    "tag": "li",
+    "text": "bush tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2098,
+    "tag": "li",
+    "text": "butter tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2101,
+    "tag": "li",
+    "text": "cambric tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2104,
+    "tag": "li",
+    "text": "camomile tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2107,
+    "tag": "li",
+    "text": "Ceylon tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2110,
+    "tag": "li",
+    "text": "chai tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2113,
+    "tag": "li",
+    "text": "chamomile tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2116,
+    "tag": "li",
+    "text": "cheese tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2119,
+    "tag": "li",
+    "text": "China tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2122,
+    "tag": "li",
+    "text": "chocolate tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2125,
+    "tag": "li",
+    "text": "cinder tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2128,
+    "tag": "li",
+    "text": "clock the tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2131,
+    "tag": "li",
+    "text": "cocoa tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2134,
+    "tag": "li",
+    "text": "cowboy tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2137,
+    "tag": "li",
+    "text": "cowslip tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2140,
+    "tag": "li",
+    "text": "cream tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2143,
+    "tag": "li",
+    "text": "cup of tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2146,
+    "tag": "li",
+    "text": "dandelion tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2149,
+    "tag": "li",
+    "text": "desert tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2152,
+    "tag": "li",
+    "text": "Devonshire tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2155,
+    "tag": "li",
+    "text": "English as afternoon tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2158,
+    "tag": "li",
+    "text": "English breakfast tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2161,
+    "tag": "li",
+    "text": "evening tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2164,
+    "tag": "li",
+    "text": "fever tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2167,
+    "tag": "li",
+    "text": "fish tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2170,
+    "tag": "li",
+    "text": "flowering tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2173,
+    "tag": "li",
+    "text": "fruit tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2176,
+    "tag": "li",
+    "text": "green tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2179,
+    "tag": "li",
+    "text": "green tea cake",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2182,
+    "tag": "li",
+    "text": "green-tea cake",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2185,
+    "tag": "li",
+    "text": "gumboot tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2188,
+    "tag": "li",
+    "text": "gunpowder tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2191,
+    "tag": "li",
+    "text": "hay tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2194,
+    "tag": "li",
+    "text": "herbal tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2197,
+    "tag": "li",
+    "text": "herb tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2200,
+    "tag": "li",
+    "text": "high tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2203,
+    "tag": "li",
+    "text": "honeybush tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2206,
+    "tag": "li",
+    "text": "husband's tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2209,
+    "tag": "li",
+    "text": "hybrid tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2212,
+    "tag": "li",
+    "text": "hybrid tea rose",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2215,
+    "tag": "li",
+    "text": "iced tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2218,
+    "tag": "li",
+    "text": "ice tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2221,
+    "tag": "li",
+    "text": "Irish breakfast tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2224,
+    "tag": "li",
+    "text": "jasmine tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2227,
+    "tag": "li",
+    "text": "Jesuits' tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2230,
+    "tag": "li",
+    "text": "kitchen tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2233,
+    "tag": "li",
+    "text": "kudzu tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2236,
+    "tag": "li",
+    "text": "Labrador tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2239,
+    "tag": "li",
+    "text": "lemon tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2242,
+    "tag": "li",
+    "text": "Long Island iced tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2245,
+    "tag": "li",
+    "text": "low tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2248,
+    "tag": "li",
+    "text": "Malcolm X tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2251,
+    "tag": "li",
+    "text": "malt tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2254,
+    "tag": "li",
+    "text": "marsh Labrador tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2257,
+    "tag": "li",
+    "text": "meat tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2260,
+    "tag": "li",
+    "text": "Mexican tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2263,
+    "tag": "li",
+    "text": "milk tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2266,
+    "tag": "li",
+    "text": "mint tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2269,
+    "tag": "li",
+    "text": "Mormon tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2272,
+    "tag": "li",
+    "text": "morning tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2275,
+    "tag": "li",
+    "text": "mountain tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2278,
+    "tag": "li",
+    "text": "New Jersey tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2281,
+    "tag": "li",
+    "text": "New Zealand tea tree",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2284,
+    "tag": "li",
+    "text": "oolong tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2287,
+    "tag": "li",
+    "text": "Oswego tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2290,
+    "tag": "li",
+    "text": "Paraguay tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2293,
+    "tag": "li",
+    "text": "Paris tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2296,
+    "tag": "li",
+    "text": "pearl milk tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2299,
+    "tag": "li",
+    "text": "pearl tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2302,
+    "tag": "li",
+    "text": "picky tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2305,
+    "tag": "li",
+    "text": "pink tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2308,
+    "tag": "li",
+    "text": "popcorn tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2311,
+    "tag": "li",
+    "text": "price of tea in China",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2314,
+    "tag": "li",
+    "text": "red tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2317,
+    "tag": "li",
+    "text": "rich tea biscuit",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2320,
+    "tag": "li",
+    "text": "rooibos tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2323,
+    "tag": "li",
+    "text": "root tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2326,
+    "tag": "li",
+    "text": "Russian tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2329,
+    "tag": "li",
+    "text": "sage tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2332,
+    "tag": "li",
+    "text": "severe tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2335,
+    "tag": "li",
+    "text": "shower tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2338,
+    "tag": "li",
+    "text": "silk-stocking milk tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2341,
+    "tag": "li",
+    "text": "solar tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2344,
+    "tag": "li",
+    "text": "someone's cup of tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2347,
+    "tag": "li",
+    "text": "spill the tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2350,
+    "tag": "li",
+    "text": "squaw tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2353,
+    "tag": "li",
+    "text": "storm in a tea-kettle",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2356,
+    "tag": "li",
+    "text": "sugar honey ice tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2359,
+    "tag": "li",
+    "text": "sun tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2362,
+    "tag": "li",
+    "text": "sweet tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2365,
+    "tag": "li",
+    "text": "tadpole tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2368,
+    "tag": "li",
+    "text": "tea and medals",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2371,
+    "tag": "li",
+    "text": "tea and toaster",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2374,
+    "tag": "li",
+    "text": "tea-and-toaster",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2377,
+    "tag": "li",
+    "text": "tea and toast syndrome",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2380,
+    "tag": "li",
+    "text": "teabacco",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2383,
+    "tag": "li",
+    "text": "teabag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2386,
+    "tag": "li",
+    "text": "tea-bag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2389,
+    "tag": "li",
+    "text": "tea bag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2392,
+    "tag": "li",
+    "text": "teabagger",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2395,
+    "tag": "li",
+    "text": "tea ball",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2398,
+    "tag": "li",
+    "text": "teabell",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2401,
+    "tag": "li",
+    "text": "teaberry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2404,
+    "tag": "li",
+    "text": "tea biscuit",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2407,
+    "tag": "li",
+    "text": "teaboard",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2410,
+    "tag": "li",
+    "text": "tea board",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2413,
+    "tag": "li",
+    "text": "tea-board",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2416,
+    "tag": "li",
+    "text": "teaboard",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2419,
+    "tag": "li",
+    "text": "tea boat",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2422,
+    "tag": "li",
+    "text": "teaboo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2425,
+    "tag": "li",
+    "text": "tea bowl",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2428,
+    "tag": "li",
+    "text": "teabowl",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2431,
+    "tag": "li",
+    "text": "teabox",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2434,
+    "tag": "li",
+    "text": "teaboy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2437,
+    "tag": "li",
+    "text": "tea bread",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2440,
+    "tag": "li",
+    "text": "tea break",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2443,
+    "tag": "li",
+    "text": "tea buffet",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2446,
+    "tag": "li",
+    "text": "tea-caddy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2449,
+    "tag": "li",
+    "text": "tea caddy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2452,
+    "tag": "li",
+    "text": "tea-cake",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2455,
+    "tag": "li",
+    "text": "teacake",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2458,
+    "tag": "li",
+    "text": "tea candle",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2461,
+    "tag": "li",
+    "text": "tea card",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2464,
+    "tag": "li",
+    "text": "teacart",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2467,
+    "tag": "li",
+    "text": "tea cart",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2470,
+    "tag": "li",
+    "text": "tea ceremony",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2473,
+    "tag": "li",
+    "text": "tea chest",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2476,
+    "tag": "li",
+    "text": "tea chest bass",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2479,
+    "tag": "li",
+    "text": "tea chest bassist",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2482,
+    "tag": "li",
+    "text": "tea clam",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2485,
+    "tag": "li",
+    "text": "tea clipper",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2488,
+    "tag": "li",
+    "text": "teacloth",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2491,
+    "tag": "li",
+    "text": "tea cloth",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2494,
+    "tag": "li",
+    "text": "teacloth",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2497,
+    "tag": "li",
+    "text": "tea cosey",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2500,
+    "tag": "li",
+    "text": "tea cosy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2503,
+    "tag": "li",
+    "text": "tea-cosy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2506,
+    "tag": "li",
+    "text": "tea cozy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2509,
+    "tag": "li",
+    "text": "tea cup",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2512,
+    "tag": "li",
+    "text": "tea-cup",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2515,
+    "tag": "li",
+    "text": "teacup",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2518,
+    "tag": "li",
+    "text": "tea dance",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2521,
+    "tag": "li",
+    "text": "tea-dress",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2524,
+    "tag": "li",
+    "text": "tea dress",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2527,
+    "tag": "li",
+    "text": "tea egg",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2530,
+    "tag": "li",
+    "text": "teaette",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2533,
+    "tag": "li",
+    "text": "tea fight",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2536,
+    "tag": "li",
+    "text": "tea garden",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2539,
+    "tag": "li",
+    "text": "teaghrelin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2542,
+    "tag": "li",
+    "text": "tea gown",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2545,
+    "tag": "li",
+    "text": "tea-gown",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2548,
+    "tag": "li",
+    "text": "tea-gowned",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2551,
+    "tag": "li",
+    "text": "Tea Green",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2554,
+    "tag": "li",
+    "text": "teahadist",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2557,
+    "tag": "li",
+    "text": "teahead",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2560,
+    "tag": "li",
+    "text": "teahouse",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2563,
+    "tag": "li",
+    "text": "tea house",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2566,
+    "tag": "li",
+    "text": "teaish",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2569,
+    "tag": "li",
+    "text": "tea jenny",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2572,
+    "tag": "li",
+    "text": "tea-kettle",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2575,
+    "tag": "li",
+    "text": "teakettle",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2578,
+    "tag": "li",
+    "text": "tea kettle",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2581,
+    "tag": "li",
+    "text": "tea kitchen",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2584,
+    "tag": "li",
+    "text": "tea lady",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2587,
+    "tag": "li",
+    "text": "tea lead",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2590,
+    "tag": "li",
+    "text": "tea-leaf",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2593,
+    "tag": "li",
+    "text": "tea leaf",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2596,
+    "tag": "li",
+    "text": "tea-leafing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2599,
+    "tag": "li",
+    "text": "tea leaf paradox",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2602,
+    "tag": "li",
+    "text": "tea-leaved",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2605,
+    "tag": "li",
+    "text": "tea-leaved willow",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2608,
+    "tag": "li",
+    "text": "tea leaves",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2611,
+    "tag": "li",
+    "text": "tea-length",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2614,
+    "tag": "li",
+    "text": "tealess",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2617,
+    "tag": "li",
+    "text": "tealight",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2620,
+    "tag": "li",
+    "text": "tea-light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2623,
+    "tag": "li",
+    "text": "tea light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2626,
+    "tag": "li",
+    "text": "tealike",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2629,
+    "tag": "li",
+    "text": "tealite",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2632,
+    "tag": "li",
+    "text": "tea loaf",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2635,
+    "tag": "li",
+    "text": "teamaker",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2638,
+    "tag": "li",
+    "text": "tea maker",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2641,
+    "tag": "li",
+    "text": "teamaker",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2644,
+    "tag": "li",
+    "text": "teamaking",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2647,
+    "tag": "li",
+    "text": "tea mangrove",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2650,
+    "tag": "li",
+    "text": "tea money",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2653,
+    "tag": "li",
+    "text": "teamster tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2656,
+    "tag": "li",
+    "text": "tea oil",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2659,
+    "tag": "li",
+    "text": "tea oil camellia",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2662,
+    "tag": "li",
+    "text": "tea oil plant",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2665,
+    "tag": "li",
+    "text": "tea olive",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2668,
+    "tag": "li",
+    "text": "tea pad",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2671,
+    "tag": "li",
+    "text": "tea party",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2674,
+    "tag": "li",
+    "text": "tea pet",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2677,
+    "tag": "li",
+    "text": "tea plant",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2680,
+    "tag": "li",
+    "text": "tea-pot",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2683,
+    "tag": "li",
+    "text": "teapot",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2686,
+    "tag": "li",
+    "text": "tea pot",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2689,
+    "tag": "li",
+    "text": "tea-poy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2692,
+    "tag": "li",
+    "text": "tea room",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2695,
+    "tag": "li",
+    "text": "tearoom",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2698,
+    "tag": "li",
+    "text": "tea rose",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2701,
+    "tag": "li",
+    "text": "tea sandwich",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2704,
+    "tag": "li",
+    "text": "tea service",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2707,
+    "tag": "li",
+    "text": "tea-service",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2710,
+    "tag": "li",
+    "text": "tea-set",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2713,
+    "tag": "li",
+    "text": "tea set",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2716,
+    "tag": "li",
+    "text": "tea shades",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2719,
+    "tag": "li",
+    "text": "tea shop",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2722,
+    "tag": "li",
+    "text": "tea shrub",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2725,
+    "tag": "li",
+    "text": "teaspoon",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2728,
+    "tag": "li",
+    "text": "tea stick",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2731,
+    "tag": "li",
+    "text": "tea strainer",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2734,
+    "tag": "li",
+    "text": "tea table",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2737,
+    "tag": "li",
+    "text": "tea-table",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2740,
+    "tag": "li",
+    "text": "teatard",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2743,
+    "tag": "li",
+    "text": "tea-things",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2746,
+    "tag": "li",
+    "text": "tea-time",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2749,
+    "tag": "li",
+    "text": "teatime",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2752,
+    "tag": "li",
+    "text": "tea towel",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2755,
+    "tag": "li",
+    "text": "tea-towel",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2758,
+    "tag": "li",
+    "text": "teatox",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2761,
+    "tag": "li",
+    "text": "tea-tray",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2764,
+    "tag": "li",
+    "text": "tea tray",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2767,
+    "tag": "li",
+    "text": "tea tree oil",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2770,
+    "tag": "li",
+    "text": "tea trolley",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2773,
+    "tag": "li",
+    "text": "tea-urn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2776,
+    "tag": "li",
+    "text": "tea urn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2779,
+    "tag": "li",
+    "text": "tea wagon",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2782,
+    "tag": "li",
+    "text": "teaware",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2785,
+    "tag": "li",
+    "text": "tea-water",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2788,
+    "tag": "li",
+    "text": "tea-whisk",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2791,
+    "tag": "li",
+    "text": "tea whisk",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2794,
+    "tag": "li",
+    "text": "tea-wine",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2797,
+    "tag": "li",
+    "text": "tea-wrap",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2800,
+    "tag": "li",
+    "text": "tea yellows",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2803,
+    "tag": "li",
+    "text": "tempest in a tea-kettle",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2806,
+    "tag": "li",
+    "text": "Texas tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2809,
+    "tag": "li",
+    "text": "theezan tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2812,
+    "tag": "li",
+    "text": "thick tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2815,
+    "tag": "li",
+    "text": "thunder tea rice",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2818,
+    "tag": "li",
+    "text": "vampire tea bag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2821,
+    "tag": "li",
+    "text": "weak tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2824,
+    "tag": "li",
+    "text": "West India tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2827,
+    "tag": "li",
+    "text": "what does that have to do with the price of tea in China",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2830,
+    "tag": "li",
+    "text": "white tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2833,
+    "tag": "li",
+    "text": "without tea and biscuits",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2836,
+    "tag": "li",
+    "text": "worm tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2839,
+    "tag": "li",
+    "text": "yellow tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2851,
+    "tag": "li",
+    "text": "Gullah: tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2855,
+    "tag": "li",
+    "text": "Jamaican Creole: tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2859,
+    "tag": "li",
+    "text": "→ Abenaki: ti",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2864,
+    "tag": "li",
+    "text": "→ Chickasaw: tii'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2869,
+    "tag": "li",
+    "text": "→ Cocopa: ṭi·",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2874,
+    "tag": "li",
+    "text": "→ Cornish: té",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2879,
+    "tag": "li",
+    "text": "→ Cree: Canadian syllabic script: ᑎᕀ (tiy) Latin script: tiy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2883,
+    "tag": "dd",
+    "text": "Canadian syllabic script: ᑎᕀ (tiy)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2890,
+    "tag": "dd",
+    "text": "Latin script: tiy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2894,
+    "tag": "li",
+    "text": "→ Inuktitut: ᑏ (tii)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2902,
+    "tag": "li",
+    "text": "→ Irish: tae",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2907,
+    "tag": "li",
+    "text": "→ Māori: tī",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2912,
+    "tag": "li",
+    "text": "→ Malecite-Passamaquoddy: ti",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2917,
+    "tag": "li",
+    "text": "→ Mikasuki: ti'g'tlo'q, ji'gitlo'q (“kettle”) (from \"tea kettle\")",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2932,
+    "tag": "li",
+    "text": "→ Panamint: tii",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2937,
+    "tag": "li",
+    "text": "→ Scottish Gaelic: tì, teatha",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2944,
+    "tag": "li",
+    "text": "→ Tamil: டீ (ṭī)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2952,
+    "tag": "li",
+    "text": "→ Tashelhit: atay",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2957,
+    "tag": "li",
+    "text": "→ Telugu: టీ (ṭī)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2965,
+    "tag": "li",
+    "text": "→ Unami: ti",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2970,
+    "tag": "li",
+    "text": "→ Welsh: te",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2992,
+    "tag": "p",
+    "text": "tea (third-person singular simple present teas, present participle teaing, simple past and past participle teaed or tea'd or tead)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3011,
+    "tag": "li",
+    "text": "(intransitive) To drink tea. 1916 March 28, Queen Elizabeth The Queen Mother, “Elizabeth”, in William Shawcross, editor, Counting One’s Blessings: The Selected Letters of Queen Elizabeth the Queen Mother, New York, N.Y.: Farrar, Straus and Giroux, published 2012, page 32:We tea’d with May, and had to wait over an hour for a taxi! 1837, Benjamin Disraeli, Benjamin Disraeli Letters: 1835-1837, Toronto; Buffalo; London: University of Toronto Press, published 1982, →ISBN, page 319:I dined yesterday at | three on mutton chops and 1/2 pint of E[ast] I [ndian] sherry, and then tead and muffined' at 8. 1921, Desmos of Delta Sigma Delta, page 41:We coffeed and tead and smoked a trench torch with Grand Master Browning, and cranked our Cadillac for another station.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3019,
+    "tag": "li",
+    "text": "1916 March 28, Queen Elizabeth The Queen Mother, “Elizabeth”, in William Shawcross, editor, Counting One’s Blessings: The Selected Letters of Queen Elizabeth the Queen Mother, New York, N.Y.: Farrar, Straus and Giroux, published 2012, page 32:We tea’d with May, and had to wait over an hour for a taxi!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3030,
+    "tag": "dd",
+    "text": "We tea’d with May, and had to wait over an hour for a taxi!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3034,
+    "tag": "li",
+    "text": "1837, Benjamin Disraeli, Benjamin Disraeli Letters: 1835-1837, Toronto; Buffalo; London: University of Toronto Press, published 1982, →ISBN, page 319:I dined yesterday at | three on mutton chops and 1/2 pint of E[ast] I [ndian] sherry, and then tead and muffined' at 8.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3047,
+    "tag": "dd",
+    "text": "I dined yesterday at | three on mutton chops and 1/2 pint of E[ast] I [ndian] sherry, and then tead and muffined' at 8.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3052,
+    "tag": "li",
+    "text": "1921, Desmos of Delta Sigma Delta, page 41:We coffeed and tead and smoked a trench torch with Grand Master Browning, and cranked our Cadillac for another station.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3060,
+    "tag": "dd",
+    "text": "We coffeed and tead and smoked a trench torch with Grand Master Browning, and cranked our Cadillac for another station.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3064,
+    "tag": "li",
+    "text": "(intransitive) To take afternoon tea (a light meal). 1877, The Bicycling Times and Tourist's Gazette, page 38:The wind was high and the hills ditto, and both being against us we were late in reaching Hitchin (30 from Cambridge), so giving up the idea of reaching Oxford we toiled on through Luton, on to Dunstable (47), where we teaed moderately […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3075,
+    "tag": "li",
+    "text": "1877, The Bicycling Times and Tourist's Gazette, page 38:The wind was high and the hills ditto, and both being against us we were late in reaching Hitchin (30 from Cambridge), so giving up the idea of reaching Oxford we toiled on through Luton, on to Dunstable (47), where we teaed moderately […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3083,
+    "tag": "dd",
+    "text": "The wind was high and the hills ditto, and both being against us we were late in reaching Hitchin (30 from Cambridge), so giving up the idea of reaching Oxford we toiled on through Luton, on to Dunstable (47), where we teaed moderately […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3091,
+    "tag": "li",
+    "text": "(transitive) To give tea to. 1858, Benedict Cruiser, “Of the Agonising Process by which that which was once a Bower of Bliss was converted into a Cave of Despair”, in George Augustus Sala, editor, How I Tamed Mrs. Cruiser, London: James Blackwood, page 129:And they’ve got Professor Hummums with ’em, the great Everlasting Star of the Nineteenth Century, which he has breakfasted and dined and tea’d and supped here ever since yesterday. 1863, chapter I, in Hospital Transports. A Memoir of the Embarkation of the Sick and Wounded from the Peninsula of Virginia in the Summer of 1862., Boston, Mass.: Ticknor and Fields, page 25:In half an hour they had all been tea’d and coffeed and refreshed by the nurses, and shortly after were all undressed and put to bed clean and comfortable, and in a droll state of grateful wonder; 1866, Emma Jane Worboise, “The St. Beetha’s Temperance Society”, in St. Beetha’s; or, The Heiress of Arne, London: “Christian World” Office, […]; Jackson, Walford, and Hodder, […], →OCLC, page 213:But one or two evil-disposed characters muttered they might be sure the lady had her own turn to serve, and they might be sure they wasn't \"teaed and muffined and sandwiched for",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3098,
+    "tag": "li",
+    "text": "1858, Benedict Cruiser, “Of the Agonising Process by which that which was once a Bower of Bliss was converted into a Cave of Despair”, in George Augustus Sala, editor, How I Tamed Mrs. Cruiser, London: James Blackwood, page 129:And they’ve got Professor Hummums with ’em, the great Everlasting Star of the Nineteenth Century, which he has breakfasted and dined and tea’d and supped here ever since yesterday.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3107,
+    "tag": "dd",
+    "text": "And they’ve got Professor Hummums with ’em, the great Everlasting Star of the Nineteenth Century, which he has breakfasted and dined and tea’d and supped here ever since yesterday.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3111,
+    "tag": "li",
+    "text": "1863, chapter I, in Hospital Transports. A Memoir of the Embarkation of the Sick and Wounded from the Peninsula of Virginia in the Summer of 1862., Boston, Mass.: Ticknor and Fields, page 25:In half an hour they had all been tea’d and coffeed and refreshed by the nurses, and shortly after were all undressed and put to bed clean and comfortable, and in a droll state of grateful wonder;",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3120,
+    "tag": "dd",
+    "text": "In half an hour they had all been tea’d and coffeed and refreshed by the nurses, and shortly after were all undressed and put to bed clean and comfortable, and in a droll state of grateful wonder;",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3124,
+    "tag": "li",
+    "text": "1866, Emma Jane Worboise, “The St. Beetha’s Temperance Society”, in St. Beetha’s; or, The Heiress of Arne, London: “Christian World” Office, […]; Jackson, Walford, and Hodder, […], →OCLC, page 213:But one or two evil-disposed characters muttered they might be sure the lady had her own turn to serve, and they might be sure they wasn't \"teaed and muffined and sandwiched for nothing!\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3151,
+    "tag": "dd",
+    "text": "But one or two evil-disposed characters muttered they might be sure the lady had her own turn to serve, and they might be sure they wasn't \"teaed and muffined and sandwiched for nothing!\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3155,
+    "tag": "li",
+    "text": "1909, The Public, page 109:This gentleman was presented by Colonel C. E. S. Wood, and was entertained here—wined, dined, tead, breakfasted, coffeed and luncheoned—and we bought his pictures.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3163,
+    "tag": "dd",
+    "text": "This gentleman was presented by Colonel C. E. S. Wood, and was entertained here—wined, dined, tead, breakfasted, coffeed and luncheoned—and we bought his pictures.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3167,
+    "tag": "li",
+    "text": "2019, Jordaina Sydney Robinson, Dead Completely (Afterlife Adventures Series):After I’d tea’d everyone and Oz had breakfasted them, […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3174,
+    "tag": "dd",
+    "text": "After I’d tea’d everyone and Oz had breakfasted them, […]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3189,
+    "tag": "p",
+    "text": "tea (comparative more tea, superlative most tea)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3201,
+    "tag": "li",
+    "text": "(Can we verify(+) this sense?) (slang) Good-looking, sexy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3215,
+    "tag": "h3",
+    "text": "Etymology 2",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_2"
+    }
+  },
+  {
+    "node_index": 3221,
+    "tag": "p",
+    "text": "Semantic loan from Chinese 茶 (chá, “tea”).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3240,
+    "tag": "p",
+    "text": "tea (plural teas)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3247,
+    "tag": "li",
+    "text": "A moment, a historical unit of time from China, about the amount of time needed to quickly drink a traditional cup of tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3256,
+    "tag": "p",
+    "text": "This term is found in English translations of Chinese-language historical fiction, where it is used to give the work an ancient Chinese feel.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3258,
+    "tag": "h3",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "References"
+    }
+  },
+  {
+    "node_index": 3266,
+    "tag": "li",
+    "text": "^ The World Atlas of Language Structures Online, “Chapter 138: Tea”, by Östen Dahl",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-1"
+    }
+  },
+  {
+    "node_index": 3271,
+    "tag": "li",
+    "text": "^ Wise, Alana (27 August 2025), “What's tea? No, seriously. What's 'tea'?”, in All Things Considered‎[1], NPR, retrieved 28 August 2025",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-npr-2"
+    }
+  },
+  {
+    "node_index": 3283,
+    "tag": "h3",
+    "text": "Anagrams",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Anagrams"
+    }
+  },
+  {
+    "node_index": 3290,
+    "tag": "li",
+    "text": "eta, æt., -ate, eat, AET, aet, a.e.t., ETA, aet., ate, Até, eta., Atë",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3318,
+    "tag": "h2",
+    "text": "Asturian",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Asturian"
+    }
+  },
+  {
+    "node_index": 3325,
+    "tag": "h3",
+    "text": "Etymology 1",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_1_2"
+    }
+  },
+  {
+    "node_index": 3331,
+    "tag": "p",
+    "text": "From Latin taeda.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3343,
+    "tag": "p",
+    "text": "tea f (plural tees)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3352,
+    "tag": "li",
+    "text": "torch",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3355,
+    "tag": "h3",
+    "text": "Etymology 2",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_2_2"
+    }
+  },
+  {
+    "node_index": 3361,
+    "tag": "p",
+    "text": "See the etymology of the corresponding lemma form.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3370,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3374,
+    "tag": "li",
+    "text": "first/third-person singular present subjunctive of tar",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3387,
+    "tag": "h3",
+    "text": "Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Further_reading"
+    }
+  },
+  {
+    "node_index": 3394,
+    "tag": "li",
+    "text": "“tea”, in Diccionariu de la llingua asturiana [Dictionary of the Asturian Language] (in Asturian), 1st edition, Academy of the Asturian Language [Asturian: Academia de la Llingua Asturiana], 2000, →ISBN",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3407,
+    "tag": "li",
+    "text": "García Arias, Xosé Lluis (2002–2004), “tea”, in Diccionario general de la lengua asturiana [General Dictionary of the Asturian Language] (overall work in Spanish), Editorial Prensa Asturiana, →ISBN",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3422,
+    "tag": "h2",
+    "text": "Basque",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Basque"
+    }
+  },
+  {
+    "node_index": 3429,
+    "tag": "h3",
+    "text": "Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Noun_4"
+    }
+  },
+  {
+    "node_index": 3435,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3439,
+    "tag": "li",
+    "text": "absolutive singular of te",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3447,
+    "tag": "h2",
+    "text": "Chinese",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Chinese"
+    }
+  },
+  {
+    "node_index": 3454,
+    "tag": "h3",
+    "text": "Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_3"
+    }
+  },
+  {
+    "node_index": 3460,
+    "tag": "p",
+    "text": "From English tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3466,
+    "tag": "h3",
+    "text": "Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Pronunciation_2"
+    }
+  },
+  {
+    "node_index": 3475,
+    "tag": "li",
+    "text": "Cantonese (Jyutping): ti1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3486,
+    "tag": "li",
+    "text": "Cantonese (Standard Cantonese, Guangzhou–Hong Kong)+ Jyutping: ti1 Yale: tī Cantonese Pinyin: ti1 Guangdong Romanization: ti1 Sinological IPA (key): /tʰiː⁵⁵/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3489,
+    "tag": "li",
+    "text": "(Standard Cantonese, Guangzhou–Hong Kong)+ Jyutping: ti1 Yale: tī Cantonese Pinyin: ti1 Guangdong Romanization: ti1 Sinological IPA (key): /tʰiː⁵⁵/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3501,
+    "tag": "li",
+    "text": "Jyutping: ti1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3507,
+    "tag": "li",
+    "text": "Yale: tī",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3513,
+    "tag": "li",
+    "text": "Cantonese Pinyin: ti1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3519,
+    "tag": "li",
+    "text": "Guangdong Romanization: ti1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3525,
+    "tag": "li",
+    "text": "Sinological IPA (key): /tʰiː⁵⁵/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3534,
+    "tag": "h3",
+    "text": "Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Noun_5"
+    }
+  },
+  {
+    "node_index": 3540,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3544,
+    "tag": "li",
+    "text": "(Hong Kong Cantonese) afternoon tea (Classifier: 個／个 c)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3571,
+    "tag": "li",
+    "text": "high tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3574,
+    "tag": "li",
+    "text": "食tea (sik6 ti1)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3583,
+    "tag": "h2",
+    "text": "Ese",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Ese"
+    }
+  },
+  {
+    "node_index": 3590,
+    "tag": "h3",
+    "text": "Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Noun_6"
+    }
+  },
+  {
+    "node_index": 3596,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3600,
+    "tag": "li",
+    "text": "feces; excrement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3604,
+    "tag": "h2",
+    "text": "Estonian",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Estonian"
+    }
+  },
+  {
+    "node_index": 3611,
+    "tag": "h3",
+    "text": "Verb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Verb_3"
+    }
+  },
+  {
+    "node_index": 3617,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3621,
+    "tag": "li",
+    "text": "present indicative connegative of teadma",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3629,
+    "tag": "li",
+    "text": "second-person singular imperative of teadma",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3638,
+    "tag": "h2",
+    "text": "Galician",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Galician"
+    }
+  },
+  {
+    "node_index": 3645,
+    "tag": "h3",
+    "text": "Etymology 1",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_1_3"
+    }
+  },
+  {
+    "node_index": 3651,
+    "tag": "p",
+    "text": "From Old Galician-Portuguese tea (13th century, Cantigas de Santa Maria), from Latin tēla. Cognate with Portuguese teia and Spanish tela.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3677,
+    "tag": "li",
+    "text": "IPA(key): /ˈtea̝/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3689,
+    "tag": "p",
+    "text": "tea f (plural teas)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3698,
+    "tag": "li",
+    "text": "(uncountable) cloth",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3705,
+    "tag": "li",
+    "text": "(countable) a piece of cloth 1326, Antonio López Ferreiro, editor, Galicia Histórica. Colección diplomática, Santiago: Tipografía Galaica, page 300:It. mando que todollos lenços delgados et teas de rens que os tome Garcia perez. et que faça delles fazer uestimentas para o altar de Sta Maria.Item, I command that every fine linen and the clothes of Reims to be taken by Garcia Perez, who should make them into clothes for the altar of Saint Mary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3713,
+    "tag": "li",
+    "text": "1326, Antonio López Ferreiro, editor, Galicia Histórica. Colección diplomática, Santiago: Tipografía Galaica, page 300:It. mando que todollos lenços delgados et teas de rens que os tome Garcia perez. et que faça delles fazer uestimentas para o altar de Sta Maria.Item, I command that every fine linen and the clothes of Reims to be taken by Garcia Perez, who should make them into clothes for the altar of Saint Mary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3721,
+    "tag": "dd",
+    "text": "It. mando que todollos lenços delgados et teas de rens que os tome Garcia perez. et que faça delles fazer uestimentas para o altar de Sta Maria.Item, I command that every fine linen and the clothes of Reims to be taken by Garcia Perez, who should make them into clothes for the altar of Saint Mary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3727,
+    "tag": "dd",
+    "text": "Item, I command that every fine linen and the clothes of Reims to be taken by Garcia Perez, who should make them into clothes for the altar of Saint Mary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3730,
+    "tag": "li",
+    "text": "spiderweb Synonym: arañeira",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3733,
+    "tag": "dd",
+    "text": "Synonym: arañeira",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3738,
+    "tag": "li",
+    "text": "canvas Synonym: lenzo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3741,
+    "tag": "dd",
+    "text": "Synonym: lenzo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3746,
+    "tag": "li",
+    "text": "film (skin) Synonym: película",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3752,
+    "tag": "dd",
+    "text": "Synonym: película",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3765,
+    "tag": "li",
+    "text": "tear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3769,
+    "tag": "h3",
+    "text": "Etymology 2",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_2_3"
+    }
+  },
+  {
+    "node_index": 3775,
+    "tag": "p",
+    "text": "From Old Galician-Portuguese tea (13th century, Cantigas de Santa Maria), from Latin taeda, from Ancient Greek δάος (dáos, “torch”).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3803,
+    "tag": "li",
+    "text": "IPA(key): /ˈtea̝/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3815,
+    "tag": "p",
+    "text": "tea f (plural teas)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3824,
+    "tag": "li",
+    "text": "torch Synonyms: facha, fachuzo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3827,
+    "tag": "dd",
+    "text": "Synonyms: facha, fachuzo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3835,
+    "tag": "h3",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "References_2"
+    }
+  },
+  {
+    "node_index": 3842,
+    "tag": "li",
+    "text": "Seoane, Ernesto Xosé González; Granja, María Álvarez de la; Agrelo, Ana Isabel Boullón (2006–2022), “tea”, in Dicionario de Dicionarios do galego medieval [Dictionary of dictionaries of Medieval Galician] (in Galician), Santiago de Compostela: Instituto da Lingua Galega",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3854,
+    "tag": "li",
+    "text": "“tea” in Xavier Varela Barreiro & Xavier Gómez Guinovart: Corpus Xelmírez - Corpus lingüístico da Galicia medieval. SLI / Grupo TALG / ILG, 2006-2016.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3856,
+    "tag": "li",
+    "text": "Antón Santamarina, editor (2006–2013), “tea”, in Dicionario de Dicionarios da lingua galega [Dictionary of Dictionaries of the Galician language] (in Galician), Santiago de Compostela: Instituto da Lingua Galega",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3866,
+    "tag": "li",
+    "text": "Antón Santamarina, Ernesto X. González Seoane, María Álvarez de la Granja, editors (2003–2018), “tea”, in Tesouro informatizado da lingua galega (in Galician), Santiago de Compostela: Instituto da Lingua Galega",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3876,
+    "tag": "li",
+    "text": "Rosario Álvarez Blanco, editor (2014–2024), “tea”, in Tesouro do léxico patrimonial galego e portugués (in Galician), Santiago de Compostela: Instituto da Lingua Galega, →ISSN",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3887,
+    "tag": "h2",
+    "text": "Hungarian",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Hungarian"
+    }
+  },
+  {
+    "node_index": 3894,
+    "tag": "h3",
+    "text": "Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_4"
+    }
+  },
+  {
+    "node_index": 3900,
+    "tag": "p",
+    "text": "From Dutch thee, from Hokkien 茶 (tê, “tea”).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3916,
+    "tag": "h3",
+    "text": "Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Pronunciation_5"
+    }
+  },
+  {
+    "node_index": 3923,
+    "tag": "li",
+    "text": "IPA(key): [ˈtɛɒ], [ˈtɛjɒ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3929,
+    "tag": "li",
+    "text": "Audio:(file)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3934,
+    "tag": "td",
+    "text": "Audio:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3943,
+    "tag": "td",
+    "text": "(file)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "audiometa",
+      "style": "font-size: 80%;"
+    }
+  },
+  {
+    "node_index": 3945,
+    "tag": "li",
+    "text": "Rhymes: -ɒ, -jɒ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3950,
+    "tag": "li",
+    "text": "Hyphenation: tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3952,
+    "tag": "li",
+    "text": "Syllabification: te‧a",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3955,
+    "tag": "h3",
+    "text": "Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Noun_9"
+    }
+  },
+  {
+    "node_index": 3961,
+    "tag": "p",
+    "text": "tea (countable and uncountable, plural teák)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3971,
+    "tag": "li",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3987,
+    "tag": "th",
+    "text": "singular",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "outer"
+    }
+  },
+  {
+    "node_index": 3988,
+    "tag": "th",
+    "text": "plural",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "outer"
+    }
+  },
+  {
+    "node_index": 3990,
+    "tag": "th",
+    "text": "nominative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3992,
+    "tag": "td",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3995,
+    "tag": "td",
+    "text": "teák",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3999,
+    "tag": "th",
+    "text": "accusative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4001,
+    "tag": "td",
+    "text": "teát",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4004,
+    "tag": "td",
+    "text": "teákat",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4008,
+    "tag": "th",
+    "text": "dative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4010,
+    "tag": "td",
+    "text": "teának",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4013,
+    "tag": "td",
+    "text": "teáknak",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4017,
+    "tag": "th",
+    "text": "instrumental",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4019,
+    "tag": "td",
+    "text": "teával",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4022,
+    "tag": "td",
+    "text": "teákkal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4026,
+    "tag": "th",
+    "text": "causal-final",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4028,
+    "tag": "td",
+    "text": "teáért",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4031,
+    "tag": "td",
+    "text": "teákért",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4035,
+    "tag": "th",
+    "text": "translative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4037,
+    "tag": "td",
+    "text": "teává",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4040,
+    "tag": "td",
+    "text": "teákká",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4044,
+    "tag": "th",
+    "text": "terminative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4046,
+    "tag": "td",
+    "text": "teáig",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4049,
+    "tag": "td",
+    "text": "teákig",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4053,
+    "tag": "th",
+    "text": "essive-formal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4055,
+    "tag": "td",
+    "text": "teaként",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4058,
+    "tag": "td",
+    "text": "teákként",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4062,
+    "tag": "th",
+    "text": "essive-modal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4064,
+    "tag": "td",
+    "text": "—",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4065,
+    "tag": "td",
+    "text": "—",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4067,
+    "tag": "th",
+    "text": "inessive",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4069,
+    "tag": "td",
+    "text": "teában",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4072,
+    "tag": "td",
+    "text": "teákban",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4076,
+    "tag": "th",
+    "text": "superessive",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4078,
+    "tag": "td",
+    "text": "teán",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4081,
+    "tag": "td",
+    "text": "teákon",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4085,
+    "tag": "th",
+    "text": "adessive",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4087,
+    "tag": "td",
+    "text": "teánál",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4090,
+    "tag": "td",
+    "text": "teáknál",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4094,
+    "tag": "th",
+    "text": "illative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4096,
+    "tag": "td",
+    "text": "teába",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4099,
+    "tag": "td",
+    "text": "teákba",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4103,
+    "tag": "th",
+    "text": "sublative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4105,
+    "tag": "td",
+    "text": "teára",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4108,
+    "tag": "td",
+    "text": "teákra",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4112,
+    "tag": "th",
+    "text": "allative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4114,
+    "tag": "td",
+    "text": "teához",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4117,
+    "tag": "td",
+    "text": "teákhoz",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4121,
+    "tag": "th",
+    "text": "elative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4123,
+    "tag": "td",
+    "text": "teából",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4126,
+    "tag": "td",
+    "text": "teákból",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4130,
+    "tag": "th",
+    "text": "delative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4132,
+    "tag": "td",
+    "text": "teáról",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4135,
+    "tag": "td",
+    "text": "teákról",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4139,
+    "tag": "th",
+    "text": "ablative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4141,
+    "tag": "td",
+    "text": "teától",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4144,
+    "tag": "td",
+    "text": "teáktól",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4148,
+    "tag": "th",
+    "text": "non-attributivepossessive – singular",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4150,
+    "tag": "td",
+    "text": "teáé",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4153,
+    "tag": "td",
+    "text": "teáké",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4157,
+    "tag": "th",
+    "text": "non-attributivepossessive – plural",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4159,
+    "tag": "td",
+    "text": "teáéi",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4162,
+    "tag": "td",
+    "text": "teákéi",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4172,
+    "tag": "th",
+    "text": "possessor",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "outer"
+    }
+  },
+  {
+    "node_index": 4173,
+    "tag": "th",
+    "text": "single possession",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "outer"
+    }
+  },
+  {
+    "node_index": 4174,
+    "tag": "th",
+    "text": "multiple possessions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "outer"
+    }
+  },
+  {
+    "node_index": 4176,
+    "tag": "th",
+    "text": "1st person sing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4177,
+    "tag": "td",
+    "text": "teám",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4180,
+    "tag": "td",
+    "text": "teáim",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4184,
+    "tag": "th",
+    "text": "2nd person sing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4185,
+    "tag": "td",
+    "text": "teád",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4188,
+    "tag": "td",
+    "text": "teáid",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4192,
+    "tag": "th",
+    "text": "3rd person sing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4193,
+    "tag": "td",
+    "text": "teája",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4196,
+    "tag": "td",
+    "text": "teái",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4200,
+    "tag": "th",
+    "text": "1st person plural",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4201,
+    "tag": "td",
+    "text": "teánk",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4204,
+    "tag": "td",
+    "text": "teáink",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4208,
+    "tag": "th",
+    "text": "2nd person plural",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4209,
+    "tag": "td",
+    "text": "teátok",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4212,
+    "tag": "td",
+    "text": "teáitok",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4216,
+    "tag": "th",
+    "text": "3rd person plural",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4217,
+    "tag": "td",
+    "text": "teájuk",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4220,
+    "tag": "td",
+    "text": "teáik",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4233,
+    "tag": "li",
+    "text": "gyógytea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4236,
+    "tag": "li",
+    "text": "teás",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4239,
+    "tag": "li",
+    "text": "teázik",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4247,
+    "tag": "li",
+    "text": "csalántea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4250,
+    "tag": "li",
+    "text": "csipkebogyótea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4253,
+    "tag": "li",
+    "text": "gyümölcstea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4256,
+    "tag": "li",
+    "text": "hársfatea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4259,
+    "tag": "li",
+    "text": "kamillatea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4262,
+    "tag": "li",
+    "text": "teacserje",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4265,
+    "tag": "li",
+    "text": "teadélután",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4268,
+    "tag": "li",
+    "text": "teafilter",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4271,
+    "tag": "li",
+    "text": "teafőző",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4274,
+    "tag": "li",
+    "text": "teaház",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4277,
+    "tag": "li",
+    "text": "teakeverék",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4280,
+    "tag": "li",
+    "text": "teakonyha",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4283,
+    "tag": "li",
+    "text": "tealevél",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4286,
+    "tag": "li",
+    "text": "teamécses",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4289,
+    "tag": "li",
+    "text": "tearózsa",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4292,
+    "tag": "li",
+    "text": "teasütemény",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4295,
+    "tag": "li",
+    "text": "teaszűrő",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4298,
+    "tag": "li",
+    "text": "teaültetvény",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4301,
+    "tag": "li",
+    "text": "teavaj",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4304,
+    "tag": "li",
+    "text": "zsurlótea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4311,
+    "tag": "li",
+    "text": "fekete tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4314,
+    "tag": "li",
+    "text": "zöld tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4325,
+    "tag": "li",
+    "text": "→ Pannonian Rusyn: тея (teja)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4334,
+    "tag": "h3",
+    "text": "Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Further_reading_2"
+    }
+  },
+  {
+    "node_index": 4341,
+    "tag": "li",
+    "text": "tea in Géza Bárczi, László Országh, et al., editors, A magyar nyelv értelmező szótára [The Explanatory Dictionary of the Hungarian Language] (ÉrtSz.), Budapest: Akadémiai Kiadó, 1959–1962. Fifth ed., 1992: →ISBN.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4354,
+    "tag": "h3",
+    "text": "Anagrams",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Anagrams_2"
+    }
+  },
+  {
+    "node_index": 4361,
+    "tag": "li",
+    "text": "Eta",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4365,
+    "tag": "h2",
+    "text": "Māori",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Māori"
+    }
+  },
+  {
+    "node_index": 4373,
+    "tag": "h3",
+    "text": "Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_5"
+    }
+  },
+  {
+    "node_index": 4379,
+    "tag": "p",
+    "text": "From Proto-Polynesian *tea. Compare Hawaiian kea and Rapa Nui tea tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4393,
+    "tag": "h3",
+    "text": "Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Pronunciation_6"
+    }
+  },
+  {
+    "node_index": 4400,
+    "tag": "li",
+    "text": "IPA(key): /ˈtea/ [ˈtɛɐ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4406,
+    "tag": "h3",
+    "text": "Adjective",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Adjective_2"
+    }
+  },
+  {
+    "node_index": 4412,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4416,
+    "tag": "li",
+    "text": "white Synonym: mā",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4419,
+    "tag": "dd",
+    "text": "Synonym: mā",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4424,
+    "tag": "li",
+    "text": "light-coloured",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4425,
+    "tag": "li",
+    "text": "clear, transparent",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4436,
+    "tag": "li",
+    "text": "Aotearoa",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4439,
+    "tag": "li",
+    "text": "Ao-tea-roa",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4455,
+    "tag": "td",
+    "text": "tea, mā",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "width: 33.33%",
+      "title": "white"
+    }
+  },
+  {
+    "node_index": 4462,
+    "tag": "td",
+    "text": "kiwikiwi",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "width: 33.33%",
+      "title": "gray"
+    }
+  },
+  {
+    "node_index": 4467,
+    "tag": "td",
+    "text": "pango, mangu",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "width: 33.33%",
+      "title": "black"
+    }
+  },
+  {
+    "node_index": 4475,
+    "tag": "td",
+    "text": "mea, kura, whero",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "red, crimson"
+    }
+  },
+  {
+    "node_index": 4488,
+    "tag": "td",
+    "text": "karaka; parauri",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "orange, brown"
+    }
+  },
+  {
+    "node_index": 4499,
+    "tag": "td",
+    "text": "kōwhai, renga",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "yellow, cream"
+    }
+  },
+  {
+    "node_index": 4518,
+    "tag": "td",
+    "text": "kāriki, kākāriki",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "green"
+    }
+  },
+  {
+    "node_index": 4529,
+    "tag": "td",
+    "text": "kārikiuri",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "mint green, dark green"
+    }
+  },
+  {
+    "node_index": 4546,
+    "tag": "td",
+    "text": "kikorangi",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "azure"
+    }
+  },
+  {
+    "node_index": 4555,
+    "tag": "td",
+    "text": "kahurangi",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "blue"
+    }
+  },
+  {
+    "node_index": 4565,
+    "tag": "td",
+    "text": "tūāuri",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "violet, indigo"
+    }
+  },
+  {
+    "node_index": 4574,
+    "tag": "td",
+    "text": "waiporoporo",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "magenta, purple"
+    }
+  },
+  {
+    "node_index": 4583,
+    "tag": "td",
+    "text": "māwhero",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "",
+      "title": "pink"
+    }
+  },
+  {
+    "node_index": 4593,
+    "tag": "h2",
+    "text": "Old English",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Old_English"
+    }
+  },
+  {
+    "node_index": 4600,
+    "tag": "h3",
+    "text": "Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Pronunciation_7"
+    }
+  },
+  {
+    "node_index": 4607,
+    "tag": "li",
+    "text": "IPA(key): /tæ͜ɑː/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4612,
+    "tag": "li",
+    "text": "Rhymes: -æ͜ɑː",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4616,
+    "tag": "h3",
+    "text": "Numeral",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Numeral"
+    }
+  },
+  {
+    "node_index": 4622,
+    "tag": "p",
+    "text": "tēa",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4626,
+    "tag": "li",
+    "text": "(Northumbrian) alternative form of tīen",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4637,
+    "tag": "h2",
+    "text": "Rapa Nui",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Rapa_Nui"
+    }
+  },
+  {
+    "node_index": 4644,
+    "tag": "h3",
+    "text": "Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_6"
+    }
+  },
+  {
+    "node_index": 4650,
+    "tag": "p",
+    "text": "From Proto-Polynesian *tea. Compare Hawaiian kea and Māori tea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4664,
+    "tag": "h3",
+    "text": "Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Noun_10"
+    }
+  },
+  {
+    "node_index": 4670,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4674,
+    "tag": "li",
+    "text": "dawn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4684,
+    "tag": "li",
+    "text": "tea tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4688,
+    "tag": "h2",
+    "text": "Sedang",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Sedang"
+    }
+  },
+  {
+    "node_index": 4695,
+    "tag": "h3",
+    "text": "Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Noun_11"
+    }
+  },
+  {
+    "node_index": 4701,
+    "tag": "p",
+    "text": "tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4705,
+    "tag": "li",
+    "text": "water",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4707,
+    "tag": "li",
+    "text": "body of water: river, lake, etc",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4712,
+    "tag": "li",
+    "text": "liquid",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4714,
+    "tag": "li",
+    "text": "wine",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4717,
+    "tag": "h3",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "References_3"
+    }
+  },
+  {
+    "node_index": 4724,
+    "tag": "li",
+    "text": "Kenneth D. Smith, Sedang Dictionary (2012), page 375",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4728,
+    "tag": "h2",
+    "text": "Spanish",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Spanish"
+    }
+  },
+  {
+    "node_index": 4740,
+    "tag": "h3",
+    "text": "Alternative forms",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Alternative_forms_2"
+    }
+  },
+  {
+    "node_index": 4747,
+    "tag": "li",
+    "text": "teda (rare)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4755,
+    "tag": "h3",
+    "text": "Etymology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Etymology_7"
+    }
+  },
+  {
+    "node_index": 4761,
+    "tag": "p",
+    "text": "Inherited from Latin tēda, early monophthongized variant of Latin taeda (“torch”).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4778,
+    "tag": "h3",
+    "text": "Pronunciation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Pronunciation_8"
+    }
+  },
+  {
+    "node_index": 4785,
+    "tag": "li",
+    "text": "IPA(key): /ˈtea/ [ˈt̪e.a]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4791,
+    "tag": "li",
+    "text": "Rhymes: -ea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4794,
+    "tag": "li",
+    "text": "Syllabification: te‧a",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4797,
+    "tag": "h3",
+    "text": "Noun",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Noun_12"
+    }
+  },
+  {
+    "node_index": 4803,
+    "tag": "p",
+    "text": "tea f (plural teas)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4812,
+    "tag": "li",
+    "text": "torch (a stick with a flame on one end, used chiefly as a light source) Synonym: antorcha 1897, Ángel Ganivet, La conquista del reino de Maya por el último conquistador español Pío Cid, page 5:La reunión terminaba siempre cuando se iban a apagar las teas, cuya duración era de cuatro o cinco horas.The meeting ended whenever the torches, whose duration was about four or five hours, were going to go out. 2013 August 18, Gertrudis María Glück, “El Viaje del Lector: Alemania”, in Clarín‎[4]:En esa época en que aún no existía el vidrio, para resguardarse del frío se tapiaban las ventanas con tablas de madera. A su vez, la iluminación se realizaba con teas que llenaban de humo los ambientes cerrados.In that era when glass still didn't exist, to protect themselves from the cold, they boarded up windows with wooden planks. In turn, lighting was achieved with torches that filled closed environments with smoke.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4818,
+    "tag": "dd",
+    "text": "Synonym: antorcha",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4824,
+    "tag": "li",
+    "text": "1897, Ángel Ganivet, La conquista del reino de Maya por el último conquistador español Pío Cid, page 5:La reunión terminaba siempre cuando se iban a apagar las teas, cuya duración era de cuatro o cinco horas.The meeting ended whenever the torches, whose duration was about four or five hours, were going to go out.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4835,
+    "tag": "dd",
+    "text": "La reunión terminaba siempre cuando se iban a apagar las teas, cuya duración era de cuatro o cinco horas.The meeting ended whenever the torches, whose duration was about four or five hours, were going to go out.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4840,
+    "tag": "dd",
+    "text": "The meeting ended whenever the torches, whose duration was about four or five hours, were going to go out.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4843,
+    "tag": "li",
+    "text": "2013 August 18, Gertrudis María Glück, “El Viaje del Lector: Alemania”, in Clarín‎[4]:En esa época en que aún no existía el vidrio, para resguardarse del frío se tapiaban las ventanas con tablas de madera. A su vez, la iluminación se realizaba con teas que llenaban de humo los ambientes cerrados.In that era when glass still didn't exist, to protect themselves from the cold, they boarded up windows with wooden planks. In turn, lighting was achieved with torches that filled closed environments with smoke.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4851,
+    "tag": "dd",
+    "text": "En esa época en que aún no existía el vidrio, para resguardarse del frío se tapiaban las ventanas con tablas de madera. A su vez, la iluminación se realizaba con teas que llenaban de humo los ambientes cerrados.In that era when glass still didn't exist, to protect themselves from the cold, they boarded up windows with wooden planks. In turn, lighting was achieved with torches that filled closed environments with smoke.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4856,
+    "tag": "dd",
+    "text": "In that era when glass still didn't exist, to protect themselves from the cold, they boarded up windows with wooden planks. In turn, lighting was achieved with torches that filled closed environments with smoke.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4859,
+    "tag": "li",
+    "text": "(colloquial) intoxication, drunkenness Synonyms: see Thesaurus:borrachera",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4868,
+    "tag": "dd",
+    "text": "Synonyms: see Thesaurus:borrachera",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4875,
+    "tag": "h3",
+    "text": "Further reading",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Further_reading_3"
+    }
+  },
+  {
+    "node_index": 4882,
+    "tag": "li",
+    "text": "“tea”, in Diccionario de la lengua española [Dictionary of the Spanish Language] (in Spanish), online version 23.8.1, Royal Spanish Academy [Spanish: Real Academia Española], 15 December 2025",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4900,
+    "tag": "li",
+    "text": "Translingual terms derived from English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4902,
+    "tag": "li",
+    "text": "Translingual abbreviations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4904,
+    "tag": "li",
+    "text": "Translingual lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4906,
+    "tag": "li",
+    "text": "Translingual symbols",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4908,
+    "tag": "li",
+    "text": "ISO 639-3",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4910,
+    "tag": "li",
+    "text": "English terms borrowed from Dutch",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4912,
+    "tag": "li",
+    "text": "English terms derived from Hokkien",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4914,
+    "tag": "li",
+    "text": "English terms derived from Dutch",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4916,
+    "tag": "li",
+    "text": "English terms derived from Old Chinese",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4918,
+    "tag": "li",
+    "text": "English terms derived from Proto-Sino-Tibetan",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4920,
+    "tag": "li",
+    "text": "English doublets",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4922,
+    "tag": "li",
+    "text": "English 1-syllable words",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4924,
+    "tag": "li",
+    "text": "English terms with IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4926,
+    "tag": "li",
+    "text": "English terms with audio pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4928,
+    "tag": "li",
+    "text": "English terms with homophones",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4930,
+    "tag": "li",
+    "text": "Rhymes:English/iː",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4932,
+    "tag": "li",
+    "text": "Rhymes:English/iː/1 syllable",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4934,
+    "tag": "li",
+    "text": "English lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4936,
+    "tag": "li",
+    "text": "English nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4938,
+    "tag": "li",
+    "text": "English uncountable nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4940,
+    "tag": "li",
+    "text": "English countable nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4942,
+    "tag": "li",
+    "text": "English terms with usage examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4944,
+    "tag": "li",
+    "text": "English terms with quotations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4946,
+    "tag": "li",
+    "text": "Southern US English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4948,
+    "tag": "li",
+    "text": "Commonwealth English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4950,
+    "tag": "li",
+    "text": "Northern US English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4952,
+    "tag": "li",
+    "text": "East Asian English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4954,
+    "tag": "li",
+    "text": "British English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4956,
+    "tag": "li",
+    "text": "Irish English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4958,
+    "tag": "li",
+    "text": "en:Cricket",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4960,
+    "tag": "li",
+    "text": "English slang",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4962,
+    "tag": "li",
+    "text": "English dated terms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4964,
+    "tag": "li",
+    "text": "English gay slang",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4966,
+    "tag": "li",
+    "text": "African-American Vernacular English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4968,
+    "tag": "li",
+    "text": "English verbs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4970,
+    "tag": "li",
+    "text": "English intransitive verbs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4972,
+    "tag": "li",
+    "text": "English transitive verbs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4974,
+    "tag": "li",
+    "text": "English adjectives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4976,
+    "tag": "li",
+    "text": "English semantic loans from Chinese",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4978,
+    "tag": "li",
+    "text": "English terms derived from Chinese",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4980,
+    "tag": "li",
+    "text": "en:Ericales order plants",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4982,
+    "tag": "li",
+    "text": "en:Marijuana",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4984,
+    "tag": "li",
+    "text": "en:Meals",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4986,
+    "tag": "li",
+    "text": "en:Tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4988,
+    "tag": "li",
+    "text": "en:Time",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4990,
+    "tag": "li",
+    "text": "en:Units of measure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4992,
+    "tag": "li",
+    "text": "Asturian terms derived from Latin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4994,
+    "tag": "li",
+    "text": "Asturian lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4996,
+    "tag": "li",
+    "text": "Asturian nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4998,
+    "tag": "li",
+    "text": "Asturian feminine nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5000,
+    "tag": "li",
+    "text": "Asturian non-lemma forms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5002,
+    "tag": "li",
+    "text": "Asturian verb forms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5004,
+    "tag": "li",
+    "text": "Basque non-lemma forms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5006,
+    "tag": "li",
+    "text": "Basque noun forms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5008,
+    "tag": "li",
+    "text": "Cantonese terms borrowed from English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5010,
+    "tag": "li",
+    "text": "Cantonese terms derived from English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5012,
+    "tag": "li",
+    "text": "Chinese lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5014,
+    "tag": "li",
+    "text": "Cantonese lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5016,
+    "tag": "li",
+    "text": "Chinese nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5018,
+    "tag": "li",
+    "text": "Cantonese nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5020,
+    "tag": "li",
+    "text": "Chinese terms with IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5022,
+    "tag": "li",
+    "text": "Chinese terms written in foreign scripts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5024,
+    "tag": "li",
+    "text": "Hong Kong Cantonese",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5026,
+    "tag": "li",
+    "text": "Chinese nouns classified by 個/个",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5028,
+    "tag": "li",
+    "text": "Ese lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5030,
+    "tag": "li",
+    "text": "Ese nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5032,
+    "tag": "li",
+    "text": "Estonian non-lemma forms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5034,
+    "tag": "li",
+    "text": "Estonian verb forms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5036,
+    "tag": "li",
+    "text": "Galician terms inherited from Old Galician-Portuguese",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5038,
+    "tag": "li",
+    "text": "Galician terms derived from Old Galician-Portuguese",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5040,
+    "tag": "li",
+    "text": "Galician terms inherited from Latin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5042,
+    "tag": "li",
+    "text": "Galician terms derived from Latin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5044,
+    "tag": "li",
+    "text": "Galician terms with IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5046,
+    "tag": "li",
+    "text": "Galician lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5048,
+    "tag": "li",
+    "text": "Galician nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5050,
+    "tag": "li",
+    "text": "Galician countable nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5052,
+    "tag": "li",
+    "text": "Galician feminine nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5054,
+    "tag": "li",
+    "text": "Galician uncountable nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5056,
+    "tag": "li",
+    "text": "Galician terms with quotations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5058,
+    "tag": "li",
+    "text": "Galician terms derived from Ancient Greek",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5060,
+    "tag": "li",
+    "text": "Hungarian terms borrowed from Dutch",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5062,
+    "tag": "li",
+    "text": "Hungarian terms derived from Dutch",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5064,
+    "tag": "li",
+    "text": "Hungarian terms derived from Hokkien",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5066,
+    "tag": "li",
+    "text": "Hungarian terms with IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5068,
+    "tag": "li",
+    "text": "Hungarian terms with manual IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5070,
+    "tag": "li",
+    "text": "Hungarian terms with audio pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5072,
+    "tag": "li",
+    "text": "Rhymes:Hungarian/ɒ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5074,
+    "tag": "li",
+    "text": "Rhymes:Hungarian/ɒ/2 syllables",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5076,
+    "tag": "li",
+    "text": "Rhymes:Hungarian/jɒ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5078,
+    "tag": "li",
+    "text": "Rhymes:Hungarian/jɒ/2 syllables",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5080,
+    "tag": "li",
+    "text": "Hungarian countable and uncountable nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5082,
+    "tag": "li",
+    "text": "Hungarian lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5084,
+    "tag": "li",
+    "text": "Hungarian nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5086,
+    "tag": "li",
+    "text": "Hungarian 3-letter words",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5088,
+    "tag": "li",
+    "text": "hu:Beverages",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5090,
+    "tag": "li",
+    "text": "hu:Tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5092,
+    "tag": "li",
+    "text": "Māori terms inherited from Proto-Polynesian",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5094,
+    "tag": "li",
+    "text": "Māori terms derived from Proto-Polynesian",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5096,
+    "tag": "li",
+    "text": "Māori terms with IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5098,
+    "tag": "li",
+    "text": "Māori lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5100,
+    "tag": "li",
+    "text": "Māori adjectives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5102,
+    "tag": "li",
+    "text": "Old English terms with IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5104,
+    "tag": "li",
+    "text": "Rhymes:Old English/æ͜ɑː",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5106,
+    "tag": "li",
+    "text": "Rhymes:Old English/æ͜ɑː/1 syllable",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5108,
+    "tag": "li",
+    "text": "Old English lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5110,
+    "tag": "li",
+    "text": "Old English numerals",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5112,
+    "tag": "li",
+    "text": "Northumbrian Old English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5114,
+    "tag": "li",
+    "text": "Anglian Old English",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5116,
+    "tag": "li",
+    "text": "Rapa Nui terms inherited from Proto-Polynesian",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5118,
+    "tag": "li",
+    "text": "Rapa Nui terms derived from Proto-Polynesian",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5120,
+    "tag": "li",
+    "text": "Rapa Nui lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5122,
+    "tag": "li",
+    "text": "Rapa Nui nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5124,
+    "tag": "li",
+    "text": "Sedang lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5126,
+    "tag": "li",
+    "text": "Sedang nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5128,
+    "tag": "li",
+    "text": "Spanish terms inherited from Latin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5130,
+    "tag": "li",
+    "text": "Spanish terms derived from Latin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5132,
+    "tag": "li",
+    "text": "Spanish 2-syllable words",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5134,
+    "tag": "li",
+    "text": "Spanish terms with IPA pronunciation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5136,
+    "tag": "li",
+    "text": "Rhymes:Spanish/ea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5138,
+    "tag": "li",
+    "text": "Rhymes:Spanish/ea/2 syllables",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5140,
+    "tag": "li",
+    "text": "Spanish lemmas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5142,
+    "tag": "li",
+    "text": "Spanish nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5144,
+    "tag": "li",
+    "text": "Spanish countable nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5146,
+    "tag": "li",
+    "text": "Spanish feminine nouns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5148,
+    "tag": "li",
+    "text": "Spanish terms with quotations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5150,
+    "tag": "li",
+    "text": "Spanish colloquialisms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5154,
+    "tag": "li",
+    "text": "Pages calling Template:minitoc",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5156,
+    "tag": "li",
+    "text": "Translingual terms with redundant script codes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5158,
+    "tag": "li",
+    "text": "Pages with entries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5160,
+    "tag": "li",
+    "text": "Pages with 14 entries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5162,
+    "tag": "li",
+    "text": "Pages with etymon",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5164,
+    "tag": "li",
+    "text": "English entries with etymon",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5166,
+    "tag": "li",
+    "text": "Pages using etymon with no ID",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5168,
+    "tag": "li",
+    "text": "Quotation templates to be cleaned",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5170,
+    "tag": "li",
+    "text": "Requests for verification in English entries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5172,
+    "tag": "li",
+    "text": "Asturian undefined derivations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5174,
+    "tag": "li",
+    "text": "Hungarian links with redundant wikilinks",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5176,
+    "tag": "li",
+    "text": "Hungarian links with redundant alt parameters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5178,
+    "tag": "li",
+    "text": "Foreign words of the day in Spanish",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5180,
+    "tag": "li",
+    "text": "Foreign word of the day archive/2022/March",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5182,
+    "tag": "li",
+    "text": "Foreign word of the day archive/2022",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5184,
+    "tag": "li",
+    "text": "Foreign words of the day in Spanish/2022",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5186,
+    "tag": "li",
+    "text": "Foreign word of the day archive",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5191,
+    "tag": "li",
+    "text": "This page was last edited on 19 August 2026, at 01:29.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-lastmod"
+    }
+  },
+  {
+    "node_index": 5192,
+    "tag": "li",
+    "text": "Definitions and other text are available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-copyright"
+    }
+  },
+  {
+    "node_index": 5197,
+    "tag": "li",
+    "text": "Privacy policy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-privacy"
+    }
+  },
+  {
+    "node_index": 5199,
+    "tag": "li",
+    "text": "About Wiktionary",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-about"
+    }
+  },
+  {
+    "node_index": 5201,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-disclaimers"
+    }
+  },
+  {
+    "node_index": 5203,
+    "tag": "li",
+    "text": "Legal & safety contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-legal-safety-contacts"
+    }
+  },
+  {
+    "node_index": 5205,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-wm-codeofconduct"
+    }
+  },
+  {
+    "node_index": 5207,
+    "tag": "li",
+    "text": "Developers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-developers"
+    }
+  },
+  {
+    "node_index": 5209,
+    "tag": "li",
+    "text": "Statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-statslink"
+    }
+  },
+  {
+    "node_index": 5211,
+    "tag": "li",
+    "text": "Cookie statement",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-cookiestatement"
+    }
+  },
+  {
+    "node_index": 5213,
+    "tag": "li",
+    "text": "Mobile view",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-mobileview"
+    }
+  }
+]

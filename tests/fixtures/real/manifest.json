@@ -1,0 +1,3920 @@
+[
+  {
+    "source_url": "https://science.nasa.gov/solar-system/planets/",
+    "final_url": "https://science.nasa.gov/solar-system/planets/",
+    "retrieved_at": "2026-09-09T12:23:16.641992+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "4f80b287d900ada36c3b53519fd683212ff04f2bba8987afd0b97d8d4d3fa339",
+    "id": "nasa-gov-01",
+    "domain": "nasa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Aeronautics and Space Administration (NASA)",
+      "title": "About the Planets",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://science.nasa.gov/solar-system/planets/"
+    },
+    "review_status": "pending",
+    "original_sha256": "e74ac1b2ad22753e75892bfed9901691b347d5ec03a6e8437821efd4c987ccd6",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 6,
+        "iframe": 3,
+        "script": 51,
+        "style": 17,
+        "svg": 236
+      }
+    }
+  },
+  {
+    "source_url": "https://science.nasa.gov/earth/",
+    "final_url": "https://science.nasa.gov/earth/",
+    "retrieved_at": "2026-09-09T12:23:17.066490+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "a9d2a8dbb7cc6c924cf2ca64c622a8fd6c6ee146a02b2184e1ff78589dc31e75",
+    "id": "nasa-gov-02",
+    "domain": "nasa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Aeronautics and Space Administration (NASA)",
+      "title": "Earth - NASA Science",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://science.nasa.gov/earth/"
+    },
+    "review_status": "pending",
+    "original_sha256": "f38eabda22e2fae1259b69665f28733157f6df7c79e6f799c3a6bd0effee6441",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 6,
+        "iframe": 5,
+        "script": 55,
+        "style": 17,
+        "svg": 237
+      }
+    }
+  },
+  {
+    "source_url": "https://science.nasa.gov/solar-system/",
+    "final_url": "https://science.nasa.gov/solar-system/",
+    "retrieved_at": "2026-09-09T12:23:17.457747+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "98679b4672b787e92b29e605c2c7420b31afee80a3711bb196e30aa73bf59493",
+    "id": "nasa-gov-03",
+    "domain": "nasa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Aeronautics and Space Administration (NASA)",
+      "title": "Solar System Exploration",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://science.nasa.gov/solar-system/"
+    },
+    "review_status": "pending",
+    "original_sha256": "e74dc7df08416100d2630333a0bb75cb289a8fca9941574bff2bd65dd748beba",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 6,
+        "iframe": 5,
+        "script": 55,
+        "style": 19,
+        "svg": 250
+      }
+    }
+  },
+  {
+    "source_url": "https://science.nasa.gov/solar-system/kuiper-belt/",
+    "final_url": "https://science.nasa.gov/solar-system/kuiper-belt/",
+    "retrieved_at": "2026-09-09T12:23:18.518931+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "65f34e7568673436b07586b1deadbf256e86daae40ac464ee53b6a1df8b1177c",
+    "id": "nasa-gov-04",
+    "domain": "nasa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Aeronautics and Space Administration (NASA)",
+      "title": "Kuiper Belt",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://science.nasa.gov/solar-system/kuiper-belt/"
+    },
+    "review_status": "pending",
+    "original_sha256": "57062e8ca1ceaa7937a24d30a58c6619629b1e5a5e5f423979ea1ea8564eda51",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 6,
+        "iframe": 4,
+        "script": 55,
+        "style": 16,
+        "svg": 219
+      }
+    }
+  },
+  {
+    "source_url": "https://science.nasa.gov/solar-system/oort-cloud/",
+    "final_url": "https://science.nasa.gov/solar-system/oort-cloud/",
+    "retrieved_at": "2026-09-09T12:23:19.597729+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "de08673063c499f0a6a2f3e4b19bbcb6b3b601b802a182bf0e8f611ea6cccdf2",
+    "id": "nasa-gov-05",
+    "domain": "nasa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Aeronautics and Space Administration (NASA)",
+      "title": "Oort Cloud",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://science.nasa.gov/solar-system/oort-cloud/"
+    },
+    "review_status": "pending",
+    "original_sha256": "27e53575e254ce553dfb92eb71eab698d165278e48036c5a5b4af91ecad4bd6f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 6,
+        "iframe": 3,
+        "script": 54,
+        "style": 12,
+        "svg": 215
+      }
+    }
+  },
+  {
+    "source_url": "https://oceanservice.noaa.gov/education/tutorial_currents/",
+    "final_url": "https://oceanservice.noaa.gov/education/tutorial_currents/",
+    "retrieved_at": "2026-09-09T12:29:09.286957+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "5b842416889d3279b78403d7168ea6d84cf5872d0678678f2d476c62613a00b1",
+    "id": "noaa-gov-01",
+    "domain": "noaa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Ocean Service, National Oceanic and Atmospheric Administration (NOAA)",
+      "title": "Currents: NOAA's National Ocean Service Education",
+      "license_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://oceanservice.noaa.gov/education/tutorial_currents/"
+    },
+    "review_status": "pending",
+    "original_sha256": "db9b5ea69914777479b270e31da924a2f616c0dec19f4a3960d698e96cad768b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 16,
+        "style": 2,
+        "svg": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html",
+    "final_url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html",
+    "retrieved_at": "2026-09-09T12:29:12.011053+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "018497047d9dbe07545fc922b6411f42ffa1aa0387cfe269945064d307999343",
+    "id": "noaa-gov-05",
+    "domain": "noaa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Ocean Service, National Oceanic and Atmospheric Administration (NOAA)",
+      "title": "The Coriolis Effect - Currents: NOAA's National Ocean Service Education",
+      "license_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://oceanservice.noaa.gov/education/tutorial_currents/04currents1.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "845e137512e0f3a1950d0479619e539618d3d1800ce2269b13b4b449e0276dfb",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 16,
+        "style": 2,
+        "svg": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://oceanservice.noaa.gov/education/tutorial_currents/welcome.html",
+    "final_url": "https://oceanservice.noaa.gov/education/tutorial_currents/welcome.html",
+    "retrieved_at": "2026-09-09T12:32:56.399145+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "78189d7bcc91bad3cbec2a20509fd9444762974d52f41a5d37d8cb505d7e93f9",
+    "id": "noaa-gov-06",
+    "domain": "noaa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Ocean Service, National Oceanic and Atmospheric Administration (NOAA)",
+      "title": "Currents: NOAA's National Ocean Service Education",
+      "license_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://oceanservice.noaa.gov/education/tutorial_currents/welcome.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "db9b5ea69914777479b270e31da924a2f616c0dec19f4a3960d698e96cad768b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 16,
+        "style": 2,
+        "svg": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal1.html",
+    "final_url": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal1.html",
+    "retrieved_at": "2026-09-09T12:32:57.077244+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "9703a338d2ec7e58a9a017d967bb2321d699c88e6ca4da594cde7818c8713846",
+    "id": "noaa-gov-07",
+    "domain": "noaa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Ocean Service, National Oceanic and Atmospheric Administration (NOAA)",
+      "title": "Tidal Currents - Currents: NOAA's National Ocean Service Education",
+      "license_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal1.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "690885bf9cde4adf1c4246dc370e52a955b3bfc13073e1c06524e1a9fb8d9071",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 16,
+        "style": 2,
+        "svg": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal2.html",
+    "final_url": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal2.html",
+    "retrieved_at": "2026-09-09T12:32:57.764085+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "c40cf5a26b6d92fa51450100fe599c079bbc44cede5c278e0963c34ae71263dd",
+    "id": "noaa-gov-08",
+    "domain": "noaa.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Ocean Service, National Oceanic and Atmospheric Administration (NOAA)",
+      "title": "Tidal Currents 2 - Currents: NOAA's National Ocean Service Education",
+      "license_url": "https://oceanservice.noaa.gov/disclaimer.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://oceanservice.noaa.gov/education/tutorial_currents/02tidal2.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "d86a8bbff0bbbd6cb980bb243f268083272d1b3df1fab8db7c10498296dcd759",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 17,
+        "style": 2,
+        "svg": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://diff.wikimedia.org/",
+    "final_url": "https://diff.wikimedia.org/",
+    "retrieved_at": "2026-09-09T12:32:56.794405+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "0efcbea2d2f4f27cbadd2fe2eb4b6677d02d2524e21c3cf6fab881f8db0dcfb7",
+    "id": "wikimedia-org-01",
+    "domain": "wikimedia.org",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://diff.wikimedia.org/about/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Community Resources Team; Sir Amugi; Moheen Reeyad; Wikimedia Bangladesh; Sandister Tei (WMF); Tochiprecious; Lodewijk; TOUMOU; Pijri Paijar; Hunghoro; Piyanist; Diff / Wikimedia contributors",
+      "title": "Diff – News from the Wikimedia movement",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://diff.wikimedia.org/"
+    },
+    "review_status": "pending",
+    "original_sha256": "ac3bc9bfae26791ec2f5b3e16ac40069c3cd26ffef23ddb986f589d714dbe53f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 9,
+        "style": 19
+      }
+    }
+  },
+  {
+    "source_url": "https://diff.wikimedia.org/2026/08/31/fy25-26-annual-funding-programs-reflections-learnings/",
+    "final_url": "https://diff.wikimedia.org/2026/08/31/fy25-26-annual-funding-programs-reflections-learnings/",
+    "retrieved_at": "2026-09-09T12:32:57.974341+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "bf6d59b6d976fa36ba063dc664e85d3e81e4453999d303cb6767a2fb6dd0f789",
+    "id": "wikimedia-org-02",
+    "domain": "wikimedia.org",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://diff.wikimedia.org/about/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Community Resources Team; Diff / Wikimedia contributors",
+      "title": "FY25-26 Annual Funding Programs Reflections & Learnings – Diff",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://diff.wikimedia.org/2026/08/31/fy25-26-annual-funding-programs-reflections-learnings/"
+    },
+    "review_status": "pending",
+    "original_sha256": "064b0996b8af5709f1fe2fcec0e442b00b816e3ceb809c709f18b84754f49b13",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 19,
+        "style": 24,
+        "svg": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://diff.wikimedia.org/2026/09/09/dagbani-wikimedians-take-wikipedia-awareness-to-radio-promote-language-diversity-conference-2026/",
+    "final_url": "https://diff.wikimedia.org/2026/09/09/dagbani-wikimedians-take-wikipedia-awareness-to-radio-promote-language-diversity-conference-2026/",
+    "retrieved_at": "2026-09-09T12:32:58.987227+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "22d136af4980e7edaacddaa8bbe768f121c08e13f0e3d4716314477069fb5661",
+    "id": "wikimedia-org-03",
+    "domain": "wikimedia.org",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://diff.wikimedia.org/about/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Sir Amugi; Diff / Wikimedia contributors",
+      "title": "Dagbani Wikimedians Take Wikipedia Awareness to Radio, Promote Language Diversity Conference 2026 – Diff",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://diff.wikimedia.org/2026/09/09/dagbani-wikimedians-take-wikipedia-awareness-to-radio-promote-language-diversity-conference-2026/"
+    },
+    "review_status": "pending",
+    "original_sha256": "076617df50f6d26ab410cdb55f52a39439e398874955805214940749953f8f5f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 19,
+        "style": 20,
+        "svg": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://diff.wikimedia.org/2026/09/09/colours-of-celebration-the-winners-of-wiki-loves-bangla-2026/",
+    "final_url": "https://diff.wikimedia.org/2026/09/09/colours-of-celebration-the-winners-of-wiki-loves-bangla-2026/",
+    "retrieved_at": "2026-09-09T12:33:00.232866+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "55e7939626f54087c0dae9e7f16b3b2d35b6c1f32196887ee28f02ab94aeeec2",
+    "id": "wikimedia-org-04",
+    "domain": "wikimedia.org",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://diff.wikimedia.org/about/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Moheen Reeyad; Wikimedia Bangladesh; Diff / Wikimedia contributors",
+      "title": "Colours of Celebration: The Winners of Wiki Loves Bangla 2026 – Diff",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://diff.wikimedia.org/2026/09/09/colours-of-celebration-the-winners-of-wiki-loves-bangla-2026/"
+    },
+    "review_status": "pending",
+    "original_sha256": "eace2884cfad9c7f3098d6d3ce36003f753a125553a6af80bf17f2ae0b36683b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 19,
+        "style": 21,
+        "svg": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://diff.wikimedia.org/2026/09/07/tech-news-2026-issue-37/",
+    "final_url": "https://diff.wikimedia.org/2026/09/07/tech-news-2026-issue-37/",
+    "retrieved_at": "2026-09-09T12:33:01.346420+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "298f8c0dfd655827cf17a101751cbe0d1106a4a0b69124819112bdb7d439dd23",
+    "id": "wikimedia-org-05",
+    "domain": "wikimedia.org",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://diff.wikimedia.org/about/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Sandister Tei (WMF); Diff / Wikimedia contributors",
+      "title": "Tech News 2026 – Issue 37 – Diff",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://diff.wikimedia.org/2026/09/07/tech-news-2026-issue-37/"
+    },
+    "review_status": "pending",
+    "original_sha256": "3454818568e640894f982868ef7f1335dc596217c765e66886aee094f6689170",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 18,
+        "style": 21
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z",
+    "final_url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z",
+    "retrieved_at": "2026-09-09T12:23:17.063502+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "00d14dd21c23631fb376bdbb38b0f45c888ab0acdae29afda7a976b1d55eb3f9",
+    "id": "nist-gov-01",
+    "domain": "nist.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of Standards and Technology (NIST)",
+      "title": "Time and Frequency from A to Z | NIST",
+      "license_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z"
+    },
+    "review_status": "pending",
+    "original_sha256": "e40fe5b253b49ec32bb97ea41e2c8fc2ca54a878d73a81f9f71a5398092fc247",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 13,
+        "svg": 4,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nist.gov/pml/productsservices/physical-reference-data",
+    "final_url": "https://www.nist.gov/pml/productsservices/physical-reference-data",
+    "retrieved_at": "2026-09-09T12:23:19.583987+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "8b608ee37cc4c685ef8e52d0810f8303ba5473c0ca401505f0d60505a81eb5c3",
+    "id": "nist-gov-04",
+    "domain": "nist.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of Standards and Technology (NIST)",
+      "title": "Physical Reference Data | NIST",
+      "license_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nist.gov/pml/productsservices/physical-reference-data"
+    },
+    "review_status": "pending",
+    "original_sha256": "d8031c3202cc0529e75050c9c71e8c52fc9167e8be380e6133794e5141d899f0",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 11,
+        "svg": 1,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/what-time-it-mars-nist-physicists-have-answer",
+    "final_url": "https://www.nist.gov/news-events/news/2025/12/what-time-it-mars-nist-physicists-have-answer",
+    "retrieved_at": "2026-09-09T12:32:56.594435+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "cb021838a632dc7eae6402b2050117374b1124b8a1bf0d4a88683b3598354091",
+    "id": "nist-gov-06",
+    "domain": "nist.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of Standards and Technology (NIST)",
+      "title": "What Time Is It on Mars? NIST Physicists Have the Answer. | NIST",
+      "license_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nist.gov/news-events/news/2025/12/what-time-it-mars-nist-physicists-have-answer"
+    },
+    "review_status": "pending",
+    "original_sha256": "3a2694a9d12a76bac26a6eaa4a399562cc4901f5d07eedf2a05f99a900172328",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "iframe": 1,
+        "script": 11,
+        "svg": 1,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time",
+    "final_url": "https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time",
+    "retrieved_at": "2026-09-09T12:32:57.399001+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "95ec9b7d4551fa580ff740991188bf69304c7999866cd1ff0d7a80ebf0138934",
+    "id": "nist-gov-07",
+    "domain": "nist.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of Standards and Technology (NIST)",
+      "title": "New Atomic Fountain Clock Joins Elite Group That Keeps the World on Time | NIST",
+      "license_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time"
+    },
+    "review_status": "pending",
+    "original_sha256": "7e3dfdb22e86a581c145b0dfb6b9ca06dc0ca5827d26b9b83d7f87d8d7abb935",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "iframe": 1,
+        "script": 11,
+        "svg": 1,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nist.gov/news-events/news/2025/01/spotlight-alejandra-collopy-and-atomic-clocks",
+    "final_url": "https://www.nist.gov/news-events/news/2025/01/spotlight-alejandra-collopy-and-atomic-clocks",
+    "retrieved_at": "2026-09-09T12:32:58.758453+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "ab98c3e820ef26136c783b2946892f6126c98cead19473abe6421d1814905199",
+    "id": "nist-gov-08",
+    "domain": "nist.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of Standards and Technology (NIST)",
+      "title": "Spotlight: Alejandra Collopy and Atomic Clocks | NIST",
+      "license_url": "https://www.nist.gov/copyrights-disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nist.gov/news-events/news/2025/01/spotlight-alejandra-collopy-and-atomic-clocks"
+    },
+    "review_status": "pending",
+    "original_sha256": "8e245e0b8d7bb4c7c1adf7ce678e83fd76ecc02b48add7fb754e347eb27c6f05",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "iframe": 1,
+        "script": 11,
+        "svg": 1,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.energy.gov/science/doe-explainsquantum-mechanics",
+    "final_url": "https://www.energy.gov/science/doe-explainsquantum-mechanics",
+    "retrieved_at": "2026-09-09T12:24:06.568682+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "ad9993d6406a329daed5b4dff9c0a81dd5d69b0044244a27d22613a4e87f000a",
+    "id": "energy-gov-01",
+    "domain": "energy.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.energy.gov/web-policies",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Department of Energy",
+      "title": "DOE Explains...Quantum Mechanics | Department of Energy",
+      "license_url": "https://www.energy.gov/web-policies",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.energy.gov/science/doe-explainsquantum-mechanics"
+    },
+    "review_status": "pending",
+    "original_sha256": "0e327dd0e32d5d9a05202935a59924871aa3ebe20722b01bbcd076d042061184",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 19,
+        "style": 1,
+        "svg": 5,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.energy.gov/science/doe-explainsparticle-accelerators",
+    "final_url": "https://www.energy.gov/science/doe-explainsparticle-accelerators",
+    "retrieved_at": "2026-09-09T12:24:31.486233+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "7363d88211a1a9c38be3091e0ead194ff48c0cec5fb65de20b31bcfcfb631f9d",
+    "id": "energy-gov-02",
+    "domain": "energy.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.energy.gov/web-policies",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Department of Energy",
+      "title": "DOE Explains...Particle Accelerators | Department of Energy",
+      "license_url": "https://www.energy.gov/web-policies",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.energy.gov/science/doe-explainsparticle-accelerators"
+    },
+    "review_status": "pending",
+    "original_sha256": "42f279ee538a8a864f413b8eed4b750463be862702251a8a5aaf59f9c2a8c4f6",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 19,
+        "style": 1,
+        "svg": 5,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.energy.gov/science/doe-explainsquantum-computing",
+    "final_url": "https://www.energy.gov/science/doe-explainsquantum-computing",
+    "retrieved_at": "2026-09-09T12:24:51.411366+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "7953f013e9c22147d770b7c933a47ee8e943be9adf04b70e72e4fc3ea351abbd",
+    "id": "energy-gov-03",
+    "domain": "energy.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.energy.gov/web-policies",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Department of Energy",
+      "title": "DOE Explains...Quantum Computing | Department of Energy",
+      "license_url": "https://www.energy.gov/web-policies",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.energy.gov/science/doe-explainsquantum-computing"
+    },
+    "review_status": "pending",
+    "original_sha256": "291c154adead20b656774789cd0fd5bf5f097f2d0ffe70a36c4efb49809b6335",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 19,
+        "style": 1,
+        "svg": 5,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.energy.gov/science/doe-explainsnuclei",
+    "final_url": "https://www.energy.gov/science/doe-explainsnuclei",
+    "retrieved_at": "2026-09-09T12:26:17.854927+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "e030ab618765bbcfa444467324a5d2be6afb5e6a0a895f1f1be78349c334636b",
+    "id": "energy-gov-04",
+    "domain": "energy.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.energy.gov/web-policies",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Department of Energy",
+      "title": "DOE Explains...Nuclei | Department of Energy",
+      "license_url": "https://www.energy.gov/web-policies",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.energy.gov/science/doe-explainsnuclei"
+    },
+    "review_status": "pending",
+    "original_sha256": "bc75acdef3eab9f7b92cd614748c4b7afba64722b9725f5263c3f729918cd97e",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 19,
+        "style": 1,
+        "svg": 5,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.energy.gov/science/doe-explainsneutrons",
+    "final_url": "https://www.energy.gov/science/doe-explainsneutrons",
+    "retrieved_at": "2026-09-09T12:26:42.119453+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "effb2fed0b736181e60f5e98959d765c2e993da39c8d1208ee93c5bd87f5ec6f",
+    "id": "energy-gov-05",
+    "domain": "energy.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.energy.gov/web-policies",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Department of Energy",
+      "title": "DOE Explains...Neutrons | Department of Energy",
+      "license_url": "https://www.energy.gov/web-policies",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.energy.gov/science/doe-explainsneutrons"
+    },
+    "review_status": "pending",
+    "original_sha256": "33af7fbabb273c9a7d5435b24358e0848466d48522d120b4d509d7c68522b82b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 19,
+        "style": 1,
+        "svg": 5,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics",
+    "final_url": "https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics",
+    "retrieved_at": "2026-09-09T12:29:09.856246+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "9e3c9554306829a8c1fe3a7d1054cbcdfb3150242998e1ec961ae3fa22e6c5f5",
+    "id": "nih-gov-01",
+    "domain": "nih.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of General Medical Sciences, National Institutes of Health",
+      "title": "What Is Genetics? | National Institute of General Medical Sciences",
+      "license_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics"
+    },
+    "review_status": "pending",
+    "original_sha256": "5ea9d0a312f65fcbe567110b93bb76eb06290798c903d46b015b34c2fad72402",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 25,
+        "style": 2,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nigms.nih.gov/biobeat/2024/04/genetics-by-the-numbers",
+    "final_url": "https://www.nigms.nih.gov/biobeat/2024/04/genetics-by-the-numbers",
+    "retrieved_at": "2026-09-09T12:29:10.906922+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "358686cf9b01eef7169558d831289f1a9a76cda8516dc1685c2bfe5945c35000",
+    "id": "nih-gov-02",
+    "domain": "nih.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of General Medical Sciences, National Institutes of Health",
+      "title": "Genetics by the Numbers | National Institute of General Medical Sciences",
+      "license_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nigms.nih.gov/biobeat/2024/04/genetics-by-the-numbers"
+    },
+    "review_status": "pending",
+    "original_sha256": "f60d4560f83462bcaadf8b2af494c249c209b6715cee2d4935bd987e628eefb4",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 25,
+        "style": 2,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies",
+    "final_url": "https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies",
+    "retrieved_at": "2026-09-09T12:32:56.818563+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "ca8ab3c1a11e8f0fba5024803b7005ee4b261a92238dc640237f51f0271c0b05",
+    "id": "nih-gov-06",
+    "domain": "nih.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of General Medical Sciences, National Institutes of Health",
+      "title": "Slideshow: Creepy Crawlies | National Institute of General Medical Sciences",
+      "license_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies"
+    },
+    "review_status": "pending",
+    "original_sha256": "80f917cc53fe43c8fbbc3c9d36938d7417b0565374ea7ea96d2a13a05175b5ff",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 26,
+        "style": 3,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells",
+    "final_url": "https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells",
+    "retrieved_at": "2026-09-09T12:32:57.925807+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "921aea1578911add52a7d932884d1f7d259b51640ee71db8482380a7d509734f",
+    "id": "nih-gov-07",
+    "domain": "nih.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of General Medical Sciences, National Institutes of Health",
+      "title": "What Are Stem Cells? | National Institute of General Medical Sciences",
+      "license_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells"
+    },
+    "review_status": "pending",
+    "original_sha256": "d252257ef1d359ccfcc007c36a166c5a0f882f90422da629ccf1d77ff1c6bd4b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 25,
+        "style": 2,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nigms.nih.gov/biobeat/2022/06/hunting-disease-causing-genetic-variants",
+    "final_url": "https://www.nigms.nih.gov/biobeat/2022/06/hunting-disease-causing-genetic-variants",
+    "retrieved_at": "2026-09-09T12:32:59.044296+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "84f6792e97ff880a00ac976cf60fc50c8fa179260c03b846f756f9e1ebb3b442",
+    "id": "nih-gov-08",
+    "domain": "nih.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Institute of General Medical Sciences, National Institutes of Health",
+      "title": "Hunting Disease-Causing Genetic Variants | National Institute of General Medical Sciences",
+      "license_url": "https://www.nigms.nih.gov/Pages/Disclaimers",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nigms.nih.gov/biobeat/2022/06/hunting-disease-causing-genetic-variants"
+    },
+    "review_status": "pending",
+    "original_sha256": "6e12e89c49bd48b6b7346794db9e341f5c93f09f6b283ba9e01dfc2e630a5e82",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 25,
+        "style": 2,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://medlineplus.gov/genetics/understanding/basics/dna/",
+    "final_url": "https://medlineplus.gov/genetics/understanding/basics/dna/",
+    "retrieved_at": "2026-09-09T12:29:09.119768+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "48e0ec33075d1d36fd34c83d1353b90290aebc82ed61b7f23441f2b58270d694",
+    "id": "medlineplus-gov-01",
+    "domain": "medlineplus.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Source: MedlinePlus, National Library of Medicine.",
+      "title": "What is DNA?: MedlinePlus Genetics",
+      "license_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://medlineplus.gov/genetics/understanding/basics/dna/"
+    },
+    "review_status": "pending",
+    "original_sha256": "b9e9f7a0909e568bdeab032e1169b4fa8614f4e30a462c96b74ca320afcdd44e",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 8,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://medlineplus.gov/genetics/understanding/basics/gene/",
+    "final_url": "https://medlineplus.gov/genetics/understanding/basics/gene/",
+    "retrieved_at": "2026-09-09T12:29:09.791877+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "66d3d6591002c82777e403ff3150e82f31af219b7da41efa448c1072b3097544",
+    "id": "medlineplus-gov-02",
+    "domain": "medlineplus.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Source: MedlinePlus, National Library of Medicine.",
+      "title": "What is a gene?: MedlinePlus Genetics",
+      "license_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://medlineplus.gov/genetics/understanding/basics/gene/"
+    },
+    "review_status": "pending",
+    "original_sha256": "0208f373e62f6a516aa06dba2c52173282f840e7fbab38afc824f94762f59e44",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 8,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://medlineplus.gov/genetics/understanding/basics/chromosome/",
+    "final_url": "https://medlineplus.gov/genetics/understanding/basics/chromosome/",
+    "retrieved_at": "2026-09-09T12:29:10.441491+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "7e766e5eed850da1e3006f802226c5d0e2022c59713fd3c7980fbf01c90cc03f",
+    "id": "medlineplus-gov-03",
+    "domain": "medlineplus.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Source: MedlinePlus, National Library of Medicine.",
+      "title": "What is a chromosome?: MedlinePlus Genetics",
+      "license_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://medlineplus.gov/genetics/understanding/basics/chromosome/"
+    },
+    "review_status": "pending",
+    "original_sha256": "e51fa15758d28e2c7e2621fad2ae2059de0cc53e04c261b41ee2b5547ada463d",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 8,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://medlineplus.gov/genetics/understanding/basics/cell/",
+    "final_url": "https://medlineplus.gov/genetics/understanding/basics/cell/",
+    "retrieved_at": "2026-09-09T12:29:11.134886+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "dcdbc8381ce16cda8aa008f8b019f0fe5e3697dee9e6c6b4484cd21e0008d23a",
+    "id": "medlineplus-gov-04",
+    "domain": "medlineplus.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Source: MedlinePlus, National Library of Medicine.",
+      "title": "What is a cell?: MedlinePlus Genetics",
+      "license_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://medlineplus.gov/genetics/understanding/basics/cell/"
+    },
+    "review_status": "pending",
+    "original_sha256": "20a74c30d4ed9e66ce1e883c45f842dbc00b77a8c2bdf0c0198d97e5decfe444",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 8,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/",
+    "final_url": "https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/",
+    "retrieved_at": "2026-09-09T12:29:11.823275+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "b8366452f0fe05a9f87a5324ce5d2d0e4885961c8e93ca0a7b587f9a17cd74fc",
+    "id": "medlineplus-gov-05",
+    "domain": "medlineplus.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Source: MedlinePlus, National Library of Medicine.",
+      "title": "How many chromosomes do people have?: MedlinePlus Genetics",
+      "license_url": "https://medlineplus.gov/about/using/usingcontent/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/"
+    },
+    "review_status": "pending",
+    "original_sha256": "32806f32343368b85476ab5145a0d99ce7aa6c866bf45259130d6a7b844f5f38",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 8,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nps.gov/yell/learn/nature/hot-springs.htm",
+    "final_url": "https://www.nps.gov/yell/learn/nature/hot-springs.htm",
+    "retrieved_at": "2026-09-09T12:29:08.924306+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "13233b551e9743c2c694478dfbeb7ef3b9d0d72d12da44c034c8d4591e390988",
+    "id": "nps-gov-01",
+    "domain": "nps.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Park Service",
+      "title": "Hot Springs - Yellowstone National Park (U.S. National Park Service)",
+      "license_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nps.gov/yell/learn/nature/hot-springs.htm"
+    },
+    "review_status": "pending",
+    "original_sha256": "0a0f93a27f3037ad2a9410e82b0d9052f30d4facbbc53f76950405e7fa469ed6",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 4,
+        "iframe": 1,
+        "script": 27,
+        "style": 5,
+        "svg": 13
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nps.gov/yell/learn/nature/west-thumb-geyser-basin.htm",
+    "final_url": "https://www.nps.gov/yell/learn/nature/west-thumb-geyser-basin.htm",
+    "retrieved_at": "2026-09-09T12:29:10.032780+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "ba99847b3652475a5d21503a3760a2fab4fe56b58e49127984b2c3de1fe76524",
+    "id": "nps-gov-02",
+    "domain": "nps.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Park Service",
+      "title": "West Thumb Geyser Basin - Yellowstone National Park (U.S. National Park Service)",
+      "license_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nps.gov/yell/learn/nature/west-thumb-geyser-basin.htm"
+    },
+    "review_status": "pending",
+    "original_sha256": "2656578f5dfd64c74b34cc068d117e80181e2002ca9aaa1eec7f4d2922c487de",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 2,
+        "iframe": 1,
+        "script": 27,
+        "style": 7,
+        "svg": 13
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nps.gov/yell/learn/nature/hydrothermal-systems.htm",
+    "final_url": "https://www.nps.gov/yell/learn/nature/hydrothermal-systems.htm",
+    "retrieved_at": "2026-09-09T12:29:10.447592+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "942998b7adac28ad995a6ada7deb1c2a2f3debce4f698448799c45a8355846b4",
+    "id": "nps-gov-03",
+    "domain": "nps.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Park Service",
+      "title": "Hydrothermal Systems - Yellowstone National Park (U.S. National Park Service)",
+      "license_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nps.gov/yell/learn/nature/hydrothermal-systems.htm"
+    },
+    "review_status": "pending",
+    "original_sha256": "ed2d743a5c58c3704e4d90922375ff4219220a0c37c1c2bc78eadfcce43b655f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 14,
+        "iframe": 1,
+        "script": 29,
+        "style": 10,
+        "svg": 13
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nps.gov/yell/learn/nature/life-in-extreme-heat.htm",
+    "final_url": "https://www.nps.gov/yell/learn/nature/life-in-extreme-heat.htm",
+    "retrieved_at": "2026-09-09T12:29:10.892088+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "6078001008776e0822c3e3edd2b864ff988e14a55d536fbfe109e389d4ab0a34",
+    "id": "nps-gov-04",
+    "domain": "nps.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Park Service",
+      "title": "Life in Extreme Heat - Yellowstone National Park (U.S. National Park Service)",
+      "license_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nps.gov/yell/learn/nature/life-in-extreme-heat.htm"
+    },
+    "review_status": "pending",
+    "original_sha256": "c3740e776435db22840f28cf57c8b756a18b9b3af385fca4c19de3359396738b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 12,
+        "iframe": 1,
+        "script": 34,
+        "style": 7,
+        "svg": 13
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nps.gov/yell/learn/nature/hydrothermal-features.htm",
+    "final_url": "https://www.nps.gov/yell/learn/nature/hydrothermal-features.htm",
+    "retrieved_at": "2026-09-09T12:29:11.339965+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "0e42baf243fde5f41aa9258968104ecd3a2c35d28d0b0c07d3ac7d3b7f7ccf94",
+    "id": "nps-gov-05",
+    "domain": "nps.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Park Service",
+      "title": "Hydrothermal Features - Yellowstone National Park (U.S. National Park Service)",
+      "license_url": "https://www.nps.gov/aboutus/disclaimer.htm",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nps.gov/yell/learn/nature/hydrothermal-features.htm"
+    },
+    "review_status": "pending",
+    "original_sha256": "39e3bc2cd6c9458b6f35c6517e6702971174afd43773bddaf52ffe40678a34ee",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 10,
+        "iframe": 1,
+        "script": 35,
+        "style": 16,
+        "svg": 15
+      }
+    }
+  },
+  {
+    "source_url": "https://history.state.gov/milestones/1776-1783/declaration",
+    "final_url": "https://history.state.gov/milestones/1776-1783/declaration",
+    "retrieved_at": "2026-09-09T12:29:09.186267+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "4c3ecd5e693606fcc61d83cb1a392ba85938b998c5dccfe2cdbb0cd09b666fc0",
+    "id": "state-gov-01",
+    "domain": "state.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://2021-2025.state.gov/copyright-information/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Office of the Historian, U.S. Department of State",
+      "title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian",
+      "license_url": "https://2021-2025.state.gov/copyright-information/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://history.state.gov/milestones/1776-1783/declaration"
+    },
+    "review_status": "pending",
+    "original_sha256": "fc5296d25c33829259cf4057b593a2e7f34db9797b94a07aeb26782348c6e8c4",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://history.state.gov/milestones/1776-1783/articles",
+    "final_url": "https://history.state.gov/milestones/1776-1783/articles",
+    "retrieved_at": "2026-09-09T12:29:09.876788+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "f608f496f9cf3b9ca964fd20fa99acaac87968e2b8231110b46d3348d390b187",
+    "id": "state-gov-02",
+    "domain": "state.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://2021-2025.state.gov/copyright-information/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Office of the Historian, U.S. Department of State",
+      "title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian",
+      "license_url": "https://2021-2025.state.gov/copyright-information/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://history.state.gov/milestones/1776-1783/articles"
+    },
+    "review_status": "pending",
+    "original_sha256": "4058a60374c8aaecd73cfe9a3c05ff0e5ebbe17cd6211b126311e16cb9f99c32",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://history.state.gov/milestones/1776-1783/treaty",
+    "final_url": "https://history.state.gov/milestones/1776-1783/treaty",
+    "retrieved_at": "2026-09-09T12:29:10.572421+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "7c83fdd54fb3cfa30baeca962c47ddd6455d20a01a5213c3a8ed78ed75adcdef",
+    "id": "state-gov-03",
+    "domain": "state.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://2021-2025.state.gov/copyright-information/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Office of the Historian, U.S. Department of State",
+      "title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian",
+      "license_url": "https://2021-2025.state.gov/copyright-information/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://history.state.gov/milestones/1776-1783/treaty"
+    },
+    "review_status": "pending",
+    "original_sha256": "145c96a1577c6260d50c6e71e88974abf0ed1e003a54be804583079ce7e309a3",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://history.state.gov/milestones/1776-1783/french-alliance",
+    "final_url": "https://history.state.gov/milestones/1776-1783/french-alliance",
+    "retrieved_at": "2026-09-09T12:29:11.760336+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "43e53436b6dc97a6b4a1a232c06e629cb60c2df1ca69081188b4802e9b0954ae",
+    "id": "state-gov-04",
+    "domain": "state.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://2021-2025.state.gov/copyright-information/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Office of the Historian, U.S. Department of State",
+      "title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian",
+      "license_url": "https://2021-2025.state.gov/copyright-information/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://history.state.gov/milestones/1776-1783/french-alliance"
+    },
+    "review_status": "pending",
+    "original_sha256": "36f4023ef4d61d6e6d740b29055e1d0d7143c940a4d81860802cc45eb4c59937",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://history.state.gov/milestones/1776-1783/secret-committee",
+    "final_url": "https://history.state.gov/milestones/1776-1783/secret-committee",
+    "retrieved_at": "2026-09-09T12:29:12.453306+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "165c1514a3030dcc4ac384bb4ab2816fd25b8092c7c05e03ff3e73eea7942256",
+    "id": "state-gov-05",
+    "domain": "state.gov",
+    "category": "article",
+    "split": "development",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://2021-2025.state.gov/copyright-information/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Office of the Historian, U.S. Department of State",
+      "title": "Milestones in the History of U.S. Foreign Relations - Office of the Historian",
+      "license_url": "https://2021-2025.state.gov/copyright-information/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://history.state.gov/milestones/1776-1783/secret-committee"
+    },
+    "review_status": "pending",
+    "original_sha256": "6ec0d5127dd39aad96199cfb10d15a51f4475e15e482e430ec60b49320013169",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "final_url": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "retrieved_at": "2026-09-09T12:23:17.832970+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "9455c0425599c2164a8b9d1cc1aeb4bbc17d931c45b0e2e59aca4379c5b09231",
+    "id": "archives-gov-01",
+    "domain": "archives.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Archives and Records Administration",
+      "title": "Declaration of Independence: A Transcription | National Archives",
+      "license_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.archives.gov/founding-docs/declaration-transcript"
+    },
+    "review_status": "pending",
+    "original_sha256": "51ea009d49badf12bcf708bdb0a9a01ed3c56aa05a7dcf4d140e5e6af00d3237",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 47,
+        "style": 9
+      }
+    }
+  },
+  {
+    "source_url": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "final_url": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "retrieved_at": "2026-09-09T12:23:18.388336+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "ac24b1b42dcec31b48a215d384f8a006e35e34e27d0e760a2b0cda5d0bade609",
+    "id": "archives-gov-02",
+    "domain": "archives.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Archives and Records Administration",
+      "title": "The Constitution of the United States: A Transcription | National Archives",
+      "license_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.archives.gov/founding-docs/constitution-transcript"
+    },
+    "review_status": "pending",
+    "original_sha256": "627ac111095a3b8556e51ffbf67de4d39d0c365e4e29c5f56371d8dc5b288129",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 47,
+        "style": 9
+      }
+    }
+  },
+  {
+    "source_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "final_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+    "retrieved_at": "2026-09-09T12:23:18.893155+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "3f73ce9c248cb2c53eb608c9f489401b75f165021eb194a5d5a88edbd02b5323",
+    "id": "archives-gov-03",
+    "domain": "archives.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Archives and Records Administration",
+      "title": "The Bill of Rights: A Transcription | National Archives",
+      "license_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+    },
+    "review_status": "pending",
+    "original_sha256": "b6f36f5aa9bc72eaa8c5e3ee3853bea7bcc2512ffd5d18cba05e9b886ab965e5",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 47,
+        "style": 9
+      }
+    }
+  },
+  {
+    "source_url": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "final_url": "https://www.archives.gov/founding-docs/more-perfect-union",
+    "retrieved_at": "2026-09-09T12:23:19.850373+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "e4d4a01ccfa2ecfc4d76dc6051140a4da0e412c95486aad792be1204c6e307a0",
+    "id": "archives-gov-04",
+    "domain": "archives.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Archives and Records Administration",
+      "title": "Constitution of the United States—A History | National Archives",
+      "license_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.archives.gov/founding-docs/more-perfect-union"
+    },
+    "review_status": "pending",
+    "original_sha256": "4be470ce1ca629c15603623d51dac85470b8e51467074ce09db838ab4d913430",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 47,
+        "style": 9
+      }
+    }
+  },
+  {
+    "source_url": "https://www.archives.gov/founding-docs/declaration-history",
+    "final_url": "https://www.archives.gov/founding-docs/declaration-history",
+    "retrieved_at": "2026-09-09T12:23:20.506868+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "81b10d08a0cdcd0679365c4a41e4f0b98c492e7598e6bbb9a15b5dabad10c3d3",
+    "id": "archives-gov-05",
+    "domain": "archives.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "National Archives and Records Administration",
+      "title": "The Declaration of Independence: A History | National Archives",
+      "license_url": "https://www.archives.gov/global-pages/privacy.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.archives.gov/founding-docs/declaration-history"
+    },
+    "review_status": "pending",
+    "original_sha256": "1ba04458dcface0a8d6b797db258e27e9f9396179a8e5a8e90a8e572aa260a59",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 47,
+        "style": 9
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nsf.gov/science-matters",
+    "final_url": "https://www.nsf.gov/science-matters",
+    "retrieved_at": "2026-09-09T12:29:10.045274+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "e04fc95c6dccc44ca903dc14be0fa99fe8114286520584965c20d5351b1a1e45",
+    "id": "nsf-gov-01",
+    "domain": "nsf.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nsf.gov/policies/digital",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: U.S. National Science Foundation",
+      "title": "Science Matters | NSF - U.S. National Science Foundation",
+      "license_url": "https://www.nsf.gov/policies/digital",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nsf.gov/science-matters"
+    },
+    "review_status": "pending",
+    "original_sha256": "1962ce8b1cc56f8356434e79e742723b305f3e35b21206515e2eb571ccd98eea",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 16,
+        "style": 2,
+        "svg": 2,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nsf.gov/science-matters/materials-science-stuff-modern-world",
+    "final_url": "https://www.nsf.gov/science-matters/materials-science-stuff-modern-world",
+    "retrieved_at": "2026-09-09T12:29:10.477107+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "e7f2ec31a92c4e57f0f1b523a5c39e33adc80c25a35a348a579e809018b23d85",
+    "id": "nsf-gov-02",
+    "domain": "nsf.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nsf.gov/policies/digital",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: U.S. National Science Foundation",
+      "title": "Materials science: The stuff of the modern world | NSF - U.S. National Science Foundation",
+      "license_url": "https://www.nsf.gov/policies/digital",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nsf.gov/science-matters/materials-science-stuff-modern-world"
+    },
+    "review_status": "pending",
+    "original_sha256": "ad1fc87abd5a306318348d1c82821cf36714c876a2eaa25194662f4bc04d0acc",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 16,
+        "style": 2,
+        "svg": 3,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nsf.gov/science-matters/advancing-farming-cutting-edge-technologies",
+    "final_url": "https://www.nsf.gov/science-matters/advancing-farming-cutting-edge-technologies",
+    "retrieved_at": "2026-09-09T12:29:10.909711+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "04b6544a1bd33a2297772303bdd8b449bfe7ac8d374e45f8f7b23292d5b4bb86",
+    "id": "nsf-gov-03",
+    "domain": "nsf.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nsf.gov/policies/digital",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: U.S. National Science Foundation",
+      "title": "Advancing farming with cutting-edge technologies | NSF - U.S. National Science Foundation",
+      "license_url": "https://www.nsf.gov/policies/digital",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nsf.gov/science-matters/advancing-farming-cutting-edge-technologies"
+    },
+    "review_status": "pending",
+    "original_sha256": "ce68457d920015d93b3eb5ddeba0a93aea5c75429d48701462b1dfe690c0047d",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 16,
+        "style": 2,
+        "svg": 3,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nsf.gov/science-matters/quantum-sensing-inner-workings-cells-outer-limits-universe",
+    "final_url": "https://www.nsf.gov/science-matters/quantum-sensing-inner-workings-cells-outer-limits-universe",
+    "retrieved_at": "2026-09-09T12:29:11.372611+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "0a5d8724b61c5a551f66c8ec61bcef404ba4a93ef56239ba859ddc614b5df9e7",
+    "id": "nsf-gov-04",
+    "domain": "nsf.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nsf.gov/policies/digital",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: U.S. National Science Foundation",
+      "title": "Quantum sensing: From the inner workings of cells to the outer limits of the universe | NSF - U.S. National Science Foundation",
+      "license_url": "https://www.nsf.gov/policies/digital",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nsf.gov/science-matters/quantum-sensing-inner-workings-cells-outer-limits-universe"
+    },
+    "review_status": "pending",
+    "original_sha256": "3f6473ced026d017fb12b9d088e15fd7888e47e0fdc5659444e6256806648955",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 16,
+        "style": 2,
+        "svg": 3,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.nsf.gov/science-matters/engineering-materials-quantum-age",
+    "final_url": "https://www.nsf.gov/science-matters/engineering-materials-quantum-age",
+    "retrieved_at": "2026-09-09T12:29:13.254999+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "fe554bb0d3dc351e1df8464e8eb44fd9897e8a6f7f8c966f88e5139b1fa3755b",
+    "id": "nsf-gov-05",
+    "domain": "nsf.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.nsf.gov/policies/digital",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: U.S. National Science Foundation",
+      "title": "Engineering materials for the quantum age | NSF - U.S. National Science Foundation",
+      "license_url": "https://www.nsf.gov/policies/digital",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.nsf.gov/science-matters/engineering-materials-quantum-age"
+    },
+    "review_status": "pending",
+    "original_sha256": "e694dd06c00b22c0134033d13c3dff1c7a60e1340b8b9a0fd22c29234691cc7e",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 16,
+        "style": 2,
+        "svg": 3,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.genome.gov/genetics-glossary/Gene",
+    "final_url": "https://www.genome.gov/genetics-glossary/Gene",
+    "retrieved_at": "2026-09-09T12:31:28.110386+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "7486decef28bab9a19ccb6d22f04870f8070090c2b5e320c55be939bd8f33670",
+    "id": "genome-gov-01",
+    "domain": "genome.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: National Human Genome Research Institute",
+      "title": "Gene",
+      "license_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.genome.gov/genetics-glossary/Gene"
+    },
+    "review_status": "pending",
+    "original_sha256": "b7b5cab0482a0f592a6d7d25cf097bb532e0c977bda82211aa74fdd052939be0",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "iframe": 1,
+        "script": 8,
+        "style": 4,
+        "svg": 15,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.genome.gov/genetics-glossary/Chromosome",
+    "final_url": "https://www.genome.gov/genetics-glossary/Chromosome",
+    "retrieved_at": "2026-09-09T12:31:29.142295+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "398846c37bd40b1c36d7723222c275f73233ada9c2ff4b38aefaa905034dc5f0",
+    "id": "genome-gov-02",
+    "domain": "genome.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: National Human Genome Research Institute",
+      "title": "Chromosome",
+      "license_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.genome.gov/genetics-glossary/Chromosome"
+    },
+    "review_status": "pending",
+    "original_sha256": "637246a899b21f637c467ee2740d7848c802d9bf4530cd01a90d6e4627d49be1",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "iframe": 1,
+        "script": 8,
+        "style": 4,
+        "svg": 15,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.genome.gov/genetics-glossary/Allele",
+    "final_url": "https://www.genome.gov/genetics-glossary/Allele",
+    "retrieved_at": "2026-09-09T12:31:30.200188+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "bf1c81a674925a7fe5c397176ffb96e158bfa89f0515d2b0cba09a40f61bfb8c",
+    "id": "genome-gov-03",
+    "domain": "genome.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: National Human Genome Research Institute",
+      "title": "Allele",
+      "license_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.genome.gov/genetics-glossary/Allele"
+    },
+    "review_status": "pending",
+    "original_sha256": "a8b4ed498ddb95b61cc0f8aed2f3e667b5a4559d7ed9df65a296e7739ae6bc11",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "script": 8,
+        "style": 4,
+        "svg": 15,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.genome.gov/genetics-glossary/Genome",
+    "final_url": "https://www.genome.gov/genetics-glossary/Genome",
+    "retrieved_at": "2026-09-09T12:31:31.258318+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "9a763a99c71f61536bcab9aacd195f20ce6000ce275330f3d1b2ea400b67e2a4",
+    "id": "genome-gov-04",
+    "domain": "genome.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: National Human Genome Research Institute",
+      "title": "Genome",
+      "license_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.genome.gov/genetics-glossary/Genome"
+    },
+    "review_status": "pending",
+    "original_sha256": "1e7def73bc5826e33be8be21513a4809a9efda046b95fa7855620e16e97e537c",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "script": 8,
+        "style": 4,
+        "svg": 15,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.genome.gov/genetics-glossary/Mutation",
+    "final_url": "https://www.genome.gov/genetics-glossary/Mutation",
+    "retrieved_at": "2026-09-09T12:31:32.361838+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "febe3b946695141721ab7a2f909601e3495d19991bb21c6cc2fc0df1eb069544",
+    "id": "genome-gov-05",
+    "domain": "genome.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Courtesy: National Human Genome Research Institute",
+      "title": "Mutation",
+      "license_url": "https://www.genome.gov/about-nhgri/Policies-Guidance/Copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.genome.gov/genetics-glossary/Mutation"
+    },
+    "review_status": "pending",
+    "original_sha256": "5877c0bb8174a7500717d17ed686dfbe4c2de74087669ace087721d1da837012",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "script": 8,
+        "style": 4,
+        "svg": 15,
+        "site_settings": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.census.gov/about/history/historical-censuses-and-surveys/census-programs-surveys/geography.html",
+    "final_url": "https://www.census.gov/about/history/historical-censuses-and-surveys/census-programs-surveys/geography.html",
+    "retrieved_at": "2026-09-09T12:23:21.025194+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "e8468f4bb81cb8a2293d84206073730bf287ae31bfda41d20348ac7b620f46c8",
+    "id": "census-gov-01",
+    "domain": "census.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.census.gov/about/policies.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Census Bureau",
+      "title": "Geographic Programs History",
+      "license_url": "https://www.census.gov/about/policies.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.census.gov/about/history/historical-censuses-and-surveys/census-programs-surveys/geography.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "f49fb212ee098689a400328e7dd488346e5da006c2f039f5cc5ce79a1aca2d3a",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 95,
+        "script": 48,
+        "style": 2,
+        "svg": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://www.census.gov/about/history/bureau-history.html",
+    "final_url": "https://www.census.gov/about/history/bureau-history.html",
+    "retrieved_at": "2026-09-09T12:23:22.479239+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "dafd705d19bebb3b1aca9f0d620e92c6114b634c1aec3d9be988d1bb8bfc731d",
+    "id": "census-gov-02",
+    "domain": "census.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.census.gov/about/policies.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Census Bureau",
+      "title": "U.S. Census Bureau History",
+      "license_url": "https://www.census.gov/about/policies.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.census.gov/about/history/bureau-history.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "fc23e4fceaab488e46e2d255b6caab90d551ab9452ba5c662a09ef034bbb2dfe",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 87,
+        "script": 48,
+        "style": 2,
+        "svg": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://www.census.gov/about/history/census-records-family-history.html",
+    "final_url": "https://www.census.gov/about/history/census-records-family-history.html",
+    "retrieved_at": "2026-09-09T12:23:23.484564+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "9b700ae6917b188a4fc578abbb979844feb183648b4b90a983e676f403fb018d",
+    "id": "census-gov-03",
+    "domain": "census.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.census.gov/about/policies.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Census Bureau",
+      "title": "Census Records and Family History",
+      "license_url": "https://www.census.gov/about/policies.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.census.gov/about/history/census-records-family-history.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "fbea3b71dc62b8f360b7dabcdda2c9381b262c8c4074f8cf698f091b72e82f64",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 87,
+        "script": 48,
+        "style": 2,
+        "svg": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://www.census.gov/about/history/historical-censuses-and-surveys.html",
+    "final_url": "https://www.census.gov/about/history/historical-censuses-and-surveys.html",
+    "retrieved_at": "2026-09-09T12:23:24.437142+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "2c2511d4e91adc6994c9d7d61562c5575aca786505e98663e6b298a2129a66f6",
+    "id": "census-gov-04",
+    "domain": "census.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.census.gov/about/policies.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Census Bureau",
+      "title": "Historical Censuses & Surveys",
+      "license_url": "https://www.census.gov/about/policies.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.census.gov/about/history/historical-censuses-and-surveys.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "07234aeca4fd13063a6b3188db4c1160614d716bc9f7b2f3970c74a56f9166a9",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 81,
+        "script": 48,
+        "style": 2,
+        "svg": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://www.census.gov/about/history/galleries-archives.html",
+    "final_url": "https://www.census.gov/about/history/galleries-archives.html",
+    "retrieved_at": "2026-09-09T12:23:25.401388+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "f44119f3e1dba384dd7ddb5ffe55eaacdd16ac73e8e3f7d729d7a906938ececb",
+    "id": "census-gov-05",
+    "domain": "census.gov",
+    "category": "article",
+    "split": "held_out",
+    "provenance": {
+      "license": "U.S. government text; source policy and third-party exceptions apply",
+      "notice_url": "https://www.census.gov/about/policies.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "U.S. Census Bureau",
+      "title": "Galleries and Archives",
+      "license_url": "https://www.census.gov/about/policies.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.census.gov/about/history/galleries-archives.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "af88c329f679dc2a842de1394547c6264796a7fb56d9c02574b88cfb83f26636",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 87,
+        "script": 48,
+        "style": 2,
+        "svg": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.python.org/3/tutorial/introduction.html",
+    "final_url": "https://docs.python.org/3/tutorial/introduction.html",
+    "retrieved_at": "2026-09-09T12:23:20.593987+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "74e60c05d54e5b12cd54da5d97ce9511f84600171ba7f62f55cada7239b465c9",
+    "id": "python-org-01",
+    "domain": "python.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "PSF-2.0; code examples additionally 0BSD",
+      "notice_url": "https://docs.python.org/3/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2001 Python Software Foundation; All Rights Reserved.",
+      "title": "3. An Informal Introduction to Python — Python 3.14.7 documentation",
+      "license_url": "https://docs.python.org/3/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.python.org/3/tutorial/introduction.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "e900715b26a7b25339637eb1b83e7dc2ba5fbcabc6843e6a225845f155e40dc5",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 3,
+        "script": 13,
+        "style": 1,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.python.org/3/library/html.parser.html",
+    "final_url": "https://docs.python.org/3/library/html.parser.html",
+    "retrieved_at": "2026-09-09T12:23:21.007300+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "9198d5dcc02b29f373e4e2497a0696f75590e6c358d41d1e0218e3994a84874c",
+    "id": "python-org-02",
+    "domain": "python.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "PSF-2.0; code examples additionally 0BSD",
+      "notice_url": "https://docs.python.org/3/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2001 Python Software Foundation; All Rights Reserved.",
+      "title": "html.parser — Simple HTML and XHTML parser — Python 3.14.7 documentation",
+      "license_url": "https://docs.python.org/3/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.python.org/3/library/html.parser.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "165a665c4d6350509e781429616d7eab789f8da699360dc9ae4883ae906bc1cf",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 3,
+        "script": 13,
+        "style": 1,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.python.org/3/library/urllib.parse.html",
+    "final_url": "https://docs.python.org/3/library/urllib.parse.html",
+    "retrieved_at": "2026-09-09T12:23:21.379480+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "3237612a5d9e0aad99fb838c5c233876074ca349dbe0762347bbb3a9dbb6f1b3",
+    "id": "python-org-03",
+    "domain": "python.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "PSF-2.0; code examples additionally 0BSD",
+      "notice_url": "https://docs.python.org/3/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2001 Python Software Foundation; All Rights Reserved.",
+      "title": "urllib.parse — Parse URLs into components — Python 3.14.7 documentation",
+      "license_url": "https://docs.python.org/3/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.python.org/3/library/urllib.parse.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "a1fe93588c2871c21b8bcfdab935e26bd149c38a77b3729c3d314ee6da34a6f7",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 3,
+        "script": 13,
+        "style": 1,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.djangoproject.com/en/5.2/intro/overview/",
+    "final_url": "https://docs.djangoproject.com/en/5.2/intro/overview/",
+    "retrieved_at": "2026-09-09T12:23:20.865207+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "2a94d103d7dd46e02ebad510466b8f1d04a1cbdd66db32a6cb90a10ba74098ec",
+    "id": "djangoproject-com-01",
+    "domain": "djangoproject.com",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://raw.githubusercontent.com/django/django/stable/5.2.x/LICENSE",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2005–2026 Django Software Foundation and individual contributors.",
+      "title": "Django at a glance | Django documentation | Django",
+      "license_url": "https://raw.githubusercontent.com/django/django/stable/5.2.x/LICENSE",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.djangoproject.com/en/5.2/intro/overview/"
+    },
+    "review_status": "pending",
+    "original_sha256": "93b1c02e64c9d4f3534ba03f6d0af4ed850001d141a69b831d0241d22c4bca20",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.djangoproject.com/en/5.2/topics/http/urls/",
+    "final_url": "https://docs.djangoproject.com/en/5.2/topics/http/urls/",
+    "retrieved_at": "2026-09-09T12:23:21.265158+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "eb57a55529640f6540f24a111e7cf989b36f6702a92cd2780fda00b80b0a2ffa",
+    "id": "djangoproject-com-02",
+    "domain": "djangoproject.com",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://raw.githubusercontent.com/django/django/stable/5.2.x/LICENSE",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2005–2026 Django Software Foundation and individual contributors.",
+      "title": "URL dispatcher | Django documentation | Django",
+      "license_url": "https://raw.githubusercontent.com/django/django/stable/5.2.x/LICENSE",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.djangoproject.com/en/5.2/topics/http/urls/"
+    },
+    "review_status": "pending",
+    "original_sha256": "491cc25e695a29daa8cf677953f58c727271d5ac7321abf418acd14c04dc505f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.djangoproject.com/en/5.2/topics/templates/",
+    "final_url": "https://docs.djangoproject.com/en/5.2/topics/templates/",
+    "retrieved_at": "2026-09-09T12:23:21.632520+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "55dd558425764c2addfceca629611409f4bc5343af052ce64801911ea4844af3",
+    "id": "djangoproject-com-03",
+    "domain": "djangoproject.com",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://raw.githubusercontent.com/django/django/stable/5.2.x/LICENSE",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2005–2026 Django Software Foundation and individual contributors.",
+      "title": "Templates | Django documentation | Django",
+      "license_url": "https://raw.githubusercontent.com/django/django/stable/5.2.x/LICENSE",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.djangoproject.com/en/5.2/topics/templates/"
+    },
+    "review_status": "pending",
+    "original_sha256": "39c1d2b542556fe58d21cca0e78337b17ee6f4add1fe5c19843ca44ec808c052",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://flask.palletsprojects.com/en/stable/quickstart/",
+    "final_url": "https://flask.palletsprojects.com/en/stable/quickstart/",
+    "retrieved_at": "2026-09-09T12:23:21.031423+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "fec20d53f4fbe5fbfcf2cf049396c639fd11903b0ccadb5d30f0df56654f556b",
+    "id": "palletsprojects-com-01",
+    "domain": "palletsprojects.com",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://github.com/pallets/flask/blob/main/LICENSE.txt",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2010 Pallets.",
+      "title": "Quickstart — Flask Documentation (3.1.x)",
+      "license_url": "https://raw.githubusercontent.com/pallets/flask/main/LICENSE.txt",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://flask.palletsprojects.com/en/stable/quickstart/"
+    },
+    "review_status": "pending",
+    "original_sha256": "3f144d6f3bd557188597bfe1a860e13e232f23e64c6fbddaa83af2886f0a04b5",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://flask.palletsprojects.com/en/stable/tutorial/layout/",
+    "final_url": "https://flask.palletsprojects.com/en/stable/tutorial/layout/",
+    "retrieved_at": "2026-09-09T12:23:21.502811+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "9602308196e0240d82e9e0bb275286fd3e81d3b46e57b64459361ca0b3d5096b",
+    "id": "palletsprojects-com-02",
+    "domain": "palletsprojects.com",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://github.com/pallets/flask/blob/main/LICENSE.txt",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2010 Pallets.",
+      "title": "Project Layout — Flask Documentation (3.1.x)",
+      "license_url": "https://raw.githubusercontent.com/pallets/flask/main/LICENSE.txt",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://flask.palletsprojects.com/en/stable/tutorial/layout/"
+    },
+    "review_status": "pending",
+    "original_sha256": "04aca1a6f220e5770381d73d4a2b75806b9bfeec9effcd56362713ab1bba904f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://flask.palletsprojects.com/en/stable/patterns/fileuploads/",
+    "final_url": "https://flask.palletsprojects.com/en/stable/patterns/fileuploads/",
+    "retrieved_at": "2026-09-09T12:23:22.030469+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "87e1d0a7fdbd63c2bb739eb1e9b55fa2798c57da94098e18f77fe86caf53a94a",
+    "id": "palletsprojects-com-03",
+    "domain": "palletsprojects.com",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://github.com/pallets/flask/blob/main/LICENSE.txt",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2010 Pallets.",
+      "title": "Uploading Files — Flask Documentation (3.1.x)",
+      "license_url": "https://raw.githubusercontent.com/pallets/flask/main/LICENSE.txt",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://flask.palletsprojects.com/en/stable/patterns/fileuploads/"
+    },
+    "review_status": "pending",
+    "original_sha256": "0a97540f72be9b273abd148dfa7e5a48fb13cbf7d870e90d0b91b563e43ecb83",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+    "final_url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+    "retrieved_at": "2026-09-09T12:23:21.883244+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "76ef214c0e3995a57bc051cb6132a1efe40444b24752c11dab1fa28ff69b657e",
+    "id": "numpy-org-01",
+    "domain": "numpy.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://numpy.org/doc/stable/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2008–2026 NumPy Developers.",
+      "title": "NumPy: the absolute basics for beginners — NumPy v2.5 Manual",
+      "license_url": "https://numpy.org/doc/stable/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://numpy.org/doc/stable/user/absolute_beginners.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "de15999620ddf1922988bfc13bfe6785af25a6ad91c50dacc5af8fc292c68edb",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 19,
+        "style": 1,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://numpy.org/doc/stable/user/basics.creation.html",
+    "final_url": "https://numpy.org/doc/stable/user/basics.creation.html",
+    "retrieved_at": "2026-09-09T12:23:22.253833+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "6440a60d909aadbb96cb1338b3a88e6356b2a612d14232c904b72dfe5b675e56",
+    "id": "numpy-org-02",
+    "domain": "numpy.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://numpy.org/doc/stable/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2008–2026 NumPy Developers.",
+      "title": "Array creation — NumPy v2.5 Manual",
+      "license_url": "https://numpy.org/doc/stable/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://numpy.org/doc/stable/user/basics.creation.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "5bbf6f1c5f8b71326f5718e6108ecd96d0a02845f3adee856d1321fcb222f57d",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 18,
+        "style": 1,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://numpy.org/doc/stable/user/basics.indexing.html",
+    "final_url": "https://numpy.org/doc/stable/user/basics.indexing.html",
+    "retrieved_at": "2026-09-09T12:23:22.641481+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "dbefd92951c13d2bd4f07dfe20aeac96f525c33fb0203becc5cead0c745f2b60",
+    "id": "numpy-org-03",
+    "domain": "numpy.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://numpy.org/doc/stable/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2008–2026 NumPy Developers.",
+      "title": "Indexing on ndarrays — NumPy v2.5 Manual",
+      "license_url": "https://numpy.org/doc/stable/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://numpy.org/doc/stable/user/basics.indexing.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "b9d376809b5fb962c3c196299c0aab88a1ef93aa273c6721fe27b18a7a53092b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 19,
+        "style": 1,
+        "svg": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html",
+    "final_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html",
+    "retrieved_at": "2026-09-09T12:23:22.131941+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "fe6d88da0757e7f6c82374b8bfc113f6d935b917c9bb942e596834c8a8c46419",
+    "id": "pydata-org-01",
+    "domain": "pydata.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://pandas.pydata.org/docs/getting_started/overview.html#license",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2026 pandas contributors; see the additional copyright notices in LICENSES.txt.",
+      "title": "What kind of data does pandas handle? — pandas 3.0.5 documentation",
+      "license_url": "https://raw.githubusercontent.com/pandas-dev/pandas/main/LICENSE",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "e42b76c3140a2b726802932d95c956be2689a4c486045019e6f923a82fd4be70",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 14,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html",
+    "final_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html",
+    "retrieved_at": "2026-09-09T12:23:22.598823+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "423ce1b4554c65825fb1cd3367786f1b69483012f48ee936eb7c095b9c97588c",
+    "id": "pydata-org-02",
+    "domain": "pydata.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://pandas.pydata.org/docs/getting_started/overview.html#license",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2026 pandas contributors; see the additional copyright notices in LICENSES.txt.",
+      "title": "How do I read and write tabular data? — pandas 3.0.5 documentation",
+      "license_url": "https://raw.githubusercontent.com/pandas-dev/pandas/main/LICENSE",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "1e423ac7a0c25eaa42febd242fe86323f9d4e5c92a4f49bcde7d977fb93f1cfa",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 14,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html",
+    "final_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html",
+    "retrieved_at": "2026-09-09T12:23:22.964578+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "22060da4085a2442c15ccfd83becd383d0aa95ec5173d0dc11cbee900c61c2c0",
+    "id": "pydata-org-03",
+    "domain": "pydata.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://pandas.pydata.org/docs/getting_started/overview.html#license",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2026 pandas contributors; see the additional copyright notices in LICENSES.txt.",
+      "title": "How do I select a subset of a DataFrame? — pandas 3.0.5 documentation",
+      "license_url": "https://raw.githubusercontent.com/pandas-dev/pandas/main/LICENSE",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "b5fa0ca1951cd12e57dad408496c01b2ff8d863ca35ff62012c1776f4a7e44be",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 14,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.scipy.org/doc/scipy/tutorial/integrate.html",
+    "final_url": "https://docs.scipy.org/doc/scipy/tutorial/integrate.html",
+    "retrieved_at": "2026-09-09T12:23:22.978885+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "060c553b6478117b1100dc9b40c93e8e641fe49e550a1fa35c5cd5919a9ee6b6",
+    "id": "scipy-org-01",
+    "domain": "scipy.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://github.com/scipy/scipy/blob/main/LICENSE.txt",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2008 The SciPy community; see the additional copyright notices in LICENSES.txt.",
+      "title": "Integration (scipy.integrate) — SciPy v1.18.0 Manual",
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/main/LICENSE.txt",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.scipy.org/doc/scipy/tutorial/integrate.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "493cf3ba05d62409230fb0296d3772acb77c23695a187d4e5c50640186445dbd",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 20,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.scipy.org/doc/scipy/tutorial/interpolate.html",
+    "final_url": "https://docs.scipy.org/doc/scipy/tutorial/interpolate.html",
+    "retrieved_at": "2026-09-09T12:23:23.770694+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "f7ff0cba0b26bcd6c9c30eb03dbd57b9bc6b81b4aee5bbf5bfbde1d2dfe7b162",
+    "id": "scipy-org-02",
+    "domain": "scipy.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://github.com/scipy/scipy/blob/main/LICENSE.txt",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2008 The SciPy community; see the additional copyright notices in LICENSES.txt.",
+      "title": "Interpolation (scipy.interpolate) — SciPy v1.18.0 Manual",
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/main/LICENSE.txt",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.scipy.org/doc/scipy/tutorial/interpolate.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "6d24da6eccc53361f9b80092c17e066242bc3f9036b3121d97c92aa98cbd4b1d",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 20,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://docs.scipy.org/doc/scipy/tutorial/optimize.html",
+    "final_url": "https://docs.scipy.org/doc/scipy/tutorial/optimize.html",
+    "retrieved_at": "2026-09-09T12:23:24.773225+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "edad9f477687db60124663ca37582d5ae6459f487cc37dadc67268ed9baf805d",
+    "id": "scipy-org-03",
+    "domain": "scipy.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "BSD-3-Clause",
+      "notice_url": "https://github.com/scipy/scipy/blob/main/LICENSE.txt",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2008 The SciPy community; see the additional copyright notices in LICENSES.txt.",
+      "title": "Optimization (scipy.optimize) — SciPy v1.18.0 Manual",
+      "license_url": "https://raw.githubusercontent.com/scipy/scipy/main/LICENSE.txt",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://docs.scipy.org/doc/scipy/tutorial/optimize.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "3abd87b6f90205d425efc4ff3bbb67e99603456aaa9d0b7f620d3c2c4338366c",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 20,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://matplotlib.org/stable/users/explain/quick_start.html",
+    "final_url": "https://matplotlib.org/stable/users/explain/quick_start.html",
+    "retrieved_at": "2026-09-09T12:23:23.142313+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "a7f111b2318a132896b4c3f9d4d37f2a7658e10ddaaf5bdbcbee1f7a2bf42fa7",
+    "id": "matplotlib-org-01",
+    "domain": "matplotlib.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "Matplotlib licence",
+      "notice_url": "https://matplotlib.org/stable/project/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2002–2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom and the Matplotlib development team; 2012–2026 The Matplotlib development team.",
+      "title": "Quick start guide — Matplotlib 3.11.1 documentation",
+      "license_url": "https://matplotlib.org/stable/project/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://matplotlib.org/stable/users/explain/quick_start.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "0567658b3ca2cd3e2b54e6b6c0b0affd2ac29aaa644facc8c1eb705f0333047c",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 17,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://matplotlib.org/stable/users/explain/figure/figure_intro.html",
+    "final_url": "https://matplotlib.org/stable/users/explain/figure/figure_intro.html",
+    "retrieved_at": "2026-09-09T12:23:23.605040+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "f04cc6115d4e39056eac50c62c5f91a9c1e4dc720431ed2792bb6050a9c7c345",
+    "id": "matplotlib-org-02",
+    "domain": "matplotlib.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "Matplotlib licence",
+      "notice_url": "https://matplotlib.org/stable/project/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2002–2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom and the Matplotlib development team; 2012–2026 The Matplotlib development team.",
+      "title": "Introduction to Figures — Matplotlib 3.11.1 documentation",
+      "license_url": "https://matplotlib.org/stable/project/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://matplotlib.org/stable/users/explain/figure/figure_intro.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "124e856287eee0be155f018a46a220f0c37a8f329ec2faec67f7b58716239a55",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 16,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://matplotlib.org/stable/users/explain/text/text_intro.html",
+    "final_url": "https://matplotlib.org/stable/users/explain/text/text_intro.html",
+    "retrieved_at": "2026-09-09T12:23:24.096549+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "c820df4cadf1d1b20124a8988bcccfe4216d2c0710298ad1c9952519abb27791",
+    "id": "matplotlib-org-03",
+    "domain": "matplotlib.org",
+    "category": "documentation",
+    "split": "development",
+    "provenance": {
+      "license": "Matplotlib licence",
+      "notice_url": "https://matplotlib.org/stable/project/license.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2002–2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom and the Matplotlib development team; 2012–2026 The Matplotlib development team.",
+      "title": "Text in Matplotlib — Matplotlib 3.11.1 documentation",
+      "license_url": "https://matplotlib.org/stable/project/license.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://matplotlib.org/stable/users/explain/text/text_intro.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "8ccb7b8fec4e035d28571029c000aead21c57c76a777b939d4a3e642c2746755",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 16,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://doc.rust-lang.org/book/ch01-02-hello-world.html",
+    "final_url": "https://doc.rust-lang.org/book/ch01-02-hello-world.html",
+    "retrieved_at": "2026-09-09T12:23:23.654773+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "UTF-8",
+    "sha256": "f34b43291c4d90f5048b8f6a0b4bf15ed6a3097589937a069880a301c3dc7f75",
+    "id": "rust-lang-org-01",
+    "domain": "rust-lang.org",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "MIT (chosen from MIT OR Apache-2.0)",
+      "notice_url": "https://github.com/rust-lang/book/blob/main/LICENSE-MIT",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2010 The Rust Project Developers.",
+      "title": "Hello, World! - The Rust Programming Language",
+      "license_url": "https://github.com/rust-lang/book/blob/main/LICENSE-MIT",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://doc.rust-lang.org/book/ch01-02-hello-world.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "b7181d59f68055aa5c36517b55858547218d2c28c34fc20b47629242936fea20",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 14,
+        "svg": 15
+      }
+    }
+  },
+  {
+    "source_url": "https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html",
+    "final_url": "https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html",
+    "retrieved_at": "2026-09-09T12:23:24.501576+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "UTF-8",
+    "sha256": "9a61f2e3b620c6b7bf4c944e1ece251c16c6e80b44dde78af3879d1774e1cbf3",
+    "id": "rust-lang-org-02",
+    "domain": "rust-lang.org",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "MIT (chosen from MIT OR Apache-2.0)",
+      "notice_url": "https://github.com/rust-lang/book/blob/main/LICENSE-MIT",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2010 The Rust Project Developers.",
+      "title": "Variables and Mutability - The Rust Programming Language",
+      "license_url": "https://github.com/rust-lang/book/blob/main/LICENSE-MIT",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "5cdb42a57bf3ebe297a500a4d5e5e5b3f24e028532c6ed2e81adc4be7161575e",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 14,
+        "svg": 15
+      }
+    }
+  },
+  {
+    "source_url": "https://doc.rust-lang.org/book/ch03-02-data-types.html",
+    "final_url": "https://doc.rust-lang.org/book/ch03-02-data-types.html",
+    "retrieved_at": "2026-09-09T12:23:24.867814+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "UTF-8",
+    "sha256": "80d6dc23f864d3653b91da88b48d93f875de94bb7d9072be25aec477d895f464",
+    "id": "rust-lang-org-03",
+    "domain": "rust-lang.org",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "MIT (chosen from MIT OR Apache-2.0)",
+      "notice_url": "https://github.com/rust-lang/book/blob/main/LICENSE-MIT",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2010 The Rust Project Developers.",
+      "title": "Data Types - The Rust Programming Language",
+      "license_url": "https://github.com/rust-lang/book/blob/main/LICENSE-MIT",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://doc.rust-lang.org/book/ch03-02-data-types.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "c0d294a51ba8e44330400708037fcfe844e925294c63476b7ed97234591901b7",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 14,
+        "svg": 15
+      }
+    }
+  },
+  {
+    "source_url": "https://go.dev/doc/tutorial/getting-started",
+    "final_url": "https://go.dev/doc/tutorial/getting-started",
+    "retrieved_at": "2026-09-09T12:23:24.680262+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "8a80d68807dc9d72ac2f8dff4ad7af014b55bfcedbdede178df9b2fcaa8e94ef",
+    "id": "go-dev-01",
+    "domain": "go.dev",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "CC-BY-4.0 text; BSD-3-Clause code",
+      "notice_url": "https://go.dev/copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2009 The Go Authors.",
+      "title": "Tutorial: Get started with Go - The Go Programming Language",
+      "license_url": "https://go.dev/copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://go.dev/doc/tutorial/getting-started"
+    },
+    "review_status": "pending",
+    "original_sha256": "a7048d2cce6a94ae835c9503d6af5e96f88954a459d831fe03f9a7d82b60ef2c",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 11
+      }
+    }
+  },
+  {
+    "source_url": "https://go.dev/doc/tutorial/create-module",
+    "final_url": "https://go.dev/doc/tutorial/create-module",
+    "retrieved_at": "2026-09-09T12:23:25.181540+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "88ab5af7d2c9be97230e7ac4bbf21f6af393b191576c1184b5e838ce09ab2fa6",
+    "id": "go-dev-02",
+    "domain": "go.dev",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "CC-BY-4.0 text; BSD-3-Clause code",
+      "notice_url": "https://go.dev/copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2009 The Go Authors.",
+      "title": "Tutorial: Create a Go module - The Go Programming Language",
+      "license_url": "https://go.dev/copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://go.dev/doc/tutorial/create-module"
+    },
+    "review_status": "pending",
+    "original_sha256": "8b2aaca6f9bc501bf05323fc6223f324c7940e201363051ca006791db922ec8f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 11
+      }
+    }
+  },
+  {
+    "source_url": "https://go.dev/doc/effective_go",
+    "final_url": "https://go.dev/doc/effective_go",
+    "retrieved_at": "2026-09-09T12:23:26.202925+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "5ff6e83453d8e9f30b300256b5afa9a73a10b85355d173c28ea8745b547c7f45",
+    "id": "go-dev-03",
+    "domain": "go.dev",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "CC-BY-4.0 text; BSD-3-Clause code",
+      "notice_url": "https://go.dev/copyright",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 2009 The Go Authors.",
+      "title": "Effective Go - The Go Programming Language",
+      "license_url": "https://go.dev/copyright",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://go.dev/doc/effective_go"
+    },
+    "review_status": "pending",
+    "original_sha256": "31b3beeb4fea135b85070f0362a1373b5e67981b8d6adc4afbb7291e06cdac5f",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "iframe": 1,
+        "script": 11
+      }
+    }
+  },
+  {
+    "source_url": "https://www.postgresql.org/docs/current/tutorial-start.html",
+    "final_url": "https://www.postgresql.org/docs/current/tutorial-start.html",
+    "retrieved_at": "2026-09-09T12:23:24.580711+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "7f15ddc9796f159ca7c73db125b54fc158c802589e74ebf641c7481a255ef288",
+    "id": "postgresql-org-01",
+    "domain": "postgresql.org",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "PostgreSQL",
+      "notice_url": "https://www.postgresql.org/about/licence/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 1996–2026 PostgreSQL Global Development Group; 1994 The Regents of the University of California.",
+      "title": "PostgreSQL: Documentation: 18: Chapter 1. Getting Started",
+      "license_url": "https://www.postgresql.org/about/licence/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.postgresql.org/docs/current/tutorial-start.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "4697099bf9ccd4f6476c48a53e84ef34c2691d4949890aacfd606f2eb02d8710",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://www.postgresql.org/docs/current/tutorial-table.html",
+    "final_url": "https://www.postgresql.org/docs/current/tutorial-table.html",
+    "retrieved_at": "2026-09-09T12:23:25.024926+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "ef97e4ab0371fbd00e75a409b085fa8f8235c79bd8908b2791524a03db57e371",
+    "id": "postgresql-org-02",
+    "domain": "postgresql.org",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "PostgreSQL",
+      "notice_url": "https://www.postgresql.org/about/licence/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 1996–2026 PostgreSQL Global Development Group; 1994 The Regents of the University of California.",
+      "title": "PostgreSQL: Documentation: 18: 2.3. Creating a New Table",
+      "license_url": "https://www.postgresql.org/about/licence/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.postgresql.org/docs/current/tutorial-table.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "c0ee7bfa0b4f4ce01a72bfbbe26fff408ca8fde40cd9491202183e87fc3c7b73",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://www.postgresql.org/docs/current/tutorial-populate.html",
+    "final_url": "https://www.postgresql.org/docs/current/tutorial-populate.html",
+    "retrieved_at": "2026-09-09T12:23:25.479508+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "0349c8598b4a6751020c131fed88f988dbee584464346efd64baaa7716a84000",
+    "id": "postgresql-org-03",
+    "domain": "postgresql.org",
+    "category": "documentation",
+    "split": "held_out",
+    "provenance": {
+      "license": "PostgreSQL",
+      "notice_url": "https://www.postgresql.org/about/licence/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright 1996–2026 PostgreSQL Global Development Group; 1994 The Regents of the University of California.",
+      "title": "PostgreSQL: Documentation: 18: 2.4. Populating a Table With Rows",
+      "license_url": "https://www.postgresql.org/about/licence/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.postgresql.org/docs/current/tutorial-populate.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "4b571a7597ac391f14de0cc2b5526490d3015922a7c8c1a34a2f5d53824f9019",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wikipedia.org/wiki/Tea",
+    "final_url": "https://en.wikipedia.org/wiki/Tea",
+    "retrieved_at": "2026-09-09T12:23:25.344795+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "8cb1ae17b3ecf342ac61792739e033716c4153cdbfdffaea7838ab3e3a07f8f3",
+    "id": "wikipedia-org-01",
+    "domain": "wikipedia.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikipedia contributors",
+      "title": "Tea - Wikipedia",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wikipedia.org/w/index.php?title=Tea&oldid=1372805054"
+    },
+    "review_status": "pending",
+    "original_sha256": "1b267daf1bb60b9592bfb9ac59048286a9c00b125e907f57c9a3a4f342a16d2b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 15
+      }
+    }
+  },
+  {
+    "source_url": "https://de.wikipedia.org/wiki/Tee",
+    "final_url": "https://de.wikipedia.org/wiki/Tee",
+    "retrieved_at": "2026-09-09T12:23:25.887366+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "40ca896784056972f13334f9c4c39f9ab273a832c325d1d6713604ca4c7e6c9b",
+    "id": "wikipedia-org-02",
+    "domain": "wikipedia.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikipedia contributors",
+      "title": "Tee – Wikipedia",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://de.wikipedia.org/w/index.php?title=Tee&oldid=265554166"
+    },
+    "review_status": "pending",
+    "original_sha256": "a55e30fc402e7707a2e2416a7f15149b1850c011e162468f0dc1fb562cd50bd1",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 8
+      }
+    }
+  },
+  {
+    "source_url": "https://ja.wikipedia.org/wiki/%E8%8C%B6",
+    "final_url": "https://ja.wikipedia.org/wiki/%E8%8C%B6",
+    "retrieved_at": "2026-09-09T12:23:27.165315+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "960362828f5d732664537c7c9437e53c02301ac0780fae93369467342bcc6377",
+    "id": "wikipedia-org-03",
+    "domain": "wikipedia.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikipedia contributors",
+      "title": "茶 - Wikipedia",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://ja.wikipedia.org/w/index.php?title=茶&oldid=110306335"
+    },
+    "review_status": "pending",
+    "original_sha256": "26958f2de0ac6beeff56379e219852971029052e335085babf9e77c45d1e111b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 8
+      }
+    }
+  },
+  {
+    "source_url": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D9%8A",
+    "final_url": "https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D9%8A",
+    "retrieved_at": "2026-09-09T12:23:27.774903+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "e9593e3319633d7b560d0fcaaa7c9c5e8cd651b14de5dfe0bfb9cefe1a80cae7",
+    "id": "wikipedia-org-04",
+    "domain": "wikipedia.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikipedia contributors",
+      "title": "شاي - ويكيبيديا",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://ar.wikipedia.org/w/index.php?title=شاي&oldid=75989926"
+    },
+    "review_status": "pending",
+    "original_sha256": "4022981208bea776601c9db0d2295eba9188e2001dbecd0436da7793031afc35",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 12
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wiktionary.org/wiki/tea",
+    "final_url": "https://en.wiktionary.org/wiki/tea",
+    "retrieved_at": "2026-09-09T12:23:25.950996+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "d5fc472b238be731ee0f8257333afce4e081e799f67707b6f0c0b73ad0bc6d22",
+    "id": "wiktionary-org-01",
+    "domain": "wiktionary.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wiktionary contributors",
+      "title": "tea - Wiktionary, the free dictionary",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wiktionary.org/w/index.php?title=tea&oldid=92064391"
+    },
+    "review_status": "pending",
+    "original_sha256": "3fb36773b52ec514ba4eacbba7ca51da16790cf7567b63c5ce0ddcebbec6fba6",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wiktionary.org/wiki/water",
+    "final_url": "https://en.wiktionary.org/wiki/water",
+    "retrieved_at": "2026-09-09T12:23:26.921064+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "8a87fd76c3417c1b0c2f69ecfbfc55c0bdf7e576321507d21acc077d8b03b09f",
+    "id": "wiktionary-org-02",
+    "domain": "wiktionary.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wiktionary contributors",
+      "title": "water - Wiktionary, the free dictionary",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wiktionary.org/w/index.php?title=water&oldid=92439703"
+    },
+    "review_status": "pending",
+    "original_sha256": "e3fe0f1bb8bed58fc2aa978073df96b6493d9411f52ecae41d6828e9027a9974",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 7
+      }
+    }
+  },
+  {
+    "source_url": "https://fr.wiktionary.org/wiki/chat",
+    "final_url": "https://fr.wiktionary.org/wiki/chat",
+    "retrieved_at": "2026-09-09T12:23:28.186068+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "73327d14d35ae240306a3187bf77b2e48b3c2e0853712d07d8064728ba72e390",
+    "id": "wiktionary-org-03",
+    "domain": "wiktionary.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wiktionary contributors",
+      "title": "chat — Wiktionnaire, le dictionnaire libre",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://fr.wiktionary.org/w/index.php?title=chat&oldid=39841210"
+    },
+    "review_status": "pending",
+    "original_sha256": "8123efb5d9ad0c3a431c4b3d7b48d987c5dc6e784a6856a51cc3fb6fc81dca3b",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wiktionary.org/wiki/%E6%B0%B4",
+    "final_url": "https://en.wiktionary.org/wiki/%E6%B0%B4",
+    "retrieved_at": "2026-09-09T12:23:29.781486+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "0e7486a4f6bab40a5f24d2b3d8a81dac0dff4291ceb9dbab1f201b19aa53f563",
+    "id": "wiktionary-org-04",
+    "domain": "wiktionary.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wiktionary contributors",
+      "title": "水 - Wiktionary, the free dictionary",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wiktionary.org/w/index.php?title=水&oldid=92199456"
+    },
+    "review_status": "pending",
+    "original_sha256": "a7800a679bd16ed438f22a646025a81f3072c8c268a223c132d30f5f35b67ff3",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 7
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wikisource.org/wiki/The_Road_Not_Taken",
+    "final_url": "https://en.wikisource.org/wiki/The_Road_Not_Taken",
+    "retrieved_at": "2026-09-09T12:23:26.061527+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "f601ed8b6a8a9f3530db9a7af4b2f3b15f2d1ffe5ce9451c855ed436212b41c5",
+    "id": "wikisource-org-01",
+    "domain": "wikisource.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0 site contributions; public-domain source texts where indicated",
+      "notice_url": "https://en.wikisource.org/wiki/Wikisource:Copyright_policy",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikisource contributors; source authors identified on each page",
+      "title": "The Road Not Taken - Wikisource, the free online library",
+      "license_url": "https://en.wikisource.org/wiki/Wikisource:Copyright_policy",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wikisource.org/w/index.php?title=The_Road_Not_Taken&oldid=15697288"
+    },
+    "review_status": "pending",
+    "original_sha256": "e94815346fc8c19df143771931119216f5558f4f32999db24ae2ea51149376b4",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "script": 4,
+        "style": 6
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wikisource.org/wiki/Ozymandias",
+    "final_url": "https://en.wikisource.org/wiki/Ozymandias",
+    "retrieved_at": "2026-09-09T12:23:26.844764+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "a2be5ee56137ceea325248aa7edcd96c1d9fa785abbdcdbb5a168e72c53ee92e",
+    "id": "wikisource-org-02",
+    "domain": "wikisource.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0 site contributions; public-domain source texts where indicated",
+      "notice_url": "https://en.wikisource.org/wiki/Wikisource:Copyright_policy",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikisource contributors; source authors identified on each page",
+      "title": "Ozymandias - Wikisource, the free online library",
+      "license_url": "https://en.wikisource.org/wiki/Wikisource:Copyright_policy",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wikisource.org/w/index.php?title=Ozymandias&oldid=1018403"
+    },
+    "review_status": "pending",
+    "original_sha256": "9cf454c535f1a92ad018db735ba7c1006d039cbb11b96e97518b0d80c7054a0c",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "script": 4,
+        "style": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wikisource.org/wiki/Sonnet_18",
+    "final_url": "https://en.wikisource.org/wiki/Sonnet_18",
+    "retrieved_at": "2026-09-09T12:23:27.630899+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "a6f87e59428b42c5fd91215612924b4e870cec96183b84c32bdba93a7e1f7a3d",
+    "id": "wikisource-org-03",
+    "domain": "wikisource.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0 site contributions; public-domain source texts where indicated",
+      "notice_url": "https://en.wikisource.org/wiki/Wikisource:Copyright_policy",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikisource contributors; source authors identified on each page",
+      "title": "Sonnet 18 - Wikisource, the free online library",
+      "license_url": "https://en.wikisource.org/wiki/Wikisource:Copyright_policy",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wikisource.org/w/index.php?title=Sonnet_18&oldid=13004661"
+    },
+    "review_status": "pending",
+    "original_sha256": "5ba4a5b9ec22c5f5dffc8663e348f22b3b9d6fc2e46b01882cab25e1f0a4c22e",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "script": 4,
+        "style": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wikibooks.org/wiki/Cookbook:Tea",
+    "final_url": "https://en.wikibooks.org/wiki/Cookbook:Tea",
+    "retrieved_at": "2026-09-09T12:23:26.307582+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "65ddb74315c753fd69e3c47562cf7f4c8e159a9e0b8319901fda0da874560e05",
+    "id": "wikibooks-org-01",
+    "domain": "wikibooks.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikibooks contributors",
+      "title": "Cookbook:Tea - Wikibooks, open books for an open world",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wikibooks.org/w/index.php?title=Cookbook:Tea&oldid=4606208"
+    },
+    "review_status": "pending",
+    "original_sha256": "3e69055b04fbe5a88526c23f23c1ca9aea186c95a8530214ef13889bdf400a62",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 2
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wikibooks.org/wiki/Cookbook:Rice",
+    "final_url": "https://en.wikibooks.org/wiki/Cookbook:Rice",
+    "retrieved_at": "2026-09-09T12:23:27.092483+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "68560b84b23c4ec657bcaf9104676740a0e34ae1dde76954a060e329688c7c46",
+    "id": "wikibooks-org-02",
+    "domain": "wikibooks.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikibooks contributors",
+      "title": "Cookbook:Rice - Wikibooks, open books for an open world",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wikibooks.org/w/index.php?title=Cookbook:Rice&oldid=4601058"
+    },
+    "review_status": "pending",
+    "original_sha256": "afe4ce481504e74b9c68ec5b49e17abf2a6a75d5bd541ae813a2636c83432be2",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 4
+      }
+    }
+  },
+  {
+    "source_url": "https://en.wikibooks.org/wiki/Cookbook:Bread",
+    "final_url": "https://en.wikibooks.org/wiki/Cookbook:Bread",
+    "retrieved_at": "2026-09-09T12:23:28.146769+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "1965caca83846a6ff1e8408c081ab0a389e1dd604b3c5c203d8d82f356088c92",
+    "id": "wikibooks-org-03",
+    "domain": "wikibooks.org",
+    "category": "boundary",
+    "split": "development",
+    "provenance": {
+      "license": "CC-BY-SA-4.0",
+      "notice_url": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Wikibooks contributors",
+      "title": "Cookbook:Bread - Wikibooks, open books for an open world",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://en.wikibooks.org/w/index.php?title=Cookbook:Bread&oldid=4526303"
+    },
+    "review_status": "pending",
+    "original_sha256": "b93fc098ed08455354c73e2567d01bebc9afd1278c7182c2df96ea5e4db0b8e5",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 4,
+        "style": 3
+      }
+    }
+  },
+  {
+    "source_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "final_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+    "retrieved_at": "2026-09-09T12:23:40.031598+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "75bd7e35e2362065181ccd0d6fe2a3acb18053837d0da6477de6e8b6ba6e5f05",
+    "id": "gnu-org-01",
+    "domain": "gnu.org",
+    "category": "boundary",
+    "split": "held_out",
+    "provenance": {
+      "license": "GNU GPL licence document: verbatim copying permitted; surrounding page notices retained",
+      "notice_url": "https://www.gnu.org/gnu/gnu.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Free Software Foundation, Inc.",
+      "title": "The GNU General Public License v3.0 - GNU Project - Free Software Foundation",
+      "license_url": "https://www.gnu.org/licenses/gpl-3.0.html",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.gnu.org/licenses/gpl-3.0.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "73cd8ecdcf33b5923f3c092fba6d8f8c3faecf64d84a9ecfa6c5e028f980211a",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.gnu.org/cgi-bin/estseek.cgi",
+    "final_url": "https://www.gnu.org/cgi-bin/estseek.cgi",
+    "retrieved_at": "2026-09-09T12:25:10.139258+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "1d382bc4007feb3ae26e22eef7ac074dafb406f96e336a031df8f3221ce01d62",
+    "id": "gnu-org-02",
+    "domain": "gnu.org",
+    "category": "boundary",
+    "split": "held_out",
+    "provenance": {
+      "license": "Hyper Estraier generated search form (LGPL-2.1-or-later)",
+      "notice_url": "https://www.gnu.org/gnu/gnu.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Copyright (C) 2004-2007 Mikio Hirabayashi; GNU search form.",
+      "title": "Hyper Estraier @ www.gnu.org",
+      "license_url": "https://dbmx.net/hyperestraier/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.gnu.org/cgi-bin/estseek.cgi"
+    },
+    "review_status": "pending",
+    "original_sha256": "0ca9396c5dc7a435d99afb19d57e7292c7f960aca6046b6be3089234e035a658",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 1,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://www.gnu.org/gnu/gnu.html",
+    "final_url": "https://www.gnu.org/gnu/gnu.html",
+    "retrieved_at": "2026-09-09T12:25:18.503224+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "a69f18f405715ff1d25eef87ea708128b191b9e3dbc822eb8fc23a2987a68ba4",
+    "id": "gnu-org-03",
+    "domain": "gnu.org",
+    "category": "boundary",
+    "split": "held_out",
+    "provenance": {
+      "license": "CC-BY-ND-4.0",
+      "notice_url": "https://www.gnu.org/gnu/gnu.html",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Free Software Foundation, Inc.",
+      "title": "About GNU - Free Software Foundation",
+      "license_url": "https://creativecommons.org/licenses/by-nd/4.0/",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://www.gnu.org/gnu/gnu.html"
+    },
+    "review_status": "pending",
+    "original_sha256": "d712c4f232a2347a4101e5e6a44b0e68d2cfbc6f1c6cdabe1cd2a0ba07a92965",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "attributes": 1,
+        "style": 1
+      }
+    }
+  },
+  {
+    "source_url": "https://creativecommons.org/licenses/by/4.0/",
+    "final_url": "https://creativecommons.org/licenses/by/4.0/",
+    "retrieved_at": "2026-09-09T12:23:28.031984+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "c016bea13daa592c2a0820671a9171dc55ce653ba77a49960d2b654cd4af9a6f",
+    "id": "creativecommons-org-01",
+    "domain": "creativecommons.org",
+    "category": "boundary",
+    "split": "held_out",
+    "provenance": {
+      "license": "CC0-1.0 deeds/notices; CC-BY-4.0 other site text",
+      "notice_url": "https://creativecommons.org/policies/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Creative Commons",
+      "title": "Deed - Attribution 4.0 International - Creative Commons",
+      "license_url": "https://creativecommons.org/policies/#legalcode",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "review_status": "pending",
+    "original_sha256": "231a5dac65bbf135ba27145969a63cd289faadc172f1512c4810a6c60ba91036",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 6,
+        "svg": 4
+      }
+    }
+  },
+  {
+    "source_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "final_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "retrieved_at": "2026-09-09T12:23:28.380950+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "bbca460b357c12e9b565833d0a86bbe90f7ce83be1e38622b7837f1a95d16e4c",
+    "id": "creativecommons-org-02",
+    "domain": "creativecommons.org",
+    "category": "boundary",
+    "split": "held_out",
+    "provenance": {
+      "license": "CC0-1.0 deeds/notices; CC-BY-4.0 other site text",
+      "notice_url": "https://creativecommons.org/policies/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Creative Commons",
+      "title": "Deed - Attribution-ShareAlike 4.0 International - Creative Commons",
+      "license_url": "https://creativecommons.org/policies/#legalcode",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    "review_status": "pending",
+    "original_sha256": "17de6b7071e8f4816b103fb45aff75f71c94821f303534fc3e21cb68bd0f7148",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 6,
+        "svg": 5
+      }
+    }
+  },
+  {
+    "source_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "final_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "retrieved_at": "2026-09-09T12:23:28.746844+00:00",
+    "status": 200,
+    "content_type": "text/html",
+    "encoding": "utf-8",
+    "sha256": "30829c013ee960409755bb8116f2e6af709291f3a4ecc2385667978cdb428073",
+    "id": "creativecommons-org-03",
+    "domain": "creativecommons.org",
+    "category": "boundary",
+    "split": "held_out",
+    "provenance": {
+      "license": "CC0-1.0 deeds/notices; CC-BY-4.0 other site text",
+      "notice_url": "https://creativecommons.org/policies/",
+      "notes": "Sanitised offline test snapshot; see ../NOTICE.md for changes and reuse terms. External resources were not downloaded. Attribution applies also to annotations and captured outputs.",
+      "attribution": "Creative Commons",
+      "title": "Deed - CC0 1.0 Universal - Creative Commons",
+      "license_url": "https://creativecommons.org/policies/#legalcode",
+      "notice_file": "../NOTICE.md",
+      "policy_checked_on": "2026-09-09",
+      "attribution_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    "review_status": "pending",
+    "original_sha256": "4ceb8ae6835f2f5263caa0e39c9e1adca9469686c267475049b33521dabbe339",
+    "sanitisation": {
+      "date": "2026-09-09",
+      "removed": {
+        "script": 6,
+        "svg": 4
+      }
+    }
+  }
+]

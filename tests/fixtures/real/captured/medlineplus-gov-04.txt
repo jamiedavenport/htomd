@@ -1,0 +1,76 @@
+# What is a cell?
+
+Cells are the basic building blocks of all living things. The human body is composed of trillions of cells. They provide structure for the body, take in nutrients from food, convert those nutrients into energy, and carry out specialized functions. Cells also contain the body’s hereditary material and can make copies of themselves.
+
+Cells have many parts, each with a different function. Some of these parts, called organelles, are specialized structures that perform certain tasks within the cell. Human cells contain the following major parts, listed in alphabetical order:
+
+**Cytoplasm**
+ 
+Within cells, the [cytoplasm](https://medlineplus.gov/images/PX00005O_PRESENTATION.jpeg) is made up of a jelly-like fluid (called the cytosol) and other structures that surround the nucleus.
+
+ 
+
+**Cytoskeleton**
+ 
+The cytoskeleton is a network of long fibers that make up the cell’s structural framework. The cytoskeleton has several critical functions, including determining cell shape, participating in cell division, and allowing cells to move. It also provides a track-like system that directs the movement of organelles and other substances within cells.
+
+ 
+
+**Endoplasmic reticulum (ER)**
+ 
+This organelle helps process molecules created by the cell. The [endoplasmic reticulum](https://medlineplus.gov/images/PX00008O_PRESENTATION.jpeg) also transports these molecules to their specific destinations either inside or outside the cell.
+
+ 
+
+**Golgi apparatus**
+ 
+The [Golgi apparatus](https://medlineplus.gov/images/PX00006C_PRESENTATION.jpeg) packages molecules processed by the endoplasmic reticulum to be transported out of the cell.
+
+ 
+
+**Lysosomes and peroxisomes**
+ 
+These [organelles](https://medlineplus.gov/images/PX000084_PRESENTATION.jpeg) are the recycling center of the cell. They digest foreign bacteria that invade the cell, rid the cell of toxic substances, and recycle worn-out cell components.
+
+ 
+
+**Mitochondria**
+ 
+[Mitochondria](https://medlineplus.gov/images/PX00004O_PRESENTATION.jpeg) are complex organelles that convert energy from food into a form that the cell can use. They have their own genetic material, separate from the DNA in the nucleus, and can make copies of themselves.
+
+ 
+
+**Nucleus**
+ 
+The [nucleus](https://medlineplus.gov/images/PX00007C_PRESENTATION.jpeg) serves as the cell’s command center, sending directions to the cell to grow, mature, divide, or die. It also houses DNA (deoxyribonucleic acid), the cell’s hereditary material. The nucleus is surrounded by a membrane called the nuclear envelope, which protects the DNA and separates the nucleus from the rest of the cell.
+
+ 
+
+**Plasma membrane**
+ 
+The [plasma membrane](https://medlineplus.gov/images/PX000094_PRESENTATION.jpeg) is the outer lining of the cell. It separates the cell from its environment and allows materials to enter and leave the cell.
+
+ 
+
+**Ribosomes**
+ 
+[Ribosomes](https://medlineplus.gov/images/PX00004W_PRESENTATION.jpeg) are organelles that process the cell’s genetic instructions to create proteins. These organelles can float freely in the cytoplasm or be connected to the endoplasmic reticulum (see above).
+
+## For more information about cells:
+
+The National Human Genome Research Institute's [Talking Glossary](https://www.genome.gov/genetics-glossary/Cell) provides information about cells.![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+Arizona State University's "Ask a Biologist" provides [a description and illustration of each of the cell’s organelles](https://askabiologist.asu.edu/cell-parts).
+
+## Topics in the Cells and DNA chapter
+
+- What is a cell?
+- [What is DNA?](https://medlineplus.gov/genetics/understanding/basics/dna/)
+- [What is a gene?](https://medlineplus.gov/genetics/understanding/basics/gene/)
+- [What is a chromosome?](https://medlineplus.gov/genetics/understanding/basics/chromosome/)
+- [How many chromosomes do people have?](https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/)
+- [What is noncoding DNA?](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)
+
+[Other chapters in Help Me Understand Genetics](https://medlineplus.gov/genetics/understanding/)
+
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.

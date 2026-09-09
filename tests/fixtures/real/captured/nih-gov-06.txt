@@ -1,0 +1,73 @@
+October 30, 2024
+
+# Slideshow: Creepy Crawlies
+
+By [Heather Hayes](https://www.nigms.nih.gov/blog-author/heather-hayes?type%5B%5D=biobeat_post)
+
+This time of year, many creepy crawlies take center stage to frighten people of all ages. To celebrate Halloween, we've conjured up a slideshow of fascinating but spooky species that NIGMS-funded scientists study. Some of these creatures drink blood like vampires, while others—frogs, worms, flies, and salamanders—are perfect cauldron ingredients for a witch's brew. Check out the slideshow—if you dare!
+
+ 
+
+For other less frightening images, visit our [image and video gallery](https://www.nigms.nih.gov/image-gallery) to find scientific photos, illustrations, and videos.
+
+  
+
+Slideshow: Creepy Crawlies
+
+[![Several mosquito larvae, shown as red, oblong shapes, swimming rapidly.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/10/BioBeat-10.30.2024-0.gif)](https://www.nigms.nih.gov/image-gallery/6771)
+
+Credit: Gantz Lab, University of California, San Diego.
+
+[![A colorful tick mouth with a center part covered in barbs and an oblong structure on each side.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/10/BioBeat-10.30.2024-1.png)](https://www.nigms.nih.gov/image-gallery/3625)
+
+Credit: Igor Siwanowicz, Janelia Farm Research Campus, Howard Hughes Medical Institute, Ashburn, VA.
+
+[![A fruit fly with a green outline along the wings and legs.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/10/BioBeat-10.30.2024-2.png)](https://www.nigms.nih.gov/image-gallery/2417)
+
+Credit: Jay Hirsh, University of Virginia.
+
+[![A roundworm with a multicolored outline moving back and forth in wavelike motions.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/10/BioBeat-10.30.2024-3.gif)](https://www.nigms.nih.gov/image-gallery/6963)
+
+Credit: Michael Shribak, Marine Biological Laboratory/University of Chicago, and Fred Chang, University of California, San Francisco.
+
+[![A white tadpole with two heads.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/10/BioBeat-10.30.2024-4.png)](https://www.nigms.nih.gov/image-gallery/2755)
+
+Credit: Michael Klymkowsky, University of Colorado, Boulder.
+
+[![Transparent salamanders with stripes of purple and green.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/10/BioBeat-10.30.2024-5.png)](https://www.nigms.nih.gov/image-gallery/6928)
+
+Credit: Marko Pende, MDI Biological Laboratory; MDI Biological Laboratory Light Microscopy Facility; and the Murawala Lab, MDI Biological Laboratory and Hannover Medical School.
+
+This eerie video shows *Culex quinquefasciatus* mosquito larvae swimming in water. By feeding on blood, this species can spread several diseases, including [West Nile virus](https://medlineplus.gov/westnilevirus.html). The researchers who captured this video used [CRISPR (clustered regularly interspaced short palindromic repeats)](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#184)—a tool adapted from [bacteria](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#79) that can change [DNA](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#106) or [RNA](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#60)—to edit [genes](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#127) of the mosquito larvae. These genetic changes could help stop the mosquitoes from spreading [pathogens](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#213).
+
+This mysterious image shows the mouth parts of a lone star tick, a common [parasite](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#265) in the central and eastern United States that feeds on the blood of hosts. The center part of the mouth is covered in barbs that help the tick stay attached to the host while feeding. Although this tick species doesn’t typically carry the [Lyme disease](https://medlineplus.gov/lymedisease.html) bacterium carried by some other ticks, it can cause a potentially life-threatening condition called [alpha-gal syndrome](https://www.cdc.gov/alpha-gal-syndrome/about/index.html), which makes people allergic to meat from mammals.
+
+The [fruit fly](https://www.nigms.nih.gov/biobeat/2024/01/research-organism-superheroes-fruit-flies/) (*Drosophila melanogaster*) is one of the most common [research organisms](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#56) used for basic science due to its low cost and short lifecycle that allows scientists to observe all life stages quickly. Thanks to green [fluorescent](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#124) [protein](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#49) (GFP), this ghoulish fruit fly’s surface and sensory [neurons](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#266) glow. Scientists use GFP to tag proteins they want to study, and in this fly, they’ve tagged a protein involved in regulating [circadian](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#176) rhythm. GFP tagging allows scientists to see where a protein is expressed and how it interacts with other proteins.
+
+This real-time, spine-chilling footage shows a tiny roundworm (*Caenorhabditis elegans*) trapped by a [fungus](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#256) (*Arthrobotrys dactyloides*). This carnivorous fungus makes ring traps in response to the presence of *C. elegans*. When a worm enters the ring, the fungus rapidly constricts so that the worm can’t move away, allowing the fungus to eat the worm.
+
+Boo! This ghostly image of a two-headed *Xenopus laevis* tadpole shows the result of excess RNA that encodes an important [cell](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#104)-signaling protein involved in embryonic development. Researchers often use *X. laevis*, commonly known as the African clawed frog, to study the development of embryos and [organs](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#27), as well as the causes of human diseases.
+
+These peculiar amphibians, called [axolotls](https://www.nigms.nih.gov/biobeat/2024/03/research-organism-superheroes-axolotls/), glow purple and green because researchers genetically modified various parts of their [nervous systems](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#138) for easier observation. Scientists study axolotls, which are a type of salamander, due to their extensive [regenerative](https://www.nigms.nih.gov/biobeat/2024/10/slideshow-creepy-crawlies#54) abilities. These salamanders can regrow tails, limbs, spinal cords, brains, and more.
+
+topic  [Genes](https://www.nigms.nih.gov/biobeat/category/genes) , [Injury and Illness](https://www.nigms.nih.gov/biobeat/category/injury-and-illness) , [Tools and Techniques](https://www.nigms.nih.gov/biobeat/category/tools-and-techniques)
+
+tag  [Cool Images](https://www.nigms.nih.gov/biobeat/tag/cool-images) , [Cool Videos](https://www.nigms.nih.gov/biobeat/tag/cool-videos) , [Diseases](https://www.nigms.nih.gov/biobeat/tag/diseases) , [Research Organisms](https://www.nigms.nih.gov/biobeat/tag/research-organisms)
+
+---
+
+## About the Author
+
+![Generic silhouette of a person.](https://www.nigms.nih.gov/sites/nigms/files/headshots/profile-mystery-person.jpg)
+
+### [Heather Hayes](https://www.nigms.nih.gov/blog-author/heather-hayes?type%5B%5D=biobeat_post)
+
+Heather enjoys using her molecular biology training to help others understand and appreciate science.
+
+---
+
+**PREVIOUS**  
+ [arrow\_back  Chemistry by the Numbers](https://www.nigms.nih.gov/biobeat/2024/10/chemistry-by-the-numbers)
+
+**NEXT**  
+ [arrow\_forward  Investigating the Inner Workings of Ion Channels With Sudha Chakrapani](https://www.nigms.nih.gov/biobeat/2024/11/investigating-the-inner-workings-of-ion-channels-with-sudha-chakrapani)

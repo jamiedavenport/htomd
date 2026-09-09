@@ -1,0 +1,605 @@
+[
+  {
+    "node_index": 36,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 39,
+    "tag": "li",
+    "text": "Historical Documents Foreign Relations of the United States About the Foreign Relations Series Status of the Foreign Relations Series History of the Foreign Relations Series Ebooks Initiative Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 43,
+    "tag": "li",
+    "text": "Foreign Relations of the United States",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 46,
+    "tag": "li",
+    "text": "About the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Status of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 52,
+    "tag": "li",
+    "text": "History of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Ebooks Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 57,
+    "tag": "li",
+    "text": "Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 59,
+    "tag": "li",
+    "text": "Department History Overview Biographies of the Secretaries of State Principal Officers and Chiefs of Mission Travels of the Secretary of State Travels of the President Visits by Foreign Heads of State World War I and the Department Buildings of the Department of State U.S. Diplomatic Couriers U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "index_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Biographies of the Secretaries of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Principal Officers and Chiefs of Mission",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Travels of the Secretary of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Travels of the President",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Visits by Foreign Heads of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "World War I and the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Buildings of the Department of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "U.S. Diplomatic Couriers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Guide to Countries Guide to Country Recognition and Relations World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "countries_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Guide to Country Recognition and Relations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "More Resources Browse Resources by Subject Tag Conferences Contact Us Developer Resources & APIs Educational Resources Frequently Asked Questions Key Milestones Open Government Initiative A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "resources_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Browse Resources by Subject Tag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Conferences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Developer Resources & APIs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Key Milestones",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Open Government Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "1776-1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "French Alliance, French Assistance, and European Diplomacy during the American Revolution, 1778–1782",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "h2",
+    "text": "Milestones: 1776–1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-navigation-title",
+      "id": "navigation-title"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "h1",
+    "text": "French Alliance, French Assistance, and European Diplomacy during the American Revolution, 1778–1782",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-head7"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "p",
+    "text": "During the American Revolution, the American colonies faced the significant challenge of conducting international diplomacy and seeking the international support it needed to fight against the British. The single most important diplomatic success of the colonists during the War for Independence was the critical link they forged with France. Representatives of the French and American governments signed the Treaty of Alliance and the Treaty of Amity and Commerce on February 6, 1778.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 159,
+    "tag": "p",
+    "text": "American colonists hoped for possible French aid in their struggle against British forces. The Continental Congress established the Secret Committee of Correspondence to publicize the American cause in Europe. Committee member Benjamin Franklin wrote to contacts in France with encouraging accounts of colonial resistance. The French had suffered a defeat by the British during the Seven Years’ War and had lost North American territory under the 1763 Treaty of Paris. As the French and the British continued to vie for power in the 1770s, French officials saw an opportunity in the rebellion of Britain’s North American colonies to take advantage of British troubles. Through secret agents, the French Government began to provide clandestine assistance to the United States, much of which they channeled through American trader Silas Deane.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 163,
+    "tag": "p",
+    "text": "As the members of the Continental Congress considered declaring independence, they also discussed the possibility and necessity of foreign alliances, and assigned a committee to draft a Model Treaty to serve as guide for this work. After Congress formally declared independence from Great Britain in 1776, it dispatched a group of several commissioners led by Benjamin Franklin to negotiate an alliance with France. When news of the Declaration of Independence and the subsequent British evacuation of Boston reached France, French Foreign Minister Comte de Vergennes decided in favor of an alliance. However, once news of General George Washington’s defeats in New York reached Europe in August of 1776, Vergennes wavered, questioning the wisdom of committing to a full alliance.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "p",
+    "text": "Benjamin Franklin’s popularity in France bolstered French support for the American cause. The French public viewed Franklin as a representative of republican simplicity and honesty, an image Franklin cultivated. A rage for all things Franklin and American swept France, assisting American diplomats and Vergennes in pushing for an alliance. In the meantime, Vergennes agreed to provide the United States with a secret loan.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 169,
+    "tag": "p",
+    "text": "Despite the loan and discussions of a full alliance, French assistance to the new United States was limited at the outset. Throughout 1777, Vergennes delayed as he conducted negotiations with the Spanish Government, which was wary of U.S. independence and also wanted assurances that Spain would regain territories if it went to war against the British.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "p",
+    "text": "Vergennes finally decided in favor of an alliance when news of the British surrender at the Battle of Saratoga reached him in December 1777. Vergennes, having heard rumors of secret British peace offers to Franklin, decided not to wait for Spanish support and offered the United States an official French alliance. On February 6, 1778, Benjamin Franklin and the other two commissioners, Arthur Lee and Silas Deane, signed a Treaty of Alliance and a Treaty of Amity and Commerce with France. The Treaty of Alliance contained the provisions the U.S. commissioners had originally requested, but also included a clause forbidding either country to make a separate peace with Britain, as well as a secret clause allowing for Spain, or other European powers, to enter into the alliance. Spain officially entered the war on June 21, 1779. The Treaty of Amity and Commerce promoted trade between the United States and France and recognized the United States as an independent nation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 173,
+    "tag": "p",
+    "text": "Between 1778 and 1782 the French provided supplies, arms and ammunition, uniforms, and, most importantly, troops and naval support to the beleaguered Continental Army. The French navy transported reinforcements, fought off a British fleet, and protected Washington’s forces in Virginia. French assistance was crucial in securing the British surrender at Yorktown in 1781.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "p",
+    "text": "With the consent of Vergennes, U.S. commissioners entered negotiations with Britain to end the war, and reached a preliminary agreement in 1782. Franklin informed Vergennes of the agreement and also asked for an additional loan. Vergennes did lodge a complaint on this instance, but also granted the requested loan despite French financial troubles. Vergennes and Franklin successfully presented a united front despite British attempts to drive a wedge between the allies during their separate peace negotiations. The United States, Spain, and France formally ended the war with Britain with the Treaty of Paris in 1783.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "p",
+    "text": "Although European powers considered their treaty obligations abrogated by the French Revolution, the United States considered it to be in effect despite President Washington’s policy of neutrality in the war between Britain and France. The Citizen Genêt Affair erupted partially because of clauses contained in the alliance treaty that violated the neutrality policy. The Treaty of Paris also remained technically in effect during the undeclared Quasi-War with France, and was formally ended by the Convention of 1800 which also terminated the Quasi-War.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 183,
+    "tag": "h2",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 185,
+    "tag": "li",
+    "text": "1776–1783: Diplomacy and the American Revolution",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "Continental Congress, 1774–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 191,
+    "tag": "li",
+    "text": "Secret Committee of Correspondence/ Committee for Foreign Affairs, 1775–1777",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "The Declaration of Independence, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 197,
+    "tag": "li",
+    "text": "The Model Treaty, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "French Alliance, French Assistance, and European Diplomacy during the American Revolution, 1778–1782",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 203,
+    "tag": "li",
+    "text": "Benjamin Franklin: First American Diplomat, 1776–1785",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "li",
+    "text": "Articles of Confederation, 1777–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Treaty of Paris, 1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 215,
+    "tag": "h2",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "All",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 226,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "li",
+    "text": "Historical Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 236,
+    "tag": "li",
+    "text": "Department History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "Countries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Accessibility Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "External Link Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "Copyright Information",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "li",
+    "text": "Content Warning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 265,
+    "tag": "p",
+    "text": "history@state.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 270,
+    "tag": "p",
+    "text": "Report an issue on this page",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

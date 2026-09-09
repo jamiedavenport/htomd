@@ -1,0 +1,889 @@
+[
+  {
+    "node_index": 70,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 71,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 86,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 110,
+    "tag": "li",
+    "text": "Policy & Priorities Main Menu Policy & Priorities View all Policy & Priorities Increase American Energy Production Expanding domestic energy resources to support national needs and economic growth. Energy Innovation Driving research and development to shape the future of energy systems and technologies. Energy Exports Supporting global energy markets through U.S. energy production and trade. Affordable Energy for Consumers Promoting access to reliable and cost-effective energy for households and businesses. Strategic Petroleum Reserve (SPR) Managing emergency fuel reserves to support national energy security. Nuclear Security Maintaining the safety, security, and effectiveness of the nation’s nuclear deterrent. Nuclear Energy Advancing nuclear technologies to support energy, security, and innovation goals. Energy Reliability Ensuring consistent and dependable energy delivery across the nation. Energy Infrastructure Strengthening and modernizing the systems that produce, deliver, and store energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Policy & Priorities View all Policy & Priorities",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "Increase American Energy Production Expanding domestic energy resources to support national needs and economic growth.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "Energy Innovation Driving research and development to shape the future of energy systems and technologies.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "Energy Exports Supporting global energy markets through U.S. energy production and trade.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 140,
+    "tag": "li",
+    "text": "Affordable Energy for Consumers Promoting access to reliable and cost-effective energy for households and businesses.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Strategic Petroleum Reserve (SPR) Managing emergency fuel reserves to support national energy security.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Nuclear Security Maintaining the safety, security, and effectiveness of the nation’s nuclear deterrent.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Nuclear Energy Advancing nuclear technologies to support energy, security, and innovation goals.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Energy Reliability Ensuring consistent and dependable energy delivery across the nation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Energy Infrastructure Strengthening and modernizing the systems that produce, deliver, and store energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Leadership & Organization Main Menu Leadership & Organization View all Leadership & Organization Chris Wright Secretary of Energy James Danly Deputy Secretary of Energy Leadership & Organization Pages Staff Offices Supporting DOE operations through policy, administration, and mission services. Science and Innovation Program Offices Leading scientific research and technology development across priority areas. Independent Offices Providing oversight and specialized functions across key areas of the Department. Energy Program Offices Managing programs that support energy production, efficiency, and delivery. National Laboratories Advancing research and innovation through DOE’s National Laboratory System. Nuclear Security Offices Overseeing national security efforts related to nuclear safety and defense. Featured Hydrocarbons and Geothermal Energy Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 183,
+    "tag": "li",
+    "text": "Leadership & Organization View all Leadership & Organization",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "Chris Wright Secretary of Energy James Danly Deputy Secretary of Energy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--leadership-organization__leadership-block"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "Leadership & Organization Pages Staff Offices Supporting DOE operations through policy, administration, and mission services. Science and Innovation Program Offices Leading scientific research and technology development across priority areas. Independent Offices Providing oversight and specialized functions across key areas of the Department. Energy Program Offices Managing programs that support energy production, efficiency, and delivery. National Laboratories Advancing research and innovation through DOE’s National Laboratory System. Nuclear Security Offices Overseeing national security efforts related to nuclear safety and defense.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--leadership-organization__links"
+    }
+  },
+  {
+    "node_index": 207,
+    "tag": "li",
+    "text": "Staff Offices Supporting DOE operations through policy, administration, and mission services.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Science and Innovation Program Offices Leading scientific research and technology development across priority areas.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Independent Offices Providing oversight and specialized functions across key areas of the Department.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Energy Program Offices Managing programs that support energy production, efficiency, and delivery.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "National Laboratories Advancing research and innovation through DOE’s National Laboratory System.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Nuclear Security Offices Overseeing national security efforts related to nuclear safety and defense.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Featured Hydrocarbons and Geothermal Energy Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--leadership-organization__featured-office"
+    }
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Topics Main Menu Topics View all Topics Energy Sources Learn about the resources and technologies used to produce power across the United States. Energy Usage Explore how energy is consumed in homes, businesses, transportation, and industry. Policy Understand the laws, regulations, and strategies that guide energy decisions and national priorities. Science & Innovation See how research, discovery, and new technologies are shaping the future of energy. Economy Discover how energy affects jobs, markets, investment, and economic growth. National Security & Safety Learn how energy systems support resilience, infrastructure protection, and public safety.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 261,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Topics View all Topics",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Energy Sources Learn about the resources and technologies used to produce power across the United States.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Energy Usage Explore how energy is consumed in homes, businesses, transportation, and industry.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 293,
+    "tag": "li",
+    "text": "Policy Understand the laws, regulations, and strategies that guide energy decisions and national priorities.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 305,
+    "tag": "li",
+    "text": "Science & Innovation See how research, discovery, and new technologies are shaping the future of energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 317,
+    "tag": "li",
+    "text": "Economy Discover how energy affects jobs, markets, investment, and economic growth.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 329,
+    "tag": "li",
+    "text": "National Security & Safety Learn how energy systems support resilience, infrastructure protection, and public safety.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "News & Events Main Menu News & Events View all News & Events Press Releases September 8, 2026 Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy WorkforceHGEO announced $1.2 million for eight teams working to build a stronger workforce… Read moreGeothermal View all Press Releases Fact Sheets FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived Fact Sheet: Operational Closure of Radioactive Liquid Waste Tanks View all Fact Sheets Upcoming Events Sep 97:00PM EDT - 11:00PM EDTNevada EM SSAB Meeting (September 2026) Sep 103:00PM EDT - 4:30PM EDTEnergy Efficiency Measures on Tribal Facilities Sep 111:00PM EDT - 2:00PM EDTInformational Webinar: Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT) View all Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 345,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "News & Events View all News & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 353,
+    "tag": "li",
+    "text": "Press Releases September 8, 2026 Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy WorkforceHGEO announced $1.2 million for eight teams working to build a stronger workforce… Read moreGeothermal View all Press Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--news-events__press-releases"
+    }
+  },
+  {
+    "node_index": 372,
+    "tag": "li",
+    "text": "Fact Sheets FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived Fact Sheet: Operational Closure of Radioactive Liquid Waste Tanks View all Fact Sheets",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--news-events__fact-sheets"
+    }
+  },
+  {
+    "node_index": 397,
+    "tag": "li",
+    "text": "Upcoming Events Sep 97:00PM EDT - 11:00PM EDTNevada EM SSAB Meeting (September 2026) Sep 103:00PM EDT - 4:30PM EDTEnergy Efficiency Measures on Tribal Facilities Sep 111:00PM EDT - 2:00PM EDTInformational Webinar: Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT) View all Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--news-events__upcoming-events"
+    }
+  },
+  {
+    "node_index": 427,
+    "tag": "li",
+    "text": "About Main Menu About Mission Supporting USA energy, science, and security priorities. History & Achievements Nobel Prize Laureates Contact Us Access general information and ways to connect with the Department of Energy. Careers Internships & Fellowships Apprenticeships & Workforce Development Work at DOE",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 431,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "About",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 436,
+    "tag": "li",
+    "text": "Mission Supporting USA energy, science, and security priorities.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 447,
+    "tag": "li",
+    "text": "History & Achievements Nobel Prize Laureates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 456,
+    "tag": "li",
+    "text": "Nobel Prize Laureates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 460,
+    "tag": "li",
+    "text": "Contact Us Access general information and ways to connect with the Department of Energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 471,
+    "tag": "li",
+    "text": "Careers Internships & Fellowships Apprenticeships & Workforce Development Work at DOE",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 476,
+    "tag": "li",
+    "text": "Internships & Fellowships",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 480,
+    "tag": "li",
+    "text": "Apprenticeships & Workforce Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 484,
+    "tag": "li",
+    "text": "Work at DOE",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 490,
+    "tag": "p",
+    "text": "Funding Opportunities",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "margin:0;padding:0;"
+    }
+  },
+  {
+    "node_index": 507,
+    "tag": "h2",
+    "text": "Breadcrumb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "system-breadcrumb",
+      "class": "usa-sr-only"
+    }
+  },
+  {
+    "node_index": 509,
+    "tag": "li",
+    "text": "Office of Science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-breadcrumb__list-item"
+    }
+  },
+  {
+    "node_index": 512,
+    "tag": "li",
+    "text": "DOE Explains...Particle Accelerators",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-breadcrumb__list-item"
+    }
+  },
+  {
+    "node_index": 522,
+    "tag": "h1",
+    "text": "DOE Explains...Particle Accelerators",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 542,
+    "tag": "p",
+    "text": "Particle accelerators are devices that speed up the particles that make up all matter in the universe and collide them together or into a target. This allows scientists to study those particles and the forces that shape them. Specifically, particle accelerators speed up charged particles. These are particles with a positive or negative electrical charge such as protons, atomic nuclei, and the electrons that orbit atomic nuclei. In some cases, these particles reach speeds close to the speed of light. When the particles then collide with targets or other particles, the collisions that result can release energy, produce nuclear reactions, scatter particles, and produce other particles, such as neutrons. This gives scientists a look at what holds atoms, atomic nuclei, and nucleons together, as well as the world of particles like the Higgs boson. These particles and forces are the subject of the Standard Model of Particle Physics. Scientists also get insights into the quantum physics that govern how the world behaves at incredibly small scales. In the quantum realm, the classical Newtonian physics that we live with every day is insufficient to explain particle interactions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 548,
+    "tag": "p",
+    "text": "How do these machines accelerate particles? They inject particles into a “beamline.” This is a pipe held at very low air pressure in order to keep the environment free of air and dust that might disturb the particles as they travel though the accelerator. The particles injected into an accelerator are referred to as a “beam.” A series of electromagnets steers and focuses the beam of particles. In a linear accelerator or LINAC (pronounced line-ack or lin-ack), the particles shoot straight toward a fixed target. In a circular accelerator, the particles travel around a ring, constantly gaining speed. Circular accelerators can speed particles up in less overall space than a LINAC, but they tend to be more complex to build and operate. However, because the particles travel in a circle, circular accelerators create many more opportunities for particles to collide. Particles collide into each other or a target in a device called a particle detector. This device measures the particles’ speed, mass, and charge. This information allows scientists to determine what types of particles result from a collision.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 549,
+    "tag": "h2",
+    "text": "DOE Office of Science: Contributions to Particle Accelerators",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 550,
+    "tag": "p",
+    "text": "The Department of Energy Office of Science supports particle accelerators and research that uses these devices primarily through its High Energy Physics and Nuclear Physics programs. These programs fund particle accelerators across the country. The Argonne Tandem Linac Accelerator System (ATLAS) at Argonne National Laboratory is the first superconducting linear accelerator for heavy ions. At Brookhaven National Laboratory, the Relativistic Heavy Ion Collider (RHIC) is the world's first heavy ion collider, able to work with particles such as gold ions and polarized protons. Brookhaven is also home to the Accelerator Test Facility, which provides equipment to help scientists study particle acceleration and radiation generation. Fermi National Accelerator Laboratory is the core U.S. particle physics lab. Fermi was home to the world’s most powerful collider until that device, the Tevatron, was superseded by the Large Hadron Collider in 2009. The Continuous Electron Beam Accelerator Facility at Thomas Jefferson National Accelerator Facility helps scientists study the structure of protons and neutrons. The Facility for Rare Isotope Beams at Michigan State University is a linear accelerat",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 551,
+    "tag": "h2",
+    "text": "Fast Facts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 553,
+    "tag": "li",
+    "text": "Learn more with DOE’s How Particle Accelerators Work",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 555,
+    "tag": "li",
+    "text": "The main injector at Fermi National Accelerator Laboratory accelerates protons to 99.997 percent of the speed of light.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 556,
+    "tag": "li",
+    "text": "The largest particle accelerator in the world, the Large Hadron Collider at CERN, is more than 5 miles in diameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 557,
+    "tag": "h2",
+    "text": "Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 559,
+    "tag": "li",
+    "text": "DOE Office of Science High Energy Physics program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 561,
+    "tag": "li",
+    "text": "DOE Office of Science Nuclear Physics program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 563,
+    "tag": "li",
+    "text": "Argonne Wakefield Accelerator Facility at Argonne National Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 565,
+    "tag": "li",
+    "text": "Accelerator Test Facility (ATF) at Brookhaven National Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 567,
+    "tag": "li",
+    "text": "Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 569,
+    "tag": "li",
+    "text": "Fermi National Accelerator Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 571,
+    "tag": "li",
+    "text": "Continuous Electron Beam Accelerator Facility (CEBAF) at Thomas Jefferson National Accelerator Facility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 573,
+    "tag": "li",
+    "text": "Lawrence Berkeley National Laboratory’s Accelerator Technology & Applied Physics Division",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 575,
+    "tag": "li",
+    "text": "The Facility for Rare Isotope Beams (FRIB) at Michigan State University",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 577,
+    "tag": "li",
+    "text": "SLAC National Accelerator Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 579,
+    "tag": "li",
+    "text": "Facility for Advanced Accelerator Experimental Tests (FACET) at SLAC",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 582,
+    "tag": "p",
+    "text": "Scientific terms can be confusing. DOE Explains offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 590,
+    "tag": "p",
+    "text": "Committed to Restoring America’s Energy Dominance.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "text-bold"
+    }
+  },
+  {
+    "node_index": 593,
+    "tag": "p",
+    "text": "Follow Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-heading"
+    }
+  },
+  {
+    "node_index": 616,
+    "tag": "li",
+    "text": "Quick Links Leadership & Offices Newsroom Contact Us Careers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "expanded dropdown first last"
+    }
+  },
+  {
+    "node_index": 620,
+    "tag": "li",
+    "text": "Leadership & Offices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 622,
+    "tag": "li",
+    "text": "Newsroom",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 624,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 626,
+    "tag": "li",
+    "text": "Careers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  },
+  {
+    "node_index": 631,
+    "tag": "li",
+    "text": "Resources Budget & Performance Directives, Delegations, & Requirements Freedom of Information Act (FOIA) Inspector General Privacy Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "expanded dropdown first last"
+    }
+  },
+  {
+    "node_index": 635,
+    "tag": "li",
+    "text": "Budget & Performance",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 637,
+    "tag": "li",
+    "text": "Directives, Delegations, & Requirements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 639,
+    "tag": "li",
+    "text": "Freedom of Information Act (FOIA)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 641,
+    "tag": "li",
+    "text": "Inspector General",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 643,
+    "tag": "li",
+    "text": "Privacy Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  },
+  {
+    "node_index": 648,
+    "tag": "li",
+    "text": "Federal Government USA.gov The White House",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "expanded dropdown first last"
+    }
+  },
+  {
+    "node_index": 652,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 654,
+    "tag": "li",
+    "text": "The White House",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  },
+  {
+    "node_index": 660,
+    "tag": "li",
+    "text": "Open Gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 662,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 664,
+    "tag": "li",
+    "text": "Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 666,
+    "tag": "li",
+    "text": "Information Quality",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 668,
+    "tag": "li",
+    "text": "No Fear Act",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 670,
+    "tag": "li",
+    "text": "Web Policies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 672,
+    "tag": "li",
+    "text": "Vulnerability Disclosure Program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 674,
+    "tag": "li",
+    "text": "Whistleblower Protection",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 676,
+    "tag": "li",
+    "text": "Equal Employment Opportunity",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 678,
+    "tag": "li",
+    "text": "Notice of Court Orders",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  }
+]

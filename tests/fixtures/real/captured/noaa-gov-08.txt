@@ -1,0 +1,15 @@
+[![Animation of the relationship between vertical and horizontal components of tides](https://oceanservice.noaa.gov/education/tutorial_currents/media/tide06b_240.gif)](https://oceanservice.noaa.gov/education/tutorial_currents/media/supp_cur02c.html)
+
+The elliptical orbits of the moon around the Earth and the Earth around the sun have substantial effects on the Earth’s tides and the currents they produce. **Click the image** for a larger view.
+
+---
+
+Also similar to tides, tidal currents are affected by the relative positions of the moon and Earth. When the moon and Earth are positioned nearest to each other (perigee), the currents are stronger than average and are called “perigean currents.” When the moon and Earth are at their farthest distance from each other (apogee), the currents are weaker and are called “apogean currents.”
+
+The shape of bays and estuaries also can magnify the intensity of tides and the currents they produce. Funnel-shaped bays in particular can dramatically alter tidal current magnitude. The Bay of Fundy in Nova Scotia is a classic example of this effect, and has the highest tides in the world - over 15 meters (Thurman, H.V., 1994).
+
+![The differences between high and low tides in the Bay of Fundy.](https://oceanservice.noaa.gov/education/tutorial_currents/media/curr02c.jpg)  ![The differences between high and low tides in the Bay of Fundy.](https://oceanservice.noaa.gov/education/tutorial_currents/media/curr02d.jpg)
+
+Move your computer **mouse over the image** above to see the differences between high and low tides in the Bay of Fundy. Photos © Scott Walking Adventures.
+
+The daily tidal currents experienced by coastal areas can also have a dramatic effect on estuarine ecosystems. View a slide show of the remarkable daily rise of waters at the Elkhorn Slough National Estuarine Research Reserve in California: [https://oceanservice.noaa.gov/education/tutorial\_estuaries/media/supp\_est01a\_tide.html](https://oceanservice.noaa.gov/education/tutorial_estuaries/media/supp_est01a_tide.html)

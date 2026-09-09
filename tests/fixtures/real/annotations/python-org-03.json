@@ -1,0 +1,2609 @@
+[
+  {
+    "node_index": 69,
+    "tag": "h3",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 72,
+    "tag": "li",
+    "text": "urllib.parse — Parse URLs into components URL Parsing URL parsing security Parsing ASCII Encoded Bytes Structured Parse Results URL Quoting",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "URL Parsing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "URL parsing security",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "Parsing ASCII Encoded Bytes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Structured Parse Results",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "URL Quoting",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "p",
+    "text": "urllib.request — Extensible library for opening URLs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "p",
+    "text": "urllib.error — Exception classes raised by urllib.request",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 101,
+    "tag": "h3",
+    "text": "This page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Report a bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Improve this page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Show source",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 110,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 116,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 118,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "Python »",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "3.14.7 Documentation »",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cpython-language-and-version"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "The Python Standard Library »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-1"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Internet Protocols and Support »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-2"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "urllib.parse — Parse URLs into components",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "|",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Theme Auto Light Dark |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "h1",
+    "text": "urllib.parse — Parse URLs into components¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 159,
+    "tag": "p",
+    "text": "Source code: Lib/urllib/parse.py",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 163,
+    "tag": "p",
+    "text": "This module defines a standard interface to break Uniform Resource Locator (URL) strings up in components (addressing scheme, network location, path etc.), to combine the components back into a URL string, and to convert a “relative URL” to an absolute URL given a “base URL.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "p",
+    "text": "The module has been designed to match the internet RFC on Relative Uniform Resource Locators. It supports the following URL schemes: file, ftp, gopher, hdl, http, https, imap, itms-services, mailto, mms, news, nntp, prospero, rsync, rtsp, rtsps, rtspu, sftp, shttp, sip, sips, snews, svn, svn+ssh, telnet, wais, ws, wss.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "p",
+    "text": "CPython implementation detail: The inclusion of the itms-services URL scheme can prevent an app from passing Apple’s App Store review process for the macOS and iOS App Stores. Handling for the itms-services scheme is always removed on iOS; on macOS, it may be removed if CPython has been built with the --with-app-store-compliance option.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 232,
+    "tag": "p",
+    "text": "The urllib.parse module defines functions that fall into two broad categories: URL parsing and URL quoting. These are covered in detail in the following sections.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "p",
+    "text": "This module’s functions use the deprecated term netloc (or net_loc), which was introduced in RFC 1808. However, this term has been obsoleted by RFC 3986, which introduced the term authority as its replacement. The use of netloc is continued for backward compatibility.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "h2",
+    "text": "URL Parsing¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "p",
+    "text": "The URL parsing functions focus on splitting a URL string into its components, or on combining URL components into a URL string.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 255,
+    "tag": "dt",
+    "text": "urllib.parse.urlsplit(urlstring, scheme=None, allow_fragments=True)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urlsplit"
+    }
+  },
+  {
+    "node_index": 280,
+    "tag": "dd",
+    "text": "Parse a URL into five components, returning a 5-item named tuple SplitResult or SplitResultBytes. This corresponds to the general structure of a URL: scheme://netloc/path?query#fragment. Each tuple item is a string, possibly empty. The delimiters as shown above are not part of the result, except for a leading slash in the path component, which is retained if present. Additionally, the netloc property is broken down into these additional attributes added to the returned object: username, password, hostname, and port. Percent-encoded sequences are not decoded. For example: >>> from urllib.parse import urlsplit >>> urlsplit(\"scheme://netloc/path?query#fragment\") SplitResult(scheme='scheme', netloc='netloc', path='/path', query='query', fragment='fragment') >>> o = urlsplit(\"http://docs.python.org:80/3/library/urllib.parse.html?\" ... \"highlight=params#url-parsing\") >>> o SplitResult(scheme='http', netloc='docs.python.org:80', path='/3/library/urllib.parse.html', query='highlight=params', fragment='url-parsing') >>> o.scheme 'http' >>> o.netloc 'docs.python.org:80' >>> o.hostname 'docs.python.org' >>> o.port 80 >>> o._replace(fragment=\"\").geturl() 'http://docs.python.org:80/3/library/ur",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "p",
+    "text": "Parse a URL into five components, returning a 5-item named tuple SplitResult or SplitResultBytes. This corresponds to the general structure of a URL: scheme://netloc/path?query#fragment. Each tuple item is a string, possibly empty.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 292,
+    "tag": "p",
+    "text": "The delimiters as shown above are not part of the result, except for a leading slash in the path component, which is retained if present.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 294,
+    "tag": "p",
+    "text": "Additionally, the netloc property is broken down into these additional attributes added to the returned object: username, password, hostname, and port.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "p",
+    "text": "Percent-encoded sequences are not decoded.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "p",
+    "text": "For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 299,
+    "tag": "pre",
+    "text": ">>> from urllib.parse import urlsplit >>> urlsplit(\"scheme://netloc/path?query#fragment\") SplitResult(scheme='scheme', netloc='netloc', path='/path', query='query', fragment='fragment') >>> o = urlsplit(\"http://docs.python.org:80/3/library/urllib.parse.html?\" ... \"highlight=params#url-parsing\") >>> o SplitResult(scheme='http', netloc='docs.python.org:80', path='/3/library/urllib.parse.html', query='highlight=params', fragment='url-parsing') >>> o.scheme 'http' >>> o.netloc 'docs.python.org:80' >>> o.hostname 'docs.python.org' >>> o.port 80 >>> o._replace(fragment=\"\").geturl() 'http://docs.python.org:80/3/library/urllib.parse.html?highlight=params'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 362,
+    "tag": "p",
+    "text": "Following the syntax specifications in RFC 1808, urlsplit() recognizes a netloc only if it is properly introduced by ‘//’. Otherwise the input is presumed to be a relative URL and thus to start with a path component.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "pre",
+    "text": ">>> from urllib.parse import urlsplit >>> urlsplit('//www.cwi.nl:80/%7Eguido/Python.html') SplitResult(scheme='', netloc='www.cwi.nl:80', path='/%7Eguido/Python.html', query='', fragment='') >>> urlsplit('www.cwi.nl/%7Eguido/Python.html') SplitResult(scheme='', netloc='', path='www.cwi.nl/%7Eguido/Python.html', query='', fragment='') >>> urlsplit('help/Python.html') SplitResult(scheme='', netloc='', path='help/Python.html', query='', fragment='')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 404,
+    "tag": "p",
+    "text": "The scheme argument gives the default addressing scheme, to be used only if the URL does not specify one. It should be the same type (text or bytes) as urlstring, except that the default value '' is always allowed, and is automatically converted to b'' if appropriate.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 411,
+    "tag": "p",
+    "text": "If the allow_fragments argument is false, fragment identifiers are not recognized. Instead, they are parsed as part of the path, parameters or query component, and fragment is set to the empty string in the return value.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "The return value is a named tuple, which means that its items can be accessed by index or as named attributes, which are:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 421,
+    "tag": "th",
+    "text": "Attribute",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 422,
+    "tag": "p",
+    "text": "Attribute",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "th",
+    "text": "Index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 425,
+    "tag": "th",
+    "text": "Value",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 426,
+    "tag": "p",
+    "text": "Value",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 427,
+    "tag": "th",
+    "text": "Value if not present",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 428,
+    "tag": "p",
+    "text": "Value if not present",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 431,
+    "tag": "td",
+    "text": "scheme",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 432,
+    "tag": "p",
+    "text": "scheme",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 435,
+    "tag": "td",
+    "text": "0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 436,
+    "tag": "p",
+    "text": "0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 437,
+    "tag": "td",
+    "text": "URL scheme specifier",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 438,
+    "tag": "p",
+    "text": "URL scheme specifier",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 439,
+    "tag": "td",
+    "text": "scheme parameter",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 440,
+    "tag": "p",
+    "text": "scheme parameter",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 443,
+    "tag": "td",
+    "text": "netloc",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 444,
+    "tag": "p",
+    "text": "netloc",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 447,
+    "tag": "td",
+    "text": "1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 448,
+    "tag": "p",
+    "text": "1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 449,
+    "tag": "td",
+    "text": "Network location part",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 450,
+    "tag": "p",
+    "text": "Network location part",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 451,
+    "tag": "td",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 452,
+    "tag": "p",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 454,
+    "tag": "td",
+    "text": "path",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 455,
+    "tag": "p",
+    "text": "path",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 458,
+    "tag": "td",
+    "text": "2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 459,
+    "tag": "p",
+    "text": "2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "td",
+    "text": "Hierarchical path",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 461,
+    "tag": "p",
+    "text": "Hierarchical path",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 462,
+    "tag": "td",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 463,
+    "tag": "p",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 465,
+    "tag": "td",
+    "text": "query",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 466,
+    "tag": "p",
+    "text": "query",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 469,
+    "tag": "td",
+    "text": "3",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 470,
+    "tag": "p",
+    "text": "3",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 471,
+    "tag": "td",
+    "text": "Query component",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 472,
+    "tag": "p",
+    "text": "Query component",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 473,
+    "tag": "td",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 474,
+    "tag": "p",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 476,
+    "tag": "td",
+    "text": "fragment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 477,
+    "tag": "p",
+    "text": "fragment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 480,
+    "tag": "td",
+    "text": "4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 481,
+    "tag": "p",
+    "text": "4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 482,
+    "tag": "td",
+    "text": "Fragment identifier",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 483,
+    "tag": "p",
+    "text": "Fragment identifier",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 484,
+    "tag": "td",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 485,
+    "tag": "p",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 487,
+    "tag": "td",
+    "text": "username",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "p",
+    "text": "username",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 492,
+    "tag": "td",
+    "text": "User name",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 493,
+    "tag": "p",
+    "text": "User name",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 494,
+    "tag": "td",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 495,
+    "tag": "p",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 500,
+    "tag": "td",
+    "text": "password",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 501,
+    "tag": "p",
+    "text": "password",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 505,
+    "tag": "td",
+    "text": "Password",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 506,
+    "tag": "p",
+    "text": "Password",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 507,
+    "tag": "td",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 508,
+    "tag": "p",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 513,
+    "tag": "td",
+    "text": "hostname",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 514,
+    "tag": "p",
+    "text": "hostname",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 518,
+    "tag": "td",
+    "text": "Host name (lower case)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 519,
+    "tag": "p",
+    "text": "Host name (lower case)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 520,
+    "tag": "td",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 521,
+    "tag": "p",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 526,
+    "tag": "td",
+    "text": "port",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 527,
+    "tag": "p",
+    "text": "port",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 531,
+    "tag": "td",
+    "text": "Port number as integer, if present",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 532,
+    "tag": "p",
+    "text": "Port number as integer, if present",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 533,
+    "tag": "td",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 534,
+    "tag": "p",
+    "text": "None",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 538,
+    "tag": "p",
+    "text": "Reading the port attribute will raise a ValueError if an invalid port is specified in the URL. See section Structured Parse Results for more information on the result object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 546,
+    "tag": "p",
+    "text": "Unmatched square brackets in the netloc attribute will raise a ValueError.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 552,
+    "tag": "p",
+    "text": "Characters in the netloc attribute that decompose under NFKC normalization (as used by the IDNA encoding) into any of /, ?, #, @, or : will raise a ValueError. If the URL is decomposed before parsing, no error will be raised.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 568,
+    "tag": "p",
+    "text": "Following some of the WHATWG spec that updates RFC 3986, leading C0 control and space characters are stripped from the URL. \\n, \\r and tab \\t characters are removed from the URL at any position.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 579,
+    "tag": "p",
+    "text": "As is the case with all named tuples, the subclass has a few additional methods and attributes that are particularly useful. One such method is _replace(). The _replace() method will return a new SplitResult object replacing specified fields with new values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 589,
+    "tag": "pre",
+    "text": ">>> from urllib.parse import urlsplit >>> u = urlsplit('//www.cwi.nl:80/%7Eguido/Python.html') >>> u SplitResult(scheme='', netloc='www.cwi.nl:80', path='/%7Eguido/Python.html', query='', fragment='') >>> u._replace(scheme='http') SplitResult(scheme='http', netloc='www.cwi.nl:80', path='/%7Eguido/Python.html', query='', fragment='')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 623,
+    "tag": "p",
+    "text": "Warning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 624,
+    "tag": "p",
+    "text": "urlsplit() does not perform validation. See URL parsing security for details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 630,
+    "tag": "p",
+    "text": "Changed in version 3.2: Added IPv6 URL parsing capabilities.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 633,
+    "tag": "p",
+    "text": "Changed in version 3.3: The fragment is now parsed for all URL schemes (unless allow_fragments is false), in accordance with RFC 3986. Previously, an allowlist of schemes that support fragments existed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 640,
+    "tag": "p",
+    "text": "Changed in version 3.6: Out-of-range port numbers now raise ValueError, instead of returning None.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 649,
+    "tag": "p",
+    "text": "Changed in version 3.8: Characters that affect netloc parsing under NFKC normalization will now raise ValueError.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 655,
+    "tag": "p",
+    "text": "Changed in version 3.10: ASCII newline and tab characters are stripped from the URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 658,
+    "tag": "p",
+    "text": "Changed in version 3.12: Leading WHATWG C0 control and space characters are stripped from the URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 661,
+    "tag": "dt",
+    "text": "urllib.parse.parse_qs(qs, keep_blank_values=False, strict_parsing=False, encoding='utf-8', errors='replace', max_num_fields=None, separator='&')¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.parse_qs"
+    }
+  },
+  {
+    "node_index": 714,
+    "tag": "dd",
+    "text": "Parse a query string given as a string argument (data of type application/x-www-form-urlencoded). Data are returned as a dictionary. The dictionary keys are the unique query variable names and the values are lists of values for each name. The optional argument keep_blank_values is a flag indicating whether blank values in percent-encoded queries should be treated as blank strings. A true value indicates that blanks should be retained as blank strings. The default false value indicates that blank values are to be ignored and treated as if they were not included. The optional argument strict_parsing is a flag indicating what to do with parsing errors. If false (the default), errors are silently ignored. If true, errors raise a ValueError exception. The optional encoding and errors parameters specify how to decode percent-encoded sequences into Unicode characters, as accepted by the bytes.decode() method. The optional argument max_num_fields is the maximum number of fields to read. If set, then throws a ValueError if there are more than max_num_fields fields read. The optional argument separator is the symbol to use for separating the query arguments. It defaults to &. Use the urllib.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 715,
+    "tag": "p",
+    "text": "Parse a query string given as a string argument (data of type application/x-www-form-urlencoded). Data are returned as a dictionary. The dictionary keys are the unique query variable names and the values are lists of values for each name.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 717,
+    "tag": "p",
+    "text": "The optional argument keep_blank_values is a flag indicating whether blank values in percent-encoded queries should be treated as blank strings. A true value indicates that blanks should be retained as blank strings. The default false value indicates that blank values are to be ignored and treated as if they were not included.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 719,
+    "tag": "p",
+    "text": "The optional argument strict_parsing is a flag indicating what to do with parsing errors. If false (the default), errors are silently ignored. If true, errors raise a ValueError exception.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 724,
+    "tag": "p",
+    "text": "The optional encoding and errors parameters specify how to decode percent-encoded sequences into Unicode characters, as accepted by the bytes.decode() method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 730,
+    "tag": "p",
+    "text": "The optional argument max_num_fields is the maximum number of fields to read. If set, then throws a ValueError if there are more than max_num_fields fields read.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 736,
+    "tag": "p",
+    "text": "The optional argument separator is the symbol to use for separating the query arguments. It defaults to &.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 740,
+    "tag": "p",
+    "text": "Use the urllib.parse.urlencode() function (with the doseq parameter set to True) to convert such dictionaries into query strings.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 749,
+    "tag": "p",
+    "text": "Changed in version 3.2: Add encoding and errors parameters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 754,
+    "tag": "p",
+    "text": "Changed in version 3.8: Added max_num_fields parameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 758,
+    "tag": "p",
+    "text": "Changed in version 3.10: Added separator parameter with the default value of &. Python versions earlier than Python 3.10 allowed using both ; and & as query parameter separator. This has been changed to allow only a single separator key, with & as the default separator.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 770,
+    "tag": "p",
+    "text": "Deprecated since version 3.14: Accepting objects with false values (like 0 and []) except empty strings and byte-like objects and None is now deprecated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 779,
+    "tag": "dt",
+    "text": "urllib.parse.parse_qsl(qs, keep_blank_values=False, strict_parsing=False, encoding='utf-8', errors='replace', max_num_fields=None, separator='&')¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.parse_qsl"
+    }
+  },
+  {
+    "node_index": 832,
+    "tag": "dd",
+    "text": "Parse a query string given as a string argument (data of type application/x-www-form-urlencoded). Data are returned as a list of name, value pairs. The optional argument keep_blank_values is a flag indicating whether blank values in percent-encoded queries should be treated as blank strings. A true value indicates that blanks should be retained as blank strings. The default false value indicates that blank values are to be ignored and treated as if they were not included. The optional argument strict_parsing is a flag indicating what to do with parsing errors. If false (the default), errors are silently ignored. If true, errors raise a ValueError exception. The optional encoding and errors parameters specify how to decode percent-encoded sequences into Unicode characters, as accepted by the bytes.decode() method. The optional argument max_num_fields is the maximum number of fields to read. If set, then throws a ValueError if there are more than max_num_fields fields read. The optional argument separator is the symbol to use for separating the query arguments. It defaults to &. Use the urllib.parse.urlencode() function to convert such lists of pairs into query strings. Changed in ve",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 833,
+    "tag": "p",
+    "text": "Parse a query string given as a string argument (data of type application/x-www-form-urlencoded). Data are returned as a list of name, value pairs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 835,
+    "tag": "p",
+    "text": "The optional argument keep_blank_values is a flag indicating whether blank values in percent-encoded queries should be treated as blank strings. A true value indicates that blanks should be retained as blank strings. The default false value indicates that blank values are to be ignored and treated as if they were not included.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 837,
+    "tag": "p",
+    "text": "The optional argument strict_parsing is a flag indicating what to do with parsing errors. If false (the default), errors are silently ignored. If true, errors raise a ValueError exception.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 842,
+    "tag": "p",
+    "text": "The optional encoding and errors parameters specify how to decode percent-encoded sequences into Unicode characters, as accepted by the bytes.decode() method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 848,
+    "tag": "p",
+    "text": "The optional argument max_num_fields is the maximum number of fields to read. If set, then throws a ValueError if there are more than max_num_fields fields read.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 854,
+    "tag": "p",
+    "text": "The optional argument separator is the symbol to use for separating the query arguments. It defaults to &.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 858,
+    "tag": "p",
+    "text": "Use the urllib.parse.urlencode() function to convert such lists of pairs into query strings.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 863,
+    "tag": "p",
+    "text": "Changed in version 3.2: Add encoding and errors parameters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 868,
+    "tag": "p",
+    "text": "Changed in version 3.8: Added max_num_fields parameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 872,
+    "tag": "p",
+    "text": "Changed in version 3.10: Added separator parameter with the default value of &. Python versions earlier than Python 3.10 allowed using both ; and & as query parameter separator. This has been changed to allow only a single separator key, with & as the default separator.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 884,
+    "tag": "dt",
+    "text": "urllib.parse.urlunsplit(parts)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urlunsplit"
+    }
+  },
+  {
+    "node_index": 895,
+    "tag": "dd",
+    "text": "Construct a URL from a tuple as returned by urlsplit(). The parts argument can be any five-item iterable. This may result in a slightly different, but equivalent URL, if the URL that was parsed originally had unnecessary delimiters (for example, a ? with an empty query; the RFC states that these are equivalent).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 896,
+    "tag": "p",
+    "text": "Construct a URL from a tuple as returned by urlsplit(). The parts argument can be any five-item iterable. This may result in a slightly different, but equivalent URL, if the URL that was parsed originally had unnecessary delimiters (for example, a ? with an empty query; the RFC states that these are equivalent).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 903,
+    "tag": "dt",
+    "text": "urllib.parse.urlparse(urlstring, scheme=None, allow_fragments=True)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urlparse"
+    }
+  },
+  {
+    "node_index": 928,
+    "tag": "dd",
+    "text": "This is similar to urlsplit(), but additionally splits the path component on path and params. This function returns a 6-item named tuple ParseResult or ParseResultBytes. Its items are the same as for the urlsplit() result, except that params is inserted at index 3, between path and query. This function is based on obsoleted RFC 1738 and RFC 1808, which listed params as the main URL component. The more recent URL syntax allows parameters to be applied to each segment of the path portion of the URL (see RFC 3986). urlsplit() should generally be used instead of urlparse(). A separate function is needed to separate the path segments and parameters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 929,
+    "tag": "p",
+    "text": "This is similar to urlsplit(), but additionally splits the path component on path and params. This function returns a 6-item named tuple ParseResult or ParseResultBytes. Its items are the same as for the urlsplit() result, except that params is inserted at index 3, between path and query.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 949,
+    "tag": "p",
+    "text": "This function is based on obsoleted RFC 1738 and RFC 1808, which listed params as the main URL component. The more recent URL syntax allows parameters to be applied to each segment of the path portion of the URL (see RFC 3986). urlsplit() should generally be used instead of urlparse(). A separate function is needed to separate the path segments and parameters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 967,
+    "tag": "dt",
+    "text": "urllib.parse.urlunparse(parts)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urlunparse"
+    }
+  },
+  {
+    "node_index": 978,
+    "tag": "dd",
+    "text": "Combine the elements of a tuple as returned by urlparse() into a complete URL as a string. The parts argument can be any six-item iterable. This may result in a slightly different, but equivalent URL, if the URL that was parsed originally had unnecessary delimiters (for example, a ? with an empty query; the RFC states that these are equivalent).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 979,
+    "tag": "p",
+    "text": "Combine the elements of a tuple as returned by urlparse() into a complete URL as a string. The parts argument can be any six-item iterable. This may result in a slightly different, but equivalent URL, if the URL that was parsed originally had unnecessary delimiters (for example, a ? with an empty query; the RFC states that these are equivalent).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 985,
+    "tag": "dt",
+    "text": "urllib.parse.urljoin(base, url, allow_fragments=True)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urljoin"
+    }
+  },
+  {
+    "node_index": 1006,
+    "tag": "dd",
+    "text": "Construct a full (“absolute”) URL by combining a “base URL” (base) with another URL (url). Informally, this uses components of the base URL, in particular the addressing scheme, the network location and (part of) the path, to provide missing components in the relative URL. For example: >>> from urllib.parse import urljoin >>> urljoin('http://www.cwi.nl/%7Eguido/Python.html', 'FAQ.html') 'http://www.cwi.nl/%7Eguido/FAQ.html' The allow_fragments argument has the same meaning and default as for urlsplit(). Note If url is an absolute URL (that is, it starts with // or scheme://), the url’s hostname and/or scheme will be present in the result. For example: >>> urljoin('http://www.cwi.nl/%7Eguido/Python.html', ... '//www.python.org/%7Eguido') 'http://www.python.org/%7Eguido' If you do not want that behavior, preprocess the url with urlsplit() and urlunsplit(), removing possible scheme and netloc parts. Warning Because an absolute URL may be passed as the url parameter, it is generally not secure to use urljoin with an attacker-controlled url. For example in, urljoin(\"https://website.com/users/\", username), if username can contain an absolute URL, the result of urljoin will be the absolut",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1007,
+    "tag": "p",
+    "text": "Construct a full (“absolute”) URL by combining a “base URL” (base) with another URL (url). Informally, this uses components of the base URL, in particular the addressing scheme, the network location and (part of) the path, to provide missing components in the relative URL. For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1012,
+    "tag": "pre",
+    "text": ">>> from urllib.parse import urljoin >>> urljoin('http://www.cwi.nl/%7Eguido/Python.html', 'FAQ.html') 'http://www.cwi.nl/%7Eguido/FAQ.html'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1031,
+    "tag": "p",
+    "text": "The allow_fragments argument has the same meaning and default as for urlsplit().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1037,
+    "tag": "p",
+    "text": "Note",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 1038,
+    "tag": "p",
+    "text": "If url is an absolute URL (that is, it starts with // or scheme://), the url’s hostname and/or scheme will be present in the result. For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1047,
+    "tag": "pre",
+    "text": ">>> urljoin('http://www.cwi.nl/%7Eguido/Python.html', ... '//www.python.org/%7Eguido') 'http://www.python.org/%7Eguido'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1062,
+    "tag": "p",
+    "text": "If you do not want that behavior, preprocess the url with urlsplit() and urlunsplit(), removing possible scheme and netloc parts.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1073,
+    "tag": "p",
+    "text": "Warning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 1074,
+    "tag": "p",
+    "text": "Because an absolute URL may be passed as the url parameter, it is generally not secure to use urljoin with an attacker-controlled url. For example in, urljoin(\"https://website.com/users/\", username), if username can contain an absolute URL, the result of urljoin will be the absolute URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1090,
+    "tag": "p",
+    "text": "Changed in version 3.5: Behavior updated to match the semantics defined in RFC 3986.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1096,
+    "tag": "dt",
+    "text": "urllib.parse.urldefrag(url)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urldefrag"
+    }
+  },
+  {
+    "node_index": 1107,
+    "tag": "dd",
+    "text": "If url contains a fragment identifier, return a modified version of url with no fragment identifier, and the fragment identifier as a separate string. If there is no fragment identifier in url, return url unmodified and an empty string. The return value is a named tuple, its items can be accessed by index or as named attributes: Attribute Index Value Value if not present url 0 URL with no fragment empty string fragment 1 Fragment identifier empty string See section Structured Parse Results for more information on the result object. Changed in version 3.2: Result is a structured object rather than a simple 2-tuple.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1108,
+    "tag": "p",
+    "text": "If url contains a fragment identifier, return a modified version of url with no fragment identifier, and the fragment identifier as a separate string. If there is no fragment identifier in url, return url unmodified and an empty string.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1113,
+    "tag": "p",
+    "text": "The return value is a named tuple, its items can be accessed by index or as named attributes:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1119,
+    "tag": "th",
+    "text": "Attribute",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 1120,
+    "tag": "p",
+    "text": "Attribute",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1121,
+    "tag": "th",
+    "text": "Index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 1122,
+    "tag": "p",
+    "text": "Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1123,
+    "tag": "th",
+    "text": "Value",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 1124,
+    "tag": "p",
+    "text": "Value",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1125,
+    "tag": "th",
+    "text": "Value if not present",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 1126,
+    "tag": "p",
+    "text": "Value if not present",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1129,
+    "tag": "td",
+    "text": "url",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1130,
+    "tag": "p",
+    "text": "url",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1133,
+    "tag": "td",
+    "text": "0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1134,
+    "tag": "p",
+    "text": "0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1135,
+    "tag": "td",
+    "text": "URL with no fragment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1136,
+    "tag": "p",
+    "text": "URL with no fragment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1137,
+    "tag": "td",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1138,
+    "tag": "p",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1140,
+    "tag": "td",
+    "text": "fragment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1141,
+    "tag": "p",
+    "text": "fragment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1144,
+    "tag": "td",
+    "text": "1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1145,
+    "tag": "p",
+    "text": "1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1146,
+    "tag": "td",
+    "text": "Fragment identifier",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1147,
+    "tag": "p",
+    "text": "Fragment identifier",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1148,
+    "tag": "td",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1149,
+    "tag": "p",
+    "text": "empty string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1150,
+    "tag": "p",
+    "text": "See section Structured Parse Results for more information on the result object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1154,
+    "tag": "p",
+    "text": "Changed in version 3.2: Result is a structured object rather than a simple 2-tuple.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1157,
+    "tag": "dt",
+    "text": "urllib.parse.unwrap(url)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.unwrap"
+    }
+  },
+  {
+    "node_index": 1168,
+    "tag": "dd",
+    "text": "Extract the url from a wrapped URL (that is, a string formatted as <URL:scheme://host/path>, <scheme://host/path>, URL:scheme://host/path or scheme://host/path). If url is not a wrapped URL, it is returned without changes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1169,
+    "tag": "p",
+    "text": "Extract the url from a wrapped URL (that is, a string formatted as <URL:scheme://host/path>, <scheme://host/path>, URL:scheme://host/path or scheme://host/path). If url is not a wrapped URL, it is returned without changes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1181,
+    "tag": "h2",
+    "text": "URL parsing security¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1183,
+    "tag": "p",
+    "text": "The urlsplit() and urlparse() APIs do not perform validation of inputs. They may not raise errors on inputs that other applications consider invalid. They may also succeed on some inputs that might not be considered URLs elsewhere. Their purpose is for practical functionality rather than purity.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1191,
+    "tag": "p",
+    "text": "Instead of raising an exception on unusual input, they may instead return some component parts as empty strings. Or components may contain more than perhaps they should.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1192,
+    "tag": "p",
+    "text": "We recommend that users of these APIs where the values may be used anywhere with security implications code defensively. Do some verification within your code before trusting a returned component part. Does that scheme make sense? Is that a sensible path? Is there anything strange about that hostname? etc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1199,
+    "tag": "p",
+    "text": "What constitutes a URL is not universally well defined. Different applications have different needs and desired constraints. For instance the living WHATWG spec describes what user facing web clients such as a web browser require. While RFC 3986 is more general. These functions incorporate some aspects of both, but cannot be claimed compliant with either. The APIs and existing user code with expectations on specific behaviors predate both standards leading us to be very cautious about making API behavior changes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1206,
+    "tag": "h2",
+    "text": "Parsing ASCII Encoded Bytes¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1208,
+    "tag": "p",
+    "text": "The URL parsing functions were originally designed to operate on character strings only. In practice, it is useful to be able to manipulate properly quoted and encoded URLs as sequences of ASCII bytes. Accordingly, the URL parsing functions in this module all operate on bytes and bytearray objects in addition to str objects.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1218,
+    "tag": "p",
+    "text": "If str data is passed in, the result will also contain only str data. If bytes or bytearray data is passed in, the result will contain only bytes data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1232,
+    "tag": "p",
+    "text": "Attempting to mix str data with bytes or bytearray in a single function call will result in a TypeError being raised, while attempting to pass in non-ASCII byte values will trigger UnicodeDecodeError.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1248,
+    "tag": "p",
+    "text": "To support easier conversion of result objects between str and bytes, all return values from URL parsing functions provide either an encode() method (when the result contains str data) or a decode() method (when the result contains bytes data). The signatures of these methods match those of the corresponding str and bytes methods (except that the default encoding is 'ascii' rather than 'utf-8'). Each produces a value of a corresponding type that contains either bytes data (for encode() methods) or str data (for decode() methods).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1279,
+    "tag": "p",
+    "text": "Applications that need to operate on potentially improperly quoted URLs that may contain non-ASCII data will need to do their own decoding from bytes to characters before invoking the URL parsing methods.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1280,
+    "tag": "p",
+    "text": "The behaviour described in this section applies only to the URL parsing functions. The URL quoting functions use their own rules when producing or consuming byte sequences as detailed in the documentation of the individual URL quoting functions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1282,
+    "tag": "p",
+    "text": "Changed in version 3.2: URL parsing functions now accept ASCII encoded byte sequences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1286,
+    "tag": "h2",
+    "text": "Structured Parse Results¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1288,
+    "tag": "p",
+    "text": "The result objects from the urlsplit(), urlparse() and urldefrag() functions are subclasses of the tuple type. These subclasses add the attributes listed in the documentation for those functions, the encoding and decoding support described in the previous section, as well as an additional method:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1302,
+    "tag": "dt",
+    "text": "urllib.parse.SplitResult.geturl()¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urllib.parse.SplitResult.geturl"
+    }
+  },
+  {
+    "node_index": 1310,
+    "tag": "dd",
+    "text": "Return the re-combined version of the original URL as a string. This may differ from the original URL in that the scheme may be normalized to lower case and empty components may be dropped. Specifically, empty parameters, queries, and fragment identifiers will be removed. For urldefrag() results, only empty fragment identifiers will be removed. For urlsplit() and urlparse() results, all noted changes will be made to the URL returned by this method. The result of this method remains unchanged if passed back through the original parsing function: >>> from urllib.parse import urlsplit >>> url = 'HTTP://www.Python.org/doc/#' >>> r1 = urlsplit(url) >>> r1.geturl() 'http://www.Python.org/doc/' >>> r2 = urlsplit(r1.geturl()) >>> r2.geturl() 'http://www.Python.org/doc/'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1311,
+    "tag": "p",
+    "text": "Return the re-combined version of the original URL as a string. This may differ from the original URL in that the scheme may be normalized to lower case and empty components may be dropped. Specifically, empty parameters, queries, and fragment identifiers will be removed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1312,
+    "tag": "p",
+    "text": "For urldefrag() results, only empty fragment identifiers will be removed. For urlsplit() and urlparse() results, all noted changes will be made to the URL returned by this method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1322,
+    "tag": "p",
+    "text": "The result of this method remains unchanged if passed back through the original parsing function:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1325,
+    "tag": "pre",
+    "text": ">>> from urllib.parse import urlsplit >>> url = 'HTTP://www.Python.org/doc/#' >>> r1 = urlsplit(url) >>> r1.geturl() 'http://www.Python.org/doc/' >>> r2 = urlsplit(r1.geturl()) >>> r2.geturl() 'http://www.Python.org/doc/'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1366,
+    "tag": "p",
+    "text": "The following classes provide the implementations of the structured parse results when operating on str objects:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1371,
+    "tag": "dt",
+    "text": "class urllib.parse.DefragResult(url, fragment)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.DefragResult"
+    }
+  },
+  {
+    "node_index": 1389,
+    "tag": "dd",
+    "text": "Concrete class for urldefrag() results containing str data. The encode() method returns a DefragResultBytes instance. Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1390,
+    "tag": "p",
+    "text": "Concrete class for urldefrag() results containing str data. The encode() method returns a DefragResultBytes instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1403,
+    "tag": "p",
+    "text": "Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1406,
+    "tag": "dt",
+    "text": "class urllib.parse.ParseResult(scheme, netloc, path, params, query, fragment)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.ParseResult"
+    }
+  },
+  {
+    "node_index": 1436,
+    "tag": "dd",
+    "text": "Concrete class for urlparse() results containing str data. The encode() method returns a ParseResultBytes instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1437,
+    "tag": "p",
+    "text": "Concrete class for urlparse() results containing str data. The encode() method returns a ParseResultBytes instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1450,
+    "tag": "dt",
+    "text": "class urllib.parse.SplitResult(scheme, netloc, path, query, fragment)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.SplitResult"
+    }
+  },
+  {
+    "node_index": 1477,
+    "tag": "dd",
+    "text": "Concrete class for urlsplit() results containing str data. The encode() method returns a SplitResultBytes instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1478,
+    "tag": "p",
+    "text": "Concrete class for urlsplit() results containing str data. The encode() method returns a SplitResultBytes instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1490,
+    "tag": "p",
+    "text": "The following classes provide the implementations of the parse results when operating on bytes or bytearray objects:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1498,
+    "tag": "dt",
+    "text": "class urllib.parse.DefragResultBytes(url, fragment)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.DefragResultBytes"
+    }
+  },
+  {
+    "node_index": 1516,
+    "tag": "dd",
+    "text": "Concrete class for urldefrag() results containing bytes data. The decode() method returns a DefragResult instance. Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1517,
+    "tag": "p",
+    "text": "Concrete class for urldefrag() results containing bytes data. The decode() method returns a DefragResult instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1530,
+    "tag": "p",
+    "text": "Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1533,
+    "tag": "dt",
+    "text": "class urllib.parse.ParseResultBytes(scheme, netloc, path, params, query, fragment)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.ParseResultBytes"
+    }
+  },
+  {
+    "node_index": 1563,
+    "tag": "dd",
+    "text": "Concrete class for urlparse() results containing bytes data. The decode() method returns a ParseResult instance. Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1564,
+    "tag": "p",
+    "text": "Concrete class for urlparse() results containing bytes data. The decode() method returns a ParseResult instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1577,
+    "tag": "p",
+    "text": "Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1580,
+    "tag": "dt",
+    "text": "class urllib.parse.SplitResultBytes(scheme, netloc, path, query, fragment)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.SplitResultBytes"
+    }
+  },
+  {
+    "node_index": 1607,
+    "tag": "dd",
+    "text": "Concrete class for urlsplit() results containing bytes data. The decode() method returns a SplitResult instance. Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1608,
+    "tag": "p",
+    "text": "Concrete class for urlsplit() results containing bytes data. The decode() method returns a SplitResult instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1621,
+    "tag": "p",
+    "text": "Added in version 3.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1624,
+    "tag": "h2",
+    "text": "URL Quoting¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1626,
+    "tag": "p",
+    "text": "The URL quoting functions focus on taking program data and making it safe for use as URL components by quoting special characters and appropriately encoding non-ASCII text. They also support reversing these operations to recreate the original data from the contents of a URL component if that task isn’t already covered by the URL parsing functions above.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1628,
+    "tag": "dt",
+    "text": "urllib.parse.quote(string, safe='/', encoding=None, errors=None)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.quote"
+    }
+  },
+  {
+    "node_index": 1660,
+    "tag": "dd",
+    "text": "Replace special characters in string using the %xx escape. Letters, digits, and the characters '_.-~' are never quoted. By default, this function is intended for quoting the path section of a URL. The optional safe parameter specifies additional ASCII characters that should not be quoted — its default value is '/'. string may be either a str or a bytes object. Changed in version 3.7: Moved from RFC 2396 to RFC 3986 for quoting URL strings. “~” is now included in the set of unreserved characters. The optional encoding and errors parameters specify how to deal with non-ASCII characters, as accepted by the str.encode() method. Although these parameters default to None in the function signature, when processing str inputs, encoding effectively defaults to 'utf-8' and errors to 'strict', meaning unsupported characters raise a UnicodeEncodeError. encoding and errors must not be supplied if string is a bytes, or a TypeError is raised. Note that quote(string, safe, encoding, errors) is equivalent to quote_from_bytes(string.encode(encoding, errors), safe). Example: quote('/El Niño/') yields '/El%20Ni%C3%B1o/'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1661,
+    "tag": "p",
+    "text": "Replace special characters in string using the %xx escape. Letters, digits, and the characters '_.-~' are never quoted. By default, this function is intended for quoting the path section of a URL. The optional safe parameter specifies additional ASCII characters that should not be quoted — its default value is '/'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1672,
+    "tag": "p",
+    "text": "string may be either a str or a bytes object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1681,
+    "tag": "p",
+    "text": "Changed in version 3.7: Moved from RFC 2396 to RFC 3986 for quoting URL strings. “~” is now included in the set of unreserved characters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1689,
+    "tag": "p",
+    "text": "The optional encoding and errors parameters specify how to deal with non-ASCII characters, as accepted by the str.encode() method. Although these parameters default to None in the function signature, when processing str inputs, encoding effectively defaults to 'utf-8' and errors to 'strict', meaning unsupported characters raise a UnicodeEncodeError. encoding and errors must not be supplied if string is a bytes, or a TypeError is raised.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1718,
+    "tag": "p",
+    "text": "Note that quote(string, safe, encoding, errors) is equivalent to quote_from_bytes(string.encode(encoding, errors), safe).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1728,
+    "tag": "p",
+    "text": "Example: quote('/El Niño/') yields '/El%20Ni%C3%B1o/'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1735,
+    "tag": "dt",
+    "text": "urllib.parse.quote_plus(string, safe='', encoding=None, errors=None)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.quote_plus"
+    }
+  },
+  {
+    "node_index": 1767,
+    "tag": "dd",
+    "text": "Like quote(), but also replace spaces with plus signs, as required for quoting HTML form values when building up a query string to go into a URL. Plus signs in the original string are escaped unless they are included in safe. It also does not have safe default to '/'. Example: quote_plus('/El Niño/') yields '%2FEl+Ni%C3%B1o%2F'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1768,
+    "tag": "p",
+    "text": "Like quote(), but also replace spaces with plus signs, as required for quoting HTML form values when building up a query string to go into a URL. Plus signs in the original string are escaped unless they are included in safe. It also does not have safe default to '/'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1776,
+    "tag": "p",
+    "text": "Example: quote_plus('/El Niño/') yields '%2FEl+Ni%C3%B1o%2F'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1783,
+    "tag": "dt",
+    "text": "urllib.parse.quote_from_bytes(bytes, safe='/')¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.quote_from_bytes"
+    }
+  },
+  {
+    "node_index": 1801,
+    "tag": "dd",
+    "text": "Like quote(), but accepts a bytes object rather than a str, and does not perform string-to-bytes encoding. Example: quote_from_bytes(b'a&\\xef') yields 'a%26%EF'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1802,
+    "tag": "p",
+    "text": "Like quote(), but accepts a bytes object rather than a str, and does not perform string-to-bytes encoding.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1812,
+    "tag": "p",
+    "text": "Example: quote_from_bytes(b'a&\\xef') yields 'a%26%EF'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1818,
+    "tag": "dt",
+    "text": "urllib.parse.unquote(string, encoding='utf-8', errors='replace')¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.unquote"
+    }
+  },
+  {
+    "node_index": 1843,
+    "tag": "dd",
+    "text": "Replace %xx escapes with their single-character equivalent. The optional encoding and errors parameters specify how to decode percent-encoded sequences into Unicode characters, as accepted by the bytes.decode() method. string may be either a str or a bytes object. encoding defaults to 'utf-8'. errors defaults to 'replace', meaning invalid sequences are replaced by a placeholder character. Example: unquote('/El%20Ni%C3%B1o/') yields '/El Niño/'. Changed in version 3.9: string parameter supports bytes and str objects (previously only str).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1844,
+    "tag": "p",
+    "text": "Replace %xx escapes with their single-character equivalent. The optional encoding and errors parameters specify how to decode percent-encoded sequences into Unicode characters, as accepted by the bytes.decode() method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1854,
+    "tag": "p",
+    "text": "string may be either a str or a bytes object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1862,
+    "tag": "p",
+    "text": "encoding defaults to 'utf-8'. errors defaults to 'replace', meaning invalid sequences are replaced by a placeholder character.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1869,
+    "tag": "p",
+    "text": "Example: unquote('/El%20Ni%C3%B1o/') yields '/El Niño/'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1876,
+    "tag": "p",
+    "text": "Changed in version 3.9: string parameter supports bytes and str objects (previously only str).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1880,
+    "tag": "dt",
+    "text": "urllib.parse.unquote_plus(string, encoding='utf-8', errors='replace')¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.unquote_plus"
+    }
+  },
+  {
+    "node_index": 1905,
+    "tag": "dd",
+    "text": "Like unquote(), but also replace plus signs with spaces, as required for unquoting HTML form values. string must be a str. Example: unquote_plus('/El+Ni%C3%B1o/') yields '/El Niño/'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1906,
+    "tag": "p",
+    "text": "Like unquote(), but also replace plus signs with spaces, as required for unquoting HTML form values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1910,
+    "tag": "p",
+    "text": "string must be a str.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1915,
+    "tag": "p",
+    "text": "Example: unquote_plus('/El+Ni%C3%B1o/') yields '/El Niño/'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1922,
+    "tag": "dt",
+    "text": "urllib.parse.unquote_to_bytes(string)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.unquote_to_bytes"
+    }
+  },
+  {
+    "node_index": 1933,
+    "tag": "dd",
+    "text": "Replace %xx escapes with their single-octet equivalent, and return a bytes object. string may be either a str or a bytes object. If it is a str, unescaped non-ASCII characters in string are encoded into UTF-8 bytes. Example: unquote_to_bytes('a%26%EF') yields b'a&\\xef'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1934,
+    "tag": "p",
+    "text": "Replace %xx escapes with their single-octet equivalent, and return a bytes object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1942,
+    "tag": "p",
+    "text": "string may be either a str or a bytes object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1950,
+    "tag": "p",
+    "text": "If it is a str, unescaped non-ASCII characters in string are encoded into UTF-8 bytes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1955,
+    "tag": "p",
+    "text": "Example: unquote_to_bytes('a%26%EF') yields b'a&\\xef'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1961,
+    "tag": "dt",
+    "text": "urllib.parse.urlencode(query, doseq=False, safe='', encoding=None, errors=None, quote_via=quote_plus)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "urllib.parse.urlencode"
+    }
+  },
+  {
+    "node_index": 2007,
+    "tag": "dd",
+    "text": "Convert a mapping object or a sequence of two-element tuples, which may contain str or bytes objects, to a percent-encoded ASCII text string. If the resultant string is to be used as a data for POST operation with the urlopen() function, then it should be encoded to bytes, otherwise it would result in a TypeError. The resulting string is a series of key=value pairs separated by '&' characters, where both key and value are quoted using the quote_via function. By default, quote_plus() is used to quote the values, which means spaces are quoted as a '+' character and ‘/’ characters are encoded as %2F, which follows the standard for GET requests (application/x-www-form-urlencoded). An alternate function that can be passed as quote_via is quote(), which will encode spaces as %20 and not encode ‘/’ characters. For maximum control of what is quoted, use quote and specify a value for safe. When a sequence of two-element tuples is used as the query argument, the first element of each tuple is a key and the second is a value. The value element in itself can be a sequence and in that case, if the optional parameter doseq evaluates to True, individual key=value pairs separated by '&' are genera",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2008,
+    "tag": "p",
+    "text": "Convert a mapping object or a sequence of two-element tuples, which may contain str or bytes objects, to a percent-encoded ASCII text string. If the resultant string is to be used as a data for POST operation with the urlopen() function, then it should be encoded to bytes, otherwise it would result in a TypeError.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2022,
+    "tag": "p",
+    "text": "The resulting string is a series of key=value pairs separated by '&' characters, where both key and value are quoted using the quote_via function. By default, quote_plus() is used to quote the values, which means spaces are quoted as a '+' character and ‘/’ characters are encoded as %2F, which follows the standard for GET requests (application/x-www-form-urlencoded). An alternate function that can be passed as quote_via is quote(), which will encode spaces as %20 and not encode ‘/’ characters. For maximum control of what is quoted, use quote and specify a value for safe.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2048,
+    "tag": "p",
+    "text": "When a sequence of two-element tuples is used as the query argument, the first element of each tuple is a key and the second is a value. The value element in itself can be a sequence and in that case, if the optional parameter doseq evaluates to True, individual key=value pairs separated by '&' are generated for each element of the value sequence for the key. The order of parameters in the encoded string will match the order of parameter tuples in the sequence.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2057,
+    "tag": "p",
+    "text": "The safe, encoding, and errors parameters are passed down to quote_via (the encoding and errors parameters are only passed when a query element is a str).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2067,
+    "tag": "p",
+    "text": "To reverse this encoding process, parse_qs() and parse_qsl() are provided in this module to parse query strings into Python data structures.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2074,
+    "tag": "p",
+    "text": "Refer to urllib examples to find out how the urllib.parse.urlencode() method can be used for generating the query string of a URL or data for a POST request.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2080,
+    "tag": "p",
+    "text": "Changed in version 3.2: query supports bytes and string objects.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2084,
+    "tag": "p",
+    "text": "Changed in version 3.5: Added the quote_via parameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2088,
+    "tag": "p",
+    "text": "Deprecated since version 3.14: Accepting objects with false values (like 0 and []) except empty strings and byte-like objects and None is now deprecated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2097,
+    "tag": "p",
+    "text": "See also",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 2099,
+    "tag": "dt",
+    "text": "WHATWG - URL Living standard",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2101,
+    "tag": "dd",
+    "text": "Working Group for the URL Standard that defines URLs, domains, IP addresses, the application/x-www-form-urlencoded format, and their API.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2102,
+    "tag": "p",
+    "text": "Working Group for the URL Standard that defines URLs, domains, IP addresses, the application/x-www-form-urlencoded format, and their API.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2103,
+    "tag": "dt",
+    "text": "RFC 3986 - Uniform Resource Identifiers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2107,
+    "tag": "dd",
+    "text": "This is the current standard (STD66). Any changes to urllib.parse module should conform to this. Certain deviations could be observed, which are mostly for backward compatibility purposes and for certain de-facto parsing requirements as commonly observed in major browsers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2108,
+    "tag": "p",
+    "text": "This is the current standard (STD66). Any changes to urllib.parse module should conform to this. Certain deviations could be observed, which are mostly for backward compatibility purposes and for certain de-facto parsing requirements as commonly observed in major browsers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2109,
+    "tag": "dt",
+    "text": "RFC 2732 - Format for Literal IPv6 Addresses in URL’s.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2113,
+    "tag": "dd",
+    "text": "This specifies the parsing requirements of IPv6 URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2114,
+    "tag": "p",
+    "text": "This specifies the parsing requirements of IPv6 URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2115,
+    "tag": "dt",
+    "text": "RFC 2396 - Uniform Resource Identifiers (URI): Generic Syntax",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2119,
+    "tag": "dd",
+    "text": "Document describing the generic syntactic requirements for both Uniform Resource Names (URNs) and Uniform Resource Locators (URLs).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2120,
+    "tag": "p",
+    "text": "Document describing the generic syntactic requirements for both Uniform Resource Names (URNs) and Uniform Resource Locators (URLs).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2121,
+    "tag": "dt",
+    "text": "RFC 2368 - The mailto URL scheme.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2125,
+    "tag": "dd",
+    "text": "Parsing requirements for mailto URL schemes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2126,
+    "tag": "p",
+    "text": "Parsing requirements for mailto URL schemes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2127,
+    "tag": "dt",
+    "text": "RFC 1808 - Relative Uniform Resource Locators",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2131,
+    "tag": "dd",
+    "text": "This Request For Comments includes the rules for joining an absolute and a relative URL, including a fair number of “Abnormal Examples” which govern the treatment of border cases.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2132,
+    "tag": "p",
+    "text": "This Request For Comments includes the rules for joining an absolute and a relative URL, including a fair number of “Abnormal Examples” which govern the treatment of border cases.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2133,
+    "tag": "dt",
+    "text": "RFC 1738 - Uniform Resource Locators (URL)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2137,
+    "tag": "dd",
+    "text": "This specifies the formal syntax and semantics of absolute URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2138,
+    "tag": "p",
+    "text": "This specifies the formal syntax and semantics of absolute URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2143,
+    "tag": "h3",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2146,
+    "tag": "li",
+    "text": "urllib.parse — Parse URLs into components URL Parsing URL parsing security Parsing ASCII Encoded Bytes Structured Parse Results URL Quoting",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2151,
+    "tag": "li",
+    "text": "URL Parsing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2153,
+    "tag": "li",
+    "text": "URL parsing security",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2155,
+    "tag": "li",
+    "text": "Parsing ASCII Encoded Bytes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2157,
+    "tag": "li",
+    "text": "Structured Parse Results",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2159,
+    "tag": "li",
+    "text": "URL Quoting",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2163,
+    "tag": "p",
+    "text": "urllib.request — Extensible library for opening URLs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 2169,
+    "tag": "p",
+    "text": "urllib.error — Exception classes raised by urllib.request",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 2175,
+    "tag": "h3",
+    "text": "This page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2177,
+    "tag": "li",
+    "text": "Report a bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2179,
+    "tag": "li",
+    "text": "Improve this page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2181,
+    "tag": "li",
+    "text": "Show source",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2187,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2189,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 2191,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 2193,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 2195,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 2199,
+    "tag": "li",
+    "text": "Python »",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2205,
+    "tag": "li",
+    "text": "3.14.7 Documentation »",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cpython-language-and-version"
+    }
+  },
+  {
+    "node_index": 2207,
+    "tag": "li",
+    "text": "The Python Standard Library »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-1"
+    }
+  },
+  {
+    "node_index": 2209,
+    "tag": "li",
+    "text": "Internet Protocols and Support »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-2"
+    }
+  },
+  {
+    "node_index": 2211,
+    "tag": "li",
+    "text": "urllib.parse — Parse URLs into components",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 2215,
+    "tag": "li",
+    "text": "|",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 2220,
+    "tag": "li",
+    "text": "Theme Auto Light Dark |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  }
+]

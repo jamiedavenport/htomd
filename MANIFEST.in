@@ -1,0 +1,6 @@
+include LICENSE README.md CONTRIBUTING.md
+recursive-include src/htomd *.py py.typed
+prune tests
+prune tools
+prune .github
+exclude .pre-commit-config.yaml uv.lock

@@ -1,0 +1,1089 @@
+[
+  {
+    "node_index": 69,
+    "tag": "h3",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 72,
+    "tag": "li",
+    "text": "html.parser — Simple HTML and XHTML parser Example HTML Parser Application HTMLParser Methods Examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Example HTML Parser Application",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "HTMLParser Methods",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 87,
+    "tag": "p",
+    "text": "html — HyperText Markup Language support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 93,
+    "tag": "p",
+    "text": "html.entities — Definitions of HTML general entities",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 99,
+    "tag": "h3",
+    "text": "This page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Report a bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Improve this page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Show source",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 108,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 110,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 112,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 116,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "Python »",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "3.14.7 Documentation »",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cpython-language-and-version"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "The Python Standard Library »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-1"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "Structured Markup Processing Tools »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-2"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "html.parser — Simple HTML and XHTML parser",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "|",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 141,
+    "tag": "li",
+    "text": "Theme Auto Light Dark |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "h1",
+    "text": "html.parser — Simple HTML and XHTML parser¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 157,
+    "tag": "p",
+    "text": "Source code: Lib/html/parser.py",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 161,
+    "tag": "p",
+    "text": "This module defines a class HTMLParser which serves as the basis for parsing text files formatted in HTML (HyperText Mark-up Language) and XHTML.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 166,
+    "tag": "dt",
+    "text": "class html.parser.HTMLParser(*, convert_charrefs=True, scripting=False)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "dd",
+    "text": "Create a parser instance able to parse invalid markup. If convert_charrefs is true (the default), all character references (except the ones in elements like script and style) are automatically converted to the corresponding Unicode characters. If scripting is false (the default), the content of the noscript element is parsed normally; if it’s true, it’s returned as is without being parsed. An HTMLParser instance is fed HTML data and calls handler methods when start tags, end tags, text, comments, and other markup elements are encountered. The user should subclass HTMLParser and override its methods to implement the desired behavior. This parser does not check that end tags match start tags or call the end-tag handler for elements which are closed implicitly by closing an outer element. Changed in version 3.4: convert_charrefs keyword argument added. Changed in version 3.5: The default value for argument convert_charrefs is now True. Changed in version 3.14.1: Added the scripting parameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 197,
+    "tag": "p",
+    "text": "Create a parser instance able to parse invalid markup.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "p",
+    "text": "If convert_charrefs is true (the default), all character references (except the ones in elements like script and style) are automatically converted to the corresponding Unicode characters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "p",
+    "text": "If scripting is false (the default), the content of the noscript element is parsed normally; if it’s true, it’s returned as is without being parsed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "p",
+    "text": "An HTMLParser instance is fed HTML data and calls handler methods when start tags, end tags, text, comments, and other markup elements are encountered. The user should subclass HTMLParser and override its methods to implement the desired behavior.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 213,
+    "tag": "p",
+    "text": "This parser does not check that end tags match start tags or call the end-tag handler for elements which are closed implicitly by closing an outer element.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 215,
+    "tag": "p",
+    "text": "Changed in version 3.4: convert_charrefs keyword argument added.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 219,
+    "tag": "p",
+    "text": "Changed in version 3.5: The default value for argument convert_charrefs is now True.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "p",
+    "text": "Changed in version 3.14.1: Added the scripting parameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "h2",
+    "text": "Example HTML Parser Application¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "p",
+    "text": "As a basic example, below is a simple HTML parser that uses the HTMLParser class to print out start tags, end tags, and data as they are encountered:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "pre",
+    "text": "from html.parser import HTMLParser class MyHTMLParser(HTMLParser): def handle_starttag(self, tag, attrs): print(\"Encountered a start tag:\", tag) def handle_endtag(self, tag): print(\"Encountered an end tag :\", tag) def handle_data(self, data): print(\"Encountered some data :\", data) parser = MyHTMLParser() parser.feed('<html><head><title>Test</title></head>' '<body><h1>Parse me!</h1></body></html>')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "p",
+    "text": "The output will then be:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "pre",
+    "text": "Encountered a start tag: html Encountered a start tag: head Encountered a start tag: title Encountered some data : Test Encountered an end tag : title Encountered an end tag : head Encountered a start tag: body Encountered a start tag: h1 Encountered some data : Parse me! Encountered an end tag : h1 Encountered an end tag : body Encountered an end tag : html",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 312,
+    "tag": "h2",
+    "text": "HTMLParser Methods¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 317,
+    "tag": "p",
+    "text": "HTMLParser instances have the following methods:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 322,
+    "tag": "dt",
+    "text": "HTMLParser.feed(data)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.feed"
+    }
+  },
+  {
+    "node_index": 333,
+    "tag": "dd",
+    "text": "Feed some text to the parser. It is processed insofar as it consists of complete elements; incomplete data is buffered until more data is fed or close() is called. data must be str.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "p",
+    "text": "Feed some text to the parser. It is processed insofar as it consists of complete elements; incomplete data is buffered until more data is fed or close() is called. data must be str.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 343,
+    "tag": "dt",
+    "text": "HTMLParser.close()¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.close"
+    }
+  },
+  {
+    "node_index": 351,
+    "tag": "dd",
+    "text": "Force processing of all buffered data as if it were followed by an end-of-file mark. This method may be redefined by a derived class to define additional processing at the end of the input, but the redefined version should always call the HTMLParser base class method close().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 352,
+    "tag": "p",
+    "text": "Force processing of all buffered data as if it were followed by an end-of-file mark. This method may be redefined by a derived class to define additional processing at the end of the input, but the redefined version should always call the HTMLParser base class method close().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 359,
+    "tag": "dt",
+    "text": "HTMLParser.reset()¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.reset"
+    }
+  },
+  {
+    "node_index": 367,
+    "tag": "dd",
+    "text": "Reset the instance. Loses all unprocessed data. This is called implicitly at instantiation time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 368,
+    "tag": "p",
+    "text": "Reset the instance. Loses all unprocessed data. This is called implicitly at instantiation time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "dt",
+    "text": "HTMLParser.getpos()¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.getpos"
+    }
+  },
+  {
+    "node_index": 378,
+    "tag": "dd",
+    "text": "Return current line number and offset.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 379,
+    "tag": "p",
+    "text": "Return current line number and offset.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 381,
+    "tag": "dt",
+    "text": "HTMLParser.get_starttag_text()¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.get_starttag_text"
+    }
+  },
+  {
+    "node_index": 389,
+    "tag": "dd",
+    "text": "Return the text of the most recently opened start tag. This should not normally be needed for structured processing, but may be useful in dealing with HTML “as deployed” or for re-generating input with minimal changes (whitespace between attributes can be preserved, etc.).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 390,
+    "tag": "p",
+    "text": "Return the text of the most recently opened start tag. This should not normally be needed for structured processing, but may be useful in dealing with HTML “as deployed” or for re-generating input with minimal changes (whitespace between attributes can be preserved, etc.).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "p",
+    "text": "The following methods are called when data or markup elements are encountered and they are meant to be overridden in a subclass. The base class implementations do nothing (except for handle_startendtag()):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 396,
+    "tag": "dt",
+    "text": "HTMLParser.handle_starttag(tag, attrs)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_starttag"
+    }
+  },
+  {
+    "node_index": 410,
+    "tag": "dd",
+    "text": "This method is called to handle the start tag of an element (e.g. <div id=\"main\">). The tag argument is the name of the tag converted to lower case. The attrs argument is a list of (name, value) pairs containing the attributes found inside the tag’s <> brackets. The name will be translated to lower case, and quotes in the value have been removed, and character and entity references have been replaced. For empty attributes, value is None. For instance, for the tag <A HREF=\"https://www.cwi.nl/\">, this method would be called as handle_starttag('a', [('href', 'https://www.cwi.nl/')]). All entity references from html.entities are replaced in the attribute values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 411,
+    "tag": "p",
+    "text": "This method is called to handle the start tag of an element (e.g. <div id=\"main\">).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "The tag argument is the name of the tag converted to lower case. The attrs argument is a list of (name, value) pairs containing the attributes found inside the tag’s <> brackets. The name will be translated to lower case, and quotes in the value have been removed, and character and entity references have been replaced. For empty attributes, value is None.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 428,
+    "tag": "p",
+    "text": "For instance, for the tag <A HREF=\"https://www.cwi.nl/\">, this method would be called as handle_starttag('a', [('href', 'https://www.cwi.nl/')]).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 436,
+    "tag": "p",
+    "text": "All entity references from html.entities are replaced in the attribute values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 441,
+    "tag": "dt",
+    "text": "HTMLParser.handle_endtag(tag)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_endtag"
+    }
+  },
+  {
+    "node_index": 452,
+    "tag": "dd",
+    "text": "This method is called to handle the end tag of an element (e.g. </div>). The tag argument is the name of the tag converted to lower case.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "p",
+    "text": "This method is called to handle the end tag of an element (e.g. </div>).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 456,
+    "tag": "p",
+    "text": "The tag argument is the name of the tag converted to lower case.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 459,
+    "tag": "dt",
+    "text": "HTMLParser.handle_startendtag(tag, attrs)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_startendtag"
+    }
+  },
+  {
+    "node_index": 473,
+    "tag": "dd",
+    "text": "Similar to handle_starttag(), but called when the parser encounters an XHTML-style empty tag (<img ... />). This method may be overridden by subclasses which require this particular lexical information; the default implementation simply calls handle_starttag() and handle_endtag().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 474,
+    "tag": "p",
+    "text": "Similar to handle_starttag(), but called when the parser encounters an XHTML-style empty tag (<img ... />). This method may be overridden by subclasses which require this particular lexical information; the default implementation simply calls handle_starttag() and handle_endtag().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "dt",
+    "text": "HTMLParser.handle_data(data)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_data"
+    }
+  },
+  {
+    "node_index": 499,
+    "tag": "dd",
+    "text": "This method is called to process arbitrary data (e.g. text nodes and the content of elements like script and style).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 500,
+    "tag": "p",
+    "text": "This method is called to process arbitrary data (e.g. text nodes and the content of elements like script and style).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 506,
+    "tag": "dt",
+    "text": "HTMLParser.handle_entityref(name)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_entityref"
+    }
+  },
+  {
+    "node_index": 517,
+    "tag": "dd",
+    "text": "This method is called to process a named character reference of the form &name; (e.g. &gt;), where name is a general entity reference (e.g. 'gt'). This method is only called if convert_charrefs is false.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 518,
+    "tag": "p",
+    "text": "This method is called to process a named character reference of the form &name; (e.g. &gt;), where name is a general entity reference (e.g. 'gt'). This method is only called if convert_charrefs is false.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 528,
+    "tag": "dt",
+    "text": "HTMLParser.handle_charref(name)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_charref"
+    }
+  },
+  {
+    "node_index": 539,
+    "tag": "dd",
+    "text": "This method is called to process decimal and hexadecimal numeric character references of the form &#NNN; and &#xNNN;. For example, the decimal equivalent for &gt; is &#62;, whereas the hexadecimal is &#x3E;; in this case the method will receive '62' or 'x3E'. This method is only called if convert_charrefs is false.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 540,
+    "tag": "p",
+    "text": "This method is called to process decimal and hexadecimal numeric character references of the form &#NNN; and &#xNNN;. For example, the decimal equivalent for &gt; is &#62;, whereas the hexadecimal is &#x3E;; in this case the method will receive '62' or 'x3E'. This method is only called if convert_charrefs is false.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 563,
+    "tag": "dt",
+    "text": "HTMLParser.handle_comment(data)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_comment"
+    }
+  },
+  {
+    "node_index": 574,
+    "tag": "dd",
+    "text": "This method is called when a comment is encountered (e.g. <!--comment-->). For example, the comment <!-- comment --> will cause this method to be called with the argument ' comment '. The content of Internet Explorer conditional comments (condcoms) will also be sent to this method, so, for <!--[if IE 9]>IE9-specific content<![endif]-->, this method will receive '[if IE 9]>IE9-specific content<![endif]'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 575,
+    "tag": "p",
+    "text": "This method is called when a comment is encountered (e.g. <!--comment-->).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 578,
+    "tag": "p",
+    "text": "For example, the comment <!-- comment --> will cause this method to be called with the argument ' comment '.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 587,
+    "tag": "p",
+    "text": "The content of Internet Explorer conditional comments (condcoms) will also be sent to this method, so, for <!--[if IE 9]>IE9-specific content<![endif]-->, this method will receive '[if IE 9]>IE9-specific content<![endif]'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 599,
+    "tag": "dt",
+    "text": "HTMLParser.handle_decl(decl)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_decl"
+    }
+  },
+  {
+    "node_index": 610,
+    "tag": "dd",
+    "text": "This method is called to handle an HTML doctype declaration (e.g. <!DOCTYPE html>). The decl parameter will be the entire contents of the declaration inside the <!...> markup (e.g. 'DOCTYPE html').",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 611,
+    "tag": "p",
+    "text": "This method is called to handle an HTML doctype declaration (e.g. <!DOCTYPE html>).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 615,
+    "tag": "p",
+    "text": "The decl parameter will be the entire contents of the declaration inside the <!...> markup (e.g. 'DOCTYPE html').",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 623,
+    "tag": "dt",
+    "text": "HTMLParser.handle_pi(data)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.handle_pi"
+    }
+  },
+  {
+    "node_index": 634,
+    "tag": "dd",
+    "text": "Method called when a processing instruction is encountered. The data parameter will contain the entire processing instruction. For example, for the processing instruction <?proc color='red'>, this method would be called as handle_pi(\"proc color='red'\"). It is intended to be overridden by a derived class; the base class implementation does nothing. Note The HTMLParser class uses the SGML syntactic rules for processing instructions. An XHTML processing instruction using the trailing '?' will cause the '?' to be included in data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 635,
+    "tag": "p",
+    "text": "Method called when a processing instruction is encountered. The data parameter will contain the entire processing instruction. For example, for the processing instruction <?proc color='red'>, this method would be called as handle_pi(\"proc color='red'\"). It is intended to be overridden by a derived class; the base class implementation does nothing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 644,
+    "tag": "p",
+    "text": "Note",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 645,
+    "tag": "p",
+    "text": "The HTMLParser class uses the SGML syntactic rules for processing instructions. An XHTML processing instruction using the trailing '?' will cause the '?' to be included in data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 655,
+    "tag": "dt",
+    "text": "HTMLParser.unknown_decl(data)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "html.parser.HTMLParser.unknown_decl"
+    }
+  },
+  {
+    "node_index": 666,
+    "tag": "dd",
+    "text": "This method is called when an unrecognized declaration is read by the parser. The data parameter will be the entire contents of the declaration inside the <![...]> markup. It is sometimes useful to be overridden by a derived class. The base class implementation does nothing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 667,
+    "tag": "p",
+    "text": "This method is called when an unrecognized declaration is read by the parser.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 668,
+    "tag": "p",
+    "text": "The data parameter will be the entire contents of the declaration inside the <![...]> markup. It is sometimes useful to be overridden by a derived class. The base class implementation does nothing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 674,
+    "tag": "h2",
+    "text": "Examples¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 676,
+    "tag": "p",
+    "text": "The following class implements a parser that will be used to illustrate more examples:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 679,
+    "tag": "pre",
+    "text": "from html.parser import HTMLParser from html.entities import name2codepoint class MyHTMLParser(HTMLParser): def handle_starttag(self, tag, attrs): print(\"Start tag:\", tag) for attr in attrs: print(\" attr:\", attr) def handle_endtag(self, tag): print(\"End tag :\", tag) def handle_data(self, data): print(\"Data :\", data) def handle_comment(self, data): print(\"Comment :\", data) def handle_entityref(self, name): c = chr(name2codepoint[name]) print(\"Named ent:\", c) def handle_charref(self, name): if name.startswith('x'): c = chr(int(name[1:], 16)) else: c = chr(int(name)) print(\"Num ent :\", c) def handle_decl(self, data): print(\"Decl :\", data) parser = MyHTMLParser()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 851,
+    "tag": "p",
+    "text": "Parsing a doctype:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 854,
+    "tag": "pre",
+    "text": ">>> parser.feed('<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" ' ... '\"http://www.w3.org/TR/html4/strict.dtd\">') Decl : DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\" \"http://www.w3.org/TR/html4/strict.dtd\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 866,
+    "tag": "p",
+    "text": "Parsing an element with a few attributes and a title:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 869,
+    "tag": "pre",
+    "text": ">>> parser.feed('<img src=\"python-logo.png\" alt=\"The Python logo\">') Start tag: img attr: ('src', 'python-logo.png') attr: ('alt', 'The Python logo') >>> >>> parser.feed('<h1>Python</h1>') Start tag: h1 Data : Python End tag : h1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 892,
+    "tag": "p",
+    "text": "The content of elements like script and style is returned as is, without further parsing:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 899,
+    "tag": "pre",
+    "text": ">>> parser.feed('<style type=\"text/css\">#python { color: green }</style>') Start tag: style attr: ('type', 'text/css') Data : #python { color: green } End tag : style >>> parser.feed('<script type=\"text/javascript\">' ... 'alert(\"<strong>hello! &#9786;</strong>\");</script>') Start tag: script attr: ('type', 'text/javascript') Data : alert(\"<strong>hello! &#9786;</strong>\"); End tag : script",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 925,
+    "tag": "p",
+    "text": "Attribute names are converted to lowercase, quotes from attribute values removed, and None is returned as value for empty attributes (such as checked):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 933,
+    "tag": "pre",
+    "text": ">>> parser.feed(\"<input TYPE='checkbox' checked required='' disabled=disabled>\") Start tag: input attr: ('type', 'checkbox') attr: ('checked', None) attr: ('required', '') attr: ('disabled', 'disabled')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 947,
+    "tag": "p",
+    "text": "Parsing comments:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 950,
+    "tag": "pre",
+    "text": ">>> parser.feed('<!--a comment-->' ... '<!--[if IE 9]>IE-specific content<![endif]-->') Comment : a comment Comment : [if IE 9]>IE-specific content<![endif]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 963,
+    "tag": "p",
+    "text": "Parsing named and numeric character references and converting them to the correct char (note: these 3 references are all equivalent to '>'):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 968,
+    "tag": "pre",
+    "text": ">>> parser = MyHTMLParser() >>> parser.feed('&gt;&#62;&#x3E;') Data : >>> >>> parser = MyHTMLParser(convert_charrefs=False) >>> parser.feed('&gt;&#62;&#x3E;') Named ent: > Num ent : > Num ent : >",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1002,
+    "tag": "p",
+    "text": "Feeding incomplete chunks to feed() works, but handle_data() might be called more than once if convert_charrefs is false:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1012,
+    "tag": "pre",
+    "text": ">>> for chunk in ['<sp', 'an>buff', 'ered', ' text</s', 'pan>']: ... parser.feed(chunk) ... Start tag: span Data : buff Data : ered Data : text End tag : span",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1042,
+    "tag": "p",
+    "text": "Parsing invalid HTML (e.g. unquoted attributes) also works:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1045,
+    "tag": "pre",
+    "text": ">>> parser.feed('<p><a class=link href=#main>tag soup</p ></a>') Start tag: p Start tag: a attr: ('class', 'link') attr: ('href', '#main') Data : tag soup End tag : p End tag : a",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1065,
+    "tag": "h3",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1068,
+    "tag": "li",
+    "text": "html.parser — Simple HTML and XHTML parser Example HTML Parser Application HTMLParser Methods Examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1073,
+    "tag": "li",
+    "text": "Example HTML Parser Application",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1075,
+    "tag": "li",
+    "text": "HTMLParser Methods",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1079,
+    "tag": "li",
+    "text": "Examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1083,
+    "tag": "p",
+    "text": "html — HyperText Markup Language support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 1089,
+    "tag": "p",
+    "text": "html.entities — Definitions of HTML general entities",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 1095,
+    "tag": "h3",
+    "text": "This page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1097,
+    "tag": "li",
+    "text": "Report a bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1099,
+    "tag": "li",
+    "text": "Improve this page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1101,
+    "tag": "li",
+    "text": "Show source",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1107,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1109,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 1111,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1113,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1115,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1119,
+    "tag": "li",
+    "text": "Python »",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1125,
+    "tag": "li",
+    "text": "3.14.7 Documentation »",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cpython-language-and-version"
+    }
+  },
+  {
+    "node_index": 1127,
+    "tag": "li",
+    "text": "The Python Standard Library »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-1"
+    }
+  },
+  {
+    "node_index": 1129,
+    "tag": "li",
+    "text": "Structured Markup Processing Tools »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-2"
+    }
+  },
+  {
+    "node_index": 1131,
+    "tag": "li",
+    "text": "html.parser — Simple HTML and XHTML parser",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 1135,
+    "tag": "li",
+    "text": "|",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1140,
+    "tag": "li",
+    "text": "Theme Auto Light Dark |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  }
+]

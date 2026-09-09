@@ -1,0 +1,34 @@
+# Tech News 2026 – Issue 37
+
+7 September 20267 September 2026 by [Sandister Tei (WMF)](https://diff.wikimedia.org/author/stei-wmf/)
+
+[Translate this post](https://diff.wikimedia.org/2026/09/07/tech-news-2026-issue-37/#translate-post)
+
+Latest **[tech news](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News)** from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. [Translations](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/2026/37) are available.
+
+**Updates for editors**
+
+- [Add a Link](https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Growth/Tools/Add_a_link) has been upgraded for English Wikipedia users with improved detection of links that have different capitalization. This will help reduce ambiguous suggestions caused by differences in capitalization in article titles, including articles about cultural goods. A second phase of improvements is planned, which will also prepare the feature for release in other languages. [\[1\]](https://phabricator.wikimedia.org/T435526#12240876) [\[2\]](https://phabricator.wikimedia.org/T434259)
+- The [Article guidance](https://www.mediawiki.org/wiki/Special:MyLanguage/Article_guidance) feature will be enabled by default for junior editors on Simple English and Turkish Wikipedia starting 10 September 2026 following [an experiment](https://www.mediawiki.org/wiki/Special:MyLanguage/Article_guidance/Updates#Summary_of_experiment_result). Junior editors with 0 to 99 edits will automatically see the feature when they click a red link or use the “[Madde oluşturto](https://tr.wikipedia.org/wiki/Vikipedi:Madde_sihirbaz%C4%B1)” option on Turkish Wikipedia to create a new article. The change is intended to help junior editors create higher-quality articles that meet each Wikipedia’s standards. [Additional improvements](https://phabricator.wikimedia.org/maniphest/query/z3tcTjmLMxk5/#R) will continue based on the experiment results and community feedback.
+- The [Pageviews Analysis](https://pageviews.wmcloud.org/) tool which allows users to compare pageviews across multiple pages, turns 10 years old this year and several new features have been added. They include [WikiNav](https://iw.toolforge.org/wikinav) which provides insights into how readers of Wikipedia explore the content, editing stats in [Siteviews](https://pageviews.wmcloud.org/siteviews?range=latest-30&sites=en.wikipedia.org), the ability to [lookup articles belonging to a WikiProject](https://pageviews.wmcloud.org/massviews?source=wikiproject&project=en.wikipedia.org), and support for dark mode. [\[3\]](https://phabricator.wikimedia.org/T378549)
+- A [visually simplified Minerva](https://www.mediawiki.org/wiki/Special:MyLanguage/Readers/Reader_Growth/Minimal_Minerva) navigation bar is being tested for logged-out readers using mobile web on the Bengali, Czech, English, Farsi, and Polish Wikipedias. The experiment aims to determine whether simplifying the navigation improves reader retention. The test will run from August 31 to September 28, and no action is required from users.
+- [WMDE Technical Wishes](https://meta.wikimedia.org/wiki/Special:MyLanguage/WMDE_Technical_Wishes) is working on improving [auto-generated reference names in VisualEditor](https://en.wikipedia.org/wiki/Wikipedia:VisualEditor/Named_references). Editors will only notice a slight change starting this week. When adding automatic reference names the numbering will start at `:1` instead of `:0`. Read more on the [project page](https://meta.wikimedia.org/wiki/WMDE_Technical_Wishes/References/VisualEditor_automatic_reference_names). [\[4\]](https://gerrit.wikimedia.org/r/c/VisualEditor/VisualEditor/+/1332704)
+- All wikis will be [read-only for a few minutes](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/Server_switch) on September 23. This is planned at 14:00 UTC. More information will be published in Tech News and will also be posted on individual wikis in the coming weeks. [\[5\]](https://phabricator.wikimedia.org/T433363)
+- ![Recurrent item](https://i0.wp.com/thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Reload_icon_with_two_arrows.svg/20px-Reload_icon_with_two_arrows.svg.png?resize=12%2C12&ssl=1) View all 25 community-submitted tasks that were [resolved last week](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Recently_resolved_community_tasks). For example, an issue where [Parsoid](https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid) could mishandle nested nowiki tags, causing content to be lost and displaying unwanted text has now been fixed. [\[6\]](https://phabricator.wikimedia.org/T435116)
+
+**Updates for technical contributors**
+
+- Interface administrators can configure gadgets from [MediaWiki:Gadgets-definition](https://meta.wikimedia.org/wiki/MediaWiki:Gadgets-definition). The definition format has been updated and no longer requires the `ResourceLoader` option, as gadgets are always loaded through `ResourceLoader`. This simplifies gadget configuration by removing an option that is no longer necessary, making gadget definitions easier for administrators. [\[7\]](https://phabricator.wikimedia.org/T298199)
+- ![Recurrent item](https://i0.wp.com/thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Reload_icon_with_two_arrows.svg/20px-Reload_icon_with_two_arrows.svg.png?resize=12%2C12&ssl=1) Detailed code updates later this week: [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki_1.47/wmf.19)
+
+***[Tech news](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News)** prepared by [Tech News writers](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/Writers) and posted by [bot](https://meta.wikimedia.org/wiki/Special:MyLanguage/User:MediaWiki_message_delivery) • [Contribute](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News#contribute) • [Translate](https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News/2026/37) • [Get help](https://meta.wikimedia.org/wiki/Tech) • [Give feedback](https://meta.wikimedia.org/wiki/Talk:Tech/News) • [Subscribe or unsubscribe](https://meta.wikimedia.org/wiki/Global_message_delivery/Targets/Tech_ambassadors).*
+
+![](https://diff.wikimedia.org/wp-content/themes/interconnection/assets/images/translate-post.jpg)
+
+## Can you help us translate this article?
+
+In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?
+
+[Start translation](https://diff.wikimedia.org/wp-login.php?redirect_to=%2F2026%2F09%2F07%2Ftech-news-2026-issue-37%2F%23translate-post)
+
+### *Related*

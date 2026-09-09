@@ -1,0 +1,883 @@
+[
+  {
+    "node_index": 70,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 71,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 86,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 110,
+    "tag": "li",
+    "text": "Policy & Priorities Main Menu Policy & Priorities View all Policy & Priorities Increase American Energy Production Expanding domestic energy resources to support national needs and economic growth. Energy Innovation Driving research and development to shape the future of energy systems and technologies. Energy Exports Supporting global energy markets through U.S. energy production and trade. Affordable Energy for Consumers Promoting access to reliable and cost-effective energy for households and businesses. Strategic Petroleum Reserve (SPR) Managing emergency fuel reserves to support national energy security. Nuclear Security Maintaining the safety, security, and effectiveness of the nation’s nuclear deterrent. Nuclear Energy Advancing nuclear technologies to support energy, security, and innovation goals. Energy Reliability Ensuring consistent and dependable energy delivery across the nation. Energy Infrastructure Strengthening and modernizing the systems that produce, deliver, and store energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Policy & Priorities View all Policy & Priorities",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "Increase American Energy Production Expanding domestic energy resources to support national needs and economic growth.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "Energy Innovation Driving research and development to shape the future of energy systems and technologies.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "Energy Exports Supporting global energy markets through U.S. energy production and trade.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 140,
+    "tag": "li",
+    "text": "Affordable Energy for Consumers Promoting access to reliable and cost-effective energy for households and businesses.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Strategic Petroleum Reserve (SPR) Managing emergency fuel reserves to support national energy security.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Nuclear Security Maintaining the safety, security, and effectiveness of the nation’s nuclear deterrent.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Nuclear Energy Advancing nuclear technologies to support energy, security, and innovation goals.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Energy Reliability Ensuring consistent and dependable energy delivery across the nation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Energy Infrastructure Strengthening and modernizing the systems that produce, deliver, and store energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-policy--priorities-item"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Leadership & Organization Main Menu Leadership & Organization View all Leadership & Organization Chris Wright Secretary of Energy James Danly Deputy Secretary of Energy Leadership & Organization Pages Staff Offices Supporting DOE operations through policy, administration, and mission services. Science and Innovation Program Offices Leading scientific research and technology development across priority areas. Independent Offices Providing oversight and specialized functions across key areas of the Department. Energy Program Offices Managing programs that support energy production, efficiency, and delivery. National Laboratories Advancing research and innovation through DOE’s National Laboratory System. Nuclear Security Offices Overseeing national security efforts related to nuclear safety and defense. Featured Hydrocarbons and Geothermal Energy Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 183,
+    "tag": "li",
+    "text": "Leadership & Organization View all Leadership & Organization",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "Chris Wright Secretary of Energy James Danly Deputy Secretary of Energy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--leadership-organization__leadership-block"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "Leadership & Organization Pages Staff Offices Supporting DOE operations through policy, administration, and mission services. Science and Innovation Program Offices Leading scientific research and technology development across priority areas. Independent Offices Providing oversight and specialized functions across key areas of the Department. Energy Program Offices Managing programs that support energy production, efficiency, and delivery. National Laboratories Advancing research and innovation through DOE’s National Laboratory System. Nuclear Security Offices Overseeing national security efforts related to nuclear safety and defense.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--leadership-organization__links"
+    }
+  },
+  {
+    "node_index": 207,
+    "tag": "li",
+    "text": "Staff Offices Supporting DOE operations through policy, administration, and mission services.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Science and Innovation Program Offices Leading scientific research and technology development across priority areas.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Independent Offices Providing oversight and specialized functions across key areas of the Department.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Energy Program Offices Managing programs that support energy production, efficiency, and delivery.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "National Laboratories Advancing research and innovation through DOE’s National Laboratory System.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Nuclear Security Offices Overseeing national security efforts related to nuclear safety and defense.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-leadership--organization-item"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Featured Hydrocarbons and Geothermal Energy Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--leadership-organization__featured-office"
+    }
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Topics Main Menu Topics View all Topics Energy Sources Learn about the resources and technologies used to produce power across the United States. Energy Usage Explore how energy is consumed in homes, businesses, transportation, and industry. Policy Understand the laws, regulations, and strategies that guide energy decisions and national priorities. Science & Innovation See how research, discovery, and new technologies are shaping the future of energy. Economy Discover how energy affects jobs, markets, investment, and economic growth. National Security & Safety Learn how energy systems support resilience, infrastructure protection, and public safety.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 261,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Topics View all Topics",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Energy Sources Learn about the resources and technologies used to produce power across the United States.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Energy Usage Explore how energy is consumed in homes, businesses, transportation, and industry.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 293,
+    "tag": "li",
+    "text": "Policy Understand the laws, regulations, and strategies that guide energy decisions and national priorities.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 305,
+    "tag": "li",
+    "text": "Science & Innovation See how research, discovery, and new technologies are shaping the future of energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 317,
+    "tag": "li",
+    "text": "Economy Discover how energy affects jobs, markets, investment, and economic growth.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 329,
+    "tag": "li",
+    "text": "National Security & Safety Learn how energy systems support resilience, infrastructure protection, and public safety.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-topics-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "News & Events Main Menu News & Events View all News & Events Press Releases September 8, 2026 Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy WorkforceHGEO announced $1.2 million for eight teams working to build a stronger workforce… Read moreGeothermal View all Press Releases Fact Sheets FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived Fact Sheet: Operational Closure of Radioactive Liquid Waste Tanks View all Fact Sheets Upcoming Events Sep 97:00PM EDT - 11:00PM EDTNevada EM SSAB Meeting (September 2026) Sep 103:00PM EDT - 4:30PM EDTEnergy Efficiency Measures on Tribal Facilities Sep 111:00PM EDT - 2:00PM EDTInformational Webinar: Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT) View all Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 345,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "News & Events View all News & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 353,
+    "tag": "li",
+    "text": "Press Releases September 8, 2026 Hydrocarbons and Geothermal Energy Office Awards $1.2 Million to Strengthen America’s Geothermal Energy WorkforceHGEO announced $1.2 million for eight teams working to build a stronger workforce… Read moreGeothermal View all Press Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--news-events__press-releases"
+    }
+  },
+  {
+    "node_index": 372,
+    "tag": "li",
+    "text": "Fact Sheets FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela FACT SHEET: The Golden Era of American Nuclear Energy Has Arrived Fact Sheet: Operational Closure of Radioactive Liquid Waste Tanks View all Fact Sheets",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--news-events__fact-sheets"
+    }
+  },
+  {
+    "node_index": 397,
+    "tag": "li",
+    "text": "Upcoming Events Sep 97:00PM EDT - 11:00PM EDTNevada EM SSAB Meeting (September 2026) Sep 103:00PM EDT - 4:30PM EDTEnergy Efficiency Measures on Tribal Facilities Sep 111:00PM EDT - 2:00PM EDTInformational Webinar: Accelerating Scale-up and Pre-piloting of Emerging Chemical Technologies (ASPECT) View all Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu--news-events__upcoming-events"
+    }
+  },
+  {
+    "node_index": 427,
+    "tag": "li",
+    "text": "About Main Menu About Mission Supporting USA energy, science, and security priorities. History & Achievements Nobel Prize Laureates Contact Us Access general information and ways to connect with the Department of Energy. Careers Internships & Fellowships Apprenticeships & Workforce Development Work at DOE",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 431,
+    "tag": "li",
+    "text": "Main Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mobile-back-btn-secondary-wrapper"
+    }
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "About",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none",
+      "class": "extended-mega-nav-section__header"
+    }
+  },
+  {
+    "node_index": 436,
+    "tag": "li",
+    "text": "Mission Supporting USA energy, science, and security priorities.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 447,
+    "tag": "li",
+    "text": "History & Achievements Nobel Prize Laureates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 456,
+    "tag": "li",
+    "text": "Nobel Prize Laureates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 460,
+    "tag": "li",
+    "text": "Contact Us Access general information and ways to connect with the Department of Energy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 471,
+    "tag": "li",
+    "text": "Careers Internships & Fellowships Apprenticeships & Workforce Development Work at DOE",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 476,
+    "tag": "li",
+    "text": "Internships & Fellowships",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 480,
+    "tag": "li",
+    "text": "Apprenticeships & Workforce Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 484,
+    "tag": "li",
+    "text": "Work at DOE",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "megamenu-submenu-about-item"
+    }
+  },
+  {
+    "node_index": 490,
+    "tag": "p",
+    "text": "Funding Opportunities",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "margin:0;padding:0;"
+    }
+  },
+  {
+    "node_index": 507,
+    "tag": "h2",
+    "text": "Breadcrumb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "system-breadcrumb",
+      "class": "usa-sr-only"
+    }
+  },
+  {
+    "node_index": 509,
+    "tag": "li",
+    "text": "Office of Science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-breadcrumb__list-item"
+    }
+  },
+  {
+    "node_index": 512,
+    "tag": "li",
+    "text": "DOE Explains...Nuclei",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-breadcrumb__list-item"
+    }
+  },
+  {
+    "node_index": 522,
+    "tag": "h1",
+    "text": "DOE Explains...Nuclei",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 545,
+    "tag": "p",
+    "text": "In 1911, Ernest Rutherford discovered that at the core of every atom is a nucleus. Atomic nuclei consist of electrically positive protons and electrically neutral neutrons. These are held together by the strongest known fundamental force, called the strong force. The nucleus makes up much less than .01% of the volume of the atom, but typically contains more than 99.9% of the mass of the atom. The chemical properties of a substance are determined by the negatively charged electrons enshrouding the nucleus. The number of electrons usually matches the number of protons in the nucleus. Some nuclei are unstable and may undergo radioactive decay, eventually arriving at a stable state through the emission of photons (gamma decay), emission or capture of electrons or positrons (beta decay), emission of helium nuclei (alpha decay), or a combination of these processes. Most nuclei are spherical or ellipsoidal, though some exotic shapes exist. Nuclei can vibrate and rotate when struck by other particles. Some are unstable and will break apart or change their relative number of protons and neutrons.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 549,
+    "tag": "h2",
+    "text": "DOE Office of Science: Contributions to Nuclei Research",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 550,
+    "tag": "p",
+    "text": "The DOE Office of Nuclear Physics in the Office of Science supports research to understand all forms of nuclear matter. This research includes mechanisms that form heavy nuclei in cosmic neutron star mergers. It also includes unraveling previously unknown properties of nuclei in their natural state for important applications in medicine, commerce, and national defense. Another area of study is understanding precisely how nuclei are structured depending on the number of protons and neutrons inside them. Other research focuses on heating nuclei to the temperature of the early universe to understand how they condensed out of the quark-gluon soup that existed at the time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 551,
+    "tag": "h2",
+    "text": "Nuclei Facts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 553,
+    "tag": "li",
+    "text": "A typical grain of sand contains more than 10 million trillion nuclei. That’s 100 times more than the number of seconds since the beginning of the Universe.",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "e04bce890dd16f1cb6a5ed2e4d5cdec7f"
+    }
+  },
+  {
+    "node_index": 554,
+    "tag": "li",
+    "text": "The nucleus accounts for more than 99.9994% of the total atomic mass, but occupies less than one ten-trillionth of the atomic volume.",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "eebb4104cec39e7a8713a6c635f499491"
+    }
+  },
+  {
+    "node_index": 555,
+    "tag": "li",
+    "text": "All nuclei have approximately the same density. If the Moon was smashed to the same density, it would fit inside Yankee Stadium.",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "e814714aae4fd67d0e3458f6fa78b7c8e"
+    }
+  },
+  {
+    "node_index": 556,
+    "tag": "h2",
+    "text": "Resources and Related Terms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 558,
+    "tag": "li",
+    "text": "NSAC Long Range Plan Report: “Reaching for the Horizon”",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "e51e7c886b1b933e5a9ce3baeaa279dfa"
+    }
+  },
+  {
+    "node_index": 560,
+    "tag": "li",
+    "text": "NAP Study: Nuclear Physics Decadal Survey",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "e28474beabcc5454fea6b9e32e6aefbe5"
+    }
+  },
+  {
+    "node_index": 562,
+    "tag": "li",
+    "text": "NASEM Report: Opportunities in Intense Ultrafast Lasers",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "ebc0815d96cb5fdcb8a0aefc4d919fa7e"
+    }
+  },
+  {
+    "node_index": 564,
+    "tag": "li",
+    "text": "HEDLP Basic Research Needs Workshop Report",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "ea216ab641787f6be231a4fe44862ecf6"
+    }
+  },
+  {
+    "node_index": 566,
+    "tag": "li",
+    "text": "Argonne Tandem Linac Accelerator System (ATLAS)",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "e541260c027b8ae36e9e18784d992b377"
+    }
+  },
+  {
+    "node_index": 568,
+    "tag": "li",
+    "text": "Continuous Electron Beam Accelerator Facility (CEBAF)",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "ed894d7cb04c8b5660e5fe455b8b7f72d"
+    }
+  },
+  {
+    "node_index": 570,
+    "tag": "li",
+    "text": "Relativistic Heavy Ion Collider (RHIC)",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "e3a28a55c88a2204af04deb226e1a3dcb"
+    }
+  },
+  {
+    "node_index": 572,
+    "tag": "li",
+    "text": "Science Highlight: Smashing Heavy Nuclei Reveals Proton Size",
+    "label": "unreviewed",
+    "formatting": {
+      "data-list-item-id": "ed6c5fd14541197ae7717f35d9e43dde9"
+    }
+  },
+  {
+    "node_index": 575,
+    "tag": "p",
+    "text": "Scientific terms can be confusing. DOE Explains offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 587,
+    "tag": "p",
+    "text": "Committed to Restoring America’s Energy Dominance.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "text-bold"
+    }
+  },
+  {
+    "node_index": 590,
+    "tag": "p",
+    "text": "Follow Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-heading"
+    }
+  },
+  {
+    "node_index": 613,
+    "tag": "li",
+    "text": "Quick Links Leadership & Offices Newsroom Contact Us Careers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "expanded dropdown first last"
+    }
+  },
+  {
+    "node_index": 617,
+    "tag": "li",
+    "text": "Leadership & Offices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 619,
+    "tag": "li",
+    "text": "Newsroom",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 621,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 623,
+    "tag": "li",
+    "text": "Careers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  },
+  {
+    "node_index": 628,
+    "tag": "li",
+    "text": "Resources Budget & Performance Directives, Delegations, & Requirements Freedom of Information Act (FOIA) Inspector General Privacy Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "expanded dropdown first last"
+    }
+  },
+  {
+    "node_index": 632,
+    "tag": "li",
+    "text": "Budget & Performance",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 634,
+    "tag": "li",
+    "text": "Directives, Delegations, & Requirements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 636,
+    "tag": "li",
+    "text": "Freedom of Information Act (FOIA)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 638,
+    "tag": "li",
+    "text": "Inspector General",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 640,
+    "tag": "li",
+    "text": "Privacy Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  },
+  {
+    "node_index": 645,
+    "tag": "li",
+    "text": "Federal Government USA.gov The White House",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "expanded dropdown first last"
+    }
+  },
+  {
+    "node_index": 649,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 651,
+    "tag": "li",
+    "text": "The White House",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  },
+  {
+    "node_index": 657,
+    "tag": "li",
+    "text": "Open Gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "first"
+    }
+  },
+  {
+    "node_index": 659,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 661,
+    "tag": "li",
+    "text": "Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 663,
+    "tag": "li",
+    "text": "Information Quality",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 665,
+    "tag": "li",
+    "text": "No Fear Act",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 667,
+    "tag": "li",
+    "text": "Web Policies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 669,
+    "tag": "li",
+    "text": "Vulnerability Disclosure Program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 671,
+    "tag": "li",
+    "text": "Whistleblower Protection",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 673,
+    "tag": "li",
+    "text": "Equal Employment Opportunity",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 675,
+    "tag": "li",
+    "text": "Notice of Court Orders",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "last"
+    }
+  }
+]

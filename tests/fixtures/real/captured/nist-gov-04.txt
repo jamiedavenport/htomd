@@ -1,0 +1,48 @@
+[**Elemental Data Index**](https://www.nist.gov/pml/elemental-data-index)
+
+Provides access to the holdings of NIST Physical Measurement Laboratory online data organized by element.
+
+[**Periodic Table: Atomic Properties of the Elements**](https://www.nist.gov/pml/periodic-table-elements)
+
+Contains NIST critically-evaluated data on atomic properties of the elements.  
+Suitable for high-resolution color printing for desk or wall-chart display.
+
+[**Physical Constants**](https://www.nist.gov/pml/fundamental-physical-constants)
+
+Contains values of the fundamental physical constants and a related bibliographic database.
+
+[**Atomic Spectroscopy Data**](https://www.nist.gov/pml/atomic-spectroscopy-databases)
+
+Contains databases for energy levels, wavelengths, radiative transition probabilities, and ionization energies for atoms and ions and related bibliographic databases.
+
+[**Molecular Spectroscopic Data**](https://www.nist.gov/pml/molecular-spectroscopic-data)
+
+Includes databases containing spectroscopic data for small molecules, hydrocarbons, and interstellar molecules. In addition, there are two publications containing equations and the underpinning theory for molecular spectroscopy.
+
+[**Atomic and Molecular Data**](https://www.nist.gov/pml/atomic-and-molecular-data)
+
+Contains databases on thermophysical properties of gases, electron-impact cross sections (of atoms &amp; molecules), potential energy surfaces of group II dimers, and atomic weights and isotopic compositions.
+
+[**X-Ray and Gamma-Ray Data**](https://www.nist.gov/pml/x-ray-and-gamma-ray-data)
+
+Contains databases on the interaction of x-rays and gamma-rays with elements and compounds.
+
+[**Radiation Dosimetry Data**](https://www.nist.gov/pml/radiation-dosimetry-data)
+
+This database calculates stopping-power and range tables for electrons, protons, or helium ions.
+
+[**Nuclear Physics Data**](https://www.nist.gov/pml/nuclear-physics-data)
+
+Contains a database of the isotopic compositions, atomic weights and relative atomic masses of the elements.
+
+[**Condensed Matter Physics Data**](https://www.nist.gov/pml/condensed-matter-physics-data)
+
+This database consists of evaluated data for use in total-energy calculations of electronic structure by density-functional theory. It contains total energies and orbital energy eigenvalues for all atoms from hydrogen to uranium.
+
+[**Other NIST Data**](https://www.nist.gov/srd)
+
+Provides access to all data sets at NIST.
+
+---
+
+The use of International Units and the expression of uncertainty in measurement is critical to all data activities. For information on these topics, see guidelines for [evaluating and expressing measurement uncertainty](http://physics.nist.gov/cuu/Uncertainty/index.html), and information on the [International System of Units (SI)](http://physics.nist.gov/cuu/Units/index.html).

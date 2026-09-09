@@ -1,0 +1,409 @@
+[
+  {
+    "id": "empty",
+    "html": "",
+    "markdown": ""
+  },
+  {
+    "id": "whitespace",
+    "html": " \n\t ",
+    "markdown": ""
+  },
+  {
+    "id": "text",
+    "html": "Hello",
+    "markdown": "Hello\n"
+  },
+  {
+    "id": "paragraph",
+    "html": "<p>Hello world.</p>",
+    "markdown": "Hello world.\n"
+  },
+  {
+    "id": "unicode",
+    "html": "<article><h1>茶</h1><p>مرحبا 世界 🍵 café.</p></article>",
+    "markdown": "# 茶\n\nمرحبا 世界 🍵 café.\n"
+  },
+  {
+    "id": "entity-once",
+    "html": "<p>&amp;amp; &lt;b&gt; &#169;</p>",
+    "markdown": "&amp;amp; &lt;b&gt; ©\n"
+  },
+  {
+    "id": "script-only",
+    "html": "<script>bad</script>",
+    "markdown": ""
+  },
+  {
+    "id": "style-only",
+    "html": "<style>bad</style>",
+    "markdown": ""
+  },
+  {
+    "id": "template-only",
+    "html": "<template><p>bad</p></template>",
+    "markdown": ""
+  },
+  {
+    "id": "navigation-only",
+    "html": "<nav><a href=\"/\">Home</a></nav>",
+    "markdown": ""
+  },
+  {
+    "id": "hidden",
+    "html": "<p hidden>bad</p><p>kept</p>",
+    "markdown": "kept\n"
+  },
+  {
+    "id": "aria-hidden",
+    "html": "<div aria-hidden=\"true\"><p>bad</p></div><p>kept</p>",
+    "markdown": "kept\n"
+  },
+  {
+    "id": "style-hidden",
+    "html": "<div style=\"color:red; display: none !important\"><p>bad</p></div><p>kept</p>",
+    "markdown": "kept\n"
+  },
+  {
+    "id": "visibility-hidden",
+    "html": "<p style=\"visibility: hidden\">bad</p><p>kept</p>",
+    "markdown": "kept\n"
+  },
+  {
+    "id": "site-header",
+    "html": "<header><h1>Site</h1></header><article><h1>Story</h1><p>kept</p></article><footer>bad</footer>",
+    "markdown": "# Story\n\nkept\n"
+  },
+  {
+    "id": "article-header",
+    "html": "<article><header><h1>Story</h1><p class=\"byline\">Jamie</p></header><p>kept</p></article>",
+    "markdown": "# Story\n\nJamie\n\nkept\n"
+  },
+  {
+    "id": "heading-order",
+    "html": "<article><h1>A</h1><h2>B</h2><h3>C</h3><h4>D</h4><h5>E</h5><h6>F</h6></article>",
+    "markdown": "# A\n\n## B\n\n### C\n\n#### D\n\n##### E\n\n###### F\n"
+  },
+  {
+    "id": "inline-boundaries",
+    "html": "<p>one<em>two</em>three <strong>four</strong> five</p>",
+    "markdown": "one*two*three **four** five\n"
+  },
+  {
+    "id": "emphasis-whitespace",
+    "html": "<p>A<em> B </em>C</p>",
+    "markdown": "A *B* C\n"
+  },
+  {
+    "id": "strike",
+    "html": "<p><del>old</del> <s>gone</s> new</p>",
+    "markdown": "~~old~~ ~~gone~~ new\n"
+  },
+  {
+    "id": "link",
+    "html": "<p>A <a href=\"https://example.org/a\">link</a>.</p>",
+    "markdown": "A [link](https://example.org/a).\n"
+  },
+  {
+    "id": "relative-link",
+    "html": "<p><a href=\"../b\">B</a> text</p>",
+    "markdown": "[B](https://example.org/b) text\n",
+    "url": "https://example.org/a/page"
+  },
+  {
+    "id": "unresolved-link",
+    "html": "<p><a href=\"../b\">B</a> text</p>",
+    "markdown": "[B](../b) text\n"
+  },
+  {
+    "id": "base-link",
+    "html": "<base href=\"https://cdn.example.org/docs/\"><p><a href=\"a\">A</a> text</p>",
+    "markdown": "[A](https://cdn.example.org/docs/a) text\n"
+  },
+  {
+    "id": "relative-base",
+    "html": "<base href=\"/docs/\"><p><a href=\"a\">A</a> text</p>",
+    "markdown": "[A](https://example.org/docs/a) text\n",
+    "url": "https://example.org/index"
+  },
+  {
+    "id": "invalid-base",
+    "html": "<base href=\"javascript:bad\"><p><a href=\"a\">A</a> text</p>",
+    "markdown": "[A](a) text\n"
+  },
+  {
+    "id": "active-link",
+    "html": "<p><a href=\"javascript:alert(1)\">kept</a> text</p>",
+    "markdown": "kept text\n"
+  },
+  {
+    "id": "obfuscated-active-link",
+    "html": "<p><a href=\"java&#10;script:alert(1)\">kept</a> text</p>",
+    "markdown": "kept text\n"
+  },
+  {
+    "id": "data-link",
+    "html": "<p><a href=\"data:text/html,abc\">kept</a> text</p>",
+    "markdown": "kept text\n"
+  },
+  {
+    "id": "mailto",
+    "html": "<p>Email <a href=\"mailto:a@example.org\">A</a></p>",
+    "markdown": "Email [A](mailto:a@example.org)\n"
+  },
+  {
+    "id": "url-delimiters",
+    "html": "<p>A <a href=\"/a (b)\">link</a></p>",
+    "markdown": "A [link](/a%20%28b%29)\n"
+  },
+  {
+    "id": "image",
+    "html": "<article><p>Picture <img src=\"/img.png\" alt=\"Tea\"></p></article>",
+    "markdown": "Picture ![Tea](/img.png)\n"
+  },
+  {
+    "id": "unsafe-image",
+    "html": "<article><p>Picture <img src=\"data:image/png,a\" alt=\"Tea\"></p></article>",
+    "markdown": "Picture Tea\n"
+  },
+  {
+    "id": "image-only",
+    "html": "<article><img src=\"a.png\" alt=\"Tea\"></article>",
+    "markdown": "![Tea](a.png)\n"
+  },
+  {
+    "id": "blockquote",
+    "html": "<blockquote><p>A</p><p>B</p></blockquote>",
+    "markdown": "> A\n>\n> B\n"
+  },
+  {
+    "id": "nested-blockquote",
+    "html": "<article><blockquote><p>A</p><blockquote>B</blockquote></blockquote></article>",
+    "markdown": "> A\n>\n> > B\n"
+  },
+  {
+    "id": "hr",
+    "html": "<article><p>A</p><hr><p>B</p></article>",
+    "markdown": "A\n\n---\n\nB\n"
+  },
+  {
+    "id": "br",
+    "html": "<p>A<br>B</p>",
+    "markdown": "A  \nB\n"
+  },
+  {
+    "id": "unordered",
+    "html": "<ul><li>A</li><li>B</li></ul>",
+    "markdown": "- A\n- B\n"
+  },
+  {
+    "id": "ordered",
+    "html": "<ol start=\"3\"><li>A</li><li>B</li></ol>",
+    "markdown": "3. A\n4. B\n"
+  },
+  {
+    "id": "ordered-values",
+    "html": "<ol><li value=\"9\">A</li><li>B</li></ol>",
+    "markdown": "9. A\n10. B\n"
+  },
+  {
+    "id": "invalid-start",
+    "html": "<ol start=\"bad\"><li>A</li></ol>",
+    "markdown": "1. A\n"
+  },
+  {
+    "id": "nested-list",
+    "html": "<ul><li>A<ul><li>B</li></ul></li><li>C</li></ul>",
+    "markdown": "- A\n  - B\n- C\n"
+  },
+  {
+    "id": "loose-list",
+    "html": "<ul><li><p>A</p><p>B</p></li><li>C</li></ul>",
+    "markdown": "- A\n\n  B\n- C\n"
+  },
+  {
+    "id": "inline-code",
+    "html": "<p>Use <code>x * y</code>.</p>",
+    "markdown": "Use `x * y`.\n"
+  },
+  {
+    "id": "inline-backtick",
+    "html": "<p>Use <code>`x`</code>.</p>",
+    "markdown": "Use `` `x` ``.\n"
+  },
+  {
+    "id": "inline-code-padding",
+    "html": "<p><code> x </code> okay</p>",
+    "markdown": "`  x  ` okay\n"
+  },
+  {
+    "id": "fenced",
+    "html": "<pre><code class=\"language-python\">x = 1\n  y = 2\n</code></pre>",
+    "markdown": "```python\nx = 1\n  y = 2\n```\n"
+  },
+  {
+    "id": "fenced-backticks",
+    "html": "<pre>```\ncode\n```</pre>",
+    "markdown": "````\n```\ncode\n```\n````\n"
+  },
+  {
+    "id": "code-whitespace",
+    "html": "<pre>\n  x\t\n\n\n y\n</pre>",
+    "markdown": "```\n\n  x\t\n\n\n y\n```\n"
+  },
+  {
+    "id": "language-injection",
+    "html": "<pre class=\"language-x`oops\">code</pre>",
+    "markdown": "```\ncode\n```\n"
+  },
+  {
+    "id": "table",
+    "html": "<table><tr><th>A</th><th>B</th></tr><tr><td>1</td><td>2</td></tr></table>",
+    "markdown": "| A | B |\n| --- | --- |\n| 1 | 2 |\n"
+  },
+  {
+    "id": "headerless-table",
+    "html": "<table><tr><td>A</td><td>B</td></tr></table>",
+    "markdown": "|  |  |\n| --- | --- |\n| A | B |\n"
+  },
+  {
+    "id": "table-pipe",
+    "html": "<table><tr><th>A|B</th></tr><tr><td>C</td></tr></table>",
+    "markdown": "| A\\|B |\n| --- |\n| C |\n"
+  },
+  {
+    "id": "complex-table",
+    "html": "<table><tr><td colspan=\"2\">A</td></tr><tr><td>B</td><td>C</td></tr></table>",
+    "markdown": "1. A\n2. B — C\n"
+  },
+  {
+    "id": "ragged-table",
+    "html": "<table><tr><td>A</td><td>B</td></tr><tr><td>C</td></tr></table>",
+    "markdown": "1. A — B\n2. C\n"
+  },
+  {
+    "id": "definition-list",
+    "html": "<dl><dt>Tea</dt><dd>A drink.</dd><dt>Coffee</dt><dd>Another drink.</dd></dl>",
+    "markdown": "**Tea**\n\nA drink.\n\n**Coffee**\n\nAnother drink.\n"
+  },
+  {
+    "id": "details",
+    "html": "<article><details><summary>More</summary><p>Useful.</p></details></article>",
+    "markdown": "More\n\nUseful.\n"
+  },
+  {
+    "id": "escape",
+    "html": "<p>*literal* [brackets] _word_ \\ path</p>",
+    "markdown": "\\*literal\\* \\[brackets\\] \\_word\\_ \\\\ path\n"
+  },
+  {
+    "id": "heading-escape",
+    "html": "<p># text</p>",
+    "markdown": "\\# text\n"
+  },
+  {
+    "id": "list-escape",
+    "html": "<p>1. text</p>",
+    "markdown": "1\\. text\n"
+  },
+  {
+    "id": "short-article",
+    "html": "<article><h1>Status</h1><p>OK</p></article>",
+    "markdown": "# Status\n\nOK\n"
+  },
+  {
+    "id": "sibling-recovery",
+    "html": "<div><h1>Title</h1><section><p>First relevant section with words.</p></section><section><p>Second relevant section with words.</p></section></div>",
+    "markdown": "# Title\n\nFirst relevant section with words.\n\nSecond relevant section with words.\n"
+  },
+  {
+    "id": "clutter-callout",
+    "html": "<article><h1>Tea</h1><aside role=\"note\" class=\"sidebar\"><p>Steep gently.</p></aside><aside class=\"related\"><a href=\"/other\">Bad</a></aside><p>Drink.</p></article>",
+    "markdown": "# Tea\n\nSteep gently.\n\nDrink.\n"
+  },
+  {
+    "id": "no-class-only-deletion",
+    "html": "<article><p class=\"comment\">A meaningful comment about code.</p></article>",
+    "markdown": "A meaningful comment about code.\n"
+  },
+  {
+    "id": "article-footnotes",
+    "html": "<article><p>Text.</p><footer class=\"footnotes\"><p>Source <a href=\"#one\">one</a>.</p></footer></article>",
+    "markdown": "Text.\n\nSource [one](#one).\n"
+  },
+  {
+    "id": "optional-p",
+    "html": "<article><p>A<p>B</article>",
+    "markdown": "A\n\nB\n"
+  },
+  {
+    "id": "optional-li",
+    "html": "<ul><li>A<li>B</ul>",
+    "markdown": "- A\n- B\n"
+  },
+  {
+    "id": "optional-cells",
+    "html": "<table><tr><th>A<th>B<tr><td>1<td>2</table>",
+    "markdown": "| A | B |\n| --- | --- |\n| 1 | 2 |\n"
+  },
+  {
+    "id": "clutter-only",
+    "html": "<div class=\"cookie\"><a href=\"/policy\">Privacy</a></div>",
+    "markdown": ""
+  },
+  {
+    "id": "jsonld-not-visible",
+    "html": "<script type=\"application/ld+json\">{\"@type\":\"Article\",\"headline\":\"Title\"}</script>",
+    "markdown": ""
+  },
+  {
+    "id": "metadata-title-not-inserted",
+    "html": "<title>Metadata</title><article><p>Text.</p></article>",
+    "markdown": "Text.\n"
+  },
+  {
+    "id": "formatting-indentation",
+    "html": "<article>\n <h1>Title</h1>\n <p>A <em>B</em> C</p>\n</article>",
+    "markdown": "# Title\n\nA *B* C\n"
+  },
+  {
+    "id": "nested-emphasis",
+    "html": "<p><strong>bold <em>and italic</em></strong></p>",
+    "markdown": "**bold *and italic***\n"
+  },
+  {
+    "id": "unknown-tag",
+    "html": "<article><custom>A <em>B</em> C</custom></article>",
+    "markdown": "A *B* C\n"
+  },
+  {
+    "id": "comments",
+    "html": "<article><p>Story.</p><section class=\"comments\"><div class=\"comment\"><p>Bad one.</p></div><div class=\"comment\"><p>Bad two.</p></div></section></article>",
+    "markdown": "Story.\n"
+  },
+  {
+    "id": "literal-strike",
+    "html": "<p>~~literal~~</p>",
+    "markdown": "\\~\\~literal\\~\\~\n"
+  },
+  {
+    "id": "highlight-language",
+    "html": "<div class=\"highlight-python\"><pre>x = 1</pre></div>",
+    "markdown": "```python\nx = 1\n```\n"
+  },
+  {
+    "id": "heading-permalink",
+    "html": "<article><h1>Title<a class=\"headerlink\" href=\"#title\">¶</a></h1><p>Text.</p></article>",
+    "markdown": "# Title\n\nText.\n"
+  },
+  {
+    "id": "site-dropdown",
+    "html": "<article><h1>Title</h1><div class=\"dropdown\"><a href=\"/one\">One</a><a href=\"/two\">Two</a></div><p>Text.</p></article>",
+    "markdown": "# Title\n\nText.\n"
+  },
+  {
+    "id": "no-sidebar-body",
+    "html": "<body class=\"no-sidebar\"><article><h1>Story</h1><p>Text.</p></article><form>Login</form></body>",
+    "markdown": "# Story\n\nText.\n"
+  }
+]

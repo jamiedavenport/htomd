@@ -1,0 +1,1751 @@
+[
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Categories Equity & Inclusion Education & Open Access Technology Partnerships & Events Policy & Advocacy Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62390",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62390"
+    }
+  },
+  {
+    "node_index": 86,
+    "tag": "li",
+    "text": "Equity & Inclusion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62395",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62395 active "
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "Education & Open Access",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62394",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62394 active "
+    }
+  },
+  {
+    "node_index": 90,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62392",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62392"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "li",
+    "text": "Partnerships & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62396",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62396 active "
+    }
+  },
+  {
+    "node_index": 94,
+    "tag": "li",
+    "text": "Policy & Advocacy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62393",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62393"
+    }
+  },
+  {
+    "node_index": 96,
+    "tag": "li",
+    "text": "Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62397",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62397 active "
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "About",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62512",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62512"
+    }
+  },
+  {
+    "node_index": 100,
+    "tag": "li",
+    "text": "Submit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62513",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62513"
+    }
+  },
+  {
+    "node_index": 102,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-69330",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-69330"
+    }
+  },
+  {
+    "node_index": 120,
+    "tag": "h1",
+    "text": "FY25-26 Annual Funding Programs Reflections & Learnings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "entry-title"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "figcaption",
+    "text": "Drying the cotton silk fabric. Sopyaylynn, CC BY-SA 4.0. This image is part of the Wiki Loves Folklore 2026 international photographic contest",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "p",
+    "text": "Every year, the Community Resources team shares reflections and learnings from our primary community funding programs: Rapid and General Support Funds. Our goal in sharing these reflections is to highlight and celebrate the volunteers and affiliates who sustain our movement, and to provide clear visibility into how our funding is being used. Read on for a transparent look at our FY27 grants budget, our priorities for the year, and the renewal of our grants strategy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 141,
+    "tag": "p",
+    "text": "Over the 2025–2026 funding year, we supported 427 grants totalling $17.73 million across 90 countries, with 56.2% of funds distributed outside North America and Northern & Western Europe. Facing global economic turbulence, inflation, and volatile currency shifts, our Regional Funding Committees leaned into fiscal discipline while continuing to champion equity; growing active multi-year commitments to 47 and pushing decision-making closer to the communities through localised funding models like the Nigeria National Funding Initiative, CEE Rapid Fund Program, Wiki in Africa Campaigns, and the Wikimedia Colombia Hacerwiki 2026.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 143,
+    "tag": "p",
+    "text": "Communities across the world continue to drive a wide range of efforts: building active contributor communities; running education initiatives that welcome newcomers; minority language preservation through cultural heritage documentation; and closing gender gaps in content and contributors. They are also tackling anti-disinformation through awareness projects and policies, driving technical project development to support local wiki contribution, engaging youth as part of multi-generational strategies, and building strong institutional partnerships – all of this to advance knowledge equity.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 144,
+    "tag": "p",
+    "text": "Here’s a quick look at the highlights from the eight regions we support:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Northern & Western Europe (NWE): Grantees locked in long-term stability with multi-year funding to support multiannual strategies covering the period until 2030, tackling everything from senior education and digital literacy to a disinformation barometer for elections.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "North America (NA): Grantees worked on core capacity-building programs and creative community projects like Tulsa’s WikiWelcome and developing thermal-printed WikiReceipts.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Central & Eastern Europe & Central Asia (CEE/CA): Scored massive wins in youth retention, seeing up to 80% of students stick around after immersive WikiCamps.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "East, Southeast Asia, & Pacific (ESEAP): Navigated economic turbulence while expanding support for indigenous languages documentation through programs like Wikikata and gearing up for the ESEAP 2027 Summit.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "South Asia (SA ex. India): Focused on tailored, nurturing support for emerging communities and exploring cross-regional learning (shoutout to Bangladesh and New Zealand).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Latin America & the Caribbean (LAC): Saw our sharpest growth in regional budget share. Grantees implemented programs advancing knowledge equity through education, indigenous languages preservation, public policy, and deepened institutional partnerships.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Sub-Saharan Africa (SSA): Rolled out the Nigeria National Funding Program alongside incredible local momentum, from building Kenya’s very first Wiki Club at Pwani University to photo campaigns in Côte d’Ivoire.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Middle East & North Africa (MENA): Showed incredible grit, pushing through regional conflicts to documentation of Islamic manuscripts, local musical heritage, and creation of thousands of new Arabic Wikipedia articles.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "India: Focused on strengthening and sustaining momentum across Wikimedia communities in India, including technical developer capacity for Indic languages.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "h2",
+    "text": "Snapshot of the Numbers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 169,
+    "tag": "td",
+    "text": "Grant Type",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "td",
+    "text": "25-26 USD",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 175,
+    "tag": "td",
+    "text": "% of Total USD",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "td",
+    "text": "# of Grants",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 181,
+    "tag": "td",
+    "text": "% of Total Grants",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right"
+    }
+  },
+  {
+    "node_index": 185,
+    "tag": "td",
+    "text": "Rapid Grant Fund",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 186,
+    "tag": "td",
+    "text": "$857,479",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "td",
+    "text": "4.8%",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "td",
+    "text": "295",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "td",
+    "text": "69.1%",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 191,
+    "tag": "td",
+    "text": "General Support Fund",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "td",
+    "text": "$16,878,124",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "td",
+    "text": "95.2%",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "td",
+    "text": "132",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent;border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 195,
+    "tag": "td",
+    "text": "30.9%",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-bottom-color:#DCDCDC"
+    }
+  },
+  {
+    "node_index": 197,
+    "tag": "td",
+    "text": "Grand total",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 199,
+    "tag": "td",
+    "text": "$17,735,603",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 201,
+    "tag": "td",
+    "text": "100.0%",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 203,
+    "tag": "td",
+    "text": "427",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right",
+      "style": "border-right-color:transparent"
+    }
+  },
+  {
+    "node_index": 205,
+    "tag": "td",
+    "text": "100.0%",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-right",
+      "data-align": "right"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "td",
+    "text": "9.38%Increase in total funding from 2024-2025",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 214,
+    "tag": "td",
+    "text": "13Grantees converting from Rapid to General Support Funding",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "td",
+    "text": "104New grantees",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "td",
+    "text": "31%Of Rapid Grantees were first-time grantees",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 224,
+    "tag": "td",
+    "text": "23New multi-year General Support grants",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 227,
+    "tag": "td",
+    "text": "70% of General Support Fund (GSF) received by affiliates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 230,
+    "tag": "td",
+    "text": "56.2%Grant funds distributed outside NA and NWE",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 233,
+    "tag": "td",
+    "text": "295Rapid Fund grants",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "has-text-align-left",
+      "data-align": "left"
+    }
+  },
+  {
+    "node_index": 236,
+    "tag": "p",
+    "text": "An additional 2,195,097 USD was invested in community-led gatherings through the Conference and Events Fund, 50 grants were funded to celebrate Wikipedia’s 25th birthday (77,276 USD); 1,116,152 USD was provided for hub structure pilots, and, 255,249 USD supported research activities through the Research Fund.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "p",
+    "text": "Please see the full Community Fund distribution report for all awarded grants and projects here and on one map below (country-level data only)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "figcaption",
+    "text": "Vmuru, CC BY-SA 4.0 Wikimedians at a hackathon event in 2015",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 251,
+    "tag": "h2",
+    "text": "Implementing Subsidiarity Initiatives",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 252,
+    "tag": "p",
+    "text": "In line with the Foundation’s commitment to equitably resource the movement, we are taking steps to support subsidiarity—moving decision-making about resource distribution to those closest to the work and the people leading it. Based on these efforts, we have implemented initiatives such as the Nigeria National Funding Initiative , CEE Rapid Fund Program, Wiki in Africa Campaigns , and the Hacerwiki 2026 – Wikimedia Colombia.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "p",
+    "text": "These are in addition to affiliate consultations, where Program Officers leverage local knowledge to inform funding decisions. These efforts include partners like Wikimedia Indonesia and Wiki Loves Earth (where WM Ukraine serves as a co-reviewer).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "h2",
+    "text": "Streamlining How We Fund Tech",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 259,
+    "tag": "p",
+    "text": "With the Product and Tech department, we streamlined the application and review process of the grant applications for software development (technology) projects. We improved information collection, review criteria, and decision-making of these applications. For each grant application that includes a software development project, the P+T department ensures a review by the Product, Implementation & Architecture, SRE and PSI teams. The goal of the review is to ensure alignment across the movement, that there is no duplication of efforts, that any issues are resolved early in the process and that funded projects meet clear demand signals from local communities.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "p",
+    "text": "The P&T reviewers reviewed 35 applications. We approved 13 Rapid and 6 General Support (as part of annual funding) tech projects. These include initiatives like the Viettech Initiative – Meta-Wiki, Wikimedia Chile’s Open Technologies and Wiki Ecosystem Program, among others.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 266,
+    "tag": "h2",
+    "text": "Regional Reflections",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 270,
+    "tag": "figcaption",
+    "text": "Photomontage – Composite of 16 different photos which have been digitally manipulated to give the impression that it is a real landscape. Learn more here.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 286,
+    "tag": "h3",
+    "text": "Northern and Western European (NWE) Region",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 287,
+    "tag": "p",
+    "text": "In the NWE region, grants supported a total of 20 organizations and groups, 70% of which were multi-year grantees. Notably, 50% of grantees transitioned in FY26/27 to new multiannual strategies covering the period until 2030, focusing on fiscal sustainability and programmatic expansion, such as:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 290,
+    "tag": "li",
+    "text": "Extending deeper and more systematically into education (e.g., WM Portugal providing official training as part of digital literacy education, WM Spain working in senior education).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 293,
+    "tag": "li",
+    "text": "Expanding gender representation in GLAM (Galleries, Libraries, Archives, and Museums) work, especially to feminist collections (e.g., Wikiesfera, Wiki Editoras Lx).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "li",
+    "text": "Intersecting minority languages and GLAM (e.g., the Basque Wikimedians User Group expanding through their 100 Basque Objects project).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 299,
+    "tag": "li",
+    "text": "Responding to emerging risks such as disinformation — Wikimedia France worked with a data analysis partner to build a barometer tracking which pages are most edited ahead of municipal elections, for moderators, journalists, researchers and the public.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 301,
+    "tag": "p",
+    "text": "The region’s grantees also planned to utilize large-scale events to promote the Wikimedia projects and model, including Wikipedia 25 celebrations; Oulu Löyly open culture think & do fest (WM Suomi and AvoinGLAM); the HIGA youth minority language conference (WM Spain); the Eurovision Song Contest 2026 (WM Austria); and Wikimania 2026 in Paris.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 307,
+    "tag": "p",
+    "text": "The Regional Funds Committee made frugal decisions due to volatile forex rates against the US dollar and while recognizing the overall regional budget growth of 5%. Individual grant growth rates were kept below 5% for most grantees. Wikiesfera, due to their exceptional impact and recent community growth, was awarded a larger increase in budget (growing to 130,000 EUR). The Committee paid special attention to proposal quality, sustainability, organizational stability, and responses to internal and external threats to our Movement.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 312,
+    "tag": "figcaption",
+    "text": "Kevin Payravi, CC BY-SA 4.0 . Kearran Giovanni holding a printed wiki receipt of her English Wikipedia article at the Wikicurious WikiHaus in Park City, Utah during the Sundance Film Festival 2026. Her article’s photo was taken at WikiPortraits Studio the year prior.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 316,
+    "tag": "h3",
+    "text": "North America (USA and Canada))",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 317,
+    "tag": "p",
+    "text": "In FY 2025-2026, the NA Regional Fund Committee supported the annual programs and general operations of 14 Wikimedia affiliates through the General Support Fund, and 20 projects through the Rapid Fund program.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 318,
+    "tag": "p",
+    "text": "In the General Support Fund, affiliates addressed open knowledge and Wikimedia community needs by:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 320,
+    "tag": "li",
+    "text": "Creating high-quality biographical photos and content across several professional disciplines and industries (WikiPortraits).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 321,
+    "tag": "li",
+    "text": "Working closely with marginalized communities on the basis of race, gender, and sexual orientation (e.g., Wikimedia DC, Art+Feminism, LGBT+ User Group, Black Lunch Table).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 322,
+    "tag": "li",
+    "text": "Expanding access to critical medical information for communities with low connectivity (Wiki Med Foundation).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 323,
+    "tag": "p",
+    "text": "In Rapid Funds, sustained programmatic work included:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 325,
+    "tag": "li",
+    "text": "Supporting technology-based capacity building for the Wikimedians of Indiana User Group.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 327,
+    "tag": "li",
+    "text": "Initiating a WikiWelcome program in Tulsa, Oklahoma, to build peer learning around local history.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 329,
+    "tag": "li",
+    "text": "Developing the WikiReceipt program, which retrieves Wikipedia article data and formats it to output on thermal receipt paper.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 331,
+    "tag": "p",
+    "text": "A major theme for the Committee was balancing capacity-building for current grantees with the need to fund unexplored regional initiatives. Consequently, the Committee considered setting aside a proportion of the regional budget for new proposals. Furthermore, facing an underspend this year, some funding decisions stipulated that a proportion of the award was one-time only. Partnerships remain vital; Wikimedia Canada added 12 new partnerships in 2025—including universities and major provincial archives—helping reach new communities and identify high-impact missing topics on French and English Wikipedia.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 332,
+    "tag": "h3",
+    "text": "Central and Eastern Europe & Central Asia (CEE/CA)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 333,
+    "tag": "p",
+    "text": "In FY 2025-2026, the CEE/CA Regional Fund Committee supported 17 affiliates through the General Support Fund, and 11 projects through the Rapid Fund program.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "p",
+    "text": "Regional affiliates focused heavily on:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 336,
+    "tag": "li",
+    "text": "Expanding programs with good retention outcomes for youth and communities of experts, such as the WikiCamp program (Wikimedia Armenia).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "Shifting partnership goals to support institutional partners in carrying on Wikimedia programming independently (Wikimedians of the Republic of Srpska).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 339,
+    "tag": "li",
+    "text": "Integrating Wikimedia assignments into school curricula (Wikimedia Serbia, Wikimedia MKD, Wikimedians of the Republic of Srpska).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 340,
+    "tag": "p",
+    "text": "Rapid Fund highlights include expanding the Adiutor gadget for wiki maintenance, supporting photo campaigns for natural environments, and improving Uzbek Wikipedia coverage of UNESCO historical sites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 343,
+    "tag": "p",
+    "text": "The Committee noted opportunities for some regional affiliates to strengthen the documentation of their community engagement work as part of their annual planning process. There is room for improvement, and we will continue to prompt grantees for greater transparency in how they interact with stakeholders. Additionally, navigating NGO salary expectations remains difficult due to a lack of authoritative data across different countries, an area the Community Resources team will explore further this fiscal year.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 347,
+    "tag": "figcaption",
+    "text": "WikiCamp participants during their work on Wikipedia, photo by Kurmanbek, via Wikimedia Commons (CC BY-SA 4.0)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 350,
+    "tag": "p",
+    "text": "Youth outreach is a prominent theme. Wikimedia Georgia reports that 80% of its WikiCamp student participants are retained after the program ends, demonstrating the important role affiliates play in introducing core skills needed to be sustained contributors.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 352,
+    "tag": "h3",
+    "text": "East, Southeast Asia, and the Pacific (ESEAP)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 353,
+    "tag": "p",
+    "text": "In FY 25/26, the Regional Funds Committee approved up to $1.9M across 13 General Support Fund applications (3 of which were multi-annual) and 35 Rapid Fund applications.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 354,
+    "tag": "p",
+    "text": "The current geopolitical situation continues to have spillover effects in the Asia Pacific. The region has experienced energy import disruptions1, an inflation surge2 (projected to hit 2.7%, up from 2.2%), and severe currency depreciation as investors retreat to the U.S. Dollar and gold3. What this means for us: There is a need to pause and acknowledge that there are significant economic upheavals happening globally, and this could mean livelihoods are at stake; lives may be in transition with spillover effects on participation within the Wikimedia movement. Volunteerism may take a backseat.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 367,
+    "tag": "li",
+    "text": "Wikimedia Indonesia: Successfully navigated a temporary domain block by securing government commitments to user safety and privacy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "Wikimedians of Japan User Group: Increasing voice, collaboration and representation at regional and global levels – hosting ESEAP Summit in 2027; recently held a community meet and greet with CEO;",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 374,
+    "tag": "li",
+    "text": "Wikipedia Asian Month (WAM) Affiliate: Taking on administrative responsibility as the fiscal sponsor for the ESEAP Hub (previously ) and now the ESEAP Summit 2027.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 378,
+    "tag": "li",
+    "text": "Wikimedia Community User Group of Malaysia: Expanding support for indigenous language communities (e.g., Wikikata).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 381,
+    "tag": "li",
+    "text": "Wikimedia Korea: Setting up/ nurturing Korean Wikipedia’s technical community; launched Wikivault and evaluating it’s impact on the community.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 385,
+    "tag": "li",
+    "text": "Wikimedia Aotearoa New Zealand: Prioritizing partnerships, diversity, and impact. Read about the work of Wikimedian in Residence, Tamsin Braisher, at Otago University (pages 14-15 of national library organisation, LIANZA Library Life)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 388,
+    "tag": "p",
+    "text": "We also welcomed 6 new committee members in September 2025, pairing each with an existing RFC member for peer support, and bid a grateful farewell to 22Kartika and GhoziSeptiandri in June 2026.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "h3",
+    "text": "South Asia (SA ex. India)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "p",
+    "text": "The SA Regional Funds Committee approved up to $120,000 from 2 General Support Fund grants and 5 Rapid Fund applications across Bangladesh, Bhutan, and Nepal. Applications from Sri Lanka and Pakistan did not meet eligibility requirements or were unsuccessful through the review process.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 393,
+    "tag": "p",
+    "text": "We continue to provide tailored support for emerging communities (Nepal- Bhutan) and are exploring cross-regional connections (e.g., Wikimedia Bangladesh learning from Wikimedia New Zealand). We welcomed Gopavasanth and Jnanaranjan sahu to the Committee in September 2025 and thank आर्या जोशी for her dedication upon her departure in June 2026.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 401,
+    "tag": "figcaption",
+    "text": "Panorama of the moon taken during mission Apollo 17 (Station 1 East). Composed of 24 images: AS17-134-20408 to AS17-134-20431. NASA, Public domain, via Wikimedia Commons",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 403,
+    "tag": "h3",
+    "text": "Latin America and the Caribbean (LAC)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 404,
+    "tag": "p",
+    "text": "During FY 2025-26, the Wikimedia Foundation supported 14 organizations across LAC, including two new groups (Foto.wiki.br and Muj(lh)eres latinoamericanas en Wikimedia). The portfolio included six multi-year renewals and two new multi-year grants.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "p",
+    "text": "Grantees are advancing knowledge equity through education, Indigenous languages preservation, public policy, and cultural heritage documentation:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 409,
+    "tag": "li",
+    "text": "Wikimedistas de Uruguay’s multi-year plan highlights the growing role of Wikimedia in education and digital citizenship. By expanding partnerships with schools and educators, the affiliate is helping position Wikimedia projects as tools for media literacy, critical thinking, and civic participation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 411,
+    "tag": "li",
+    "text": "Wikimedistas de Bolivia: The Caminos y territorios de los conocimientos libres initiative centers Indigenous knowledge and territorial partnerships to improve representation of local cultures and languages on Wikimedia projects. It reflects a strong regional trend toward community-led knowledge equity and long-term collaboration.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 413,
+    "tag": "li",
+    "text": "Wikimedia Brasil’s new strategic plan aims to position Wikimedia as essential infrastructure for the free knowledge ecosystem in Brazil. By building partnerships across open science, digital rights, civic technology, and public institutions, the affiliate is broadening Wikimedia’s impact well beyond the wiki community.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "li",
+    "text": "WikiAcción Perú’s strategy connects ecology, gender, and cultural heritage to address important knowledge gaps in the country. The proposal demonstrates how thematic partnerships can strengthen both content quality and community engagement.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 417,
+    "tag": "li",
+    "text": "Wikimedistas de Wayùu promote the preservation and visibility of the Wayuunaiki language by expanding Wikimedia content and supporting local contributors. The project is a strong example of how Wikimedia can contribute to Indigenous language revitalization and linguistic diversity.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 419,
+    "tag": "p",
+    "text": "Macroeconomic challenges, particularly currency depreciation and inflation, required an equity-based approach from the Committee. Funding levels were maintained consistently with FY 2024–25, prioritizing organizational sustainability. We look forward to Wikimanía 2027 in Chile to showcase the region’s leadership and contribution to the Wikimedia movement.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 420,
+    "tag": "h3",
+    "text": "Sub-Saharan Africa (SSA)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 421,
+    "tag": "p",
+    "text": "During FY 2025-26, we supported 29 organizations across SSA. This included two new applicants (Igala Wikimedia Community, Wiki Hour Initiative), multi-year renewals, and new multi-year grantees (Wikimedia Nigeria Foundation, Wikimedia Côte d’Ivoire).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "The Regional Funding Committee took a measured approach, given the 7% regional growth and the need to manage volatile forex rates, in how it distributed funding in the region. Most grantees saw increases capped below 15%. However, Wikimedia Nigeria Foundation and Wikimedia Côte d’Ivoire both received substantial multi-year increases for their exceptional impact and community growth efforts. With the implementation of the Nigeria National Funding Program (NNFP) in February 2026, the Rapid Fund budget was reduced to $150,000, and this will be dedicated to support all non-Nigerian local initiatives.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 427,
+    "tag": "p",
+    "text": "Wikimedia Kenya User Group successfully leveraged institutional partnerships in Kenya’s education, film & creative sectors that resulted in content & Contributor growth in various formats that included;",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 431,
+    "tag": "li",
+    "text": "The launch of Kenya’s first Wiki Club at Pwani University in coastal Kenya, opening up a community of new contributors drawn from academia and young people who are contributing towards the growth of Swahili Wikipedia, youth inclusion and leadership.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "A three-week Women in Film Edit-athon on International Women’s Month in collaboration with Women in Film Kenya organization (WIFA) that improved 77 Wikipedia articles and the creation of 21 new biographies on female filmmakers in Kenya, helping close Wikipedia’s gender gaps.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 436,
+    "tag": "li",
+    "text": "World Environment Day Edit-a-thon in collaboration with UNEP that engaged 36 editors to help document and localize climate and environment-related topics on both English and Swahili Wikipedia through the Wiki for sustainable futures campaign, as well as capacity-building training for 16 UNEP staff on how Wikipedia safeguards Information Integrity.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 439,
+    "tag": "p",
+    "text": "Wikilovesfolklores 2026 in Côte d’Ivoire The first Wiki Loves Folklore campaign in Côte d’Ivoire successfully mobilized 16 participants, including photographers, to document local and African folklore. The community uploaded over 2,000 photos, videos, and audio files celebrating local and African culture (surpassing the original 500-file target). Prizes were awarded to the top four participants for Best Photography, Diverse Contribution, Volunteer Engagement, and Female Contribution.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 443,
+    "tag": "p",
+    "text": "Dagbani Wikimedians User Group has implemented Reading Wikipedia in the Classroom, which trained 30 Dagbani teachers and 60 Waali and Dagaare teachers who have transitioned into new editors. Their hub activities have given them the opportunity to increase their active community of volunteer base by over 60.71% at the three teacher training colleges through edit-a-thons and contests. Their Community Micro Grant has empowered five language communities and five individual member projects chosen to lead their own events. They also increased participation from 60 to 80 people from 9 to 15 language community representatives for their Ghanaian Wikimedia Languages Meetup. Together, those programs show how training, local hub energy, small grants, and cross-language gatherings reinforce each other. Each number is a Dagbani, Gurene, Dagaare, Wali or Kusaal speaker gaining a voice online.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 456,
+    "tag": "figcaption",
+    "text": "Temple (or Sanctuary) of Demeter in Cyreneby عدسة قوريني is licensed under CC BY-SA 4.0. Winning 15th place in Wiki Loves Monuments worldwide.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 458,
+    "tag": "h3",
+    "text": "Middle East and North Africa (MENA)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 459,
+    "tag": "p",
+    "text": "With a regional budget of $410,000 USD, the MENA Committee prioritized organizational development for emerging communities. Despite ongoing regional and local conflicts, volunteers have worked tirelessly to overcome challenges.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "p",
+    "text": "We supported 14 General Support grants (including new communities Wikimedia Tunisia, Wikimedia Yemen and Iranian Wikimedians) and 11 Rapid grants ($36,000 USD).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 465,
+    "tag": "li",
+    "text": "Wikimedians of Kuwait: The Wikimedians of Kuwait community has written over 7,000 articles on Arabic Wikipedia as a direct result of projects implemented during the first six months of 2026. Projects include Wiki World of Wonders, Kuwait’s National Day 2026, Wiki Loves Ramadan, FIFA 2026 editathon and International Day of Forests.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 473,
+    "tag": "li",
+    "text": "Wikimedia Libya: The Wikimedia Libya community successfully leveraged a cultural partnership with Barah Arts & Culture, celebrating Libyan National Music Day to organize a special edit-a-thon, resulting in the direct documentation of Libyan and African musical heritage on Arabic Wikipedia.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 479,
+    "tag": "li",
+    "text": "Wikicamp Kurdistan: A collaborative initiative between Wikimedians of Kuwait, Iraq Wikimedians, and Kurdish Wikimedians, this camp will took place in July 2026 to introduce Wikimedia projects to Kurdish participants. This is a great example of peer learning, knowledge transfer, and sharing among communities.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 483,
+    "tag": "li",
+    "text": "Egypt Wikimedians: The Egypt Wikimedians user group has continued to grow its GLAM team in Egypt, documenting over 10 museums and important heritage days since the start of 2026.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 487,
+    "tag": "li",
+    "text": "Wikimedians of Islamic Civilization: This community has brought priceless heritage manuscripts into the public sphere through their Islamic Manuscripts Workshop, easing scholarly access by systematically cataloging them on Wikidata and integrating them directly into relevant Arabic Wikipedia articles.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 494,
+    "tag": "figcaption",
+    "text": "Wikipedia Awareness session by Nabin K. Sapkota at Thimpu on Sept. 02, 2025",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 497,
+    "tag": "h3",
+    "text": "India",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 498,
+    "tag": "p",
+    "text": "FY 2025-26 was a year of strengthening and sustaining momentum across Wikimedia communities in India. While language preservation and cultural heritage remained at the heart of many funded projects, we also saw growing interest in technical capacity building, biodiversity documentation, and education-focused initiatives. From documenting oral traditions and regional knowledge to supporting developer communities and thematic campaigns, the energy came from both longstanding affiliates and newer community leaders who are increasingly taking ownership of the movement’s future.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 499,
+    "tag": "p",
+    "text": "Behind the funding decisions, many conversations focused on a common question: how do we help communities grow without stretching their capacity? The Regional Committee spent considerable time discussing sustainability, governance readiness, volunteer well-being, and realistic program plans. In several cases, funding was adjusted to better match the current capacity of the user group, ensuring that resources could support long-term impact rather than short-term expansion. The emphasis was not on doing more, but on doing what works better.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 500,
+    "tag": "p",
+    "text": "A project that exemplifies many of these themes is the Indic MediaWiki Developers User Group’s annual plan. As Wikimedia projects increasingly interact with AI, language technologies, and evolving digital ecosystems, strengthening local technical capacity has become essential for the movement’s future. The proposal focused on supporting contributors who build, maintain, and localize technical tools and infrastructure for Indian language communities.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 502,
+    "tag": "p",
+    "text": "In FY 2026–27, we are excited to deepen partnerships with educational and cultural institutions and expand technical engagement. Most importantly, we look forward to continuing to support communities that are preserving languages, documenting local knowledge, and building a stronger, more sustainable Wikimedia movement across India.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 506,
+    "tag": "figcaption",
+    "text": "Christ Divin MPIAYA, CC0, via Wikimedia Commons. One of the Wiki Loves Africa 2026/National winners",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 511,
+    "tag": "h2",
+    "text": "Gratitude & Looking Ahead",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 512,
+    "tag": "p",
+    "text": "We continue to grow the grantmaking budget, with a 7.2% increase towards the Community Fund (General Support and Rapid Funds). We also recognize that the Global Resource Distribution Committee (GRDC) is working on a renewed Grantmaking Strategy, currently in its feedback phase. We look forward to working with the committee to implement this new strategy and inform the future direction of how we fund our movement.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 515,
+    "tag": "p",
+    "text": "To make this global distribution of funds possible, it takes a dedicated ecosystem. We are deeply grateful to our Regional Fund Committees for championing participatory grantmaking, as well as the essential teams across Finance, Legal, Grants Administration, Global Advocacy, Community Growth, and Product & Tech. They work tirelessly behind the scenes to ensure these funds reach our communities smoothly.The funding we distribute is much more than just numbers; it is a vital resource that ensures the human beings sustaining Wikipedia and other sister projects have exactly what they need to enable their contribution. Resourcing the people behind the movement remains our unwavering commitment for this current fiscal year. Thank you to all our grantee partners for an incredible year; we look forward to continuing this vital work together.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 521,
+    "tag": "li",
+    "text": "CNA Explains: Why Asia will bear the economic brunt of the Iran war ↩︎",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "60b9726f-3787-4cba-9edd-1f9338db1acb"
+    }
+  },
+  {
+    "node_index": 524,
+    "tag": "li",
+    "text": "Prolonged Disruptions from Middle East Conflict Could Choke Growth and Spur Inflation in Asia and the Pacific: ADB Research | Asian Development Bank ↩︎",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "29e912a5-6e06-462d-af0e-d8c1fe722688"
+    }
+  },
+  {
+    "node_index": 527,
+    "tag": "li",
+    "text": "Bearish bets on Asian currencies rise as Mideast war stokes energy shock worries | Reuters ↩︎",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "69f90a6c-deba-4ae0-b6b2-151621872769"
+    }
+  },
+  {
+    "node_index": 532,
+    "tag": "h3",
+    "text": "Share this:",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sd-title"
+    }
+  },
+  {
+    "node_index": 535,
+    "tag": "li",
+    "text": "Share on Mastodon (Opens in new window) Mastodon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "share-mastodon"
+    }
+  },
+  {
+    "node_index": 539,
+    "tag": "li",
+    "text": "Share on Bluesky (Opens in new window) Bluesky",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "share-bluesky"
+    }
+  },
+  {
+    "node_index": 548,
+    "tag": "h2",
+    "text": "Can you help us translate this article?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 549,
+    "tag": "p",
+    "text": "In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 552,
+    "tag": "h3",
+    "text": "Related",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "jp-relatedposts-headline"
+    }
+  },
+  {
+    "node_index": 606,
+    "tag": "h3",
+    "text": "Meta",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 619,
+    "tag": "h3",
+    "text": "Related",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "jp-relatedposts-headline"
+    }
+  },
+  {
+    "node_index": 633,
+    "tag": "h1",
+    "text": "Welcome to Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 634,
+    "tag": "p",
+    "text": "Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 640,
+    "tag": "h2",
+    "text": "Subscribe to Diff via Email",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "widgettitle"
+    }
+  },
+  {
+    "node_index": 644,
+    "tag": "p",
+    "text": "Enter your email address to subscribe to Diff and receive notifications of new posts by email.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 645,
+    "tag": "p",
+    "text": "Email Address",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-email"
+    }
+  },
+  {
+    "node_index": 648,
+    "tag": "p",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-submit"
+    }
+  },
+  {
+    "node_index": 659,
+    "tag": "h1",
+    "text": "Wikimedia News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 663,
+    "tag": "h3",
+    "text": "Wikimedia Foundation News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 665,
+    "tag": "li",
+    "text": "Wikimedia Foundation Statement on US staff unionization3 September 2026 by Wikimedia Foundation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 671,
+    "tag": "h3",
+    "text": "Down the Rabbit Hole",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 673,
+    "tag": "li",
+    "text": "The cost of ‘free’: How Wikimedia Enterprise protects Wikipedia in the AI era16 July 2026 by Wikimedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 680,
+    "tag": "h2",
+    "text": "Photo credits",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 685,
+    "tag": "p",
+    "text": "Drying the cotton silk fabric",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 687,
+    "tag": "p",
+    "text": "Sopyaylynn",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 688,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 693,
+    "tag": "p",
+    "text": "Junction 2015",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 695,
+    "tag": "p",
+    "text": "Vmuru",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 696,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 701,
+    "tag": "p",
+    "text": "Photomontage (Forggensee Panorama), composite of 16 freely licensed photos.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 703,
+    "tag": "p",
+    "text": "Photomontage by: Mmxx",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 704,
+    "tag": "p",
+    "text": "CC BY-SA 3.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 709,
+    "tag": "p",
+    "text": "Wikicurious WikiHaus at Sundance 2026 - Kearran Giovanni Wiki Receipt",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 711,
+    "tag": "p",
+    "text": "Kevin Payravi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 712,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 717,
+    "tag": "p",
+    "text": "Akhaltsikhe WikiCamp for students in 2025 day II 19",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 719,
+    "tag": "p",
+    "text": "Kurmanbek",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 720,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 725,
+    "tag": "p",
+    "text": "Apollo 17 Moon Panorama",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 727,
+    "tag": "p",
+    "text": "NASA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 728,
+    "tag": "p",
+    "text": "Public domain",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 733,
+    "tag": "p",
+    "text": "معبد_ديميتر",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 735,
+    "tag": "p",
+    "text": "عدسة قوريني",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 736,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 741,
+    "tag": "p",
+    "text": "Glimpse of Dzonkha Wikipedia Edit-a-thon-September 02, 2025 26",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 743,
+    "tag": "p",
+    "text": "Nabin K. Sapkota",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 744,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 749,
+    "tag": "p",
+    "text": "Rituel revenant 4",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 751,
+    "tag": "p",
+    "text": "Christ Divin MPIAYA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 752,
+    "tag": "p",
+    "text": "CC0 1.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 757,
+    "tag": "h3",
+    "text": "Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 759,
+    "tag": "p",
+    "text": "This is Diff, a Wikimedia community blog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 760,
+    "tag": "p",
+    "text": "All participants are responsible for building a place that is welcoming and friendly to everyone. Learn more about Diff.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 762,
+    "tag": "p",
+    "text": "A Wikimedia Foundation Project",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 765,
+    "tag": "h3",
+    "text": "Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 768,
+    "tag": "li",
+    "text": "Join",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 770,
+    "tag": "li",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 772,
+    "tag": "li",
+    "text": "Guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 774,
+    "tag": "li",
+    "text": "Editorial guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 776,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 778,
+    "tag": "li",
+    "text": "Terms of Use",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 784,
+    "tag": "p",
+    "text": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted. Powered by WordPress.com VIP, Automattic Privacy Notice.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 805,
+    "tag": "td",
+    "text": "This comment is spam",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 810,
+    "tag": "td",
+    "text": "This comment is a violation of the Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 815,
+    "tag": "td",
+    "text": "Other",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

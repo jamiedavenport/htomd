@@ -1,0 +1,6436 @@
+[
+  {
+    "node_index": 57,
+    "tag": "li",
+    "text": "Hauptseite",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-mainpage-description",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 60,
+    "tag": "li",
+    "text": "Themenportale",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-topics",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Zufälliger Artikel",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randompage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 66,
+    "tag": "li",
+    "text": "Spezialseiten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-specialpages",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Artikel verbessern",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Artikel-verbessern",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "Neuen Artikel anlegen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Neuerartikel",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Autorenportal",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-portal",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Hilfe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-help",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "Letzte Änderungen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-recentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "Kontakt",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-contact",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Jetzt spenden",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "Benutzerkonto erstellen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "Anmelden",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Jetzt spenden",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Benutzerkonto erstellen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Anmelden",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "h2",
+    "text": "Inhaltsverzeichnis",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "vector-pinnable-header-label"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "(Anfang)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-mw-content-text",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 183,
+    "tag": "li",
+    "text": "1 Begriff",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Begriff",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "2 Anbau",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Anbau",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 195,
+    "tag": "li",
+    "text": "3 Wirtschaftliche Bedeutung Unterabschnitt Wirtschaftliche Bedeutung umschalten 3.1 Die größten Teeproduzenten 3.2 Die größten Tee-Exporteure 3.3 Die größten Tee-Importeure 3.4 Die größten Teeverbraucher",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Wirtschaftliche_Bedeutung",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "3.1 Die größten Teeproduzenten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Die_größten_Teeproduzenten",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 210,
+    "tag": "li",
+    "text": "3.2 Die größten Tee-Exporteure",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Die_größten_Tee-Exporteure",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "3.3 Die größten Tee-Importeure",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Die_größten_Tee-Importeure",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "3.4 Die größten Teeverbraucher",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Die_größten_Teeverbraucher",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "4 Herstellung Unterabschnitt Herstellung umschalten 4.1 Traditionelle Herstellung 4.2 CTC-Produktion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Herstellung",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "4.1 Traditionelle Herstellung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Traditionelle_Herstellung",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "4.2 CTC-Produktion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-CTC-Produktion",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "5 Teearten und Teesorten Unterabschnitt Teearten und Teesorten umschalten 5.1 Teearten 5.2 Teesorten 5.3 Sortierung 5.3.1 Allgemein 5.3.2 Blatt-Tees 5.3.3 Kleinblättrige Tees 5.3.4 CTC Produktion 5.4 Aromatisierter Tee 5.5 Rauchtee und Rösttee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Teearten_und_Teesorten",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 258,
+    "tag": "li",
+    "text": "5.1 Teearten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Teearten",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "5.2 Teesorten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Teesorten",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 270,
+    "tag": "li",
+    "text": "5.3 Sortierung 5.3.1 Allgemein 5.3.2 Blatt-Tees 5.3.3 Kleinblättrige Tees 5.3.4 CTC Produktion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Sortierung",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "5.3.1 Allgemein",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Allgemein",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 282,
+    "tag": "li",
+    "text": "5.3.2 Blatt-Tees",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Blatt-Tees",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 288,
+    "tag": "li",
+    "text": "5.3.3 Kleinblättrige Tees",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Kleinblättrige_Tees",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 294,
+    "tag": "li",
+    "text": "5.3.4 CTC Produktion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-CTC_Produktion",
+      "class": "vector-toc-list-item vector-toc-level-3"
+    }
+  },
+  {
+    "node_index": 300,
+    "tag": "li",
+    "text": "5.4 Aromatisierter Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Aromatisierter_Tee",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 306,
+    "tag": "li",
+    "text": "5.5 Rauchtee und Rösttee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Rauchtee_und_Rösttee",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 312,
+    "tag": "li",
+    "text": "6 Qualitäten Unterabschnitt Qualitäten umschalten 6.1 Schadstoffe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Qualitäten",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 321,
+    "tag": "li",
+    "text": "6.1 Schadstoffe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Schadstoffe",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 327,
+    "tag": "li",
+    "text": "7 Handelsformen Unterabschnitt Handelsformen umschalten 7.1 Loser Tee 7.2 Portionierter Tee 7.3 Gepresster Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Handelsformen",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 336,
+    "tag": "li",
+    "text": "7.1 Loser Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Loser_Tee",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 342,
+    "tag": "li",
+    "text": "7.2 Portionierter Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Portionierter_Tee",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "7.3 Gepresster Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Gepresster_Tee",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 354,
+    "tag": "li",
+    "text": "8 Teezubereitung Unterabschnitt Teezubereitung umschalten 8.1 Brühvorgang 8.2 Zubereitungsvarianten 8.3 Wasserhärte 8.4 Teegeschirr 8.5 Lagerung 8.6 Dosierung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Teezubereitung",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 363,
+    "tag": "li",
+    "text": "8.1 Brühvorgang",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Brühvorgang",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 369,
+    "tag": "li",
+    "text": "8.2 Zubereitungsvarianten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Zubereitungsvarianten",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 375,
+    "tag": "li",
+    "text": "8.3 Wasserhärte",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Wasserhärte",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 381,
+    "tag": "li",
+    "text": "8.4 Teegeschirr",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Teegeschirr",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 387,
+    "tag": "li",
+    "text": "8.5 Lagerung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Lagerung",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 393,
+    "tag": "li",
+    "text": "8.6 Dosierung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Dosierung",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 399,
+    "tag": "li",
+    "text": "9 Geschichte Unterabschnitt Geschichte umschalten 9.1 China 9.2 Europa",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Geschichte",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 408,
+    "tag": "li",
+    "text": "9.1 China",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-China",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 414,
+    "tag": "li",
+    "text": "9.2 Europa",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Europa",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 420,
+    "tag": "li",
+    "text": "10 Teekulturen Unterabschnitt Teekulturen umschalten 10.1 Asien 10.2 Russland 10.3 Ostfriesische Zubereitung 10.4 Britische Zubereitung 10.5 Orient",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Teekulturen",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 429,
+    "tag": "li",
+    "text": "10.1 Asien",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Asien",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 435,
+    "tag": "li",
+    "text": "10.2 Russland",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Russland",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 441,
+    "tag": "li",
+    "text": "10.3 Ostfriesische Zubereitung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Ostfriesische_Zubereitung",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 447,
+    "tag": "li",
+    "text": "10.4 Britische Zubereitung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Britische_Zubereitung",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 453,
+    "tag": "li",
+    "text": "10.5 Orient",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Orient",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 459,
+    "tag": "li",
+    "text": "11 Gesundheitliche Aspekte",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Gesundheitliche_Aspekte",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 465,
+    "tag": "li",
+    "text": "12 Siehe auch",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Siehe_auch",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 471,
+    "tag": "li",
+    "text": "13 Literatur",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Literatur",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 477,
+    "tag": "li",
+    "text": "14 Film",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Film",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 483,
+    "tag": "li",
+    "text": "15 Weblinks",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Weblinks",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 489,
+    "tag": "li",
+    "text": "16 Einzelnachweise",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-Einzelnachweise",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 506,
+    "tag": "h1",
+    "text": "Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "firstHeading",
+      "class": "firstHeading mw-first-heading"
+    }
+  },
+  {
+    "node_index": 517,
+    "tag": "li",
+    "text": "Acèh",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ace mw-list-item"
+    }
+  },
+  {
+    "node_index": 520,
+    "tag": "li",
+    "text": "Afrikaans",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-af mw-list-item"
+    }
+  },
+  {
+    "node_index": 523,
+    "tag": "li",
+    "text": "Alemannisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-als mw-list-item"
+    }
+  },
+  {
+    "node_index": 526,
+    "tag": "li",
+    "text": "አማርኛ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-am mw-list-item"
+    }
+  },
+  {
+    "node_index": 529,
+    "tag": "li",
+    "text": "Aragonés",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-an mw-list-item"
+    }
+  },
+  {
+    "node_index": 532,
+    "tag": "li",
+    "text": "Ænglisc",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ang mw-list-item"
+    }
+  },
+  {
+    "node_index": 535,
+    "tag": "li",
+    "text": "अंगिका",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-anp mw-list-item"
+    }
+  },
+  {
+    "node_index": 538,
+    "tag": "li",
+    "text": "العربية",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ar mw-list-item"
+    }
+  },
+  {
+    "node_index": 541,
+    "tag": "li",
+    "text": "الدارجة",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ary mw-list-item"
+    }
+  },
+  {
+    "node_index": 544,
+    "tag": "li",
+    "text": "مصرى",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-arz mw-list-item"
+    }
+  },
+  {
+    "node_index": 547,
+    "tag": "li",
+    "text": "অসমীয়া",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-as mw-list-item"
+    }
+  },
+  {
+    "node_index": 550,
+    "tag": "li",
+    "text": "Asturianu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ast mw-list-item"
+    }
+  },
+  {
+    "node_index": 553,
+    "tag": "li",
+    "text": "Atikamekw",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-atj mw-list-item"
+    }
+  },
+  {
+    "node_index": 556,
+    "tag": "li",
+    "text": "अवधी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-awa mw-list-item"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "li",
+    "text": "Aymar aru",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ay mw-list-item"
+    }
+  },
+  {
+    "node_index": 562,
+    "tag": "li",
+    "text": "Azərbaycanca",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-az mw-list-item"
+    }
+  },
+  {
+    "node_index": 565,
+    "tag": "li",
+    "text": "تۆرکجه",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-azb mw-list-item"
+    }
+  },
+  {
+    "node_index": 568,
+    "tag": "li",
+    "text": "Башҡортса",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ba mw-list-item"
+    }
+  },
+  {
+    "node_index": 571,
+    "tag": "li",
+    "text": "Basa Bali",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ban mw-list-item"
+    }
+  },
+  {
+    "node_index": 574,
+    "tag": "li",
+    "text": "Boarisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bar mw-list-item"
+    }
+  },
+  {
+    "node_index": 577,
+    "tag": "li",
+    "text": "Žemaitėška",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bat-smg mw-list-item"
+    }
+  },
+  {
+    "node_index": 580,
+    "tag": "li",
+    "text": "Bikol Central",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bcl mw-list-item"
+    }
+  },
+  {
+    "node_index": 583,
+    "tag": "li",
+    "text": "Беларуская (тарашкевіца)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-be-x-old mw-list-item"
+    }
+  },
+  {
+    "node_index": 586,
+    "tag": "li",
+    "text": "Беларуская",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-be mw-list-item"
+    }
+  },
+  {
+    "node_index": 589,
+    "tag": "li",
+    "text": "Betawi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bew mw-list-item"
+    }
+  },
+  {
+    "node_index": 592,
+    "tag": "li",
+    "text": "Български",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bg mw-list-item"
+    }
+  },
+  {
+    "node_index": 595,
+    "tag": "li",
+    "text": "भोजपुरी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bh mw-list-item"
+    }
+  },
+  {
+    "node_index": 598,
+    "tag": "li",
+    "text": "Banjar",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bjn mw-list-item"
+    }
+  },
+  {
+    "node_index": 601,
+    "tag": "li",
+    "text": "বাংলা",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bn mw-list-item"
+    }
+  },
+  {
+    "node_index": 604,
+    "tag": "li",
+    "text": "བོད་ཡིག",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bo mw-list-item"
+    }
+  },
+  {
+    "node_index": 607,
+    "tag": "li",
+    "text": "Brezhoneg",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-br mw-list-item"
+    }
+  },
+  {
+    "node_index": 610,
+    "tag": "li",
+    "text": "Bosanski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bs mw-list-item"
+    }
+  },
+  {
+    "node_index": 613,
+    "tag": "li",
+    "text": "Буряад",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bxr mw-list-item"
+    }
+  },
+  {
+    "node_index": 616,
+    "tag": "li",
+    "text": "Català",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ca mw-list-item"
+    }
+  },
+  {
+    "node_index": 619,
+    "tag": "li",
+    "text": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cdo mw-list-item"
+    }
+  },
+  {
+    "node_index": 622,
+    "tag": "li",
+    "text": "Нохчийн",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ce mw-list-item"
+    }
+  },
+  {
+    "node_index": 625,
+    "tag": "li",
+    "text": "ᏣᎳᎩ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-chr mw-list-item"
+    }
+  },
+  {
+    "node_index": 628,
+    "tag": "li",
+    "text": "Tsetsêhestâhese",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-chy mw-list-item"
+    }
+  },
+  {
+    "node_index": 631,
+    "tag": "li",
+    "text": "کوردی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ckb mw-list-item"
+    }
+  },
+  {
+    "node_index": 634,
+    "tag": "li",
+    "text": "Čeština",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cs mw-list-item"
+    }
+  },
+  {
+    "node_index": 637,
+    "tag": "li",
+    "text": "Чӑвашла",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cv mw-list-item"
+    }
+  },
+  {
+    "node_index": 640,
+    "tag": "li",
+    "text": "Cymraeg",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cy mw-list-item"
+    }
+  },
+  {
+    "node_index": 643,
+    "tag": "li",
+    "text": "Dansk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-da mw-list-item"
+    }
+  },
+  {
+    "node_index": 646,
+    "tag": "li",
+    "text": "Zazaki",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-diq mw-list-item"
+    }
+  },
+  {
+    "node_index": 649,
+    "tag": "li",
+    "text": "डोटेली",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-dty mw-list-item"
+    }
+  },
+  {
+    "node_index": 652,
+    "tag": "li",
+    "text": "ދިވެހިބަސް",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-dv mw-list-item"
+    }
+  },
+  {
+    "node_index": 655,
+    "tag": "li",
+    "text": "ཇོང་ཁ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-dz mw-list-item"
+    }
+  },
+  {
+    "node_index": 658,
+    "tag": "li",
+    "text": "Ελληνικά",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-el mw-list-item"
+    }
+  },
+  {
+    "node_index": 661,
+    "tag": "li",
+    "text": "English",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-en mw-list-item"
+    }
+  },
+  {
+    "node_index": 664,
+    "tag": "li",
+    "text": "Esperanto",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-eo mw-list-item"
+    }
+  },
+  {
+    "node_index": 667,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-es mw-list-item"
+    }
+  },
+  {
+    "node_index": 670,
+    "tag": "li",
+    "text": "Eesti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-et mw-list-item"
+    }
+  },
+  {
+    "node_index": 673,
+    "tag": "li",
+    "text": "Euskara",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-eu mw-list-item"
+    }
+  },
+  {
+    "node_index": 676,
+    "tag": "li",
+    "text": "Estremeñu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ext mw-list-item"
+    }
+  },
+  {
+    "node_index": 679,
+    "tag": "li",
+    "text": "فارسی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fa mw-list-item"
+    }
+  },
+  {
+    "node_index": 682,
+    "tag": "li",
+    "text": "Suomi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fi mw-list-item"
+    }
+  },
+  {
+    "node_index": 685,
+    "tag": "li",
+    "text": "Võro",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fiu-vro mw-list-item"
+    }
+  },
+  {
+    "node_index": 688,
+    "tag": "li",
+    "text": "Føroyskt",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fo mw-list-item"
+    }
+  },
+  {
+    "node_index": 691,
+    "tag": "li",
+    "text": "Français",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fr mw-list-item"
+    }
+  },
+  {
+    "node_index": 694,
+    "tag": "li",
+    "text": "Nordfriisk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-frr mw-list-item"
+    }
+  },
+  {
+    "node_index": 697,
+    "tag": "li",
+    "text": "Furlan",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fur mw-list-item"
+    }
+  },
+  {
+    "node_index": 700,
+    "tag": "li",
+    "text": "Gaeilge",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ga mw-list-item"
+    }
+  },
+  {
+    "node_index": 703,
+    "tag": "li",
+    "text": "贛語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gan mw-list-item"
+    }
+  },
+  {
+    "node_index": 706,
+    "tag": "li",
+    "text": "Kriyòl gwiyannen",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gcr mw-list-item"
+    }
+  },
+  {
+    "node_index": 709,
+    "tag": "li",
+    "text": "Gàidhlig",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gd mw-list-item"
+    }
+  },
+  {
+    "node_index": 712,
+    "tag": "li",
+    "text": "Galego",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gl mw-list-item"
+    }
+  },
+  {
+    "node_index": 715,
+    "tag": "li",
+    "text": "گیلکی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-glk mw-list-item"
+    }
+  },
+  {
+    "node_index": 718,
+    "tag": "li",
+    "text": "Avañe'ẽ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gn mw-list-item"
+    }
+  },
+  {
+    "node_index": 721,
+    "tag": "li",
+    "text": "𐌲𐌿𐍄𐌹𐍃𐌺",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-got mw-list-item"
+    }
+  },
+  {
+    "node_index": 724,
+    "tag": "li",
+    "text": "ગુજરાતી",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gu mw-list-item"
+    }
+  },
+  {
+    "node_index": 727,
+    "tag": "li",
+    "text": "客家語 / Hak-kâ-ngî",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hak mw-list-item"
+    }
+  },
+  {
+    "node_index": 730,
+    "tag": "li",
+    "text": "עברית",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-he mw-list-item"
+    }
+  },
+  {
+    "node_index": 733,
+    "tag": "li",
+    "text": "हिन्दी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hi mw-list-item"
+    }
+  },
+  {
+    "node_index": 736,
+    "tag": "li",
+    "text": "Fiji Hindi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hif mw-list-item"
+    }
+  },
+  {
+    "node_index": 739,
+    "tag": "li",
+    "text": "Hrvatski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hr mw-list-item"
+    }
+  },
+  {
+    "node_index": 742,
+    "tag": "li",
+    "text": "Magyar",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hu mw-list-item"
+    }
+  },
+  {
+    "node_index": 745,
+    "tag": "li",
+    "text": "Հայերեն",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hy mw-list-item"
+    }
+  },
+  {
+    "node_index": 748,
+    "tag": "li",
+    "text": "Արեւմտահայերէն",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hyw mw-list-item"
+    }
+  },
+  {
+    "node_index": 751,
+    "tag": "li",
+    "text": "Interlingua",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ia mw-list-item"
+    }
+  },
+  {
+    "node_index": 754,
+    "tag": "li",
+    "text": "Jaku Iban",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-iba mw-list-item"
+    }
+  },
+  {
+    "node_index": 757,
+    "tag": "li",
+    "text": "Bahasa Indonesia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-id mw-list-item"
+    }
+  },
+  {
+    "node_index": 760,
+    "tag": "li",
+    "text": "Interlingue",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ie mw-list-item"
+    }
+  },
+  {
+    "node_index": 763,
+    "tag": "li",
+    "text": "Iñupiatun",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ik mw-list-item"
+    }
+  },
+  {
+    "node_index": 766,
+    "tag": "li",
+    "text": "Ilokano",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ilo mw-list-item"
+    }
+  },
+  {
+    "node_index": 769,
+    "tag": "li",
+    "text": "Ido",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-io mw-list-item"
+    }
+  },
+  {
+    "node_index": 772,
+    "tag": "li",
+    "text": "Íslenska",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-is mw-list-item"
+    }
+  },
+  {
+    "node_index": 775,
+    "tag": "li",
+    "text": "Medžuslovjansky",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-isv mw-list-item"
+    }
+  },
+  {
+    "node_index": 778,
+    "tag": "li",
+    "text": "Italiano",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-it mw-list-item"
+    }
+  },
+  {
+    "node_index": 781,
+    "tag": "li",
+    "text": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-iu mw-list-item"
+    }
+  },
+  {
+    "node_index": 784,
+    "tag": "li",
+    "text": "日本語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ja mw-list-item"
+    }
+  },
+  {
+    "node_index": 787,
+    "tag": "li",
+    "text": "Patois",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-jam mw-list-item"
+    }
+  },
+  {
+    "node_index": 790,
+    "tag": "li",
+    "text": "La .lojban.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-jbo mw-list-item"
+    }
+  },
+  {
+    "node_index": 793,
+    "tag": "li",
+    "text": "Jawa",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-jv mw-list-item"
+    }
+  },
+  {
+    "node_index": 796,
+    "tag": "li",
+    "text": "ქართული",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ka mw-list-item"
+    }
+  },
+  {
+    "node_index": 799,
+    "tag": "li",
+    "text": "Qaraqalpaqsha",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kaa mw-list-item"
+    }
+  },
+  {
+    "node_index": 802,
+    "tag": "li",
+    "text": "Kabɩyɛ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kbp mw-list-item"
+    }
+  },
+  {
+    "node_index": 805,
+    "tag": "li",
+    "text": "Kumoring",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kge mw-list-item"
+    }
+  },
+  {
+    "node_index": 808,
+    "tag": "li",
+    "text": "Қазақша",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kk mw-list-item"
+    }
+  },
+  {
+    "node_index": 811,
+    "tag": "li",
+    "text": "ភាសាខ្មែរ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-km mw-list-item"
+    }
+  },
+  {
+    "node_index": 814,
+    "tag": "li",
+    "text": "ಕನ್ನಡ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kn mw-list-item"
+    }
+  },
+  {
+    "node_index": 817,
+    "tag": "li",
+    "text": "한국어",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ko mw-list-item"
+    }
+  },
+  {
+    "node_index": 820,
+    "tag": "li",
+    "text": "Къарачай-малкъар",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-krc mw-list-item"
+    }
+  },
+  {
+    "node_index": 823,
+    "tag": "li",
+    "text": "کٲشُر",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ks mw-list-item"
+    }
+  },
+  {
+    "node_index": 826,
+    "tag": "li",
+    "text": "Ripoarisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ksh mw-list-item"
+    }
+  },
+  {
+    "node_index": 829,
+    "tag": "li",
+    "text": "Kurdî",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ku mw-list-item"
+    }
+  },
+  {
+    "node_index": 832,
+    "tag": "li",
+    "text": "Kernowek",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kw mw-list-item"
+    }
+  },
+  {
+    "node_index": 835,
+    "tag": "li",
+    "text": "Кыргызча",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ky mw-list-item"
+    }
+  },
+  {
+    "node_index": 838,
+    "tag": "li",
+    "text": "Latina",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-la mw-list-item"
+    }
+  },
+  {
+    "node_index": 841,
+    "tag": "li",
+    "text": "Ladino",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lad mw-list-item"
+    }
+  },
+  {
+    "node_index": 844,
+    "tag": "li",
+    "text": "Lëtzebuergesch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lb mw-list-item"
+    }
+  },
+  {
+    "node_index": 847,
+    "tag": "li",
+    "text": "Лакку",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lbe mw-list-item"
+    }
+  },
+  {
+    "node_index": 850,
+    "tag": "li",
+    "text": "Лезги",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lez mw-list-item"
+    }
+  },
+  {
+    "node_index": 853,
+    "tag": "li",
+    "text": "Lingua Franca Nova",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lfn mw-list-item"
+    }
+  },
+  {
+    "node_index": 856,
+    "tag": "li",
+    "text": "Limburgs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-li mw-list-item"
+    }
+  },
+  {
+    "node_index": 859,
+    "tag": "li",
+    "text": "Ligure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lij mw-list-item"
+    }
+  },
+  {
+    "node_index": 862,
+    "tag": "li",
+    "text": "Lombard",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lmo mw-list-item"
+    }
+  },
+  {
+    "node_index": 865,
+    "tag": "li",
+    "text": "ລາວ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lo mw-list-item"
+    }
+  },
+  {
+    "node_index": 868,
+    "tag": "li",
+    "text": "Lietuvių",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lt badge-Q17437798 badge-goodarticle mw-list-item",
+      "title": "lesenswerter Artikel"
+    }
+  },
+  {
+    "node_index": 871,
+    "tag": "li",
+    "text": "Latviešu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lv mw-list-item"
+    }
+  },
+  {
+    "node_index": 874,
+    "tag": "li",
+    "text": "Madhurâ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mad mw-list-item"
+    }
+  },
+  {
+    "node_index": 877,
+    "tag": "li",
+    "text": "मगही",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mag mw-list-item"
+    }
+  },
+  {
+    "node_index": 880,
+    "tag": "li",
+    "text": "मैथिली",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mai mw-list-item"
+    }
+  },
+  {
+    "node_index": 883,
+    "tag": "li",
+    "text": "Malagasy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mg mw-list-item"
+    }
+  },
+  {
+    "node_index": 886,
+    "tag": "li",
+    "text": "Олык марий",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mhr mw-list-item"
+    }
+  },
+  {
+    "node_index": 889,
+    "tag": "li",
+    "text": "Minangkabau",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-min mw-list-item"
+    }
+  },
+  {
+    "node_index": 892,
+    "tag": "li",
+    "text": "Македонски",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mk badge-Q17437796 badge-featuredarticle mw-list-item",
+      "title": "exzellenter Artikel"
+    }
+  },
+  {
+    "node_index": 895,
+    "tag": "li",
+    "text": "മലയാളം",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ml mw-list-item"
+    }
+  },
+  {
+    "node_index": 898,
+    "tag": "li",
+    "text": "Монгол",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mn mw-list-item"
+    }
+  },
+  {
+    "node_index": 901,
+    "tag": "li",
+    "text": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mni mw-list-item"
+    }
+  },
+  {
+    "node_index": 904,
+    "tag": "li",
+    "text": "मराठी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mr mw-list-item"
+    }
+  },
+  {
+    "node_index": 907,
+    "tag": "li",
+    "text": "Bahasa Melayu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ms mw-list-item"
+    }
+  },
+  {
+    "node_index": 910,
+    "tag": "li",
+    "text": "Mirandés",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mwl mw-list-item"
+    }
+  },
+  {
+    "node_index": 913,
+    "tag": "li",
+    "text": "မြန်မာဘာသာ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-my mw-list-item"
+    }
+  },
+  {
+    "node_index": 916,
+    "tag": "li",
+    "text": "مازِرونی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mzn mw-list-item"
+    }
+  },
+  {
+    "node_index": 919,
+    "tag": "li",
+    "text": "Nedersaksies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nds-nl mw-list-item"
+    }
+  },
+  {
+    "node_index": 922,
+    "tag": "li",
+    "text": "Plattdüütsch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nds mw-list-item"
+    }
+  },
+  {
+    "node_index": 925,
+    "tag": "li",
+    "text": "नेपाली",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ne mw-list-item"
+    }
+  },
+  {
+    "node_index": 928,
+    "tag": "li",
+    "text": "Li Niha",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nia mw-list-item"
+    }
+  },
+  {
+    "node_index": 931,
+    "tag": "li",
+    "text": "Nederlands",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nl mw-list-item"
+    }
+  },
+  {
+    "node_index": 934,
+    "tag": "li",
+    "text": "Norsk nynorsk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nn mw-list-item"
+    }
+  },
+  {
+    "node_index": 937,
+    "tag": "li",
+    "text": "Norsk bokmål",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-no mw-list-item"
+    }
+  },
+  {
+    "node_index": 940,
+    "tag": "li",
+    "text": "Nouormand",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nrm mw-list-item"
+    }
+  },
+  {
+    "node_index": 943,
+    "tag": "li",
+    "text": "Diné bizaad",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nv mw-list-item"
+    }
+  },
+  {
+    "node_index": 946,
+    "tag": "li",
+    "text": "Occitan",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-oc mw-list-item"
+    }
+  },
+  {
+    "node_index": 949,
+    "tag": "li",
+    "text": "Livvinkarjala",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-olo mw-list-item"
+    }
+  },
+  {
+    "node_index": 952,
+    "tag": "li",
+    "text": "ଓଡ଼ିଆ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-or mw-list-item"
+    }
+  },
+  {
+    "node_index": 955,
+    "tag": "li",
+    "text": "Ирон",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-os mw-list-item"
+    }
+  },
+  {
+    "node_index": 958,
+    "tag": "li",
+    "text": "ਪੰਜਾਬੀ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pa mw-list-item"
+    }
+  },
+  {
+    "node_index": 961,
+    "tag": "li",
+    "text": "Pälzisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pfl mw-list-item"
+    }
+  },
+  {
+    "node_index": 964,
+    "tag": "li",
+    "text": "Polski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pl mw-list-item"
+    }
+  },
+  {
+    "node_index": 967,
+    "tag": "li",
+    "text": "Piemontèis",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pms mw-list-item"
+    }
+  },
+  {
+    "node_index": 970,
+    "tag": "li",
+    "text": "پنجابی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pnb mw-list-item"
+    }
+  },
+  {
+    "node_index": 973,
+    "tag": "li",
+    "text": "پښتو",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ps mw-list-item"
+    }
+  },
+  {
+    "node_index": 976,
+    "tag": "li",
+    "text": "Português",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pt mw-list-item"
+    }
+  },
+  {
+    "node_index": 979,
+    "tag": "li",
+    "text": "Runa Simi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-qu mw-list-item"
+    }
+  },
+  {
+    "node_index": 982,
+    "tag": "li",
+    "text": "Română",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ro mw-list-item"
+    }
+  },
+  {
+    "node_index": 985,
+    "tag": "li",
+    "text": "Armãneashti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-roa-rup mw-list-item"
+    }
+  },
+  {
+    "node_index": 988,
+    "tag": "li",
+    "text": "Русский",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ru mw-list-item"
+    }
+  },
+  {
+    "node_index": 991,
+    "tag": "li",
+    "text": "Русиньскый",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-rue mw-list-item"
+    }
+  },
+  {
+    "node_index": 994,
+    "tag": "li",
+    "text": "Ikinyarwanda",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-rw mw-list-item"
+    }
+  },
+  {
+    "node_index": 997,
+    "tag": "li",
+    "text": "संस्कृतम्",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sa mw-list-item"
+    }
+  },
+  {
+    "node_index": 1000,
+    "tag": "li",
+    "text": "Саха тыла",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sah mw-list-item"
+    }
+  },
+  {
+    "node_index": 1003,
+    "tag": "li",
+    "text": "ᱥᱟᱱᱛᱟᱲᱤ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sat mw-list-item"
+    }
+  },
+  {
+    "node_index": 1006,
+    "tag": "li",
+    "text": "Sicilianu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-scn mw-list-item"
+    }
+  },
+  {
+    "node_index": 1009,
+    "tag": "li",
+    "text": "Scots",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sco mw-list-item"
+    }
+  },
+  {
+    "node_index": 1012,
+    "tag": "li",
+    "text": "سنڌي",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sd mw-list-item"
+    }
+  },
+  {
+    "node_index": 1015,
+    "tag": "li",
+    "text": "Srpskohrvatski / српскохрватски",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sh mw-list-item"
+    }
+  },
+  {
+    "node_index": 1018,
+    "tag": "li",
+    "text": "Taclḥit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-shi mw-list-item"
+    }
+  },
+  {
+    "node_index": 1021,
+    "tag": "li",
+    "text": "တႆး",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-shn mw-list-item"
+    }
+  },
+  {
+    "node_index": 1024,
+    "tag": "li",
+    "text": "සිංහල",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-si mw-list-item"
+    }
+  },
+  {
+    "node_index": 1027,
+    "tag": "li",
+    "text": "Simple English",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-simple mw-list-item"
+    }
+  },
+  {
+    "node_index": 1030,
+    "tag": "li",
+    "text": "Slovenčina",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sk mw-list-item"
+    }
+  },
+  {
+    "node_index": 1033,
+    "tag": "li",
+    "text": "Slovenščina",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sl mw-list-item"
+    }
+  },
+  {
+    "node_index": 1036,
+    "tag": "li",
+    "text": "ChiShona",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sn mw-list-item"
+    }
+  },
+  {
+    "node_index": 1039,
+    "tag": "li",
+    "text": "Soomaaliga",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-so mw-list-item"
+    }
+  },
+  {
+    "node_index": 1042,
+    "tag": "li",
+    "text": "Shqip",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sq mw-list-item"
+    }
+  },
+  {
+    "node_index": 1045,
+    "tag": "li",
+    "text": "Српски / srpski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sr mw-list-item"
+    }
+  },
+  {
+    "node_index": 1048,
+    "tag": "li",
+    "text": "Sranantongo",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-srn mw-list-item"
+    }
+  },
+  {
+    "node_index": 1051,
+    "tag": "li",
+    "text": "Sunda",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-su mw-list-item"
+    }
+  },
+  {
+    "node_index": 1054,
+    "tag": "li",
+    "text": "Svenska",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sv mw-list-item"
+    }
+  },
+  {
+    "node_index": 1057,
+    "tag": "li",
+    "text": "Kiswahili",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sw mw-list-item"
+    }
+  },
+  {
+    "node_index": 1060,
+    "tag": "li",
+    "text": "ꠍꠤꠟꠐꠤ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-syl mw-list-item"
+    }
+  },
+  {
+    "node_index": 1063,
+    "tag": "li",
+    "text": "Ślůnski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-szl mw-list-item"
+    }
+  },
+  {
+    "node_index": 1066,
+    "tag": "li",
+    "text": "Sakizaya",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-szy mw-list-item"
+    }
+  },
+  {
+    "node_index": 1069,
+    "tag": "li",
+    "text": "தமிழ்",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ta mw-list-item"
+    }
+  },
+  {
+    "node_index": 1072,
+    "tag": "li",
+    "text": "తెలుగు",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-te mw-list-item"
+    }
+  },
+  {
+    "node_index": 1075,
+    "tag": "li",
+    "text": "Тоҷикӣ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tg mw-list-item"
+    }
+  },
+  {
+    "node_index": 1078,
+    "tag": "li",
+    "text": "ไทย",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-th mw-list-item"
+    }
+  },
+  {
+    "node_index": 1081,
+    "tag": "li",
+    "text": "Türkmençe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tk mw-list-item"
+    }
+  },
+  {
+    "node_index": 1084,
+    "tag": "li",
+    "text": "Tagalog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tl mw-list-item"
+    }
+  },
+  {
+    "node_index": 1087,
+    "tag": "li",
+    "text": "Tolışi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tly mw-list-item"
+    }
+  },
+  {
+    "node_index": 1090,
+    "tag": "li",
+    "text": "Toki pona",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tok mw-list-item"
+    }
+  },
+  {
+    "node_index": 1093,
+    "tag": "li",
+    "text": "Tok Pisin",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tpi mw-list-item"
+    }
+  },
+  {
+    "node_index": 1096,
+    "tag": "li",
+    "text": "Türkçe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tr mw-list-item"
+    }
+  },
+  {
+    "node_index": 1099,
+    "tag": "li",
+    "text": "Татарча / tatarça",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tt mw-list-item"
+    }
+  },
+  {
+    "node_index": 1102,
+    "tag": "li",
+    "text": "Тыва дыл",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tyv mw-list-item"
+    }
+  },
+  {
+    "node_index": 1105,
+    "tag": "li",
+    "text": "ئۇيغۇرچە / Uyghurche",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ug mw-list-item"
+    }
+  },
+  {
+    "node_index": 1108,
+    "tag": "li",
+    "text": "Українська",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-uk badge-Q17437798 badge-goodarticle mw-list-item",
+      "title": "lesenswerter Artikel"
+    }
+  },
+  {
+    "node_index": 1111,
+    "tag": "li",
+    "text": "اردو",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ur mw-list-item"
+    }
+  },
+  {
+    "node_index": 1114,
+    "tag": "li",
+    "text": "Oʻzbekcha / ўзбекча",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-uz mw-list-item"
+    }
+  },
+  {
+    "node_index": 1117,
+    "tag": "li",
+    "text": "Vèneto",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vec mw-list-item"
+    }
+  },
+  {
+    "node_index": 1120,
+    "tag": "li",
+    "text": "Vepsän kel’",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vep mw-list-item"
+    }
+  },
+  {
+    "node_index": 1123,
+    "tag": "li",
+    "text": "Tiếng Việt",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vi mw-list-item"
+    }
+  },
+  {
+    "node_index": 1126,
+    "tag": "li",
+    "text": "Walon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-wa mw-list-item"
+    }
+  },
+  {
+    "node_index": 1129,
+    "tag": "li",
+    "text": "Winaray",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-war mw-list-item"
+    }
+  },
+  {
+    "node_index": 1132,
+    "tag": "li",
+    "text": "吴语",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-wuu mw-list-item"
+    }
+  },
+  {
+    "node_index": 1135,
+    "tag": "li",
+    "text": "მარგალური",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-xmf mw-list-item"
+    }
+  },
+  {
+    "node_index": 1138,
+    "tag": "li",
+    "text": "ייִדיש",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-yi mw-list-item"
+    }
+  },
+  {
+    "node_index": 1141,
+    "tag": "li",
+    "text": "Vahcuengh",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-za mw-list-item"
+    }
+  },
+  {
+    "node_index": 1144,
+    "tag": "li",
+    "text": "Zeêuws",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zea mw-list-item"
+    }
+  },
+  {
+    "node_index": 1147,
+    "tag": "li",
+    "text": "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zgh mw-list-item"
+    }
+  },
+  {
+    "node_index": 1150,
+    "tag": "li",
+    "text": "文言",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh-classical mw-list-item"
+    }
+  },
+  {
+    "node_index": 1153,
+    "tag": "li",
+    "text": "閩南語 / Bân-lâm-gí",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh-min-nan mw-list-item"
+    }
+  },
+  {
+    "node_index": 1156,
+    "tag": "li",
+    "text": "粵語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh-yue mw-list-item"
+    }
+  },
+  {
+    "node_index": 1159,
+    "tag": "li",
+    "text": "中文",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh mw-list-item"
+    }
+  },
+  {
+    "node_index": 1162,
+    "tag": "li",
+    "text": "IsiZulu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zu mw-list-item"
+    }
+  },
+  {
+    "node_index": 1175,
+    "tag": "li",
+    "text": "Artikel",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-nstab-main",
+      "class": "selected mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1178,
+    "tag": "li",
+    "text": "Diskussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-talk",
+      "class": "mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1194,
+    "tag": "li",
+    "text": "Lesen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view",
+      "class": "selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1197,
+    "tag": "li",
+    "text": "Bearbeiten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-ve-edit",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1200,
+    "tag": "li",
+    "text": "Quelltext bearbeiten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit",
+      "class": "collapsible mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1203,
+    "tag": "li",
+    "text": "Versionsgeschichte",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1223,
+    "tag": "li",
+    "text": "Lesen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view-more",
+      "class": "selected mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1227,
+    "tag": "li",
+    "text": "Bearbeiten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-ve-edit-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1231,
+    "tag": "li",
+    "text": "Quelltext bearbeiten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit-more",
+      "class": "collapsible mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1235,
+    "tag": "li",
+    "text": "Versionsgeschichte",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1243,
+    "tag": "li",
+    "text": "Links auf diese Seite",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-whatlinkshere",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1246,
+    "tag": "li",
+    "text": "Änderungen an verlinkten Seiten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-recentchangeslinked",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1249,
+    "tag": "li",
+    "text": "Permanenter Link",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-permalink",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1252,
+    "tag": "li",
+    "text": "Seiten­­informationen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-info",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1255,
+    "tag": "li",
+    "text": "Artikel zitieren",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-cite",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1258,
+    "tag": "li",
+    "text": "Kurzlink",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-urlshortener",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1261,
+    "tag": "li",
+    "text": "Zum Legacy-Parser wechseln",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1268,
+    "tag": "li",
+    "text": "Als PDF herunterladen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-download-as-rl",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1271,
+    "tag": "li",
+    "text": "Druckversion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-print",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1278,
+    "tag": "li",
+    "text": "Abstrakte Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-abstract mw-list-item"
+    }
+  },
+  {
+    "node_index": 1281,
+    "tag": "li",
+    "text": "Commons",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-commons mw-list-item"
+    }
+  },
+  {
+    "node_index": 1284,
+    "tag": "li",
+    "text": "Wikibooks",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikibooks mw-list-item"
+    }
+  },
+  {
+    "node_index": 1287,
+    "tag": "li",
+    "text": "Wikiquote",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikiquote mw-list-item"
+    }
+  },
+  {
+    "node_index": 1290,
+    "tag": "li",
+    "text": "Wikisource",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikisource mw-list-item"
+    }
+  },
+  {
+    "node_index": 1293,
+    "tag": "li",
+    "text": "Wikidata-Datenobjekt",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-wikibase",
+      "class": "wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"
+    }
+  },
+  {
+    "node_index": 1333,
+    "tag": "figcaption",
+    "text": "Tee in einer Schale und Teekanne",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBQ"
+    }
+  },
+  {
+    "node_index": 1338,
+    "tag": "figcaption",
+    "text": "Verschiedene Fermentationsgrade von Tee. Von links nach rechts: grüner, gelber, Oolong- und schwarzer Tee.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwCg"
+    }
+  },
+  {
+    "node_index": 1339,
+    "tag": "p",
+    "text": "Tee (chinesisch 茶, Pinyin chá, IPA (hochchinesisch) [tʂʰɑ˧˥], Jyutping caa4, Pe̍h-ōe-jī tê) bezeichnet ein heißes Aufgussgetränk und Genussmittel, das aus den Blättern und Blattknospen, manchmal auch den Stängeln (Kukicha), der Teepflanze zubereitet wird. Tee enthält je nach aufgebrühtem Pflanzenteil rund 25–75 mg Coffein pro Tasse (250 ml).[1]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwCw"
+    }
+  },
+  {
+    "node_index": 1379,
+    "tag": "p",
+    "text": "Im weiteren Sinne wird als „Tee“ auch ein heißes Aufgussgetränk bezeichnet, das aus Blättern, Knospen, Blüten, Stängeln, Rinden oder auch Wurzeln anderer Pflanzen, insbesondere Kräutern oder Früchten, zubereitet wird.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwGA"
+    }
+  },
+  {
+    "node_index": 1386,
+    "tag": "h2",
+    "text": "Begriff",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Begriff"
+    }
+  },
+  {
+    "node_index": 1398,
+    "tag": "p",
+    "text": "Das Wort Tee wurde laut Eintrag im Deutschen Wörterbuch der Brüder Grimm im 17. Jahrhundert aus dem niederländischen thee ins Deutsche übernommen. Bis zur Rechtschreibreform von 1901 wurde Tee mit th als „Thee“ geschrieben. Die im westlichen Europa üblichen Bezeichnungen Tee, tea, thé usw. stammen von der minnanischen Aussprache des chinesischen Schriftzeichens „茶“ ab, weil diese Länder die Blätter der Teepflanze auf dem Seeweg aus Südchina erhielten. In Ländern, die die Blätter der Teepflanze auf dem Landweg über Nordchina importierten, wie Russland und der Türkei (und damit auch im Großteil der Länder im östlichen bzw. südöstlichen Europa) sowie Persien und Indien, aber auch im seefahrenden Portugal, wurde dagegen das Wort nach der hochchinesischen Aussprache tscha (chinesisch 茶, Pinyin chá; die Aussprache für türkisch çay und russisch чай ist tschai), ursprünglich tschaje (茶葉 / 茶叶, cháyè – „Teeblätter“) übernommen.[2]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwHw"
+    }
+  },
+  {
+    "node_index": 1463,
+    "tag": "p",
+    "text": "Seit dem frühen 18. Jahrhundert wird das Wort Tee auch für den Aufguss aus getrockneten Bestandteilen anderer Pflanzen benutzt und bezeichnet nicht allein Schwarzen und Grünen Tee, sondern auch Kräuter- und Früchtetees. Eine ähnliche Situation herrscht in anderen germanischen Sprachen (zum Beispiel Englisch und Niederländisch). Auch im Türkischen ist çay ein Oberbegriff: siyah çay ‚schwarzer Tee‘, bitki çayı ‚Kräutertee‘ und meyve çayı ‚Früchtetee‘. In vielen anderen Sprachen ist diese Zusammenfassung unterschiedlicher Getränke unter einem Begriff dagegen unbekannt. Im Spanischen ist té nur Schwarztee, alles andere heißt infusión. Ähnlich verhält es sich in Frankreich: thé ist schwarzer oder grüner Tee, Kräutertee dagegen wird tisane (oder infusion) genannt; ein Wort, das manchmal auch im Englischen benutzt wird. In der französischsprachigen Schweiz wiederum wird das Wort thé wie im deutschen Sprachgebrauch auch für Kräuter- und Früchtetee verwendet.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwRg"
+    }
+  },
+  {
+    "node_index": 1506,
+    "tag": "p",
+    "text": "Abweichend vom allgemeinen Sprachgebrauch dürfen laut ISO-Norm 3720 nur Blätter und Aufguss der Teepflanze (Camellia sinensis) als „Tee“ bezeichnet werden. Aufgüsse von Kräutern, Früchten oder Gewürzen gelten nach dieser Norm als „teeähnliche Erzeugnisse“.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwXg"
+    }
+  },
+  {
+    "node_index": 1511,
+    "tag": "h2",
+    "text": "Anbau",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Anbau"
+    }
+  },
+  {
+    "node_index": 1521,
+    "tag": "li",
+    "text": "Blüte einer Teepflanze",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px;",
+      "id": "mwYw"
+    }
+  },
+  {
+    "node_index": 1527,
+    "tag": "li",
+    "text": "Teestrauch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px;",
+      "id": "mwaQ"
+    }
+  },
+  {
+    "node_index": 1533,
+    "tag": "li",
+    "text": "Teeplantage",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 164.66666666667px;",
+      "id": "mwbw"
+    }
+  },
+  {
+    "node_index": 1539,
+    "tag": "p",
+    "text": "Die Teepflanze (Camellia sinensis) war zunächst nur in China bekannt. 1823 wurden in Assam (Indien) wildwachsende Pflanzen entdeckt, die aber längere Zeit nicht richtig identifiziert wurden. Erst ab 1834 wurde diese Art kultiviert und mit anderen Arten gekreuzt. Die Kreuzungen wurden bald auch in anderen für sie geeigneten Regionen gezüchtet und angebaut. Teesträucher lassen sich aus Samen oder aus Stecklingen heranziehen, Letzteres ist heute die Regel. Die Jungpflanzen werden in eigenen nurseries (Aufzuchtbeutel mit guter Muttererde) neun Monate lang sorgfältig gepflegt. Pro Hektar werden 12.000 bis 13.000 Setzlinge benötigt. Danach muss die Pflanze drei bis sechs Jahre weiterwachsen, bis sie zum ersten Mal geerntet werden kann. Der Ertrag eines Hektars ergibt durchschnittlich 1500 kg aufgussfertigen Tee.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwdQ"
+    }
+  },
+  {
+    "node_index": 1547,
+    "tag": "p",
+    "text": "Die „Lebenserwartung“ der indischen Teesträucher beträgt 30 bis 50 Jahre, während die chinesischen Arten bis zu 100 Jahre alt werden können. Die Stecklinge werden aus den Trieben von besonders kräftigen und ertragreichen Mutterpflanzen gewonnen. Wie alle anderen Nutzpflanzen wird auch Tee gezüchtet. Wie alle Kamelien ist auch die Teepflanze bedingt frosthart.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwfA"
+    }
+  },
+  {
+    "node_index": 1555,
+    "tag": "h2",
+    "text": "Wirtschaftliche Bedeutung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Wirtschaftliche_Bedeutung"
+    }
+  },
+  {
+    "node_index": 1566,
+    "tag": "h3",
+    "text": "Die größten Teeproduzenten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Die_größten_Teeproduzenten"
+    }
+  },
+  {
+    "node_index": 1579,
+    "tag": "figcaption",
+    "text": "Teeproduzierende Länder (Jahresproduktion 2022):﻿> 1 000 000 t ﻿100 000 – 1 000 000 t ﻿20 000 – 100 000 t ﻿2 000 – 20 000 t ﻿< 2 000 t",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwhw"
+    }
+  },
+  {
+    "node_index": 1608,
+    "tag": "figcaption",
+    "text": "Teeplantage in der Provinz Zhejiang, China, Mai 1987",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwmg"
+    }
+  },
+  {
+    "node_index": 1612,
+    "tag": "figcaption",
+    "text": "Teeplantage in Malaysia",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwng"
+    }
+  },
+  {
+    "node_index": 1616,
+    "tag": "figcaption",
+    "text": "Europäische Teeplantage auf São Miguel, Azoren",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwog"
+    }
+  },
+  {
+    "node_index": 1619,
+    "tag": "p",
+    "text": "2023 wurden laut der Ernährungs- und Landwirtschaftsorganisation FAO weltweit 32 Mio. t Teeblätter von einer Fläche von 5,3 Mio. ha geerntet. Davon brachten China 49,7 %, Indien 19,7 % und Kenia 8,0 % der Menge ein.[3] Daraus wurden rund 6,7 Millionen Tonnen fertiger Tee produziert.[4]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwpQ"
+    }
+  },
+  {
+    "node_index": 1636,
+    "tag": "p",
+    "text": "Folgende Tabelle gibt eine Übersicht über die zehn größten Produzenten von Teeblättern weltweit, die insgesamt 95,2 % der Erntemenge produzierten.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwtA"
+    }
+  },
+  {
+    "node_index": 1642,
+    "tag": "th",
+    "text": "Rang",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwug"
+    }
+  },
+  {
+    "node_index": 1643,
+    "tag": "th",
+    "text": "Land",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwuw"
+    }
+  },
+  {
+    "node_index": 1644,
+    "tag": "th",
+    "text": "Menge(in t)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwvA"
+    }
+  },
+  {
+    "node_index": 1648,
+    "tag": "td",
+    "text": "1",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwwA"
+    }
+  },
+  {
+    "node_index": 1649,
+    "tag": "td",
+    "text": "China Volksrepublik Volksrepublik China",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwwQ"
+    }
+  },
+  {
+    "node_index": 1656,
+    "tag": "td",
+    "text": "16.000.000",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwxA"
+    }
+  },
+  {
+    "node_index": 1658,
+    "tag": "td",
+    "text": "2",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwxg"
+    }
+  },
+  {
+    "node_index": 1659,
+    "tag": "td",
+    "text": "Indien Indien",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwxw"
+    }
+  },
+  {
+    "node_index": 1666,
+    "tag": "td",
+    "text": "6.343.165",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwyg"
+    }
+  },
+  {
+    "node_index": 1668,
+    "tag": "td",
+    "text": "3",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwzA"
+    }
+  },
+  {
+    "node_index": 1669,
+    "tag": "td",
+    "text": "Kenia Kenia",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwzQ"
+    }
+  },
+  {
+    "node_index": 1676,
+    "tag": "td",
+    "text": "2.577.800",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw0A"
+    }
+  },
+  {
+    "node_index": 1678,
+    "tag": "td",
+    "text": "4",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw0g"
+    }
+  },
+  {
+    "node_index": 1679,
+    "tag": "td",
+    "text": "Sri Lanka Sri Lanka",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mw0w"
+    }
+  },
+  {
+    "node_index": 1686,
+    "tag": "td",
+    "text": "1.433.543",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw1g"
+    }
+  },
+  {
+    "node_index": 1688,
+    "tag": "td",
+    "text": "5",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw2A"
+    }
+  },
+  {
+    "node_index": 1689,
+    "tag": "td",
+    "text": "Turkei Türkei",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mw2Q"
+    }
+  },
+  {
+    "node_index": 1696,
+    "tag": "td",
+    "text": "1.356.556",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw3A"
+    }
+  },
+  {
+    "node_index": 1698,
+    "tag": "td",
+    "text": "6",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw3g"
+    }
+  },
+  {
+    "node_index": 1699,
+    "tag": "td",
+    "text": "Vietnam Vietnam",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mw3w"
+    }
+  },
+  {
+    "node_index": 1706,
+    "tag": "td",
+    "text": "1.125.065",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw4g"
+    }
+  },
+  {
+    "node_index": 1708,
+    "tag": "td",
+    "text": "7",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw5A"
+    }
+  },
+  {
+    "node_index": 1709,
+    "tag": "td",
+    "text": "Indonesien Indonesien",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mw5Q"
+    }
+  },
+  {
+    "node_index": 1716,
+    "tag": "td",
+    "text": "647.000",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw6A"
+    }
+  },
+  {
+    "node_index": 1718,
+    "tag": "td",
+    "text": "8",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw6g"
+    }
+  },
+  {
+    "node_index": 1719,
+    "tag": "td",
+    "text": "Bangladesch Bangladesch",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mw6w"
+    }
+  },
+  {
+    "node_index": 1726,
+    "tag": "td",
+    "text": "406.000",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw7g"
+    }
+  },
+  {
+    "node_index": 1728,
+    "tag": "td",
+    "text": "9",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw8A"
+    }
+  },
+  {
+    "node_index": 1729,
+    "tag": "td",
+    "text": "Uganda Uganda",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mw8Q"
+    }
+  },
+  {
+    "node_index": 1736,
+    "tag": "td",
+    "text": "390.494",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw9A"
+    }
+  },
+  {
+    "node_index": 1738,
+    "tag": "td",
+    "text": "10",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw9g"
+    }
+  },
+  {
+    "node_index": 1739,
+    "tag": "td",
+    "text": "Argentinien Argentinien",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mw9w"
+    }
+  },
+  {
+    "node_index": 1746,
+    "tag": "td",
+    "text": "369.022",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw-g"
+    }
+  },
+  {
+    "node_index": 1748,
+    "tag": "td",
+    "text": "Summe Top Ten",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:center",
+      "colspan": "2",
+      "id": "mw_A"
+    }
+  },
+  {
+    "node_index": 1750,
+    "tag": "td",
+    "text": "30.648.645",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw_g"
+    }
+  },
+  {
+    "node_index": 1753,
+    "tag": "td",
+    "text": "restliche Länder",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:center",
+      "colspan": "2",
+      "id": "mwAQE"
+    }
+  },
+  {
+    "node_index": 1755,
+    "tag": "td",
+    "text": "1.534.142",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAQM"
+    }
+  },
+  {
+    "node_index": 1761,
+    "tag": "h3",
+    "text": "Die größten Tee-Exporteure",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Die_größten_Tee-Exporteure"
+    }
+  },
+  {
+    "node_index": 1771,
+    "tag": "p",
+    "text": "2023 betrug das Exportvolumen weltweit 2.054.461 Tonnen. Die größten Tee-Exporteure waren:[5]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAQg"
+    }
+  },
+  {
+    "node_index": 1778,
+    "tag": "li",
+    "text": "Kenia Kenia mit 559.282 t",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAQ4"
+    }
+  },
+  {
+    "node_index": 1785,
+    "tag": "li",
+    "text": "China Volksrepublik Volksrepublik China mit 367.541 t",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwARE"
+    }
+  },
+  {
+    "node_index": 1792,
+    "tag": "li",
+    "text": "Sri Lanka Sri Lanka mit 238.395 t",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwARQ"
+    }
+  },
+  {
+    "node_index": 1801,
+    "tag": "h3",
+    "text": "Die größten Tee-Importeure",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Die_größten_Tee-Importeure"
+    }
+  },
+  {
+    "node_index": 1811,
+    "tag": "p",
+    "text": "Weltweit waren 2022",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwARg"
+    }
+  },
+  {
+    "node_index": 1813,
+    "tag": "li",
+    "text": "Pakistan Pakistan mit 252.124 t",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwARo"
+    }
+  },
+  {
+    "node_index": 1820,
+    "tag": "li",
+    "text": "Russland Russland mit 138.026 t",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAR0"
+    }
+  },
+  {
+    "node_index": 1828,
+    "tag": "li",
+    "text": "Vereinigte Staaten Vereinigte Staaten mit 119.641 t",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASA"
+    }
+  },
+  {
+    "node_index": 1835,
+    "tag": "p",
+    "text": "die größten Tee-Importeure. Insgesamt lag das Importvolumen 2022 weltweit bei 1.976.446 t.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASM"
+    }
+  },
+  {
+    "node_index": 1836,
+    "tag": "p",
+    "text": "Deutschland importierte in diesem Zeitraum 51.045 t Tee und lag damit auf Platz 10 der Importeure.[5]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASQ"
+    }
+  },
+  {
+    "node_index": 1845,
+    "tag": "h3",
+    "text": "Die größten Teeverbraucher",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Die_größten_Teeverbraucher"
+    }
+  },
+  {
+    "node_index": 1855,
+    "tag": "p",
+    "text": "Pro-Kopf-Absatz von Tee weltweit nach Ländern im Jahr 2022.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASs"
+    }
+  },
+  {
+    "node_index": 1865,
+    "tag": "th",
+    "text": "Rang",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATQ"
+    }
+  },
+  {
+    "node_index": 1866,
+    "tag": "th",
+    "text": "Land",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATU"
+    }
+  },
+  {
+    "node_index": 1867,
+    "tag": "th",
+    "text": "Menge(in kg/Kopf/Jahr)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATY"
+    }
+  },
+  {
+    "node_index": 1870,
+    "tag": "td",
+    "text": "1",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATk"
+    }
+  },
+  {
+    "node_index": 1871,
+    "tag": "td",
+    "text": "Turkei Türkei",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwATo"
+    }
+  },
+  {
+    "node_index": 1878,
+    "tag": "td",
+    "text": "2,79",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAT0"
+    }
+  },
+  {
+    "node_index": 1880,
+    "tag": "td",
+    "text": "2",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAT8"
+    }
+  },
+  {
+    "node_index": 1881,
+    "tag": "td",
+    "text": "Brasilien Brasilien",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAUA"
+    }
+  },
+  {
+    "node_index": 1888,
+    "tag": "td",
+    "text": "2,42",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUM"
+    }
+  },
+  {
+    "node_index": 1890,
+    "tag": "td",
+    "text": "3",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUU"
+    }
+  },
+  {
+    "node_index": 1891,
+    "tag": "td",
+    "text": "China Volksrepublik Volksrepublik China",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAUY"
+    }
+  },
+  {
+    "node_index": 1898,
+    "tag": "td",
+    "text": "1,51",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUk"
+    }
+  },
+  {
+    "node_index": 1900,
+    "tag": "td",
+    "text": "4",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUs"
+    }
+  },
+  {
+    "node_index": 1901,
+    "tag": "td",
+    "text": "Sri Lanka Sri Lanka",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAUw"
+    }
+  },
+  {
+    "node_index": 1908,
+    "tag": "td",
+    "text": "1,39",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAU8"
+    }
+  },
+  {
+    "node_index": 1910,
+    "tag": "td",
+    "text": "5",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVE"
+    }
+  },
+  {
+    "node_index": 1911,
+    "tag": "td",
+    "text": "Singapur Singapur",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAVI"
+    }
+  },
+  {
+    "node_index": 1918,
+    "tag": "td",
+    "text": "1,24",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVU"
+    }
+  },
+  {
+    "node_index": 1920,
+    "tag": "td",
+    "text": "6",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVc"
+    }
+  },
+  {
+    "node_index": 1921,
+    "tag": "td",
+    "text": "Saudi-Arabien Saudi-Arabien",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAVg"
+    }
+  },
+  {
+    "node_index": 1928,
+    "tag": "td",
+    "text": "1,20",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVs"
+    }
+  },
+  {
+    "node_index": 1930,
+    "tag": "td",
+    "text": "7",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAV0"
+    }
+  },
+  {
+    "node_index": 1931,
+    "tag": "td",
+    "text": "Hongkong Hongkong",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAV4"
+    }
+  },
+  {
+    "node_index": 1938,
+    "tag": "td",
+    "text": "1,18",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAWE"
+    }
+  },
+  {
+    "node_index": 1940,
+    "tag": "td",
+    "text": "8",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAWM"
+    }
+  },
+  {
+    "node_index": 1941,
+    "tag": "td",
+    "text": "Malaysia Malaysia",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAWQ"
+    }
+  },
+  {
+    "node_index": 1948,
+    "tag": "td",
+    "text": "1,08",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAWc"
+    }
+  },
+  {
+    "node_index": 1950,
+    "tag": "td",
+    "text": "9",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAWk"
+    }
+  },
+  {
+    "node_index": 1951,
+    "tag": "td",
+    "text": "Vereinigtes Konigreich Vereinigtes Königreich",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAWo"
+    }
+  },
+  {
+    "node_index": 1958,
+    "tag": "td",
+    "text": "1,04",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAW0"
+    }
+  },
+  {
+    "node_index": 1960,
+    "tag": "td",
+    "text": "10",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAW8"
+    }
+  },
+  {
+    "node_index": 1961,
+    "tag": "td",
+    "text": "Agypten Ägypten",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:left",
+      "id": "mwAXA"
+    }
+  },
+  {
+    "node_index": 1968,
+    "tag": "td",
+    "text": "1,02",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAXM"
+    }
+  },
+  {
+    "node_index": 1969,
+    "tag": "p",
+    "text": "In Deutschland lag der Pro-Kopf-Verbrauch in diesem Zeitraum bei ca. 0,69 kg.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAXQ"
+    }
+  },
+  {
+    "node_index": 1973,
+    "tag": "h2",
+    "text": "Herstellung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Herstellung"
+    }
+  },
+  {
+    "node_index": 1984,
+    "tag": "h3",
+    "text": "Traditionelle Herstellung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Traditionelle_Herstellung"
+    }
+  },
+  {
+    "node_index": 1994,
+    "tag": "li",
+    "text": "Withering – das Welken",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 174px;",
+      "id": "mwAXk"
+    }
+  },
+  {
+    "node_index": 2001,
+    "tag": "li",
+    "text": "Rolling – das Rollen",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 150.66666666667px;",
+      "id": "mwAYA"
+    }
+  },
+  {
+    "node_index": 2008,
+    "tag": "li",
+    "text": "Firing – die Trocknung",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 159.33333333333px;",
+      "id": "mwAYc"
+    }
+  },
+  {
+    "node_index": 2015,
+    "tag": "p",
+    "text": "Bei der traditionellen Produktion von Schwarztee, orthodoxe Teeproduktion genannt, durchlaufen die Teeblätter fünf Stufen: das Welken (Withering), damit die Blätter weich und zart werden, das Rollen (Rolling), das Aussieben, die Oxidation und zum Schluss die Trocknung (Firing).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAY4"
+    }
+  },
+  {
+    "node_index": 2023,
+    "tag": "p",
+    "text": "Um die Blätter nach dem Pflücken zu erweichen, wurden sie früher zwei Stunden in die Sonne gelegt. Später verwendete man Welkhürden in speziellen Hallen, in denen eine Temperatur von 20 bis 22 °C herrschte. Der Welkprozess dauerte dann bis zu 24 Stunden. Heute werden meist sogenannte Welktunnel eingesetzt, die die Teeblätter auf Fließbändern durchlaufen. Die Stärke der Welkung wirkt sich (im umgekehrten Verhältnis) auf den Grad der später erzielbaren Oxidation aus.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAZM"
+    }
+  },
+  {
+    "node_index": 2025,
+    "tag": "p",
+    "text": "Das Rollen erfolgt heute maschinell und dauert etwa eine halbe Stunde. Dabei werden die Zellen der Blätter aufgebrochen, so dass ätherische Öle freigesetzt werden. Anschließend werden die Teeblätter nach Qualität sortiert. Bei der Oxidation wird ihnen durch künstlich erzeugte hohe Luftfeuchtigkeit von über 90 % bei genau 22 °C wieder Feuchtigkeit zugeführt, um die chemischen Prozesse in Gang zu setzen. Bei der Oxidation entsteht Wärme, die Temperatur der Blätter wird alle 15 Minuten gemessen und nach Erreichen der Höchsttemperatur von 29 °C durch Trocknung sofort abgebrochen. Wird dieser Zeitpunkt verpasst, haben die Teeblätter kein Aroma mehr und gelten als „verbrannt“. Die Oxidation wird bei der Teeproduktion als Fermentation bezeichnet.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAZU"
+    }
+  },
+  {
+    "node_index": 2032,
+    "tag": "p",
+    "text": "Getrocknet wird in Maschinen mit Hilfe von Heißluft. Bei Ceylon reichen 20 Minuten bei 90 °C, Assam braucht wesentlich länger. Anschließend wird der Tee sofort wieder abgekühlt.[7]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAZw"
+    }
+  },
+  {
+    "node_index": 2040,
+    "tag": "p",
+    "text": "In der Türkei werden für die Herstellung von einem Kilogramm Schwarztee sechs Kilogramm Teeblätter verarbeitet.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAaM"
+    }
+  },
+  {
+    "node_index": 2042,
+    "tag": "p",
+    "text": "Bei Grüntee findet im Unterschied zu Schwarztee keine Oxidation statt. In China und Indien, auf Sri Lanka und Taiwan und jüngst auch in Afrika wird auch halbfermentierter Tee (Oolong) hergestellt.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAaU"
+    }
+  },
+  {
+    "node_index": 2047,
+    "tag": "p",
+    "text": "Einzelne Teeplantagen, in denen besondere Teespezialitäten hergestellt werden, produzieren noch nach alten Methoden, bei denen das Welken an der Sonne geschieht. Gerollt wird von Hand, die Oxidation findet in geflochtenen Körben statt.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAao"
+    }
+  },
+  {
+    "node_index": 2053,
+    "tag": "h3",
+    "text": "CTC-Produktion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "CTC-Produktion"
+    }
+  },
+  {
+    "node_index": 2068,
+    "tag": "p",
+    "text": "CTC steht für Crushing ‚Zerbrechen‘, Tearing ‚Zerreißen‘ und Curling ‚Rollen‘. Bei dieser modernen, in großen Produktionswerken angewandten Methode werden die Teeblätter nach dem Welken in einem Arbeitsgang maschinell zerbrochen, zerrissen und gerollt. Teilweise werden mehrere CTC-Maschinen hintereinander geschaltet, um noch feinere Tee-Pulver zu erhalten. Danach erfolgen Oxidation, Trocknung und Sortierung. Produziert werden nach dieser Methode Tees vor allem für die Verwendung in Teebeuteln.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAa4"
+    }
+  },
+  {
+    "node_index": 2090,
+    "tag": "h2",
+    "text": "Teearten und Teesorten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Teearten_und_Teesorten"
+    }
+  },
+  {
+    "node_index": 2101,
+    "tag": "h3",
+    "text": "Teearten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Teearten"
+    }
+  },
+  {
+    "node_index": 2111,
+    "tag": "li",
+    "text": "Grüner Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 92px;",
+      "id": "mwAbk"
+    }
+  },
+  {
+    "node_index": 2117,
+    "tag": "li",
+    "text": "Oolong – halbfermentiert",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 181.33333333333px;",
+      "id": "mwAb8"
+    }
+  },
+  {
+    "node_index": 2123,
+    "tag": "li",
+    "text": "Weißer Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162.66666666667px;",
+      "id": "mwAcU"
+    }
+  },
+  {
+    "node_index": 2129,
+    "tag": "li",
+    "text": "Chinesischer gelber Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px;",
+      "id": "mwAcs"
+    }
+  },
+  {
+    "node_index": 2135,
+    "tag": "li",
+    "text": "Earl Grey – vollfermentiert",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 182px;",
+      "id": "mwAdE"
+    }
+  },
+  {
+    "node_index": 2141,
+    "tag": "p",
+    "text": "Die ursprüngliche Methode der Bereitung von Teegetränken ist die Verwendung von frischen Teeblättern, die direkt vom Strauch gezupft in heißes Wasser gelegt werden. So zubereitet schmeckt Tee deutlich anders als mit getrockneten Blättern. Frische Teeblätter sind nicht lange lagerfähig, fermentieren von allein oder verderben durch die Tätigkeit unerwünschter Mikroorganismen. Daher wurde die gezielte Fermentation und Trocknung entwickelt, damit der Tee lagerfähig wird. Dabei entstehen je nach Vorgehensweise und Ausgangsmaterial zahlreiche unterschiedliche Geschmacksqualitäten. Heute werden vier traditionelle Formen unterschieden, die sich vor allem im Grad der Oxidation unterscheiden:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAdc"
+    }
+  },
+  {
+    "node_index": 2143,
+    "tag": "li",
+    "text": "Grüner Tee – es erfolgt keine gewollte Oxidation. Bei der traditionellen Herstellung wird der Tee nach der Ernte in Eisenpfannen über dem Feuer gewelkt und dann getrocknet. Bei der industriellen Herstellung geschieht das in großen, gerührten Behältern.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAdk"
+    }
+  },
+  {
+    "node_index": 2145,
+    "tag": "li",
+    "text": "Weißer Tee – wird so genannt, weil die Härchen an der Blattunterseite den getrockneten Teeblättern eine weiß-silberne Farbe geben. Keine gewollte Oxidation. Junge Triebe werden geerntet und getrocknet (wie Heu). Nur Spitzentees eignen sich zur Produktion von weißem Tee.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAds"
+    }
+  },
+  {
+    "node_index": 2147,
+    "tag": "li",
+    "text": "Oolong – wird teilweise oxidiert. Nach der Ernte wird der Tee in Weidenkörben geschüttelt, der austretende Saft reagiert mit dem Sauerstoff der Luft. Dieser Prozess wird durch das Erhitzen in Eisenpfannen gestoppt.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAd0"
+    }
+  },
+  {
+    "node_index": 2151,
+    "tag": "li",
+    "text": "Schwarzer Tee wird in Ostasien als Roter Tee (紅茶, chin. Hóngchá, jap. Kōcha) bezeichnet – komplette Oxidation. Wie Oolong, der Oxidationsprozess wird aber nicht gestoppt. Erst nach längerer Zeit wird der Tee fertig getrocknet.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAeE"
+    }
+  },
+  {
+    "node_index": 2157,
+    "tag": "p",
+    "text": "Neben diesen vier klassischen Herstellungsarten gibt es weitere, weniger verbreitete Spezialitäten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAec"
+    }
+  },
+  {
+    "node_index": 2159,
+    "tag": "li",
+    "text": "Nachvergorener Tee (zum Beispiel der Pu-Erh-Tee) wird in Asien als Schwarztee (黑茶, chin. Hēichá, jap. Kurocha) bezeichnet und ist in der Tat auch wesentlich dunkler in der Farbe als der in Europa getrunkene Schwarztee – in der Tasse sieht er farblich eher aus wie Kaffee. Es handelt sich um einen ehemals grünen bis Oolong-artigen Tee, der im Anschluss über einige Monate bis mehrere Jahre gereift ist.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAek"
+    }
+  },
+  {
+    "node_index": 2165,
+    "tag": "li",
+    "text": "Gelber Tee ist eine nur in China produzierte Spezialität. Es ist ein Tee, der wie weißer Tee geerntet, aber nach der Ernte nicht sofort weiterverarbeitet wird. So findet eine minimale Oxidation statt. Es ist eine der teuersten Tee-Spezialitäten, die erhältlich sind. Manchmal wird er den Grüntees zugeordnet.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAe8"
+    }
+  },
+  {
+    "node_index": 2168,
+    "tag": "li",
+    "text": "Verarbeitungsstufen der sechs Teearten",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 286px;",
+      "id": "mwAfI"
+    }
+  },
+  {
+    "node_index": 2176,
+    "tag": "h3",
+    "text": "Teesorten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Teesorten"
+    }
+  },
+  {
+    "node_index": 2185,
+    "tag": "p",
+    "text": "Den verschiedenen Teearten werden unzählige Teesorten zugeordnet, beispielsweise:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAfk"
+    }
+  },
+  {
+    "node_index": 2187,
+    "tag": "li",
+    "text": "Grüner Tee – Gunpowder, Sencha, Chun Mee, …",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAfs"
+    }
+  },
+  {
+    "node_index": 2192,
+    "tag": "li",
+    "text": "Weißer Tee – Baihao Yinzhen, Pai Mu Dan, …",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAgA"
+    }
+  },
+  {
+    "node_index": 2196,
+    "tag": "li",
+    "text": "Oolong-Tee – Dongding Oolong, Tieguanyin (auch Tikuanyin), …",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAgQ"
+    }
+  },
+  {
+    "node_index": 2199,
+    "tag": "li",
+    "text": "Schwarzer Tee – Darjeeling, Assam, …",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAgc"
+    }
+  },
+  {
+    "node_index": 2203,
+    "tag": "li",
+    "text": "Pu-Erh-Tee – Pu’erh Tuocha, Palace of Pu’erh, …",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAgs"
+    }
+  },
+  {
+    "node_index": 2205,
+    "tag": "li",
+    "text": "Gelber Tee – Junshan Yinzhen, …",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAg0"
+    }
+  },
+  {
+    "node_index": 2207,
+    "tag": "p",
+    "text": "Die in Europa bekanntesten Teesorten sind die nach ihren Anbaugebieten benannten Sorten des Schwarzen Tees Assam, Ceylon und Darjeeling. Tee wird aber noch in vielen anderen Gegenden produziert. Der ostindische Assam-Tee stammt aus dem größten Anbaugebiet der Welt und ist ein typischer Hochlandtee mit kräftigem Aroma. Der herb-kräftige Ceylon wird in Sri Lanka angebaut, dem weltweit drittgrößten Anbaugebiet. Beide Sorten finden sich oft in Teemischungen und sind gegen hartes Wasser unempfindlich. Der zarte, gelbe Darjeeling wächst an den Südhängen des Himalaya rund um die gleichnamige Distrikthauptstadt im nördlichen Westbengalen auf über 2000 m Höhe. Er ist empfindlicher gegen hartes Wasser. Formosa bezeichnet meist grüne oder Oolong-Tees von der Insel Taiwan.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAg8"
+    }
+  },
+  {
+    "node_index": 2220,
+    "tag": "h3",
+    "text": "Sortierung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Sortierung"
+    }
+  },
+  {
+    "node_index": 2229,
+    "tag": "p",
+    "text": "Im Handel sind eine Reihe von Abkürzungen geläufig, die neben der Teesorte auch Auskunft über die Blattgröße geben. Die Blätter werden in der in Indien geläufigen Produktion bei der Produktion über Rüttelsiebe mechanisch nach Größe sortiert. Daraus, aus dem Aussehen der Blätter und aus den Teesorten ergeben sich folgende Bezeichnungen:[8]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAhs"
+    }
+  },
+  {
+    "node_index": 2247,
+    "tag": "li",
+    "text": "Orange – kein Hinweis auf Farbe, sondern auf königliche Qualität (Oranien – oranje)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAiI"
+    }
+  },
+  {
+    "node_index": 2248,
+    "tag": "li",
+    "text": "Pekoe – die zarten jungen Blätter einer Teepflanze (chinesisch: „weißer Flaum“)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAiM"
+    }
+  },
+  {
+    "node_index": 2249,
+    "tag": "li",
+    "text": "Broken – kleinblättrige Tees, im Gegensatz zum ganzen Blatt (englisch: „gebrochen“)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAiQ"
+    }
+  },
+  {
+    "node_index": 2250,
+    "tag": "li",
+    "text": "Fannings – kleine Teepartikel (~ 1 mm), ausschließlich für Teebeutel",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAiU"
+    }
+  },
+  {
+    "node_index": 2252,
+    "tag": "li",
+    "text": "Dust – „Teestaub“, ausschließlich für Teebeutel",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAic"
+    }
+  },
+  {
+    "node_index": 2253,
+    "tag": "li",
+    "text": "Tippy/Tip – Blattspitzen zarter, junger Teeblätter, die sich beim Aufguss nicht so dunkel färben",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAig"
+    }
+  },
+  {
+    "node_index": 2254,
+    "tag": "li",
+    "text": "Einwurf – Stängel oder Teeholz (werden teilweise mitverwendet)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAik"
+    }
+  },
+  {
+    "node_index": 2255,
+    "tag": "li",
+    "text": "Clonal – Teeblätter, die von „Clones“ gepflückt werden (von Teepflanzen, die nicht aus Samen gezogen, sondern durch Stecklinge vermehrt wurden)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAio"
+    }
+  },
+  {
+    "node_index": 2257,
+    "tag": "li",
+    "text": "Infusion – Teeblätter nach dem Aufgießen[9]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAiw"
+    }
+  },
+  {
+    "node_index": 2275,
+    "tag": "li",
+    "text": "FOP – Flowery Orange Pekoe: einfache Gradierung für indische Tees",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjM"
+    }
+  },
+  {
+    "node_index": 2276,
+    "tag": "li",
+    "text": "GFOP – Golden Flowery Orange Pekoe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjQ"
+    }
+  },
+  {
+    "node_index": 2277,
+    "tag": "li",
+    "text": "OP – Orange Pekoe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjU"
+    }
+  },
+  {
+    "node_index": 2278,
+    "tag": "li",
+    "text": "P – Pekoe (als Ceylontee auch unter der Bezeichnung BOPI, kugelförmiges Blatt)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjY"
+    }
+  },
+  {
+    "node_index": 2279,
+    "tag": "li",
+    "text": "TGFOP – Tippy Golden Flowery Orange Pekoe: Hauptgrad für Darjeeling und Assam",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjc"
+    }
+  },
+  {
+    "node_index": 2280,
+    "tag": "li",
+    "text": "FTGFOP1 – Finest Tippy Golden Flowery Orange Pekoe 1: hauptsächlich Darjeeling; gleichmäßiges Blatt, tippy, feinste Gradierung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjg"
+    }
+  },
+  {
+    "node_index": 2294,
+    "tag": "li",
+    "text": "BOP – Broken Orange Pekoe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjs"
+    }
+  },
+  {
+    "node_index": 2295,
+    "tag": "li",
+    "text": "BOPF – Broken Orange Pekoe Fannings",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAjw"
+    }
+  },
+  {
+    "node_index": 2296,
+    "tag": "li",
+    "text": "BP – Broken Pekoe (geschnitten)",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAj0"
+    }
+  },
+  {
+    "node_index": 2297,
+    "tag": "li",
+    "text": "BPS – Broken Pekoe Souchong",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAj4"
+    }
+  },
+  {
+    "node_index": 2298,
+    "tag": "li",
+    "text": "FBOP – Flowery Broken Orange Pekoe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAj8"
+    }
+  },
+  {
+    "node_index": 2299,
+    "tag": "li",
+    "text": "FBOPF – Flowery Broken Orange Pekoe Fannings",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAkA"
+    }
+  },
+  {
+    "node_index": 2300,
+    "tag": "li",
+    "text": "OF – Orange Fannings",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAkE"
+    }
+  },
+  {
+    "node_index": 2301,
+    "tag": "li",
+    "text": "PF – Pekoe Fannings",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAkI"
+    }
+  },
+  {
+    "node_index": 2314,
+    "tag": "li",
+    "text": "BP – Broken Pekoe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAkU"
+    }
+  },
+  {
+    "node_index": 2315,
+    "tag": "li",
+    "text": "CTC BOP – CTC Broken Orange Pekoe bieten ein einheitliches Blatt und einen schnell färbenden Aufguss",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAkY"
+    }
+  },
+  {
+    "node_index": 2316,
+    "tag": "li",
+    "text": "PD – Pekoe Dust",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAkc"
+    }
+  },
+  {
+    "node_index": 2317,
+    "tag": "li",
+    "text": "PF – Pekoe Fannings",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAkg"
+    }
+  },
+  {
+    "node_index": 2320,
+    "tag": "h3",
+    "text": "Aromatisierter Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Aromatisierter_Tee"
+    }
+  },
+  {
+    "node_index": 2330,
+    "tag": "li",
+    "text": "Rosentee",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 121.33333333333px;",
+      "id": "mwAks"
+    }
+  },
+  {
+    "node_index": 2336,
+    "tag": "li",
+    "text": "Jasmintee",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 133.33333333333px;",
+      "id": "mwAlE"
+    }
+  },
+  {
+    "node_index": 2342,
+    "tag": "p",
+    "text": "Aromatisierte Tees findet man in zwei Ausprägungen. Die klassischen aromatisierten Tees kommen aus China. Grüntee oder eine Mischung aus Grün- und Schwarztee wird durch Zugabe von frischen Blüten aromatisiert. Die Blüten werden regelmäßig abgesiebt und wieder durch frische Blüten ersetzt, bis das gewünschte Aroma erreicht ist. Die bekanntesten Varianten sind Rosentee und Jasmintee, deren Handelsformen oft noch Blütenreste enthalten.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAlc"
+    }
+  },
+  {
+    "node_index": 2344,
+    "tag": "p",
+    "text": "Großer Beliebtheit erfreuen sich in Europa aromatisierte Schwarz- oder Grüntees. Dabei wird der Tee mit unterschiedlichen natürlichen Aromen angereichert. Bekannte Geschmacksrichtungen sind Fruchtaromen wie Kirsche oder Maracuja, Vanille und andere Gewürze wie Anis, Zimt oder Zitrusaromen wie Orange, Zitrone, auch Bergamotte. Letztere ist in einem der ältesten Aromatees – dem Earl Grey – enthalten.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAlk"
+    }
+  },
+  {
+    "node_index": 2354,
+    "tag": "p",
+    "text": "Angeboten wird auch Tee mit industriell hergestellten naturidentischen Aromen wie Mandel, Bratapfel, Schokolade, Pfefferminz, Erdbeere. Bei vielen dieser aromatisierten Sorten spielt die Qualität des verwendeten Tees eine untergeordnete Rolle, da er nur als Trägermaterial des Aromastoffs benötigt wird.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAmM"
+    }
+  },
+  {
+    "node_index": 2357,
+    "tag": "h3",
+    "text": "Rauchtee und Rösttee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Rauchtee_und_Rösttee"
+    }
+  },
+  {
+    "node_index": 2367,
+    "tag": "p",
+    "text": "Unter Rauchtee versteht man eine Teesorte, bei der die Blätter beim Trocknen im Rauch von harzreichem Holz geräuchert werden. Dadurch bekommt der Tee ein besonderes Aroma mit einer kräftig rauchigen Note und einen intensiven Duft. Am weitesten verbreitet ist heute die Sorte Lapsang Souchong. Aber auch in russischen Mischungen und Karawanen-Mischungen, die den stark rauchigen Tee nur anteilig enthalten, findet er Anwendung. Diese Sorten eignen sich gut zu Brotzeiten. In reiner Form kann er auch zum Kochen als salzfreie Alternative zum Rauchsalz verwendet werden.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAmU"
+    }
+  },
+  {
+    "node_index": 2371,
+    "tag": "p",
+    "text": "Die rauchige Note ist sehr alt und dürfte bei allen Sorten mit Schnelltrocknung vorgekommen sein, bevor es gelang, heißen Luftstrom ohne Rauchbeimischung zu erzeugen. Die Bezeichnung Karawanen-Mischung geht auf eine Transportweise des Tees zurück. Die verbreitete Ansicht, der Tee hätte sein Raucharoma erst durch die nächtlichen Lagerfeuer der Beduinen bekommen, ist unbestätigt. Viele rauchige Teesorten stammen aus Regionen mit ehemals Holzfeuertrocknung und der europäische Teehandel basierte fast ausschließlich auf dem Wasserweg.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAmk"
+    }
+  },
+  {
+    "node_index": 2373,
+    "tag": "p",
+    "text": "Unter Rösttee versteht man meist grünen Tee, der nicht nur kurz, sondern bei hohen Temperaturen so lange in einer Pfanne bei 280–300 °C geröstet wird, bis die Fermentation gestoppt ist. Dabei nehmen die Blätter eine braune Farbe an. Der Tee hat eine milde malzige oder nussige Geschmacksnote und eine braune Tassenfarbe. Durch das Rösten verliert der Tee fast alles Koffein und die Bitterstoffe. Ein Beispiel für Rösttee ist die Teesorte Hōjicha.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAms"
+    }
+  },
+  {
+    "node_index": 2377,
+    "tag": "h2",
+    "text": "Qualitäten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Qualitäten"
+    }
+  },
+  {
+    "node_index": 2388,
+    "tag": "li",
+    "text": "Orange Pekoe mit Milch und Zucker",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px;",
+      "id": "mwAm8"
+    }
+  },
+  {
+    "node_index": 2394,
+    "tag": "p",
+    "text": "Bei der Qualitätseinstufung von Tee aus den Regionen mit Jahreszeiten gibt es zwei Klassifizierungen, zum einen nach der Ernteperiode, zum anderen nach der Qualität der Blätter. Die Blütezeit wird auch engl. als Flush bezeichnet. Die erste Ernte im Frühjahr liefert sehr kleine Blätter und wird als First Flush bezeichnet, die zweite Ernte im Mai als Second Flush. Die Ernte zwischen der First Flush-Periode und der Second Flush-Periode nennt man „in between“. Die Ernte nach der Second Flush-Pflückung nennt man „Autumnal“, die sogenannte „Herbstpflückung“. „In between“ und „Autumnal“ erreichen selten die Qualität der First- und Second Flush-Tees und sind meistens preisgünstiger. In allen Teeanbaugebieten in Äquatornähe (wie in Kenya, Sri Lanka) wird wegen der fehlenden Jahreszeiten alle vierzehn Tage geerntet. Die Qualität hängt von der Lage des Anbaugebietes, der Auswahl der Blätter neben der Knospe, dem Zeitpunkt der Ernte (in oder außerhalb der Regenzeiten), der Sorgfalt in der Verarbeitung und der Kunst des „teamakers“ ab.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAnU"
+    }
+  },
+  {
+    "node_index": 2397,
+    "tag": "p",
+    "text": "Die Qualität der Blätter richtet sich nach ihrer Stellung am Zweig. Die Knospen an der Spitze werden als Flowery Orange Pekoe bezeichnet, das darunterstehende als Orange Pekoe, das dritte als Pekoe, die weiteren Blätter als Souchong. Das Wort Pekoe stammt aus dem Chinesischen und bedeutet „weißer Flaum“, nämlich den Flaum der Teeknospen. Der Begriff „Orange“ bezieht sich auf das Königshaus von Oranien und bedeutet so viel wie „königlich“. Der Koffeingehalt von Orange Pekoe beträgt vier Prozent, der von Pekoe und Souchong ist geringer.[10]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAng"
+    }
+  },
+  {
+    "node_index": 2412,
+    "tag": "p",
+    "text": "Tee wird im Handel in Blatt-Tee (Pekoe), „gebrochener“ Tee (Broken Pekoe), Fannings und „Staub“ (Dust) eingeteilt. Tees mit kleinen Blattgradierungen geben wegen ihrer größeren Oberfläche bei gleicher Menge Broken- oder Blatt-Tee mehr Aroma in kürzerer Zeit in das Wasser ab; vom Blattgrad allein kann jedoch nicht auf die Qualität geschlossen werden.[11] Entscheidend für die Qualitätseinstufung sind Größe, Form und Farbe.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAoY"
+    }
+  },
+  {
+    "node_index": 2429,
+    "tag": "p",
+    "text": "Unter den Schwarztees entwickeln Spitzengewächse aus kühlen Hochlandlagen von 1000–2500 m, beispielsweise aus der Region um Darjeeling (Südhänge des Himalajas), besonders feine Aromen.[12]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwApQ"
+    }
+  },
+  {
+    "node_index": 2437,
+    "tag": "p",
+    "text": "Für grünen Tee gibt es eigene Qualitätsbezeichnungen. Man unterscheidet Gunpowder, Chun-Mee, Natural Leaf und Matcha. Gunpowder (dt. Schießpulver) kommt aus der ersten Pflückung im Frühjahr, bei der die jungen Blätter zu kleinen Kügelchen gerollt werden, daher die Bezeichnung. Chun-Mee entspricht dem Flowery Orange Pekoe bei Schwarztee. Natural Leaf sind ganze Blätter, die sehr mild im Geschmack sind. Matcha ist der zu Pulver zerriebene Grüntee, wie ihn die Japaner verwenden. Er ist ausgesprochen bitter.[13]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAps"
+    }
+  },
+  {
+    "node_index": 2453,
+    "tag": "p",
+    "text": "Einige Tee-Händler bieten Flugtee an, der frisch aus den Anbauregionen eingeflogen wird. Besonders hochwertige Tees, bei denen die Frische für den Geschmack wichtig ist, können so schon kurze Zeit nach der Ernte in Europa angeboten werden. Eingeflogen werden zum Beispiel First Flush aus Darjeeling oder Grüner Tee aus Japan wie Kabusecha oder Gyokuro. Flugtees aus Japan werden mit der Bezeichnung Shincha versehen.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAqo"
+    }
+  },
+  {
+    "node_index": 2462,
+    "tag": "h3",
+    "text": "Schadstoffe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Schadstoffe"
+    }
+  },
+  {
+    "node_index": 2471,
+    "tag": "p",
+    "text": "Das Verbrauchermagazin „Öko-Test“ hat im Herbst 2023 24 Schwarzteesorten im Labor untersuchen lassen. Nur an zwei der untersuchten Tees gab es nichts zu beanstanden. Mit „gut“ schnitten insgesamt vier Teesorten ab. Bei allen handelt es sich um Bioprodukte. Die konventionellen Tees erhielten bestenfalls die Note „befriedigend“, fünf schnitten sogar mit „ungenügend“ ab. Manche enthielten „einen ganzen Cocktail an Pestiziden“. In jedem konventionellen Tee fand das Labor geringe Spuren verschiedener Pestizide sowie das Schädlings- und Unkrautbekämpfungsmittel Glyphosat.[14]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwArI"
+    }
+  },
+  {
+    "node_index": 2483,
+    "tag": "h2",
+    "text": "Handelsformen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Handelsformen"
+    }
+  },
+  {
+    "node_index": 2493,
+    "tag": "li",
+    "text": "Loser Tee in einer Blechdose",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 128.66666666667px;",
+      "id": "mwAr0"
+    }
+  },
+  {
+    "node_index": 2499,
+    "tag": "li",
+    "text": "Portionierter Tee im Beutel",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px;",
+      "id": "mwAsM"
+    }
+  },
+  {
+    "node_index": 2505,
+    "tag": "li",
+    "text": "Gepresster Tee in Ziegelform",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px;",
+      "id": "mwAsk"
+    }
+  },
+  {
+    "node_index": 2511,
+    "tag": "p",
+    "text": "Je nach Teekultur und Verbrauchergewohnheiten wird Tee in verschiedenen Darbietungsformen gehandelt, die unabhängig von den Arten und Sorten sind.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAs8"
+    }
+  },
+  {
+    "node_index": 2514,
+    "tag": "h3",
+    "text": "Loser Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Loser_Tee"
+    }
+  },
+  {
+    "node_index": 2523,
+    "tag": "p",
+    "text": "Als losen Tee bezeichnet man nichtportionierten Tee, der entweder aus ganzen und gebrochenen Blättern und Knospen, aber auch Stielen bestehen kann oder zu Pulver gemahlen ist. Loser Tee wird entweder direkt in Brühgefäße oder in einen Filter individuell portioniert.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAtE"
+    }
+  },
+  {
+    "node_index": 2527,
+    "tag": "h3",
+    "text": "Portionierter Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Portionierter_Tee"
+    }
+  },
+  {
+    "node_index": 2536,
+    "tag": "p",
+    "text": "Als portionierten Tee bezeichnet man Tee, der in Beuteln, Pads, Kapseln oder Tee-Sticks abgepackt in den Handel gelangt. Die Größe der Portion reicht von einer Tasse bis zum Kännchen.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAtQ"
+    }
+  },
+  {
+    "node_index": 2540,
+    "tag": "h3",
+    "text": "Gepresster Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Gepresster_Tee"
+    }
+  },
+  {
+    "node_index": 2549,
+    "tag": "p",
+    "text": "Gepresster Tee besteht aus trockenen, gemahlenen Blättern, die zu Barren (Ziegeltee), Stangen, Kugeln, Halbkugeln oder Kuchenform (Teekuchen, englisch tea cakes) gepresst werden. Teeziegel wurden aber auch als Tauschmittel verwendet. Sie sind die traditionelle Handelsform von Pu'erh-Tee. Zum Verbrauch werden Teile aus der Form gebrochen oder, bei kleineren Formen, diese im Ganzen überbrüht. Geschmacklich unterscheidet sich das Getränk nicht oder nur geringfügig von dem anderer Trockenformen.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAtc"
+    }
+  },
+  {
+    "node_index": 2559,
+    "tag": "h2",
+    "text": "Teezubereitung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Teezubereitung"
+    }
+  },
+  {
+    "node_index": 2569,
+    "tag": "li",
+    "text": "Regional verschiedene Teezubereitung",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerycaption",
+      "id": "mwAt8"
+    }
+  },
+  {
+    "node_index": 2570,
+    "tag": "li",
+    "text": "Grüner Tee in Sahel – stark gezuckert",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 92px;",
+      "id": "mwAuA"
+    }
+  },
+  {
+    "node_index": 2577,
+    "tag": "li",
+    "text": "Ostfriesentee mit Sahne",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 128.66666666667px;",
+      "id": "mwAuc"
+    }
+  },
+  {
+    "node_index": 2584,
+    "tag": "li",
+    "text": "Grüner Tee im Teefilter",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px;",
+      "id": "mwAu4"
+    }
+  },
+  {
+    "node_index": 2591,
+    "tag": "li",
+    "text": "Oolongteeblätter in Gaiwan",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 92px;",
+      "id": "mwAvU"
+    }
+  },
+  {
+    "node_index": 2599,
+    "tag": "li",
+    "text": "Speziell präparierte Teeblätter als Teebündel vor …",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 122px;",
+      "id": "mwAv0"
+    }
+  },
+  {
+    "node_index": 2606,
+    "tag": "li",
+    "text": "… und nach dem Aufgießen (Teerose)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 122px;",
+      "id": "mwAwQ"
+    }
+  },
+  {
+    "node_index": 2614,
+    "tag": "p",
+    "text": "Bei der Zubereitung des Teegetränks gibt es regional sehr verschiedene Varianten, die deutliche geschmackliche Unterschiede erzeugen. Welche Methode bevorzugt wird, hängt von der verfügbaren Form des Tees und den mit Handel oder Herstellung verbreiteten traditionellen Gewohnheiten und geschmacklichen Vorlieben der Bevölkerung ab. Ähnlich wie bei Kakao und Kaffee wurden in Kontinentaleuropa oft die Gewohnheiten der Nationen übernommen, die den Ausgangsstoff in den Handel brachten. Beim Tee wird in West- und Mitteleuropa fast ausschließlich die sogenannte englische Zubereitung verwendet, eine Methode, die während der britischen Kolonialzeit gemeinsam mit dem gehandelten Tee verbreitet wurde. In Süd- und Osteuropa treten orientalische Einflüsse hinzu oder lösen die englische Zubereitung ab. In ehemaligen Kolonialländern inklusive Nordamerika ist die englische Zubereitung ebenfalls verbreitet. Kulturen ohne koloniale Vergangenheit oder mit eigenem Teeanbau haben in der Regel eigenständige Zubereitungsformen.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAww"
+    }
+  },
+  {
+    "node_index": 2620,
+    "tag": "h3",
+    "text": "Brühvorgang",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Brühvorgang"
+    }
+  },
+  {
+    "node_index": 2630,
+    "tag": "p",
+    "text": "Kräftige Schwarztees werden fast immer mit sprudelnd kochendem Wasser aufgegossen; bei Grüntees und halbfermentierten Tees sowie feinen Schwarztees (First Flush Darjeelings etwa) können Temperaturen von 65 bis 90° C bevorzugt werden, was die Inhaltsstoffe und den Geschmack besser erhält. Manche japanischen Grüntees werden mit nur 50° C und auch darunter aufgebrüht. Bei der englischen Zubereitung wird immer heiß aufgebrüht, niemals gekocht. Tee gibt aber viele seiner Inhaltsstoffe auch in kaltem Wasser und auch in Alkohol frei (Teelikör), wobei die chemischen Prozesse jedoch langsamer ablaufen und zu einem stark vom gewohnten Geschmack abweichenden Ergebnis führen. Die Chinesische Medizin kennt zahlreiche Verwendungsformen dafür, deren Nutzen jedoch nicht bestätigt ist. Nach vorherrschender Auffassung entstehen unabhängig von der Brühtemperatur gewöhnliche Teegetränke, die sich geschmacklich unterscheiden. Auch traditionelle Rezepte für Eistee brühen Tee zunächst heiß auf, um ihn später abzukühlen.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAxE"
+    }
+  },
+  {
+    "node_index": 2636,
+    "tag": "p",
+    "text": "Die Ziehdauer, während der die Teeblätter im Wasser verbleiben sollen, lässt sich nicht einheitlich angeben und liegt sortenabhängig in einem Bereich zwischen 20 Sekunden und 5 Minuten. Je nach Dauer wirkt der Tee unterschiedlich stark anregend, wobei es verschiedene Theorien zur ziehzeitabhängigen Wirkung auf den Menschen gibt. Als gesichert gilt, dass das Koffein von Anfang an in Lösung geht, verschiedene andere Stoffe aber erst nach 2–3 Minuten. Inwiefern der Tee allerdings nach mehr als 2 Minuten Ziehzeit beruhigend oder nur weniger anregend wirkt, ist noch nicht vollends geklärt, da sich hier verschiedene Effekte ergänzen. So wandeln die sich langsam lösenden Polyphenole das Koffein in eine wasserunlösliche Form um, mit steigender Ziehzeit sinkt also der Anteil an physiologisch wirksamem Koffein. Aber auch die Aminosäure Theanin, die eine beruhigende Wirkung besitzt, löst sich erst nach einigen Minuten im Tee.[15][16] Welcher der Effekte überwiegt, ist noch nicht ausreichend erforscht. In einer Glaskanne kann man die Veränderungen des Tees beobachten. Man wird feststellen, dass einige Blätter am Boden, andere an der Oberfläche schwimmen. Irgendwann beginnen die oberen Blätter ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAxc"
+    }
+  },
+  {
+    "node_index": 2653,
+    "tag": "p",
+    "text": "Soll der Tee stark anregend sein, können kurzzeitige Brühungen mit vielen Teeblättern verwendet werden. Die typischen starken Frühstücksmischungen mit geringer Blattgröße (große Oberfläche) sind auf diese Verwendung ausgelegt. Die Herstellung eines Teegetränks in umfunktionierten Kaffeemaschinen (Teemaschinen, vor allem Nordamerika) löst bei Durchlaufbrühung vor allem das Koffein. Die maschinelle Brühung führt aus verschiedenen Gründen zu starken geschmacklichen Verfremdungen, darunter die gleichzeitige Verwendung verschiedener Sorten in derselben Maschine sowie technisch bedingte Probleme bei der Reinigung. Teemaschinen haben in Deutschland einen geringen Absatz, der Tageskonsum von Tee ist gering.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAyY"
+    }
+  },
+  {
+    "node_index": 2658,
+    "tag": "h3",
+    "text": "Zubereitungsvarianten",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Zubereitungsvarianten"
+    }
+  },
+  {
+    "node_index": 2667,
+    "tag": "p",
+    "text": "Grüner Tee wird meist pur getrunken, eine bekannte Ausnahme ist der marokkanische Pfefferminztee auf der Basis von grünem Gunpowder, dem reichlich Zucker zugesetzt wird. Zum Schwarztee werden in verschiedenen Regionen traditionell verschiedene Zusätze in den Tee gegeben, so in England und Indien Milch (besonders bei aromatisierten Tees wie Earl Grey oder indischem Chai), in Ostfriesland Sahne, in der Mongolei und vor allem Tibet Butter und Salz, in Russland und Georgien auch Marmelade, Gelees oder in Sirup eingelegte Früchte. Die ursprünglich aus Russland stammende Zugabe von Zitrone oder Zitronenschale wird auch von einigen Teetrinkern in Westeuropa geschätzt. Am weitesten verbreitet ist die Zugabe der Süßungsmittel Zucker und Honig. Weißer Kandiszucker oder brauner Rohrzucker, auch brauner Kandis gelten als besonders geeignet. Letztere werden hauptsächlich für Kräutertee oder aromatisierten Tee benutzt.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAyo"
+    }
+  },
+  {
+    "node_index": 2678,
+    "tag": "p",
+    "text": "Mit der in der Türkei gebräuchlichen zweiteiligen Teekanne (Çaydanlık) kann der Tee je nach Geschmack als dünner (açık çay) oder starker Tee (demli çay) serviert werden.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAzU"
+    }
+  },
+  {
+    "node_index": 2681,
+    "tag": "p",
+    "text": "In Deutschland bildete sich nur in Ostfriesland eine eigene Teekultur. Hier trinkt man traditionell starken Tee (vor allem den in Ostfriesland abgefüllten Ostfriesentee) mit flüssiger Sahne sowie Kluntjes. Traditionell wird dieser nicht umgerührt, sodass der Geschmack sich von bitter bis süß-sahnig ändert.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAzg"
+    }
+  },
+  {
+    "node_index": 2686,
+    "tag": "p",
+    "text": "Auch der kalte Aufguss von Tee ist zunehmend beliebter. Hier sind vor allem zwei Methoden der Zubereitung bekannt. Bei einem klassischen Eistee wird der Tee zunächst mit kochendem Wasser überbrüht und dann abgekühlt. Schließlich kann dieser zum Beispiel mit Fruchtsäften gesüßt und auf Eiswürfeln serviert werden. Im Gegensatz dazu zieht der Tee im Cold Brew-Verfahren hingegen mit kaltem Wasser. Diese Methode sollte aufgrund potenzieller Verunreinigungen nicht bei Früchte- und Kräutertees Verwendung finden.[17]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAz0"
+    }
+  },
+  {
+    "node_index": 2695,
+    "tag": "h3",
+    "text": "Wasserhärte",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Wasserhärte"
+    }
+  },
+  {
+    "node_index": 2706,
+    "tag": "p",
+    "text": "Allgemein wird weiches Wasser bevorzugt. Bei den heutigen hohen Wasserstandards kann in Deutschland fast überall Leitungswasser verwendet werden. Bei Beeinträchtigungen durch Kalk oder Chlor kommen mitunter Wasserfilter zum Einsatz. Auch handelsübliches abgepacktes Wasser wird verwendet. Mineralhaltiges Wasser führt zu einer rascheren Trübung und geschmacklichen Veränderung des Getränks. Der Verbrauch von Teeblättern steigt mit der Wasserhärte, wobei sich allerdings auch durch großzügigere Verwendung die geschmacklichen Einflüsse der gelösten Mineralien nicht kompensieren lassen. In Regionen mit sehr kalkreichem Wasser bildet sich auf dem Tee ein Film und der Geschmack wird mitunter als minderwertig empfunden. Das gilt vor allem für weniger gerbsäurehaltige Teesorten wie Darjeeling, während zum Beispiel Assam oder Ceylon weniger empfindlich auf hartes Wasser reagieren.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA0Q"
+    }
+  },
+  {
+    "node_index": 2714,
+    "tag": "h3",
+    "text": "Teegeschirr",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Teegeschirr"
+    }
+  },
+  {
+    "node_index": 2724,
+    "tag": "li",
+    "text": "Japanischer Wasserkessel (Tetsubin) aus emailliertem Gusseisen",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 111.33333333333px;",
+      "id": "mwA0w"
+    }
+  },
+  {
+    "node_index": 2731,
+    "tag": "li",
+    "text": "Türkisches Teegeschirr mit zweiteiliger Kanne Çaydanlık und Teegläsern",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 92px;",
+      "id": "mwA1M"
+    }
+  },
+  {
+    "node_index": 2738,
+    "tag": "li",
+    "text": "Englisches Holzkästchen zur Aufbewahrung von Tee",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 159.33333333333px;",
+      "id": "mwA1o"
+    }
+  },
+  {
+    "node_index": 2744,
+    "tag": "p",
+    "text": "In fast allen Kulturen wird Tee in speziellen Behältern zubereitet, in Kannen, Töpfen, größeren Keramik- und auch Holzgefäßen, die oft kulturtypische Formen aufweisen und vielerorts zum Kunsthandwerk zählen. Getrunken wird der Tee aus kleineren Trinkgefäßen, wie Schalen (Koppchen), Tassen und Bechern.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA2A"
+    }
+  },
+  {
+    "node_index": 2750,
+    "tag": "p",
+    "text": "Tee wird in China in Kannen aus Porzellan oder unglasiertem Ton aufgegossen, beispielsweise in Tonkannen aus Yixing, oder in Deckelschalen (Gaiwan). In Japan sind Porzellan- und Tonkannen mit seitlichem Griff (Kyūsu) gebräuchlich. In beiden Ländern wird Tee traditionell aus Schalen (Chawan) getrunken. Pulverisierter Grüntee (Matcha) wird in eigens zu diesem Zweck angefertigten größeren Schalen aufgebrüht und aus diesen getrunken. Bei der englischen Zubereitung werden meist eine Teekanne und Teetassen verwendet, die zu einem Service gehören, aber auch die Tassen- und Becherbrühung ohne Kanne ist gebräuchlich, die unter anderem in der Gastronomie dominiert. Beim Militär oder auf Expeditionen wird Tee oft mithilfe von leichterem Metall- oder Kunststoffgeschirr zubereitet.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA2Y"
+    }
+  },
+  {
+    "node_index": 2757,
+    "tag": "p",
+    "text": "In jedem Fall gilt für jedes Teegetränk, dass eine Abkühlung zu geschmacklichen Veränderungen und Trübungen führt, die nicht durch erneutes Aufwärmen rückgängig gemacht werden können. Die Trübungen bestehen aus Mineralien, Gerbstoffen, Ölen, Koffein und anderen Substanzen, die chemisch komplex miteinander reagieren und eine massive Veränderung der Zusammensetzung des Getränks bewirken. In heiß gehaltenem Tee treten sie später und in anderen Reihenfolgen auf, führen aber spätestens nach zwei bis sechs Stunden zu deutlichen Veränderungen. Teegeschirr ist oft auf gute Wärmespeicherung ausgelegt, die Kannen sind annähernd kugelförmig. Das Warmhalten ist bei großvolumigen Teekannen mit Deckel leichter, die auch oft mit kochendem Wasser vorgewärmt werden. Sie bestehen wie Kaffeekannen aus Porzellan und anderen keramischen Materialien oder Glas, auch Edelstahl, Gusseisen, emailliertes Blech oder Messing sind verbreitet. Zur Warmhaltung kommen oft Teewärmer, Teelichte und Stövchen zum Einsatz.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA20"
+    }
+  },
+  {
+    "node_index": 2763,
+    "tag": "p",
+    "text": "Für die Massenversorgung kann Tee in Kesseln gekocht werden, die durch ihr großes Volumen langsamer abkühlen. Am empfindlichsten reagiert tassengebrühter Tee (Teebeutel), der unmittelbar nach Erreichen der Trinktemperatur verzehrt wird.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA3M"
+    }
+  },
+  {
+    "node_index": 2765,
+    "tag": "p",
+    "text": "Tee ist ein aromatisches Getränk und hinterlässt geschmackliche Spuren im Behälter. Insbesondere Behälter aus porösem Material (unglasierte Tonware) können Geschmacksstoffe aufnehmen und später wieder an den Inhalt abgeben. Deshalb werden solche Behältnisse oft ausschließlich für die Zubereitung für Tee, manchmal auch nur zur Zubereitung einer speziellen Sorte, verwendet. Teilweise ist dieser Effekt gewollt und es wird empfohlen, die Teekanne nur sporadisch zu reinigen. Glatte Oberflächen wie bei Teegeschirr aus Porzellan ermöglichen eine bessere Reinigung, so dass dieser geschmacksverändernde Effekt nicht auftritt. Bei Behältern aus Metall kann es zur Abgabe eines „metallischen“ Geschmacks an den Tee kommen.[18]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA3U"
+    }
+  },
+  {
+    "node_index": 2774,
+    "tag": "h3",
+    "text": "Lagerung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Lagerung"
+    }
+  },
+  {
+    "node_index": 2783,
+    "tag": "p",
+    "text": "Tee ist aromaempfindlich, er verändert sein Aroma bei unsachgemäßer Lagerung und nimmt auch Fremdgerüche schnell an. Deshalb werden Teeblätter oft in geschlossenen Behältern kühl, dunkel und trocken aufbewahrt. Optimal (weil arm an Luft-Depots), wenn auch nicht so ästhetisch wie edle Dosen, sind fest zugerollte Teetüten. Bei der Verwendung von Dosen kommt es schneller zu Alterungseffekten: Die aromagebenden ätherischen Öle schwinden und der Teegeschmack wirkt muffiger. Nach Anbruch sollte Tee in ungefähr zehn Wochen verbraucht werden. In ungeöffneten Packungen gilt er hingegen bis zu drei Jahre nach der Ernte als frisch. Trockener Tee ist fast unbegrenzt lagerfähig, sofern die alterungsbedingten geschmacklichen Veränderungen hingenommen werden. Auch der Koffeingehalt verändert sich durch die Lagerung praktisch nicht.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA3w"
+    }
+  },
+  {
+    "node_index": 2784,
+    "tag": "p",
+    "text": "Tee wird oft getrennt von allen Arten Gewürzen, Aromen und Küchengerüchen aufbewahrt, gelegentlich in kleinen Schränkchen oder einer Truhe. Auch aufsteigender Dampf vom Herd oder Spülbecken schadet dem Teearoma.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA30"
+    }
+  },
+  {
+    "node_index": 2788,
+    "tag": "h3",
+    "text": "Dosierung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Dosierung"
+    }
+  },
+  {
+    "node_index": 2797,
+    "tag": "p",
+    "text": "Bei der englischen Zubereitung wird vergleichsweise weniger Teeblatt verwendet als bei vielen anderen Zubereitungsformen. Der Tee wird dabei gut ausgenutzt. Nur die Verwendung von Teestäuben ist effizienter. Allgemein kann pro Tasse ungefähr mit zwei Gramm Teeblättern gerechnet werden, bei Schwarztee ist das etwa ein Teelöffel, der als ungefähres Volumenmaß hier seinen Namen erhielt. Die ideale Menge hängt von der verwendeten Teesorte, vom Wasser, vom Erntejahr des Tees und vom persönlichen Geschmack ab.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA4A"
+    }
+  },
+  {
+    "node_index": 2802,
+    "tag": "h2",
+    "text": "Geschichte",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Geschichte"
+    }
+  },
+  {
+    "node_index": 2812,
+    "tag": "li",
+    "text": "Tee-Unterricht – 課茶圖, Qing-Zeit (1644–1912)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 156px;",
+      "id": "mwA4U"
+    }
+  },
+  {
+    "node_index": 2821,
+    "tag": "li",
+    "text": "Im japanischen Teehaus, Ende der Edo-Zeit (1867)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 190.66666666667px;",
+      "id": "mwA44"
+    }
+  },
+  {
+    "node_index": 2829,
+    "tag": "li",
+    "text": "Die Teetrinkerin, J.S.Chardin (18. Jh)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 155.33333333333px;",
+      "id": "mwA5Y"
+    }
+  },
+  {
+    "node_index": 2839,
+    "tag": "h3",
+    "text": "China",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "China"
+    }
+  },
+  {
+    "node_index": 2856,
+    "tag": "h3",
+    "text": "Europa",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Europa"
+    }
+  },
+  {
+    "node_index": 2865,
+    "tag": "p",
+    "text": "Der Tee aus der Teepflanze kam im Zusammenhang des aufblühenden Indienhandels Anfang des 17. Jahrhunderts nach Europa. Im Jahr 1610 brachte die Niederländische Ostindien-Kompanie per Schiff zum ersten Mal eine Ladung grünen Tee mit in die Niederlande. Sie hatte zu diesem Zeitpunkt das europäische Monopol für den Handel mit Asien. Da sie keinen direkten Zugang zu China hatte, führte sie den Tee über Java ein. Ab 1637 nahm jedes holländische Schiff vom Handelsstützpunkt Batavia (heute Jakarta) aus einige Kisten chinesischen und japanischen Tee mit an Bord. 1644 lieferten die Holländer die ersten 100 Pfund Tee nach England aus. 1669 ging das Handelsmonopol an die Britische Ostindien-Kompanie, die bis 1833 das Monopol für den Chinahandel innehatte. Der Seeweg von Asien nach England dauerte damals rund sechs bis neun Monate, was die Qualität des Tees verminderte, der in muffigen Laderäumen gelagert wurde. Auf dem Landweg brachte Wassili Storkow 1618 erstmals Tee nach Russland als Geschenk für den Zaren. Der Weg führte über die Mongolei. Der sogenannte Karawanentee galt als qualitativ hochwertiger als der per Schiff beförderte.[19][20]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA6E"
+    }
+  },
+  {
+    "node_index": 2886,
+    "tag": "p",
+    "text": "Es gab in Europa zunächst unterschiedliche Auffassungen darüber, ob Tee gesundheitsfördernd oder schädlich sei. Die Befürworter setzten sich jedoch durch. Der eifrigste und bekannteste Fürsprecher des neuen Getränks war der holländische Arzt Cornelius Bontekoe, der 1679 eine umfangreiche Abhandlung dazu veröffentlichte. Darin riet er der Bevölkerung, täglich so große Mengen Tee zu trinken, wie die Nieren ausscheiden könnten. Kranke sollten nach entsprechender Gewöhnung bis zu 200 Tassen pro Tag trinken. Für Kulturhistoriker gilt als erwiesen, dass Bontekoe für seine Teepropaganda von der Holländisch-Ostindischen Kompanie bezahlt wurde und wahrscheinlich sogar in deren Auftrag schrieb.[21] Schon in der Oeconomischen Encyclopädie von Johann Georg Krünitz war zu lesen: „Die Holländische Kompagnie, der es wesentlich daran lag, diesen mit so vielen Kosten herbeigeschafften Artikel nicht in ihren Magazinen liegen zu lassen, verschaffte sich gute Lobredner des Thees, zu diesen gehörte ganz besonders DrCornelius Bontekoe […]. Die Holländische Ostindische Kompagnie ließ dem Verfasser für sein Werk eine bedeutende Summe auszahlen […].“[22]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA7Q"
+    }
+  },
+  {
+    "node_index": 2901,
+    "tag": "p",
+    "text": "Am englischen Hof wurde der Tee 1662 durch Katharina von Braganza eingeführt; sie gilt allgemein als Begründerin der britischen Teekultur, die sich zunächst innerhalb des Adels ausbreitete. 1717 eröffnete Thomas Twining das erste Teegeschäft in London. Eine weitere Neuerung waren „Teegärten“, Parks mit beleuchteten Gehwegen, Musikpavillons und Verkaufsständen für Tee und kleine Speisen. Als erste Anlage dieser Art eröffnete 1732 Vauxhall Gardens.[23]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA8E"
+    }
+  },
+  {
+    "node_index": 2911,
+    "tag": "p",
+    "text": "Mitte des 18. Jahrhunderts kam der Tee von den Niederlanden aus nach Deutschland, zunächst nach Ostfriesland, wo sich eine eigene Teekultur entwickelte. 1743 wurde in Hannover, das damals zur britischen Krone gehörte, das erste Teegeschäft Deutschlands eröffnet, das bis heute existiert (Tee-Seeger). Versuche des preußischen Königs Friedrich II., den Teekonsum 1778 zu verbieten, blieben erfolglos. Als Großbritannien 1780 eine Handelssperre über die Niederlande verhängte, ließen sich viele niederländische Kaufleute in Ostfriesland nieder, 300 niederländische Handelsschiffe fuhren nun unter ostfriesischer Flagge. Das führte zu wachsender Popularität des Tees vor allem in Norddeutschland. In den Literarischen Salons kam Tee in Mode und man traf sich zu Teegesellschaften.[19]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA8o"
+    }
+  },
+  {
+    "node_index": 2923,
+    "tag": "p",
+    "text": "Nach dem Ende des britischen Handelsmonopols für China im Jahr 1834 und der Aufhebung der Navigationsakte 1849, die festgelegt hatte, dass nur britische Schiffe Waren aus Übersee nach Großbritannien liefern durften, beteiligten sich auch andere Nationen am Teehandel, darunter Deutschland und die USA. Auf Grund der Konkurrenzsituation versuchten die Reedereien die Reisedauer durch moderne Schiffe zu verkürzen und es entstanden die sogenannten Klipper. Durch die Öffnung des Suezkanals 1866 dauerte der Seeweg von Asien nach Großbritannien nur noch 100 Tage. Kurz darauf wurden die Segelschiffe durch die schnelleren Dampfschiffe abgelöst. Gleichzeitig wurde der britische Teehandel unabhängig von China, da seit 1860 Tee auf Ceylon, dem heutigen Sri Lanka, angebaut wurde.[19]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA9U"
+    }
+  },
+  {
+    "node_index": 2935,
+    "tag": "p",
+    "text": "Das europäische Interesse an den Tee(haus)kulturen und Teezeremonien der Herkunftsländer führt erst im 20. Jahrhundert zu breiteren Auseinandersetzungen. Der Japaner Kakuzō Okakura schrieb 1906 sein Book of Tea (New York 1906, dt: 1922) in der Absicht, über eine Beschreibung der Teekultur Verständnis für die Kultur seiner Heimat in der westlichen Welt zu vermitteln. 1924 erschien Otto Schleinkofers Der Tee mit großer Faltkarte der Tee-Distrikte in Ost-Asien. Das Werk wurde nach dem Krieg im Osten und Westen fortgesetzt. In der DDR befasste sich die Warenkunde des Tees mit Fragen der maschinellen Ernte in Kolchosen in Georgien.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA-A"
+    }
+  },
+  {
+    "node_index": 2939,
+    "tag": "p",
+    "text": "Der Teeanbau in Georgien fing Ende des 19. Jahrhunderts im Südwesten des Landes in und um Batumi an.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA-Q"
+    }
+  },
+  {
+    "node_index": 2944,
+    "tag": "figcaption",
+    "text": "Schweizer Teegarten auf dem Monte Verità",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA-k"
+    }
+  },
+  {
+    "node_index": 2946,
+    "tag": "p",
+    "text": "Erste Versuche, die Teepflanze auch in der Türkei anzubauen, gehen bis in die 1920er Jahre zurück. Der erste Anbau fand im Jahre 1937 in Rize statt.[24] Heute wird die Teepflanze im Nordosten der Türkei entlang der Schwarzmeerküste angebaut. Im Jahre 2012 betrug die Teepflanzenernte in der Türkei 1,25 Mio. Tonnen. Davon stammen durchschnittlich 66 % aus der Provinz Rize, 20 % aus der Provinz Trabzon, 11 % aus der Provinz Artvin und die restlichen 3 % aus den Provinzen Giresun und Ordu.[25][26]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwA-s"
+    }
+  },
+  {
+    "node_index": 2971,
+    "tag": "p",
+    "text": "In Europa wird Tee auf der Azoreninsel São Miguel und nahe Truro in Cornwall in England angebaut.[27] Die östlichsten Teeplantagen Europas finden sich nahe Sotschi an der Schwarzmeerküste.[28] Die „grösste Teeplantage der Schweiz“ befindet sich auf dem Monte Verità bei Ascona. 13 Personen betreiben auch dank einem Förderverein in diesem ersten Teegarten der Schweiz ein Tee-Kompetenzzentrum. 2005 waren die ersten Sträucher gepflanzt worden.[29]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBAE"
+    }
+  },
+  {
+    "node_index": 2995,
+    "tag": "h2",
+    "text": "Teekulturen",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Teekulturen"
+    }
+  },
+  {
+    "node_index": 3031,
+    "tag": "h3",
+    "text": "Asien",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Asien"
+    }
+  },
+  {
+    "node_index": 3040,
+    "tag": "p",
+    "text": "In Korea, Japan, Vietnam und China verwendet man keine Siebe oder Beutel, sondern gießt das heiße Wasser direkt zu dem Tee in die Kanne oder Tasse. Die nassen, in der Regel unzerkleinerten Teeblätter sind schwerer als das Wasser und setzen sich am Grund des Gefäßes ab. Der Tee kann so problemlos oben abgegossen bzw. abgetrunken werden. Ebenfalls in Benutzung sind Siebeinsätze in der Kanne, welche die Teeblätter zurückhalten sollen. Dabei wird der Tee bis zu dreimal aufgegossen, bevor man neue Teeblätter verwendet. Nach dem ersten Aufguss zu wechseln, gilt als ein Zeichen von Dekadenz. Auch das Süßen des Tees ist in diesen Ländern unüblich. In China bildeten sich mit dem Gōngfu Cháyì und in Japan mit dem Sadō unterschiedliche Teekulturen aus.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBBg"
+    }
+  },
+  {
+    "node_index": 3050,
+    "tag": "p",
+    "text": "In Indien wurde Tee erst im 19. Jahrhundert auf Betreiben der britischen Kolonialmacht angebaut. Das Land wurde aber schnell zu einem bedeutenden Hersteller, da der Tee großflächig angebaut wurde, was auch den Eigenkonsum ermöglichte. Tee wird heute an vielen kleinen Ständen entlang der Straßen angeboten und in der Regel nicht aufgebrüht, sondern aus billigem Assamtee zusammen mit Gewürzen und Milch aufgekocht. Dieser Tee heißt Masala Chai, meist einfach als chai bezeichnet. Häufig enthalten sind Zimt, Kardamom, Ingwer, Pfeffer und Gewürznelken, jeweils in Stücken. Die Zusammensetzung variiert je nach Rezept und Region. Stangenzimt wird in Indien oft an Stelle eines Löffels zum Umrühren von diesen oder anderen Teezubereitungen verwendet. In Südindien wird auch heute noch eher Kaffee als Tee getrunken, und letzterer zumeist ohne Gewürze.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBCI"
+    }
+  },
+  {
+    "node_index": 3059,
+    "tag": "p",
+    "text": "In Tibet wird Buttertee (Po cha oder Sutschia) getrunken; das ist ein salziger Schwarztee mit Butter von Yak-Kühen (Dris), der in einem Rohr zubereitet wird. Er ähnelt im Geschmack eher einer dünnen Suppe, was für Nicht-Tibeter gewöhnungsbedürftig ist. Buttertee führt dem Körper durch das viele Fett reichlich Energie zu und hilft damit an kalten Tagen die Körpertemperatur zu halten.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBCs"
+    }
+  },
+  {
+    "node_index": 3064,
+    "tag": "p",
+    "text": "In Ländern wie Thailand wird zum Tee häufig Kaffeeweißer (non-dairy creamer) anstelle von Milch gereicht, wegen der Laktoseintoleranz der Bevölkerung. In Malaysia gibt es sowohl die chinesische als auch die indische Teekultur, hier hat im 20. Jahrhundert auch Eistee eine große Bedeutung gewonnen.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBDA"
+    }
+  },
+  {
+    "node_index": 3072,
+    "tag": "h3",
+    "text": "Russland",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Russland"
+    }
+  },
+  {
+    "node_index": 3081,
+    "tag": "p",
+    "text": "Nach Russland kam der Tee im 17. Jahrhundert aus der Mongolei. Das Getränk wurde zunächst am Hof des Zaren und von den Bojaren getrunken, 1670 war es in Moskau und in Nischni Nowgorod allgemein verbreitet, nicht jedoch im übrigen Russischen Reich. Deshalb erhielten die Einwohner Moskaus den Spitznamen „Teetrinker“ oder auch abfällig „Wassersäufer“. Erst im 19. Jahrhundert wurde Tee in ganz Russland zu einem Alltagsgetränk.[30]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBDc"
+    }
+  },
+  {
+    "node_index": 3094,
+    "tag": "p",
+    "text": "Russischer Tee wird in einem kleinen Kännchen zu einem Sud, der Sawarka, einem Konzentrat, verkocht. Mit heißem Wasser aus einem Samowar wird dieser Sud aus dem Kännchen dann in der eigenen Tasse bzw. dem eigenen Glas dann zum individuellen Teegetränk verdünnt. Der Sud ist bis zu sechs Stunden haltbar; allerdings führt bereits eine leichte Abkühlung zu einer deutlichen Trübung und geschmacklicher Veränderung, sobald der Sud mit heißem Wasser verdünnt wird. Der Sud ist stark tanninhaltig und schmeckt bitter. Als Süßungsmittel wird dazu oft löffelweise Marmelade gelutscht. Ähnlich wie in der arabischen Teekultur gilt der Tee insgesamt als Süßgetränk.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBEM"
+    }
+  },
+  {
+    "node_index": 3098,
+    "tag": "p",
+    "text": "Wie bei allen Sudverfahren, müssen die Teeblätter vorher in mehreren Durchgängen mit heißem Wasser aus dem Samowar „gewaschen“ werden. Manchmal wird auch kaltes Wasser verwendet. Die Waschungen müssen zeitlich rasch hintereinander und mit einer kurzen Zugzeit erfolgen. Ohne diesen Vorgang wird der Sud unbrauchbar und trübe. Das hängt mit mehreren Faktoren zusammen. Zum einen ist dieser Tee oft staubig, zum anderen werden bei der Waschung leicht lösliche oberflächlich eingelagerte Stoffe ausgespült, die die komplexen Vorgänge bei der Trübung beschleunigen würden. Das abgegossene Wasser ist allerdings glasklar, da der Staub noch nicht gequollen ist. Nach der letzten Waschung wird der Sud mit heißem Wasser angesetzt. Gleichzeitig wird das Wasser im Samowar nachgefüllt und etwa 20–30 Minuten lang am Kochen gehalten. Aufsteigender Dampf umströmt die Kanne mit dem Sud und hält ihn heiß. Ist der Tee trinkfertig, wird die Temperatur im Samowar auf ein leichtes Köcheln gesenkt und gehalten. Soll ständig frischer Tee verfügbar sein, muss das zwei- bis dreimal täglich gemacht werden. Diese Prozedur war vor der Erfindung des elektrisch betriebenen Samowars bei Holzfeuerung überaus aufwendig un",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBEY"
+    }
+  },
+  {
+    "node_index": 3100,
+    "tag": "p",
+    "text": "Außerhalb des russischen Kerngebiets gibt es jedoch zahlreiche Varianten der Teezubereitung ohne Samowar. Bei den Mongolen erinnert die Zubereitung an die der Tibetischen Teekultur. Hier wird grüner Ziegeltee (eine Trockenpressform) zerkleinert, mit Wasser aufgekocht und dann mit Milch und Yak-, Rinds- oder Schafsfett, etwas geröstetem Mehl und Reis oder Weizen vermischt und mit etwas Salz abgeschmeckt. Diese Mischung wird 10 bis 15 Minuten gekocht und hat Ähnlichkeit mit einer Suppe. In Georgien wird die trockene Teekanne erhitzt, dann kommen die Teeblätter hinein und kurz darauf heißes Wasser; der Tee zieht wenige Minuten.[31]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBEg"
+    }
+  },
+  {
+    "node_index": 3114,
+    "tag": "h3",
+    "text": "Ostfriesische Zubereitung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Ostfriesische_Zubereitung"
+    }
+  },
+  {
+    "node_index": 3131,
+    "tag": "h3",
+    "text": "Britische Zubereitung",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Britische_Zubereitung"
+    }
+  },
+  {
+    "node_index": 3148,
+    "tag": "h3",
+    "text": "Orient",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Orient"
+    }
+  },
+  {
+    "node_index": 3157,
+    "tag": "p",
+    "text": "Ein ähnliches Zubereitungssystem wie beim Samowar stellt der in orientalischen Ländern beliebte Çaydanlık dar. Auch dieser Tee muss gewaschen werden, um die sonst sicher eintretenden Trübungen und geschmackliche Verfremdungen zu vermeiden. Der Verbrauch von Teeblättern ist auf die Tasse gerechnet sehr hoch. Er wird oft sehr stark getrunken und extrem gezuckert. Beimischungen von Zitrone und Milchprodukten sind unüblich. Orientalischer Schwarztee, der oft in der etwas preisgünstigeren Kilopackung angeboten wird, eignet sich nicht für die englische Zubereitungsform. Das Ansetzen des Suds erfordert Übung. Kenner orientalischen Tees können am Geschmack erkennen, ob die Waschungen richtig durchgeführt wurden bzw. was gegebenenfalls falsch gemacht wurde.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBFg"
+    }
+  },
+  {
+    "node_index": 3161,
+    "tag": "h2",
+    "text": "Gesundheitliche Aspekte",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Gesundheitliche_Aspekte"
+    }
+  },
+  {
+    "node_index": 3173,
+    "tag": "figcaption",
+    "text": "Chemische Strukturformel von Coffein",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBF4"
+    }
+  },
+  {
+    "node_index": 3174,
+    "tag": "p",
+    "text": "Die Blätter von grünem und schwarzem Tee enthalten Koffein, wobei der Koffeingehalt von Teeblättern mit bis zu fünf Prozent wesentlich höher ist als bei Kaffeebohnen (mit etwa einem Prozent). Tee wird jedoch mit mehr Wasser aufgegossen als Kaffee, sodass trinkfertiger Tee nur einen relativ mäßigen Gehalt an Koffein besitzt. Zieht der Tee länger, so gehen Gerbstoffe über, die Koffein binden. Dieser Komplex wird im Magen wieder aufgespalten. Dadurch wird das Koffein langsamer vom Organismus resorbiert. Koffein löst sich in Wasser schneller als die Gerbstoffe. Ein Aufguss von rund drei Minuten hat eine eher anregende Wirkung, bei rund fünf Minuten wird der Tee bitterer und die anregende Wirkung setzt verzögert und schwächer ein.[32] Der hohe Polyphenolanteil in Tee kann die Aufnahme von Eisen aus pflanzlichen Lebensmitteln behindern.[10] Die Annahme, übermäßiges Teetrinken könne daher zu Eisenmangel führen, lässt sich in Studien nicht belegen, lediglich bei bestehender Blutarmut kann eine leichte Verschlechterung auftreten[33]. Ein positiver Einfluss auf das Risiko koronarer Herzerkrankungen war bei drei oder mehr Tassen Tee pro Tag messbar.[33]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBF8"
+    }
+  },
+  {
+    "node_index": 3202,
+    "tag": "p",
+    "text": "Seit den 1990er Jahren wurde der grüne Tee in westlichen Ländern zum Modegetränk. Er erwarb sich den Ruf, gesünder zu sein als Schwarztee. Beide Typen unterscheiden sich durch die Fermentation nach der Ernte. Auch bei schwarzem Tee sind antioxidativ wirkende Flavonoide enthalten. Durch die Fermentation sind jedoch einige Flavonoide miteinander verbunden, die im Körper teilweise wieder gespalten werden. Letztlich nimmt der Körper aus grünem und schwarzem Tee gleiche Mengen und Arten der Flavonoide auf.[34] So ist es nicht belegbar, dass grüner Tee aus gesundheitlichen Gründen zu bevorzugen sei.[35][36]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBHc"
+    }
+  },
+  {
+    "node_index": 3219,
+    "tag": "p",
+    "text": "Grüner Tee enthält (je nach Anbauort und Verarbeitungsweise in unterschiedlichen Mengen) neben antioxidativ wirkenden Phenolen auch Magnesium, Mangan, Kalium, Zink und Kupfer, die als Spurenelemente gesundheitsfördernd sind.[37]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBIU"
+    }
+  },
+  {
+    "node_index": 3225,
+    "tag": "p",
+    "text": "Die im Schwarztee und insbesondere im grünen Tee enthaltenen Polyphenole und Fluoride senken das Risiko für Zahnkaries.[38] Das unter anderem im Grünen Tee enthaltene Catechin ist in der Lage, Symptome von Zahnfleischerkrankungen zu verringern.[39]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBIo"
+    }
+  },
+  {
+    "node_index": 3241,
+    "tag": "p",
+    "text": "Wird Tee mit hartem Wasser gekocht, scheidet sich nach einiger Zeit auf der Oberfläche eine dünne Haut ab. Die kristallin erscheinende Schicht heißt Teestein oder Teehaut. Sie entsteht, wenn die Gerbstoffe des Tees mit Magnesium- und Calciumionen des harten Wassers reagieren und an der Oberfläche ausgefällt werden. Gesundheitlich ist sie völlig unbedenklich.[40] Manche Teetrinker schätzen sie nicht, denn die Teehaut ist ein Indikator für hartes Wasser, und dieses ist für die Entfaltung eines guten Teegeschmacks schlechter geeignet. Zudem lagert sie sich auch in Tassen und Teekanne ab.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBJg"
+    }
+  },
+  {
+    "node_index": 3251,
+    "tag": "p",
+    "text": "Die Art wie der Tee konsumiert wird, könnte ebenfalls eine Rolle spielen – der Konsum von Tees aus Teebeuteln etwa ist mit deutlich höheren Werten an Ewigkeitschemikalien (PFAS) im Blut verbunden.[41][42] In Teebeuteln selbst wurden PFAS ebenfalls gefunden.[43]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBKE"
+    }
+  },
+  {
+    "node_index": 3271,
+    "tag": "h2",
+    "text": "Siehe auch",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Siehe_auch"
+    }
+  },
+  {
+    "node_index": 3281,
+    "tag": "li",
+    "text": "Teerose (Tee) – Kunstvoll zusammengebundene Teeblätter, die ebenfalls aufgebrüht werden.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBLI"
+    }
+  },
+  {
+    "node_index": 3283,
+    "tag": "li",
+    "text": "Teeroute – Verschiedene asiatische Handelswege, zwischen dem 7. und 20. Jahrhundert",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBLQ"
+    }
+  },
+  {
+    "node_index": 3285,
+    "tag": "li",
+    "text": "Teeglossar",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBLY"
+    }
+  },
+  {
+    "node_index": 3287,
+    "tag": "li",
+    "text": "Kombucha",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBLg"
+    }
+  },
+  {
+    "node_index": 3289,
+    "tag": "li",
+    "text": "Mate",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBLo"
+    }
+  },
+  {
+    "node_index": 3291,
+    "tag": "li",
+    "text": "Gerstentee",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBLw"
+    }
+  },
+  {
+    "node_index": 3293,
+    "tag": "li",
+    "text": "Tee-Ei",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBL4"
+    }
+  },
+  {
+    "node_index": 3297,
+    "tag": "h2",
+    "text": "Literatur",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Literatur"
+    }
+  },
+  {
+    "node_index": 3307,
+    "tag": "li",
+    "text": "Hans G. Adrian, Rolf L. Temming, Arend Vollers: Das Teebuch. Geschichte und Geschichten. Anbau, Herstellung und Rezepte. VMA, Wiesbaden 1990, ISBN 3-928127-01-2 (Lizenzausgabe der Originalausgabe bei Bucher, München Luzern 1983, ISBN 3-7658-0421-5).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBMI"
+    }
+  },
+  {
+    "node_index": 3311,
+    "tag": "li",
+    "text": "Aleíjos [Pseudonym für Alex Pontvik]: Grüne Wunderdroge Tee. 4. Neuauflage. Braumüller, Wien 1998, ISBN 3-7003-1217-2 (1. Auflage 1977, Guter Überblick, etwas trocken geschrieben, alte Quellenlage, sehr fragwürdiger letzter Teil mit einer Polemik gegen fermentierten Tee).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBMY"
+    }
+  },
+  {
+    "node_index": 3314,
+    "tag": "li",
+    "text": "Hans-Bernd Böttger: Teelexikon – Das Nachschlagewerk für alle Teetrinker. Pro Business Verlag, Berlin, 2010, ISBN 978-3-86805-788-1.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBMk"
+    }
+  },
+  {
+    "node_index": 3317,
+    "tag": "li",
+    "text": "George L. van Driem: The Tale of Tea. A Comprehensive History of Tea from Prehistoric Times to the Present Day. Brill, Leiden/Boston 2019, ISBN 978-90-04-38625-9.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBMw"
+    }
+  },
+  {
+    "node_index": 3320,
+    "tag": "li",
+    "text": "Andreas Gruschke: Tee. Süßer Tau des Himmels. DTV, München 2001, ISBN 3-423-36242-1.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBM8"
+    }
+  },
+  {
+    "node_index": 3324,
+    "tag": "li",
+    "text": "Hellmut Grösser: Tee für Wissensdurstige. Verlag Albrecht, Gräfelfing 2000, ISBN 3-87014-003-8.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBNM"
+    }
+  },
+  {
+    "node_index": 3327,
+    "tag": "li",
+    "text": "Henry Hobhouse: Sechs Pflanzen verändern die Welt. Chinarinde, Zuckerrohr, Tee, Baumwolle, Kartoffel, Kokastrauch. 4. Auflage. Klett-Cotta, Hamburg 2001, ISBN 3-608-91024-7.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBNY"
+    }
+  },
+  {
+    "node_index": 3330,
+    "tag": "li",
+    "text": "Martin Krieger: Geschichte des Tees. Anbau, Handel und globale Genusskulturen. Böhlau, Wien/Köln 2021, ISBN 978-3-412-52204-9.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBNk"
+    }
+  },
+  {
+    "node_index": 3334,
+    "tag": "li",
+    "text": "Ernst Janssen: Janssens Tee Almanach. Hübner, Lehrte 2009, ISBN 978-3-927359-85-7.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBN0"
+    }
+  },
+  {
+    "node_index": 3337,
+    "tag": "li",
+    "text": "Li-Hong Koblin, Sabine H. Weber-Loewe: Teezeit. Drachenhaus Verlag, Esslingen 2017, ISBN 978-3-943314-37-3.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBOA"
+    }
+  },
+  {
+    "node_index": 3340,
+    "tag": "li",
+    "text": "Annerose Menninger: Genuss im kulturellen Wandel. 2. Auflage. Franz Steiner Verlag, Stuttgart 2008, ISBN 978-3-515-09179-4.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBOM"
+    }
+  },
+  {
+    "node_index": 3343,
+    "tag": "li",
+    "text": "Jane Pettigrew: Tee. Benedikt Taschen Verlag, Köln 1998, ISBN 3-8228-7595-3 (Nachdruck. Gondrom Verlag, 2002, ISBN 3-8112-1701-1).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBOY"
+    }
+  },
+  {
+    "node_index": 3347,
+    "tag": "li",
+    "text": "James Norwood Pratt: Tea Dictionary. Tea Society. D. Shah & R. Sutodiy, San Francisco (CA) 2010, ISBN 978-0-9826241-1-1 (Sehr umfangreiches, englischsprachiges Tee-Lexikon).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBOo"
+    }
+  },
+  {
+    "node_index": 3350,
+    "tag": "li",
+    "text": "James Norwood Pratt: Tee für Genießer. Vom Geist in der Tasse. Edition Spuren, Winterthur 2002, ISBN 3-9521966-5-7 (Deutsche Übersetzung des New Tea Lover’s Treasury. 1999).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBO0"
+    }
+  },
+  {
+    "node_index": 3354,
+    "tag": "li",
+    "text": "Stephan Reimertz: Vom Genuss des Tees: Eine heitere Reise durch alte Landschaften, ehrwürdige Traditionen und moderne Verhältnisse, inklusive einer kleinen Teeschule. Gustav Kiepenheuer Verlag, Leipzig 1998, ISBN 3-378-01023-1.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBPE"
+    }
+  },
+  {
+    "node_index": 3358,
+    "tag": "li",
+    "text": "Peter Rohrsen: Der Tee. Anbau, Sorten, Geschichte. C. H. Beck, München 2013, ISBN 978-3-406-65417-6 (Neuausgabe: Das Buch zum Tee. Sorten, Kulturen, Handel. C. H. Beck, München 2022. ISBN 978-3-406-79136-9).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBPU"
+    }
+  },
+  {
+    "node_index": 3363,
+    "tag": "li",
+    "text": "Otto F. Schleinkofer: Der Tee. 3. Auflage. De Gruyter, Berlin 1982, ISBN 3-11-009179-8.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBPo"
+    }
+  },
+  {
+    "node_index": 3366,
+    "tag": "li",
+    "text": "Werner F. J. Schmitt: Tea. Ullstein, Berlin 1997, ISBN 3-548-35756-3.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBP0"
+    }
+  },
+  {
+    "node_index": 3369,
+    "tag": "li",
+    "text": "Alain Stella, Nadine Beauthéac, Gilles Brochard, Catherine Donzel: Das Buch vom Tee. 4. überarbeitete Auflage. Collection Rolf Heyne, München 2001, ISBN 3-89910-136-7 (mit Vorwort von Anthony Burgess, der Nachdruck aus dem Jahr 2003 enthält nicht die großformatigen Abbildungen).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBQA"
+    }
+  },
+  {
+    "node_index": 3372,
+    "tag": "li",
+    "text": "Rolf L. Temming (Hrsg.): Vom Geheimnis des Tees. (= Die bibliophilen Taschenbücher. Band 370). Harenberg, Dortmund 1983, ISBN 3-88379-370-1.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBQM"
+    }
+  },
+  {
+    "node_index": 3376,
+    "tag": "li",
+    "text": "Peter Martin Urtel: Die Kunst Tee zu trinken. 2., durchgesehene Auflage, BLV-Verlags-Gesellschaft, München/Wien/Zürich 1987, ISBN 978-3-405-12956-9.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBQc"
+    }
+  },
+  {
+    "node_index": 3379,
+    "tag": "li",
+    "text": "Franz August Westphal (1779–1847). Taschenbuch für Theetrinker, oder der Thee in naturhistorischer, culturlicher, merkantilischer, medicinisch-diätetischer und luxuriöser Hinsicht / nach Berard ; hrsg. von F. Marquis und für den deutschen Geschmack zugerichtet … von Fr. W. Westphal. Weimar: Voigt 1836 Digitalisat auf e-rara.ch, Exemplar ETH-Bibliothek Zürich, Rar 104",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBQo"
+    }
+  },
+  {
+    "node_index": 3384,
+    "tag": "li",
+    "text": "Sabine Yi, Jacques Jumeau-Lafond, Michel Walsh: Die Welt in einer Tasse Tee. Oder Lob dem Himmelstau – Das Brevier vom Tee. 1. Auflage. Paul Neff, Wien 1983, ISBN 3-933366-42-9.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBQ8"
+    }
+  },
+  {
+    "node_index": 3395,
+    "tag": "li",
+    "text": "Heike Matthiesen: Taiwanesischer Tee. Teesorten, ihre Anbaugebiete, sowie die jüngere Entwicklung des Teemarktes. 1. Auflage. Grin Verlag, Norderstedt 2005, ISBN 978-3-346-21602-1 (ISBN 978-3-346-21601-4 [E-Book]).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBRI"
+    }
+  },
+  {
+    "node_index": 3404,
+    "tag": "h2",
+    "text": "Film",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Film"
+    }
+  },
+  {
+    "node_index": 3414,
+    "tag": "li",
+    "text": "Bitterer Tee. Dokumentarfilm, Deutschland, 2013, Laufzeit: 28 min 30 s, Buch und Regie: Michael Höft, Produktion: HTTV, NDR, SWR, Reihe: Die Reportage, Erstsendung am 13. September 2013 beim NDR, Inhaltsangabe mit Online-Video von NDR. [Memento vom 21. September 2013 im Internet Archive]Bericht über „massiven Chemieeinsatz“ auf den Tee-Plantagen Kenias, des weltweit größten Tee-Exporteurs.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBRs"
+    }
+  },
+  {
+    "node_index": 3437,
+    "tag": "h2",
+    "text": "Weblinks",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Weblinks"
+    }
+  },
+  {
+    "node_index": 3488,
+    "tag": "li",
+    "text": "Andreas Walter: Ein Buch über Tee. Allerlei Wissenswertes um und über Tee. In: teefax.de. Abgerufen am 21. Oktober 2009 (Ein komplettes privates Online-Buch).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBS0"
+    }
+  },
+  {
+    "node_index": 3502,
+    "tag": "li",
+    "text": "Deutscher Teeverband e. V. Hamburg. In: teeverband.de. Abgerufen am 21. Oktober 2009",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBTA"
+    }
+  },
+  {
+    "node_index": 3514,
+    "tag": "li",
+    "text": "Der lange Weg zur Teekultur. In: spektrum.de. Abgerufen am 23. Oktober 2019",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBTM"
+    }
+  },
+  {
+    "node_index": 3527,
+    "tag": "li",
+    "text": "Klassische Teesorten im Überblick. In: teesorten.de. Abgerufen am 22. Juli 2021",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwBTY"
+    }
+  },
+  {
+    "node_index": 3541,
+    "tag": "h2",
+    "text": "Einzelnachweise",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Einzelnachweise"
+    }
+  },
+  {
+    "node_index": 3552,
+    "tag": "li",
+    "text": "↑ Thomas Pischke: Wie viel Koffein hat schwarzer Tee? In: teevielfalt.com. 15. August 2016, abgerufen am 20. Oktober 2023 (deutsch, Angabe zum Koffeingehalt).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-1",
+      "id": "cite_note-1",
+      "data-mw-footnote-number": "1"
+    }
+  },
+  {
+    "node_index": 3574,
+    "tag": "li",
+    "text": "↑ Sabine Yi, Jacques Jumeau-Lafond, Michel Walsh: Die Welt in einer Tasse Tee. Oder Lob dem Himmelstau – Das Brevier vom Tee. 1. Auflage. Paul Neff, Wien 1983, ISBN 3-933366-42-9, S. 43.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-2",
+      "id": "cite_note-2",
+      "data-mw-footnote-number": "2"
+    }
+  },
+  {
+    "node_index": 3592,
+    "tag": "li",
+    "text": "↑ Crops, primary > Tea leaves. In: fao.org. Offizielle Produktionsstatistik der FAO für 2023, abgerufen am 6. Februar 2025 (englisch).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-fao-3",
+      "id": "cite_note-fao-3",
+      "data-mw-footnote-number": "3"
+    }
+  },
+  {
+    "node_index": 3612,
+    "tag": "li",
+    "text": "↑ Tea Board of India: 70th Annual Report 2023–24, Kolkata 2024, S. 9 f. (unter Bezug auf das ITC World Tea Statistics Bulletin 2024).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-TeaBoard2024-4",
+      "id": "cite_note-TeaBoard2024-4",
+      "data-mw-footnote-number": "4"
+    }
+  },
+  {
+    "node_index": 3622,
+    "tag": "li",
+    "text": "1 2 FAO, Faostat Handelsstatistik der FAO 2023 (Trade > Crops and livestock products > Tea leaves), fao.org, abgerufen am 6. Februar 2025.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-fao_handel-5",
+      "id": "cite_note-fao_handel-5",
+      "data-mw-footnote-number": "5"
+    }
+  },
+  {
+    "node_index": 3632,
+    "tag": "li",
+    "text": "↑ Sandra Ahrens: Pro-Kopf-Absatz von Tee weltweit nach Ländern weltweit im Jahr 2022. In: de.statista.com. Statista GmbH, 6. September 2022, abgerufen am 2. Februar 2023.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-6",
+      "id": "cite_note-6",
+      "data-mw-footnote-number": "6"
+    }
+  },
+  {
+    "node_index": 3653,
+    "tag": "li",
+    "text": "↑ Sabine Yi et al.: Die Welt in einer Tasse Tee. Wien 1983, S. 101 ff.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-7",
+      "id": "cite_note-7",
+      "data-mw-footnote-number": "7"
+    }
+  },
+  {
+    "node_index": 3660,
+    "tag": "li",
+    "text": "↑ Eelco Hesse: Tee. Alles über die Welt des Tees und die Tees der Welt. 2. Auflage. Gräfe und Unzer, München 1985, ISBN 3-7742-2421-8, S. 53.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-8",
+      "id": "cite_note-8",
+      "data-mw-footnote-number": "8"
+    }
+  },
+  {
+    "node_index": 3678,
+    "tag": "li",
+    "text": "↑ Tee Gschwendner: Teebuch. Ausgabe 55, S. 20.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-9",
+      "id": "cite_note-9",
+      "data-mw-footnote-number": "9"
+    }
+  },
+  {
+    "node_index": 3684,
+    "tag": "li",
+    "text": "1 2 Dietmar Rothermund: Tee. In: Thomas Hengartner, Christoph Maria Merki (Hrsg.): Genussmittel. Ein kulturgeschichtliches Handbuch. Frankfurt am Main 1999, ISBN 3-593-36337-2, S. 141–166.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-rothermund-10",
+      "id": "cite_note-rothermund-10",
+      "data-mw-footnote-number": "10"
+    }
+  },
+  {
+    "node_index": 3696,
+    "tag": "li",
+    "text": "↑ Cornelia Haller-Zingerling: Die Welt des Tees. Umschau, Neustadt an der Weinstraße 2006, ISBN 3-86528-277-6, S. 60.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-11",
+      "id": "cite_note-11",
+      "data-mw-footnote-number": "11"
+    }
+  },
+  {
+    "node_index": 3714,
+    "tag": "li",
+    "text": "↑ Cornelia Haller-Zingerling: Die Welt des Tees. Umschau, Neustadt an der Weinstraße 2006, ISBN 3-86528-277-6, S. 76–77.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-12",
+      "id": "cite_note-12",
+      "data-mw-footnote-number": "12"
+    }
+  },
+  {
+    "node_index": 3732,
+    "tag": "li",
+    "text": "↑ Sabine Yi et al.: Die Welt in einer Tasse Tee. Wien 1983, S. 124.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-13",
+      "id": "cite_note-13",
+      "data-mw-footnote-number": "13"
+    }
+  },
+  {
+    "node_index": 3739,
+    "tag": "li",
+    "text": "↑ Franziska Pröll: Schwarztee im Öko-Test: Ein Pestizid in mehr als jedem zweiten untersuchten Tee. In: Frankfurter Allgemeine Zeitung (FAZ). 19. Oktober 2023, ISSN 0174-4909 (faz.net [abgerufen am 20. Oktober 2023]).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-faz_ökotest_231019-14",
+      "id": "cite_note-faz_ökotest_231019-14",
+      "data-mw-footnote-number": "14"
+    }
+  },
+  {
+    "node_index": 3769,
+    "tag": "li",
+    "text": "↑ Die Wirkung von Coffein im Tee. (Memento vom 15. Mai 2011 im Internet Archive) (PDF; 108 kB) veröffentlicht vom Teeverband, verfasst 1999 von Eva-Maria Schröder (Wissenschaftlicher Informationsdienst Tee, Deutsches Tee Institut), abgerufen am 12. Januar 2012.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-15",
+      "id": "cite_note-15",
+      "data-mw-footnote-number": "15"
+    }
+  },
+  {
+    "node_index": 3785,
+    "tag": "li",
+    "text": "↑ Julius Schuster, Ellen S. Mitchell: More than just caffeine: psychopharmacology of methylxanthine interactions with plant-derived phytochemicals. In: Progress in Neuro-Psychopharmacology and Biological Psychiatry. Band 89, 8. März 2019, ISSN 0278-5846, S. 263–274, doi:10.1016/j.pnpbp.2018.09.005 (sciencedirect.com [abgerufen am 5. Februar 2023]).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-16",
+      "id": "cite_note-16",
+      "data-mw-footnote-number": "16"
+    }
+  },
+  {
+    "node_index": 3827,
+    "tag": "li",
+    "text": "↑ Erika Stamm: Kalt aufgelegt: Dein Lieblingstee eiskalt. Der klassische Eistee; Cold Brew für klassische Tees; Ice Brew (Kōridashi) für Grüntees. In: true-tea.de. True Tea, 4. Mai 2022, abgerufen am 1. Juni 2023.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-17",
+      "id": "cite_note-17",
+      "data-mw-footnote-number": "17"
+    }
+  },
+  {
+    "node_index": 3849,
+    "tag": "li",
+    "text": "↑ Der Tee-Trip. (Memento vom 8. September 2006 im Internet Archive) In: teekampagne.de",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-18",
+      "id": "cite_note-18",
+      "data-mw-footnote-number": "18"
+    }
+  },
+  {
+    "node_index": 3865,
+    "tag": "li",
+    "text": "1 2 3 02. Die Geschichte des Tees. (Memento vom 1. November 2011 im Internet Archive) (PDF; 9 kB) In: avita-handel.de, avita Handels GmbH",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-avita-19",
+      "id": "cite_note-avita-19",
+      "data-mw-footnote-number": "19"
+    }
+  },
+  {
+    "node_index": 3885,
+    "tag": "li",
+    "text": "↑ Andreas Gruschke: Tee. Süßer Tau des Himmels. Freiburg 2007, S. 159 ff.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-20",
+      "id": "cite_note-20",
+      "data-mw-footnote-number": "20"
+    }
+  },
+  {
+    "node_index": 3891,
+    "tag": "li",
+    "text": "↑ Tom Standage: Sechs Getränke, die die Welt bewegten. 2006, S. 170.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-21",
+      "id": "cite_note-21",
+      "data-mw-footnote-number": "21"
+    }
+  },
+  {
+    "node_index": 3897,
+    "tag": "li",
+    "text": "↑ Thee. In: Johann Georg Krünitz: Oeconomische Encyclopädie.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-22",
+      "id": "cite_note-22",
+      "data-mw-footnote-number": "22"
+    }
+  },
+  {
+    "node_index": 3904,
+    "tag": "li",
+    "text": "↑ Tom Standage: Oeconomische Encyclopädie. S. 175 f.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-23",
+      "id": "cite_note-23",
+      "data-mw-footnote-number": "23"
+    }
+  },
+  {
+    "node_index": 3910,
+    "tag": "li",
+    "text": "↑ The History of Tea. In: tb.org.tr. Trabzon Exchange Commodity, 28. August 2009, archiviert vom Original am 21. Mai 2016; abgerufen am 3. Oktober 2023 (türkisch, englisch).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-24",
+      "id": "cite_note-24",
+      "data-mw-footnote-number": "24"
+    }
+  },
+  {
+    "node_index": 3942,
+    "tag": "li",
+    "text": "↑ Enterprise Europe Network (Hrsg.): Türkiye Siyah Çay Sektör Raporu. European Commission, Enterprise and Industry. Black Sea 2009 (türkisch, org.tr [PDF; 620 kB] Bericht über den Schwarzteesektor in der Türkei).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-25",
+      "id": "cite_note-25",
+      "data-mw-footnote-number": "25"
+    }
+  },
+  {
+    "node_index": 3964,
+    "tag": "li",
+    "text": "↑ Türkisches Statistikamt. In: tuik.gov.tr. Statistikamt der Türkei, abgerufen am 3. Oktober 2023 (türkisch, englisch).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-26",
+      "id": "cite_note-26",
+      "data-mw-footnote-number": "26"
+    }
+  },
+  {
+    "node_index": 3985,
+    "tag": "li",
+    "text": "↑ The Cornwall plantation that's doing a roaring trade … selling tea to China, Internetauftritt der Hersteller (englisch).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-27",
+      "id": "cite_note-27",
+      "data-mw-footnote-number": "27"
+    }
+  },
+  {
+    "node_index": 3993,
+    "tag": "li",
+    "text": "↑ Diana Feuerstein: Leutenbach: So wird der Tee zum Genuss. In: Waiblinger Kreiszeitung. 2. Dezember 2019, ZDB-ID 126247-6 (zvw.de [abgerufen am 20. Oktober 2023]).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-28",
+      "id": "cite_note-28",
+      "data-mw-footnote-number": "28"
+    }
+  },
+  {
+    "node_index": 4024,
+    "tag": "li",
+    "text": "↑ Hier gedeiht der Gest des Friedens. In: Schweizer Familie, Nr. 27, 2025, ISSN 1421-7236, Seiten 34 bis 42.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-29",
+      "id": "cite_note-29",
+      "data-mw-footnote-number": "29"
+    }
+  },
+  {
+    "node_index": 4037,
+    "tag": "li",
+    "text": "↑ Sabine Yi et al.: Die Welt in einer Tasse Tee. Wien 1983, S. 79.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-30",
+      "id": "cite_note-30",
+      "data-mw-footnote-number": "30"
+    }
+  },
+  {
+    "node_index": 4044,
+    "tag": "li",
+    "text": "↑ Sabine Yi et al.: Die Welt in einer Tasse Tee. Wien 1983, S. 82.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-31",
+      "id": "cite_note-31",
+      "data-mw-footnote-number": "31"
+    }
+  },
+  {
+    "node_index": 4051,
+    "tag": "li",
+    "text": "↑ Tee: Muntermacher und Entspannungsgarant – Mehr als 79 Liter trinkt jeder pro Jahr. Bundesanstalt für Landwirtschaft und Ernährung (BLE), 11. April 2020, abgerufen am 19. April 2025.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-32",
+      "id": "cite_note-32",
+      "data-mw-footnote-number": "32"
+    }
+  },
+  {
+    "node_index": 4068,
+    "tag": "li",
+    "text": "1 2 E. J. Gardner, C. H. S. Ruxton, A. R. Leeds: Black tea--helpful or harmful? A review of the evidence. In: European Journal of Clinical Nutrition. Band 61, Nr. 1, Januar 2007, ISSN 0954-3007, S. 3–18, doi:10.1038/sj.ejcn.1602489, PMID 16855537.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-:0-33",
+      "id": "cite_note-:0-33",
+      "data-mw-footnote-number": "33"
+    }
+  },
+  {
+    "node_index": 4108,
+    "tag": "li",
+    "text": "↑ Claudia Müller: Sekundäre Pflanzenstoffe. In: Bundeszentrum für Ernährung (BZfE). Bundesanstalt für Landwirtschaft und Ernährung (BLE), 28. Februar 2025, abgerufen am 19. April 2025.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-34",
+      "id": "cite_note-34",
+      "data-mw-footnote-number": "34"
+    }
+  },
+  {
+    "node_index": 4129,
+    "tag": "li",
+    "text": "↑ Teestrauch. auf: giftpflanzen.com",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-35",
+      "id": "cite_note-35",
+      "data-mw-footnote-number": "35"
+    }
+  },
+  {
+    "node_index": 4137,
+    "tag": "li",
+    "text": "↑ Wunderdroge Grüner Tee? (Memento vom 12. Februar 2013 im Webarchiv archive.today)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-36",
+      "id": "cite_note-36",
+      "data-mw-footnote-number": "36"
+    }
+  },
+  {
+    "node_index": 4152,
+    "tag": "li",
+    "text": "↑ Joanna Klepacka, Elżbieta Tońska, Ryszard Rafałowski, Marta Czarnowska-Kujawska, Barbara Opara: Tea as a Source of Biologically Active Compounds in the Human Diet. In: Molecules. Band 26, Nr. 5, 9. März 2021, ISSN 1420-3049, S. 1487, doi:10.3390/molecules26051487, PMID 33803306, PMC 7967157 (freier Volltext).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-37",
+      "id": "cite_note-37",
+      "data-mw-footnote-number": "37"
+    }
+  },
+  {
+    "node_index": 4196,
+    "tag": "li",
+    "text": "↑ Asu Çakır, Tuğçe Nur Şahin: Evaluation of the impact of fluoride in drinking water and tea on the enamel of deciduous and permanent teeth. In: BMC Oral Health. Band 23, 13. August 2023, ISSN 1472-6831, S. 565, doi:10.1186/s12903-023-03267-6, PMID 37574537, PMC 10423416 (freier Volltext).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-38",
+      "id": "cite_note-38",
+      "data-mw-footnote-number": "38"
+    }
+  },
+  {
+    "node_index": 4236,
+    "tag": "li",
+    "text": "↑ M. Kushiyama, Y. Shimazaki, M. Murakami, Y. Yamashita: Relationship between intake of green tea and periodontal disease. In: Journal of Periodontology. 80, 2009, S. 372–377.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-39",
+      "id": "cite_note-39",
+      "data-mw-footnote-number": "39"
+    }
+  },
+  {
+    "node_index": 4244,
+    "tag": "li",
+    "text": "↑ Lehrerfortbildung Tee. (Memento vom 30. Juli 2013 im Internet Archive) Uni Jena (PDF; 420 kB).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-40",
+      "id": "cite_note-40",
+      "data-mw-footnote-number": "40"
+    }
+  },
+  {
+    "node_index": 4260,
+    "tag": "li",
+    "text": "↑ Tea bags and takeaways linked to forever chemicals in blood stream In: euronews, 20. Februar 2024. Abgerufen am 15. Mai 2024 (englisch).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-41",
+      "id": "cite_note-41",
+      "data-mw-footnote-number": "41"
+    }
+  },
+  {
+    "node_index": 4282,
+    "tag": "li",
+    "text": "↑ Hailey E. Hampson, Elizabeth Costello, Douglas I. Walker, Hongxu Wang, Brittney O. Baumert, Damaskini Valvi, Sarah Rock, Dean P. Jones, Michael I. Goran, Frank D. Gilliland, David V. Conti, Tanya L. Alderete, Zhanghua Chen, Leda Chatzi, Jesse A. Goodrich: Associations of dietary intake and longitudinal measures of per- and polyfluoroalkyl substances (PFAS) in predominantly Hispanic young Adults: A multicohort study. In: Environment International. 185. Jahrgang, März 2024, ISSN 0160-4120, doi:10.1016/j.envint.2024.108454, PMID 38316574, PMC 11089812 (freier Volltext), bibcode:2024EnInt.18508454H (englisch).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-42",
+      "id": "cite_note-42",
+      "data-mw-footnote-number": "42"
+    }
+  },
+  {
+    "node_index": 4374,
+    "tag": "li",
+    "text": "↑ Aishwarya Jala, Daya Raju Adye, Roshan M. Borkar: Occurrence and risk assessments of per- and polyfluoroalkyl substances in tea bags from India. In: Food Control. Band 151, 2023, ISSN 0956-7135, S. 109812, doi:10.1016/j.foodcont.2023.109812 (sciencedirect.com).",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-43",
+      "id": "cite_note-43",
+      "data-mw-footnote-number": "43"
+    }
+  },
+  {
+    "node_index": 4458,
+    "tag": "li",
+    "text": "Wikipedia:Lesenswert",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4460,
+    "tag": "li",
+    "text": "Tee als Thema",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4462,
+    "tag": "li",
+    "text": "Heißgetränk",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4467,
+    "tag": "li",
+    "text": "Diese Seite wurde zuletzt am 24. März 2026 um 08:07 Uhr bearbeitet.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-lastmod"
+    }
+  },
+  {
+    "node_index": 4468,
+    "tag": "li",
+    "text": "Die Seite wurde mit Parsoid gerendert.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-renderedwith"
+    }
+  },
+  {
+    "node_index": 4470,
+    "tag": "li",
+    "text": "Abrufstatistik · Autoren Der Text ist unter der Lizenz „Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden. Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-copyright"
+    }
+  },
+  {
+    "node_index": 4477,
+    "tag": "p",
+    "text": "Der Text ist unter der Lizenz „Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4484,
+    "tag": "li",
+    "text": "Datenschutz",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-privacy"
+    }
+  },
+  {
+    "node_index": 4486,
+    "tag": "li",
+    "text": "Über Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-about"
+    }
+  },
+  {
+    "node_index": 4488,
+    "tag": "li",
+    "text": "Haftungsausschluss",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-disclaimers"
+    }
+  },
+  {
+    "node_index": 4490,
+    "tag": "li",
+    "text": "Impressum / Sicherheit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-legal-safety-contacts"
+    }
+  },
+  {
+    "node_index": 4492,
+    "tag": "li",
+    "text": "Verhaltenskodex",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-wm-codeofconduct"
+    }
+  },
+  {
+    "node_index": 4494,
+    "tag": "li",
+    "text": "Entwickler",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-developers"
+    }
+  },
+  {
+    "node_index": 4496,
+    "tag": "li",
+    "text": "Statistiken",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-statslink"
+    }
+  },
+  {
+    "node_index": 4498,
+    "tag": "li",
+    "text": "Stellungnahme zu Cookies",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-cookiestatement"
+    }
+  },
+  {
+    "node_index": 4500,
+    "tag": "li",
+    "text": "Mobile Ansicht",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-mobileview"
+    }
+  }
+]

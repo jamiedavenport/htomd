@@ -1,0 +1,13 @@
+Tidal currents occur in conjunction with the rise and fall of the tide. The vertical motion of the tides near the shore causes the water to move horizontally, creating currents. When a tidal current moves toward the land and away from the sea, it “floods.” When it moves toward the sea away from the land, it “ebbs.” These tidal currents that ebb and flood in opposite directions are called “rectilinear” or “reversing” currents.
+
+Rectilinear tidal currents, which typically are found in coastal rivers and estuaries, experience a “slack water” period of no velocity as they move from the ebbing to flooding stage, and vice versa. After a brief slack period, which can range from seconds to several minutes and generally coincides with high or low tide, the current switches direction and increases in velocity.
+
+[![Animation of the relationship between vertical and horizontal components of tides](https://oceanservice.noaa.gov/education/tutorial_currents/media/tide02_480.gif)](https://oceanservice.noaa.gov/education/tutorial_currents/media/supp_cur02a.html)
+
+As the tides rise and fall, they create flood and ebb currents. **Click the image** for a larger view.
+
+[![Distances between earth, sun and moon](https://oceanservice.noaa.gov/education/tutorial_currents/media/cur02b_240.gif)](https://oceanservice.noaa.gov/education/tutorial_currents/media/supp_cur02b.html)
+
+The relationship between the masses of the Earth, moon, and sun and their distances to each other play critical roles in affecting tides and the currents they produce. **Click the image** for a larger view.
+
+Tidal currents are the only type of current affected by the interactions of the Earth, sun, and moon. The moon’s force is much greater than that of the sun because it is 389 times closer to the Earth than the sun is. Tidal currents, just like tides, are affected by the different phases of the moon. When the moon is at full or new phases, tidal current velocities are strong and are called “spring currents.” When the moon is at first or third quarter phases, tidal current velocities are weak and are called “neap currents.”

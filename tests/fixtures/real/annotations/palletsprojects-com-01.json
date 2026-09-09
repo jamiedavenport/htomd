@@ -1,0 +1,1875 @@
+[
+  {
+    "node_index": 25,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 27,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 29,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 31,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 33,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 35,
+    "tag": "li",
+    "text": "Flask Documentation (3.1.x) »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-0"
+    }
+  },
+  {
+    "node_index": 37,
+    "tag": "li",
+    "text": "Quickstart",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 44,
+    "tag": "h1",
+    "text": "Quickstart¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 46,
+    "tag": "p",
+    "text": "Eager to get started? This page gives a good introduction to Flask. Follow Installation to set up a project and install Flask first.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 50,
+    "tag": "h2",
+    "text": "A Minimal Application¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 52,
+    "tag": "p",
+    "text": "A minimal Flask application looks something like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 55,
+    "tag": "pre",
+    "text": "from flask import Flask app = Flask(__name__) @app.route(\"/\") def hello_world(): return \"<p>Hello, World!</p>\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "p",
+    "text": "So what did that code do?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "First we imported the Flask class. An instance of this class will be our WSGI application.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 84,
+    "tag": "p",
+    "text": "First we imported the Flask class. An instance of this class will be our WSGI application.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "Next we create an instance of this class. The first argument is the name of the application’s module or package. __name__ is a convenient shortcut for this that is appropriate for most cases. This is needed so that Flask knows where to look for resources such as templates and static files.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "p",
+    "text": "Next we create an instance of this class. The first argument is the name of the application’s module or package. __name__ is a convenient shortcut for this that is appropriate for most cases. This is needed so that Flask knows where to look for resources such as templates and static files.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 92,
+    "tag": "li",
+    "text": "We then use the route() decorator to tell Flask what URL should trigger our function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 93,
+    "tag": "p",
+    "text": "We then use the route() decorator to tell Flask what URL should trigger our function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "The function returns the message we want to display in the user’s browser. The default content type is HTML, so HTML in the string will be rendered by the browser.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 98,
+    "tag": "p",
+    "text": "The function returns the message we want to display in the user’s browser. The default content type is HTML, so HTML in the string will be rendered by the browser.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "p",
+    "text": "Save it as hello.py or something similar. Make sure to not call your application flask.py because this would conflict with Flask itself.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 104,
+    "tag": "p",
+    "text": "To run the application, use the flask command or python -m flask. You need to tell the Flask where your application is with the --app option.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 115,
+    "tag": "pre",
+    "text": "$ flask --app hello run * Serving Flask app 'hello' * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 118,
+    "tag": "p",
+    "text": "Application Discovery Behavior",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 119,
+    "tag": "p",
+    "text": "As a shortcut, if the file is named app.py or wsgi.py, you don’t have to use --app. See Command Line Interface for more details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 128,
+    "tag": "p",
+    "text": "This launches a very simple builtin server, which is good enough for testing but probably not what you want to use in production. For deployment options see Deploying to Production.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 131,
+    "tag": "p",
+    "text": "Now head over to http://127.0.0.1:5000/, and you should see your hello world greeting.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 133,
+    "tag": "p",
+    "text": "If another program is already using port 5000, you’ll see OSError: [Errno 98] or OSError: [WinError 10013] when the server tries to start. See Address already in use for how to handle that.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 145,
+    "tag": "p",
+    "text": "Externally Visible Server",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "p",
+    "text": "If you run the server you will notice that the server is only accessible from your own computer, not from any other in the network. This is the default because in debugging mode a user of the application can execute arbitrary Python code on your computer.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "p",
+    "text": "If you have the debugger disabled or trust the users on your network, you can make the server publicly available simply by adding --host=0.0.0.0 to the command line:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "pre",
+    "text": "$ flask run --host=0.0.0.0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 154,
+    "tag": "p",
+    "text": "This tells your operating system to listen on all public IPs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 156,
+    "tag": "h2",
+    "text": "Debug Mode¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "p",
+    "text": "The flask run command can do more than just start the development server. By enabling debug mode, the server will automatically reload if code changes, and will show an interactive debugger in the browser if an error occurs during a request.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "p",
+    "text": "Warning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 165,
+    "tag": "p",
+    "text": "The debugger allows executing arbitrary Python code from the browser. It is protected by a pin, but still represents a major security risk. Do not run the development server or debugger in a production environment.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 166,
+    "tag": "p",
+    "text": "To enable debug mode, use the --debug option.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "pre",
+    "text": "$ flask --app hello run --debug * Serving Flask app 'hello' * Debug mode: on * Running on http://127.0.0.1:5000 (Press CTRL+C to quit) * Restarting with stat * Debugger is active! * Debugger PIN: nnn-nnn-nnn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 173,
+    "tag": "p",
+    "text": "See also:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 175,
+    "tag": "li",
+    "text": "Development Server and Command Line Interface for information about running in debug mode.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 176,
+    "tag": "p",
+    "text": "Development Server and Command Line Interface for information about running in debug mode.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "li",
+    "text": "Debugging Application Errors for information about using the built-in debugger and other debuggers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 182,
+    "tag": "p",
+    "text": "Debugging Application Errors for information about using the built-in debugger and other debuggers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 185,
+    "tag": "li",
+    "text": "Logging and Handling Application Errors to log errors and display nice error pages.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 186,
+    "tag": "p",
+    "text": "Logging and Handling Application Errors to log errors and display nice error pages.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "h2",
+    "text": "HTML Escaping¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "p",
+    "text": "When returning HTML (the default response type in Flask), any user-provided values rendered in the output must be escaped to protect from injection attacks. HTML templates rendered with Jinja, introduced later, will do this automatically.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 195,
+    "tag": "p",
+    "text": "escape(), shown here, can be used manually. It is omitted in most examples for brevity, but you should always be aware of how you’re using untrusted data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "pre",
+    "text": "from flask import request from markupsafe import escape @app.route(\"/hello\") def hello(): name = request.args.get(\"name\", \"Flask\") return f\"Hello, {escape(name)}!\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "p",
+    "text": "If a user submits /hello?name=<script>alert(\"bad\")</script>, escaping causes it to be rendered as text, rather than running the script in the user’s browser.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "h2",
+    "text": "Routing¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "p",
+    "text": "Modern web applications use meaningful URLs to help users. Users are more likely to like a page and come back if the page uses a meaningful URL they can remember and use to directly visit a page.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "p",
+    "text": "Use the route() decorator to bind a function to a URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "pre",
+    "text": "@app.route('/') def index(): return 'Index Page' @app.route('/hello') def hello(): return 'Hello, World'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 285,
+    "tag": "p",
+    "text": "You can do more! You can make parts of the URL dynamic and attach multiple rules to a function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 287,
+    "tag": "h3",
+    "text": "Variable Rules¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "p",
+    "text": "You can add variable sections to a URL by marking sections with <variable_name>. Your function then receives the <variable_name> as a keyword argument. Optionally, you can use a converter to specify the type of the argument like <converter:variable_name>.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 298,
+    "tag": "pre",
+    "text": "from markupsafe import escape @app.route('/user/<username>') def show_user_profile(username): # show the user profile for that user return f'User {escape(username)}' @app.route('/post/<int:post_id>') def show_post(post_id): # show the post with the given id, the id is an integer return f'Post {post_id}' @app.route('/path/<path:subpath>') def show_subpath(subpath): # show the subpath after /path/ return f'Subpath {escape(subpath)}'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 372,
+    "tag": "p",
+    "text": "Converter types:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 376,
+    "tag": "td",
+    "text": "string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 377,
+    "tag": "p",
+    "text": "string",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 380,
+    "tag": "td",
+    "text": "(default) accepts any text without a slash",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 381,
+    "tag": "p",
+    "text": "(default) accepts any text without a slash",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 383,
+    "tag": "td",
+    "text": "int",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 384,
+    "tag": "p",
+    "text": "int",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 387,
+    "tag": "td",
+    "text": "accepts positive integers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 388,
+    "tag": "p",
+    "text": "accepts positive integers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 390,
+    "tag": "td",
+    "text": "float",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "p",
+    "text": "float",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 394,
+    "tag": "td",
+    "text": "accepts positive floating point values",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 395,
+    "tag": "p",
+    "text": "accepts positive floating point values",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "td",
+    "text": "path",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 398,
+    "tag": "p",
+    "text": "path",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 401,
+    "tag": "td",
+    "text": "like string but also accepts slashes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 402,
+    "tag": "p",
+    "text": "like string but also accepts slashes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "td",
+    "text": "uuid",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "p",
+    "text": "uuid",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 410,
+    "tag": "td",
+    "text": "accepts UUID strings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 411,
+    "tag": "p",
+    "text": "accepts UUID strings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 413,
+    "tag": "h3",
+    "text": "Unique URLs / Redirection Behavior¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "The following two rules differ in their use of a trailing slash.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 418,
+    "tag": "pre",
+    "text": "@app.route('/projects/') def projects(): return 'The project page' @app.route('/about') def about(): return 'The about page'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 444,
+    "tag": "p",
+    "text": "The canonical URL for the projects endpoint has a trailing slash. It’s similar to a folder in a file system. If you access the URL without a trailing slash (/projects), Flask redirects you to the canonical URL with the trailing slash (/projects/).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 451,
+    "tag": "p",
+    "text": "The canonical URL for the about endpoint does not have a trailing slash. It’s similar to the pathname of a file. Accessing the URL with a trailing slash (/about/) produces a 404 “Not Found” error. This helps keep URLs unique for these resources, which helps search engines avoid indexing the same page twice.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 458,
+    "tag": "h3",
+    "text": "URL Building¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "p",
+    "text": "To build a URL to a specific function, use the url_for() function. It accepts the name of the function as its first argument and any number of keyword arguments, each corresponding to a variable part of the URL rule. Unknown variable parts are appended to the URL as query parameters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 464,
+    "tag": "p",
+    "text": "Why would you want to build URLs using the URL reversing function url_for() instead of hard-coding them into your templates?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 469,
+    "tag": "li",
+    "text": "Reversing is often more descriptive than hard-coding the URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 470,
+    "tag": "p",
+    "text": "Reversing is often more descriptive than hard-coding the URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 471,
+    "tag": "li",
+    "text": "You can change your URLs in one go instead of needing to remember to manually change hard-coded URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 472,
+    "tag": "p",
+    "text": "You can change your URLs in one go instead of needing to remember to manually change hard-coded URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 473,
+    "tag": "li",
+    "text": "URL building handles escaping of special characters transparently.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 474,
+    "tag": "p",
+    "text": "URL building handles escaping of special characters transparently.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 475,
+    "tag": "li",
+    "text": "The generated paths are always absolute, avoiding unexpected behavior of relative paths in browsers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 476,
+    "tag": "p",
+    "text": "The generated paths are always absolute, avoiding unexpected behavior of relative paths in browsers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 477,
+    "tag": "li",
+    "text": "If your application is placed outside the URL root, for example, in /myapplication instead of /, url_for() properly handles that for you.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 478,
+    "tag": "p",
+    "text": "If your application is placed outside the URL root, for example, in /myapplication instead of /, url_for() properly handles that for you.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 486,
+    "tag": "p",
+    "text": "For example, here we use the test_request_context() method to try out url_for(). test_request_context() tells Flask to behave as though it’s handling a request even while we use a Python shell. See Context Locals.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 500,
+    "tag": "pre",
+    "text": "from flask import url_for @app.route('/') def index(): return 'index' @app.route('/login') def login(): return 'login' @app.route('/user/<username>') def profile(username): return f'{username}\\'s profile' with app.test_request_context(): print(url_for('index')) print(url_for('login')) print(url_for('login', next='/')) print(url_for('profile', username='John Doe'))",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 591,
+    "tag": "pre",
+    "text": "/ /login /login?next=/ /user/John%20Doe",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 594,
+    "tag": "h3",
+    "text": "HTTP Methods¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 596,
+    "tag": "p",
+    "text": "Web applications use different HTTP methods when accessing URLs. You should familiarize yourself with the HTTP methods as you work with Flask. By default, a route only answers to GET requests. You can use the methods argument of the route() decorator to handle different HTTP methods.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 606,
+    "tag": "pre",
+    "text": "from flask import request @app.route('/login', methods=['GET', 'POST']) def login(): if request.method == 'POST': return do_the_login() else: return show_the_login_form()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 646,
+    "tag": "p",
+    "text": "The example above keeps all methods for the route within one function, which can be useful if each part uses some common data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 647,
+    "tag": "p",
+    "text": "You can also separate views for different methods into different functions. Flask provides a shortcut for decorating such routes with get(), post(), etc. for each common HTTP method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 656,
+    "tag": "pre",
+    "text": "@app.get('/login') def login_get(): return show_the_login_form() @app.post('/login') def login_post(): return do_the_login()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 684,
+    "tag": "p",
+    "text": "If GET is present, Flask automatically adds support for the HEAD method and handles HEAD requests according to the HTTP RFC. Likewise, OPTIONS is automatically implemented for you.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 695,
+    "tag": "h2",
+    "text": "Static Files¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 697,
+    "tag": "p",
+    "text": "Dynamic web applications also need static files. That’s usually where the CSS and JavaScript files are coming from. Ideally your web server is configured to serve them for you, but during development Flask can do that as well. Just create a folder called static in your package or next to your module and it will be available at /static on the application.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 702,
+    "tag": "p",
+    "text": "To generate URLs for static files, use the special 'static' endpoint name:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 707,
+    "tag": "pre",
+    "text": "url_for('static', filename='style.css')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 717,
+    "tag": "p",
+    "text": "The file has to be stored on the filesystem as static/style.css.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 721,
+    "tag": "h2",
+    "text": "Rendering Templates¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 723,
+    "tag": "p",
+    "text": "Generating HTML from within Python is not fun, and actually pretty cumbersome because you have to do the HTML escaping on your own to keep the application secure. Because of that Flask configures the Jinja template engine for you automatically.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 725,
+    "tag": "p",
+    "text": "Templates can be used to generate any type of text file. For web applications, you’ll primarily be generating HTML pages, but you can also generate markdown, plain text for emails, and anything else.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 726,
+    "tag": "p",
+    "text": "For a reference to HTML, CSS, and other web APIs, use the MDN Web Docs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 728,
+    "tag": "p",
+    "text": "To render a template you can use the render_template() method. All you have to do is provide the name of the template and the variables you want to pass to the template engine as keyword arguments. Here’s a simple example of how to render a template:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 734,
+    "tag": "pre",
+    "text": "from flask import render_template @app.route('/hello/') @app.route('/hello/<name>') def hello(name=None): return render_template('hello.html', person=name)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 771,
+    "tag": "p",
+    "text": "Flask will look for templates in the templates folder. So if your application is a module, this folder is next to that module, if it’s a package it’s actually inside your package:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 774,
+    "tag": "p",
+    "text": "Case 1: a module:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 778,
+    "tag": "pre",
+    "text": "/application.py /templates /hello.html",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 790,
+    "tag": "p",
+    "text": "Case 2: a package:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 794,
+    "tag": "pre",
+    "text": "/application /__init__.py /templates /hello.html",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 808,
+    "tag": "p",
+    "text": "For templates you can use the full power of Jinja templates. Head over to the official Jinja Template Documentation for more information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 810,
+    "tag": "p",
+    "text": "Here is an example template:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 813,
+    "tag": "pre",
+    "text": "<!doctype html> <title>Hello from Flask</title> {% if person %} <h1>Hello {{ person }}!</h1> {% else %} <h1>Hello, World!</h1> {% endif %}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 847,
+    "tag": "p",
+    "text": "Inside templates you also have access to the config, request, session and g [1] objects as well as the url_for() and get_flashed_messages() functions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 869,
+    "tag": "p",
+    "text": "Templates are especially useful if inheritance is used. If you want to know how that works, see Template Inheritance. Basically template inheritance makes it possible to keep certain elements on each page (like header, navigation and footer).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 872,
+    "tag": "p",
+    "text": "Automatic escaping is enabled, so if person contains HTML it will be escaped automatically. If you can trust a variable and you know that it will be safe HTML (for example because it came from a module that converts wiki markup to HTML) you can mark it as safe by using the Markup class or by using the |safe filter in the template. Head over to the Jinja 2 documentation for more examples.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 879,
+    "tag": "p",
+    "text": "Here is a basic introduction to how the Markup class works:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 884,
+    "tag": "pre",
+    "text": ">>> from markupsafe import Markup >>> Markup('<strong>Hello %s!</strong>') % '<blink>hacker</blink>' Markup('<strong>Hello &lt;blink&gt;hacker&lt;/blink&gt;!</strong>') >>> Markup.escape('<blink>hacker</blink>') Markup('&lt;blink&gt;hacker&lt;/blink&gt;') >>> Markup('<em>Marked up</em> &raquo; HTML').striptags() 'Marked up » HTML'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 923,
+    "tag": "p",
+    "text": "Changed in version 0.5: Autoescaping is no longer enabled for all templates. The following extensions for templates trigger autoescaping: .html, .htm, .xml, .xhtml. Templates loaded from a string will have autoescaping disabled.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 939,
+    "tag": "p",
+    "text": "Unsure what that g object is? It’s something in which you can store information for your own needs. See the documentation for flask.g and Using SQLite 3 with Flask.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 949,
+    "tag": "h2",
+    "text": "Accessing Request Data¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 951,
+    "tag": "p",
+    "text": "For web applications it’s crucial to react to the data a client sends to the server. In Flask this information is provided by the global request object. If you have some experience with Python you might be wondering how that object can be global and how Flask manages to still be threadsafe. The answer is context locals:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 957,
+    "tag": "h3",
+    "text": "Context Locals¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 960,
+    "tag": "p",
+    "text": "Insider Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 961,
+    "tag": "p",
+    "text": "If you want to understand how that works and how you can implement tests with context locals, read this section, otherwise just skip it.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 962,
+    "tag": "p",
+    "text": "Certain objects in Flask are global objects, but not of the usual kind. These objects are actually proxies to objects that are local to a specific context. What a mouthful. But that is actually quite easy to understand.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 963,
+    "tag": "p",
+    "text": "Imagine the context being the handling thread. A request comes in and the web server decides to spawn a new thread (or something else, the underlying object is capable of dealing with concurrency systems other than threads). When Flask starts its internal request handling it figures out that the current thread is the active context and binds the current application and the WSGI environments to that context (thread). It does that in an intelligent way so that one application can invoke another application without breaking.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 964,
+    "tag": "p",
+    "text": "So what does this mean to you? Basically you can completely ignore that this is the case unless you are doing something like unit testing. You will notice that code which depends on a request object will suddenly break because there is no request object. The solution is creating a request object yourself and binding it to the context. The easiest solution for unit testing is to use the test_request_context() context manager. In combination with the with statement it will bind a test request so that you can interact with it. Here is an example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 972,
+    "tag": "pre",
+    "text": "from flask import request with app.test_request_context('/hello', method='POST'): # now you can do something with the request until the # end of the with block, such as basic assertions: assert request.path == '/hello' assert request.method == 'POST'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1005,
+    "tag": "p",
+    "text": "The other possibility is passing a whole WSGI environment to the request_context() method:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1011,
+    "tag": "pre",
+    "text": "with app.request_context(environ): assert request.method == 'POST'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1027,
+    "tag": "h3",
+    "text": "The Request Object¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1029,
+    "tag": "p",
+    "text": "The request object is documented in the API section and we will not cover it here in detail (see Request). Here is a broad overview of some of the most common operations. First of all you have to import it from the flask module:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1037,
+    "tag": "pre",
+    "text": "from flask import request",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1045,
+    "tag": "p",
+    "text": "The current request method is available by using the method attribute. To access form data (data transmitted in a POST or PUT request) you can use the form attribute. Here is a full example of the two attributes mentioned above:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1058,
+    "tag": "pre",
+    "text": "@app.route('/login', methods=['POST', 'GET']) def login(): error = None if request.method == 'POST': if valid_login(request.form['username'], request.form['password']): return log_the_user_in(request.form['username']) else: error = 'Invalid username/password' # the code below is executed if the request method # was GET or the credentials were invalid return render_template('login.html', error=error)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1127,
+    "tag": "p",
+    "text": "What happens if the key does not exist in the form attribute? In that case a special KeyError is raised. You can catch it like a standard KeyError but if you don’t do that, a HTTP 400 Bad Request error page is shown instead. So for many situations you don’t have to deal with that problem.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1136,
+    "tag": "p",
+    "text": "To access parameters submitted in the URL (?key=value) you can use the args attribute:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1144,
+    "tag": "pre",
+    "text": "searchword = request.args.get('key', '')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1158,
+    "tag": "p",
+    "text": "We recommend accessing URL parameters with get or by catching the KeyError because users might change the URL and presenting them a 400 bad request page in that case is not user friendly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1164,
+    "tag": "p",
+    "text": "For a full list of methods and attributes of the request object, head over to the Request documentation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1169,
+    "tag": "h3",
+    "text": "File Uploads¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1171,
+    "tag": "p",
+    "text": "You can handle uploaded files with Flask easily. Just make sure not to forget to set the enctype=\"multipart/form-data\" attribute on your HTML form, otherwise the browser will not transmit your files at all.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1174,
+    "tag": "p",
+    "text": "Uploaded files are stored in memory or at a temporary location on the filesystem. You can access those files by looking at the files attribute on the request object. Each uploaded file is stored in that dictionary. It behaves just like a standard Python file object, but it also has a save() method that allows you to store that file on the filesystem of the server. Here is a simple example showing how that works:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1184,
+    "tag": "pre",
+    "text": "from flask import request @app.route('/upload', methods=['GET', 'POST']) def upload_file(): if request.method == 'POST': f = request.files['the_file'] f.save('/var/www/uploads/uploaded_file.txt') ...",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1231,
+    "tag": "p",
+    "text": "If you want to know how the file was named on the client before it was uploaded to your application, you can access the filename attribute. However please keep in mind that this value can be forged so never ever trust that value. If you want to use the filename of the client to store the file on the server, pass it through the secure_filename() function that Werkzeug provides for you:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1240,
+    "tag": "pre",
+    "text": "from werkzeug.utils import secure_filename @app.route('/upload', methods=['GET', 'POST']) def upload_file(): if request.method == 'POST': file = request.files['the_file'] file.save(f\"/var/www/uploads/{secure_filename(file.filename)}\") ...",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1297,
+    "tag": "p",
+    "text": "For some better examples, see Uploading Files.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1301,
+    "tag": "h3",
+    "text": "Cookies¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1303,
+    "tag": "p",
+    "text": "To access cookies you can use the cookies attribute. To set cookies you can use the set_cookie method of response objects. The cookies attribute of request objects is a dictionary with all the cookies the client transmits. If you want to use sessions, do not use the cookies directly but instead use the Sessions in Flask that add some security on top of cookies for you.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1315,
+    "tag": "p",
+    "text": "Reading cookies:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1318,
+    "tag": "pre",
+    "text": "from flask import request @app.route('/') def index(): username = request.cookies.get('username') # use cookies.get(key) instead of cookies[key] to not get a # KeyError if the cookie is missing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1348,
+    "tag": "p",
+    "text": "Storing cookies:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1351,
+    "tag": "pre",
+    "text": "from flask import make_response @app.route('/') def index(): resp = make_response(render_template(...)) resp.set_cookie('username', 'the username') return resp",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1387,
+    "tag": "p",
+    "text": "Note that cookies are set on response objects. Since you normally just return strings from the view functions Flask will convert them into response objects for you. If you explicitly want to do that you can use the make_response() function and then modify it.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1391,
+    "tag": "p",
+    "text": "Sometimes you might want to set a cookie at a point where the response object does not exist yet. This is possible by utilizing the Deferred Request Callbacks pattern.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1394,
+    "tag": "p",
+    "text": "For this also see About Responses.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1398,
+    "tag": "h2",
+    "text": "Redirects and Errors¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1400,
+    "tag": "p",
+    "text": "To redirect a user to another endpoint, use the redirect() function; to abort a request early with an error code, use the abort() function:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1409,
+    "tag": "pre",
+    "text": "from flask import abort, redirect, url_for @app.route('/') def index(): return redirect(url_for('login')) @app.route('/login') def login(): abort(401) this_is_never_executed()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1454,
+    "tag": "p",
+    "text": "This is a rather pointless example because a user will be redirected from the index to a page they cannot access (401 means access denied) but it shows how that works.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1455,
+    "tag": "p",
+    "text": "By default a black and white error page is shown for each error code. If you want to customize the error page, you can use the errorhandler() decorator:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1461,
+    "tag": "pre",
+    "text": "from flask import render_template @app.errorhandler(404) def page_not_found(error): return render_template('page_not_found.html'), 404",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1487,
+    "tag": "p",
+    "text": "Note the 404 after the render_template() call. This tells Flask that the status code of that page should be 404 which means not found. By default 200 is assumed which translates to: all went well.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1493,
+    "tag": "p",
+    "text": "See Handling Application Errors for more details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1498,
+    "tag": "h2",
+    "text": "About Responses¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1500,
+    "tag": "p",
+    "text": "The return value from a view function is automatically converted into a response object for you. If the return value is a string it’s converted into a response object with the string as response body, a 200 OK status code and a text/html mimetype. If the return value is a dict or list, jsonify() is called to produce a response. The logic that Flask applies to converting return values into response objects is as follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1508,
+    "tag": "li",
+    "text": "If a response object of the correct type is returned it’s directly returned from the view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1509,
+    "tag": "p",
+    "text": "If a response object of the correct type is returned it’s directly returned from the view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1510,
+    "tag": "li",
+    "text": "If it’s a string, a response object is created with that data and the default parameters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1511,
+    "tag": "p",
+    "text": "If it’s a string, a response object is created with that data and the default parameters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1512,
+    "tag": "li",
+    "text": "If it’s an iterator or generator returning strings or bytes, it is treated as a streaming response.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1513,
+    "tag": "p",
+    "text": "If it’s an iterator or generator returning strings or bytes, it is treated as a streaming response.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1514,
+    "tag": "li",
+    "text": "If it’s a dict or list, a response object is created using jsonify().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1515,
+    "tag": "p",
+    "text": "If it’s a dict or list, a response object is created using jsonify().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1519,
+    "tag": "li",
+    "text": "If a tuple is returned the items in the tuple can provide extra information. Such tuples have to be in the form (response, status), (response, headers), or (response, status, headers). The status value will override the status code and headers can be a list or dictionary of additional header values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1520,
+    "tag": "p",
+    "text": "If a tuple is returned the items in the tuple can provide extra information. Such tuples have to be in the form (response, status), (response, headers), or (response, status, headers). The status value will override the status code and headers can be a list or dictionary of additional header values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1535,
+    "tag": "li",
+    "text": "If none of that works, Flask will assume the return value is a valid WSGI application and convert that into a response object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1536,
+    "tag": "p",
+    "text": "If none of that works, Flask will assume the return value is a valid WSGI application and convert that into a response object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1537,
+    "tag": "p",
+    "text": "If you want to get hold of the resulting response object inside the view you can use the make_response() function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1541,
+    "tag": "p",
+    "text": "Imagine you have a view like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1544,
+    "tag": "pre",
+    "text": "from flask import render_template @app.errorhandler(404) def not_found(error): return render_template('error.html'), 404",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1570,
+    "tag": "p",
+    "text": "You just need to wrap the return expression with make_response() and get the response object to modify it, then return it:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1576,
+    "tag": "pre",
+    "text": "from flask import make_response @app.errorhandler(404) def not_found(error): resp = make_response(render_template('error.html'), 404) resp.headers['X-Something'] = 'A value' return resp",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1617,
+    "tag": "h3",
+    "text": "APIs with JSON¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1619,
+    "tag": "p",
+    "text": "A common response format when writing an API is JSON. It’s easy to get started writing such an API with Flask. If you return a dict or list from a view, it will be converted to a JSON response.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1626,
+    "tag": "pre",
+    "text": "@app.route(\"/me\") def me_api(): user = get_current_user() return { \"username\": user.username, \"theme\": user.theme, \"image\": url_for(\"user_image\", filename=user.image), } @app.route(\"/users\") def users_api(): users = get_all_users() return [user.to_json() for user in users]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1694,
+    "tag": "p",
+    "text": "This is a shortcut to passing the data to the jsonify() function, which will serialize any supported JSON data type. That means that all the data in the dict or list must be JSON serializable.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1698,
+    "tag": "p",
+    "text": "For complex types such as database models, you’ll want to use a serialization library to convert the data to valid JSON types first. There are many serialization libraries and Flask API extensions maintained by the community that support more complex applications.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1701,
+    "tag": "h2",
+    "text": "Sessions¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1703,
+    "tag": "p",
+    "text": "In addition to the request object there is also a second object called session which allows you to store information specific to a user from one request to the next. This is implemented on top of cookies for you and signs the cookies cryptographically. What this means is that the user could look at the contents of your cookie but not modify it, unless they know the secret key used for signing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1707,
+    "tag": "p",
+    "text": "In order to use sessions you have to set a secret key. Here is how sessions work:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1710,
+    "tag": "pre",
+    "text": "from flask import session # Set the secret key to some random bytes. Keep this really secret! app.secret_key = b'_5#y2L\"F4Q8z\\n\\xec]/' @app.route('/') def index(): if 'username' in session: return f'Logged in as {session[\"username\"]}' return 'You are not logged in' @app.route('/login', methods=['GET', 'POST']) def login(): if request.method == 'POST': session['username'] = request.form['username'] return redirect(url_for('index')) return ''' <form method=\"post\"> <p><input type=text name=username> <p><input type=submit value=Login> </form> ''' @app.route('/logout') def logout(): # remove the username from the session if it's there session.pop('username', None) return redirect(url_for('index'))",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1830,
+    "tag": "p",
+    "text": "How to generate good secret keys",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 1831,
+    "tag": "p",
+    "text": "A secret key should be as random as possible. Your operating system has ways to generate pretty random data based on a cryptographic random generator. Use the following command to quickly generate a value for Flask.secret_key (or SECRET_KEY):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1839,
+    "tag": "pre",
+    "text": "$ python -c 'import secrets; print(secrets.token_hex())' '192b9bdd22ab9ed4d12e236c78afcb9a393ec15f71bbf5dc987d54727823bcbf'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1841,
+    "tag": "p",
+    "text": "A note on cookie-based sessions: Flask will take the values you put into the session object and serialize them into a cookie. If you are finding some values do not persist across requests, cookies are indeed enabled, and you are not getting a clear error message, check the size of the cookie in your page responses compared to the size supported by web browsers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1842,
+    "tag": "p",
+    "text": "Besides the default client-side based sessions, if you want to handle sessions on the server-side instead, there are several Flask extensions that support this.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1844,
+    "tag": "h2",
+    "text": "Message Flashing¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1846,
+    "tag": "p",
+    "text": "Good applications and user interfaces are all about feedback. If the user does not get enough feedback they will probably end up hating the application. Flask provides a really simple way to give feedback to a user with the flashing system. The flashing system basically makes it possible to record a message at the end of a request and access it on the next (and only the next) request. This is usually combined with a layout template to expose the message.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1847,
+    "tag": "p",
+    "text": "To flash a message use the flash() method, to get hold of the messages you can use get_flashed_messages() which is also available in the templates. See Message Flashing for a full example.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1857,
+    "tag": "h2",
+    "text": "Logging¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1862,
+    "tag": "p",
+    "text": "Added in version 0.3.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1864,
+    "tag": "p",
+    "text": "Sometimes you might be in a situation where you deal with data that should be correct, but actually is not. For example you may have some client-side code that sends an HTTP request to the server but it’s obviously malformed. This might be caused by a user tampering with the data, or the client code failing. Most of the time it’s okay to reply with 400 Bad Request in that situation, but sometimes that won’t do and the code has to continue working.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1869,
+    "tag": "p",
+    "text": "You may still want to log that something fishy happened. This is where loggers come in handy. As of Flask 0.3 a logger is preconfigured for you to use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1870,
+    "tag": "p",
+    "text": "Here are some example log calls:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1873,
+    "tag": "pre",
+    "text": "app.logger.debug('A value for debugging') app.logger.warning('A warning occurred (%d apples)', 42) app.logger.error('An error occurred')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1903,
+    "tag": "p",
+    "text": "The attached logger is a standard logging Logger, so head over to the official logging docs for more information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1913,
+    "tag": "p",
+    "text": "See Handling Application Errors.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1917,
+    "tag": "h2",
+    "text": "Hooking in WSGI Middleware¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1919,
+    "tag": "p",
+    "text": "To add WSGI middleware to your Flask application, wrap the application’s wsgi_app attribute. For example, to apply Werkzeug’s ProxyFix middleware for running behind Nginx:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1927,
+    "tag": "pre",
+    "text": "from werkzeug.middleware.proxy_fix import ProxyFix app.wsgi_app = ProxyFix(app.wsgi_app)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1945,
+    "tag": "p",
+    "text": "Wrapping app.wsgi_app instead of app means that app still points at your Flask application, not at the middleware, so you can continue to use and configure app directly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1955,
+    "tag": "h2",
+    "text": "Using Flask Extensions¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1957,
+    "tag": "p",
+    "text": "Extensions are packages that help you accomplish common tasks. For example, Flask-SQLAlchemy provides SQLAlchemy support that makes it simple and easy to use with Flask.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1958,
+    "tag": "p",
+    "text": "For more on Flask extensions, see Extensions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1962,
+    "tag": "h2",
+    "text": "Deploying to a Web Server¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1964,
+    "tag": "p",
+    "text": "Ready to deploy your new Flask app? See Deploying to Production.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1974,
+    "tag": "h3",
+    "text": "Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1976,
+    "tag": "li",
+    "text": "Quickstart A Minimal Application Debug Mode HTML Escaping Routing Variable Rules Unique URLs / Redirection Behavior URL Building HTTP Methods Static Files Rendering Templates Accessing Request Data Context Locals The Request Object File Uploads Cookies Redirects and Errors About Responses APIs with JSON Sessions Message Flashing Logging Hooking in WSGI Middleware Using Flask Extensions Deploying to a Web Server",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1979,
+    "tag": "li",
+    "text": "A Minimal Application",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1981,
+    "tag": "li",
+    "text": "Debug Mode",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1983,
+    "tag": "li",
+    "text": "HTML Escaping",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1985,
+    "tag": "li",
+    "text": "Routing Variable Rules Unique URLs / Redirection Behavior URL Building HTTP Methods",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1988,
+    "tag": "li",
+    "text": "Variable Rules",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1990,
+    "tag": "li",
+    "text": "Unique URLs / Redirection Behavior",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1992,
+    "tag": "li",
+    "text": "URL Building",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1994,
+    "tag": "li",
+    "text": "HTTP Methods",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1996,
+    "tag": "li",
+    "text": "Static Files",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1998,
+    "tag": "li",
+    "text": "Rendering Templates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2000,
+    "tag": "li",
+    "text": "Accessing Request Data Context Locals The Request Object File Uploads Cookies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2003,
+    "tag": "li",
+    "text": "Context Locals",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2005,
+    "tag": "li",
+    "text": "The Request Object",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2007,
+    "tag": "li",
+    "text": "File Uploads",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2009,
+    "tag": "li",
+    "text": "Cookies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2011,
+    "tag": "li",
+    "text": "Redirects and Errors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2013,
+    "tag": "li",
+    "text": "About Responses APIs with JSON",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2016,
+    "tag": "li",
+    "text": "APIs with JSON",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2018,
+    "tag": "li",
+    "text": "Sessions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2020,
+    "tag": "li",
+    "text": "Message Flashing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2022,
+    "tag": "li",
+    "text": "Logging",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2024,
+    "tag": "li",
+    "text": "Hooking in WSGI Middleware",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2026,
+    "tag": "li",
+    "text": "Using Flask Extensions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2028,
+    "tag": "li",
+    "text": "Deploying to a Web Server",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2030,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2032,
+    "tag": "li",
+    "text": "Overview Previous: Installation Next: Tutorial",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2035,
+    "tag": "li",
+    "text": "Previous: Installation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2037,
+    "tag": "li",
+    "text": "Next: Tutorial",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2040,
+    "tag": "h3",
+    "text": "Quick search",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "searchlabel"
+    }
+  }
+]

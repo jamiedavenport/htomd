@@ -1,0 +1,30 @@
+# How many chromosomes do people have?
+
+In humans, each cell normally contains 23 pairs of chromosomes, for a total of 46. Twenty-two of these pairs, called autosomes, look the same in both males and females. The 23rd pair, the sex chromosomes, differ between males and females. Females have two copies of the [X chromosome](https://medlineplus.gov/genetics/chromosome/x/), while males have one X and one [Y chromosome](https://medlineplus.gov/genetics/chromosome/y/).
+
+**The 22 autosomes are numbered by size. The other two chromosomes, X and Y, are the sex chromosomes. This picture of the human chromosomes lined up in pairs is called a karyotype.**
+
+![A normal male karyotype with 22 autosomes, one X chromosome, and one Y chromosome.](https://medlineplus.gov/images/PX00009O_PRESENTATION.jpeg)
+
+Credit: U.S. National Library of Medicine
+
+## For more information about the 23 pairs of human chromosomes:
+
+MedlinePlus Genetics provides [information about each human chromosome](https://medlineplus.gov/genetics/chromosome/) written in lay language.![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+MedlinePlus offers general information about [chromosomes](https://medlineplus.gov/ency/article/002327.htm) and [karyotype tests](https://medlineplus.gov/lab-tests/karyotype-genetic-test/).![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+The University of Utah's Genetic Science Learning Center discusses [how karyotypes can be used in diagnosing genetic disorders](https://learn.genetics.utah.edu/content/basics/diagnose/).
+
+## Topics in the Cells and DNA chapter
+
+- [What is a cell?](https://medlineplus.gov/genetics/understanding/basics/cell/)
+- [What is DNA?](https://medlineplus.gov/genetics/understanding/basics/dna/)
+- [What is a gene?](https://medlineplus.gov/genetics/understanding/basics/gene/)
+- [What is a chromosome?](https://medlineplus.gov/genetics/understanding/basics/chromosome/)
+- How many chromosomes do people have?
+- [What is noncoding DNA?](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)
+
+[Other chapters in Help Me Understand Genetics](https://medlineplus.gov/genetics/understanding/)
+
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.

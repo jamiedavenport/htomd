@@ -1,0 +1,447 @@
+[
+  {
+    "node_index": 27,
+    "tag": "h2",
+    "text": "Keyboard shortcuts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mdbook-help-title"
+    }
+  },
+  {
+    "node_index": 29,
+    "tag": "p",
+    "text": "Press ← or → to navigate between chapters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 32,
+    "tag": "p",
+    "text": "Press S or / to search in the book",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 35,
+    "tag": "p",
+    "text": "Press ? to show this help",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 37,
+    "tag": "p",
+    "text": "Press Esc to hide this help",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 62,
+    "tag": "li",
+    "text": "Auto",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "li",
+    "text": "Light",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none"
+    }
+  },
+  {
+    "node_index": 66,
+    "tag": "li",
+    "text": "Rust",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none"
+    }
+  },
+  {
+    "node_index": 68,
+    "tag": "li",
+    "text": "Coal",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none"
+    }
+  },
+  {
+    "node_index": 70,
+    "tag": "li",
+    "text": "Navy",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none"
+    }
+  },
+  {
+    "node_index": 72,
+    "tag": "li",
+    "text": "Ayu",
+    "label": "unreviewed",
+    "formatting": {
+      "role": "none"
+    }
+  },
+  {
+    "node_index": 77,
+    "tag": "h1",
+    "text": "The Rust Programming Language",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-title"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "h2",
+    "text": "Hello, World!",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "hello-world"
+    }
+  },
+  {
+    "node_index": 100,
+    "tag": "p",
+    "text": "Now that you’ve installed Rust, it’s time to write your first Rust program. It’s traditional when learning a new language to write a little program that prints the text Hello, world! to the screen, so we’ll do the same here!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "p",
+    "text": "Note: This book assumes basic familiarity with the command line. Rust makes no specific demands about your editing or tooling or where your code lives, so if you prefer to use an IDE instead of the command line, feel free to use your favorite IDE. Many IDEs now have some degree of Rust support; check the IDE’s documentation for details. The Rust team has been focusing on enabling great IDE support via rust-analyzer. See Appendix D for more details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 108,
+    "tag": "h3",
+    "text": "Project Directory Setup",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "project-directory-setup"
+    }
+  },
+  {
+    "node_index": 110,
+    "tag": "p",
+    "text": "You’ll start by making a directory to store your Rust code. It doesn’t matter to Rust where your code lives, but for the exercises and projects in this book, we suggest making a projects directory in your home directory and keeping all your projects there.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "p",
+    "text": "Open a terminal and enter the following commands to make a projects directory and a directory for the “Hello, world!” project within the projects directory.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 115,
+    "tag": "p",
+    "text": "For Linux, macOS, and PowerShell on Windows, enter this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 116,
+    "tag": "pre",
+    "text": "$ mkdir ~/projects $ cd ~/projects $ mkdir hello_world $ cd hello_world",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 118,
+    "tag": "p",
+    "text": "For Windows CMD, enter this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 119,
+    "tag": "pre",
+    "text": "> mkdir \"%USERPROFILE%\\projects\" > cd /d \"%USERPROFILE%\\projects\" > mkdir hello_world > cd hello_world",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 123,
+    "tag": "h3",
+    "text": "Rust Program Basics",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "rust-program-basics"
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "p",
+    "text": "Next, make a new source file and call it main.rs. Rust files always end with the .rs extension. If you’re using more than one word in your filename, the convention is to use an underscore to separate them. For example, use hello_world.rs rather than helloworld.rs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 130,
+    "tag": "p",
+    "text": "Now open the main.rs file you just created and enter the code in Listing 1-1.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 134,
+    "tag": "pre",
+    "text": "fn main() { println!(\"Hello, world!\"); }",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "playground"
+    }
+  },
+  {
+    "node_index": 136,
+    "tag": "figcaption",
+    "text": "Listing 1-1: A program that prints Hello, world!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "p",
+    "text": "Save the file and go back to your terminal window in the ~/projects/hello_world directory. On Linux or macOS, enter the following commands to compile and run the file:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 141,
+    "tag": "pre",
+    "text": "$ rustc main.rs $ ./main Hello, world!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 143,
+    "tag": "p",
+    "text": "On Windows, enter the command .\\main instead of ./main:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 146,
+    "tag": "pre",
+    "text": "> rustc main.rs > .\\main Hello, world!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 148,
+    "tag": "p",
+    "text": "Regardless of your operating system, the string Hello, world! should print to the terminal. If you don’t see this output, refer back to the “Troubleshooting” part of the Installation section for ways to get help.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 151,
+    "tag": "p",
+    "text": "If Hello, world! did print, congratulations! You’ve officially written a Rust program. That makes you a Rust programmer—welcome!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 155,
+    "tag": "h3",
+    "text": "The Anatomy of a Rust Program",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "the-anatomy-of-a-rust-program"
+    }
+  },
+  {
+    "node_index": 157,
+    "tag": "p",
+    "text": "Let’s review this “Hello, world!” program in detail. Here’s the first piece of the puzzle:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "pre",
+    "text": "fn main() { }",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "playground"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "p",
+    "text": "These lines define a function named main. The main function is special: It is always the first code that runs in every executable Rust program. Here, the first line declares a function named main that has no parameters and returns nothing. If there were parameters, they would go inside the parentheses (()).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 165,
+    "tag": "p",
+    "text": "The function body is wrapped in {}. Rust requires curly brackets around all function bodies. It’s good style to place the opening curly bracket on the same line as the function declaration, adding one space in between.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "p",
+    "text": "Note: If you want to stick to a standard style across Rust projects, you can use an automatic formatter tool called rustfmt to format your code in a particular style (more on rustfmt in Appendix D). The Rust team has included this tool with the standard Rust distribution, as rustc is, so it should already be installed on your computer!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 173,
+    "tag": "p",
+    "text": "The body of the main function holds the following code:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 175,
+    "tag": "pre",
+    "text": "#![allow(unused)] fn main() { println!(\"Hello, world!\"); }",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "playground"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "p",
+    "text": "This line does all the work in this little program: It prints text to the screen. There are three important details to notice here.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "p",
+    "text": "First, println! calls a Rust macro. If it had called a function instead, it would be entered as println (without the !). Rust macros are a way to write code that generates code to extend Rust syntax, and we’ll discuss them in more detail in Chapter 20. For now, you just need to know that using a ! means that you’re calling a macro instead of a normal function and that macros don’t always follow the same rules as functions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 187,
+    "tag": "p",
+    "text": "Second, you see the \"Hello, world!\" string. We pass this string as an argument to println!, and the string is printed to the screen.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 190,
+    "tag": "p",
+    "text": "Third, we end the line with a semicolon (;), which indicates that this expression is over, and the next one is ready to begin. Most lines of Rust code end with a semicolon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "h3",
+    "text": "Compilation and Execution",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "compilation-and-execution"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "p",
+    "text": "You’ve just run a newly created program, so let’s examine each step in the process.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 197,
+    "tag": "p",
+    "text": "Before running a Rust program, you must compile it using the Rust compiler by entering the rustc command and passing it the name of your source file, like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 199,
+    "tag": "pre",
+    "text": "$ rustc main.rs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "p",
+    "text": "If you have a C or C++ background, you’ll notice that this is similar to gcc or clang. After compiling successfully, Rust outputs a binary executable.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "p",
+    "text": "On Linux, macOS, and PowerShell on Windows, you can see the executable by entering the ls command in your shell:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 206,
+    "tag": "pre",
+    "text": "$ ls main main.rs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "p",
+    "text": "On Linux and macOS, you’ll see two files. With PowerShell on Windows, you’ll see the same three files that you would see using CMD. With CMD on Windows, you would enter the following:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "pre",
+    "text": "> dir /B %= the /B option says to only show the file names =% main.exe main.pdb main.rs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "p",
+    "text": "This shows the source code file with the .rs extension, the executable file (main.exe on Windows, but main on all other platforms), and, when using Windows, a file containing debugging information with the .pdb extension. From here, you run the main or main.exe file, like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 218,
+    "tag": "pre",
+    "text": "$ ./main # or .\\main on Windows",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 220,
+    "tag": "p",
+    "text": "If your main.rs is your “Hello, world!” program, this line prints Hello, world! to your terminal.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "p",
+    "text": "If you’re more familiar with a dynamic language, such as Ruby, Python, or JavaScript, you might not be used to compiling and running a program as separate steps. Rust is an ahead-of-time compiled language, meaning you can compile a program and give the executable to someone else, and they can run it even without having Rust installed. If you give someone a .rb, .py, or .js file, they need to have a Ruby, Python, or JavaScript implementation installed (respectively). But in those languages, you only need one command to compile and run your program. Everything is a trade-off in language design.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "p",
+    "text": "Just compiling with rustc is fine for simple programs, but as your project grows, you’ll want to manage all the options and make it easy to share your code. Next, we’ll introduce you to the Cargo tool, which will help you write real-world Rust programs.",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

@@ -1,0 +1,33 @@
+# DOE Explains...Quantum Computing
+
+![Photograph of part of a quantum computer consisting of gold plates connected by gold wires and silver tubes.](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-quantum-computing.png?itok=vYEOMpMS)
+
+DOE’s Lawrence Berkeley National Laboratory is using a sophisticated cooling system to keep qubits – the heart of quantum computers – cold enough for scientists to study them for use in quantum computers.
+
+Image courtesy of Lawrence Berkeley National Laboratory
+
+**Quantum computers** are computers that consist of quantum bits, or “qubits,” that play a similar role to the bits in today's digital computers. The laws of [quantum mechanics](https://www.energy.gov/science/doe-explainsquantum-mechanics) allow qubits to encode exponentially more information than bits. By manipulating information stored in these qubits, scientists can quickly produce high-quality solutions to difficult problems. This means quantum computing may revolutionize our ability to solve problems that are hard to address with even the largest supercomputers. Scientists have demonstrated these quantum speedups in several applications, including database searches. The race is now on to find others.
+
+Researchers expect quantum computers to be particularly good at calculating properties of physical systems that are inherently quantum mechanical. These applications include molecules used as chemical catalysts, which despite their large size are subject to quantum mechanics. They also include the [quarks and gluons](https://www.energy.gov/science/doe-explainsquarks-and-gluons) that clump together inside the [nuclei](https://www.energy.gov/science/doe-explainsnuclei) of atoms. Quantum computers may also be especially good at solving optimization problems, which involve choosing the best alternative from a huge range of options. The quantum computers available today are small, noisy prototypes, but the field is progressing rapidly. Quantum computers may soon become a critical part of the computing landscape as we move beyond cutting-edge Exascale computers.
+
+## DOE Office of Science: Contributions to Quantum Computing
+
+Support for quantum computing research originated in the Advanced Scientific Computing Research program in 2017 and rapidly spread across the Office of Science. The research portfolio now includes applications in nuclear and particle physics, plasma science, chemistry, and materials. It also includes improving the fundamental building blocks of quantum computers, developing sophisticated control to make the most of any group of qubits, and computer science research that will ultimately make quantum computers easier to use.
+
+## Quantum Computing Facts
+
+- Quantum computers harness the laws of quantum mechanics to perform certain calculations exponentially faster than today’s supercomputers.
+- DOE’s Office of Science supports two quantum computing testbeds to advance the state of the art in quantum computing hardware.
+- Applications of quantum computing may one day have repercussions for both science and industry.
+
+## Resources and Related Terms
+
+- [Department of Energy – Quantum Information Sciences](https://science.osti.gov/Initiatives/QIS)
+- [National Academies of Sciences, Engineering, and Medicine 2019 Report: **Quantum Computing: Progress and Prospects**](https://www.nap.edu/catalog/25196/quantum-computing-progress-and-prospects)
+- [Advanced Quantum Testbed](https://aqt.lbl.gov/) at Lawrence Berkeley National Laboratory
+- [Quantum Scientific Computing Open User Testbed](https://qscout.sandia.gov/) at Sandia National Laboratories
+- Science Highlight: [Half-Quantum Step Toward Quantum Advantage](https://science.osti.gov/bes/Highlights/2020/BES-2020-02-b)
+- Science Highlight: [New Error Mitigation Approach Helps Quantum Computer Level Up](https://science.osti.gov/ascr/Highlights/2022/ASCR-2022-04-b)
+- Quantum computing feature story: [Learning to Speak a Whole New Technology](https://www.energy.gov/science/articles/quantum-computing-learning-speak-whole-new-technology)
+
+*Scientific terms can be confusing.* [*DOE Explains*](https://www.energy.gov/science/doe-explains) *offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.*

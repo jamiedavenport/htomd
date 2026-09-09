@@ -1,0 +1,15 @@
+# The Coriolis Effect
+
+## Currents Tutorial
+
+[![Atmospheric circulation sans earth rotation.](https://oceanservice.noaa.gov/education/tutorial_currents/media/high_n_low_pressure240.gif)](https://oceanservice.noaa.gov/education/tutorial_currents/media/supp_cur04a.html)
+
+If the Earth did not rotate on its axis, the atmosphere would only circulate between the poles and the equator in a simple back-and-forth pattern. **Click the image** for a larger view.
+
+[![Coriolis effect on atmospheric circulation.](https://oceanservice.noaa.gov/education/tutorial_currents/media/coriolis_effect_240.gif)](https://oceanservice.noaa.gov/education/tutorial_currents/media/supp_cur04b.html)
+
+Because the Earth rotates on its axis, circulating air is deflected toward the right in the Northern Hemisphere and toward the left in the Southern Hemisphere. This deflection is called the Coriolis effect. **Click the image** for a larger view.
+
+Coastal currents are affected by local winds. Surface ocean currents, which occur on the open ocean, are driven by a complex global wind system. To understand the effects of winds on ocean currents, one first needs to understand the Coriolis force and the Ekman spiral.
+
+If the Earth did not rotate and remained stationary, the atmosphere would circulate between the poles (high pressure areas) and the equator (a low pressure area) in a simple back-and-forth pattern. But because the Earth rotates, circulating air is deflected. Instead of circulating in a straight pattern, the air deflects toward the right in the Northern Hemisphere and toward the left in the Southern Hemisphere, resulting in curved paths. This deflection is called the Coriolis effect. It is named after the French mathematician Gaspard Gustave de Coriolis (1792-1843), who studied the transfer of energy in rotating systems like waterwheels. (Ross, 1995).

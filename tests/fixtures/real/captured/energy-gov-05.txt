@@ -1,0 +1,40 @@
+# DOE Explains...Neutrons
+
+![Researchers used neutrons to investigate how the coronavirus responsible for COVID-19 uses its spike proteins to bind to the cell membrane and cause viral infection.](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-neutrons.png?itok=7TgJX7Dy)
+
+Researchers used neutrons to investigate how the coronavirus responsible for COVID-19 uses its spike proteins to bind to the cell membrane and cause viral infection.
+
+Image courtesy of Jill Hemman, Oak Ridge National Laboratory
+
+**Neutrons**, along with protons, are subatomic particles found inside the [nucleus](https://www.energy.gov/science/doe-explainsnuclei) of every atom. The only exception is hydrogen, where the nucleus contains only a single [proton](https://www.energy.gov/science/doe-explainsprotons). Neutrons have a neutral electric charge (neither negative nor positive) and have slightly more mass than positively charged protons. “Free” neutrons are those no longer confined inside a nucleus. These free neutrons are produced by [fission](https://www.energy.gov/science/doe-explainsnuclear-fission) and [fusion](https://www.energy.gov/science/doe-explainsfusion-reactions) processes.
+
+Neutrons are an important tool for research in medicine, materials, and other fields. Scientists produce neutrons at research reactors and particle accelerators. Researchers project these neutrons onto samples of materials. Some of the neutrons interact directly with atoms in the sample and “bounce” away at different angles, like cue balls colliding in a game of pool. This technique is called neutron scattering. Scientists use special high-speed detectors to capture the scattered neutrons and measure their energy, speed, and direction. This information helps researchers calculate the materials’ properties, such as the shape and sizes of crystals and molecules.
+
+## DOE Office of Science: Contributions to Neutron Science
+
+Research supported by the Department of Energy (DOE) Office of Science, Office of Basic Energy Sciences has contributed to breakthrough—even Nobel Prize-winning—discoveries and measurements involving neutron science.
+
+Neutron research has helped scientists discover new states of matter and see how materials perform inside machinery. Neutron science helped to identify ways for new vaccines to target viruses, to develop quantum materials, and to move closer to high-temperature [superconductivity](https://www.energy.gov/science/doe-explainssuperconductivity). Neutron science has enabled developments such as cell phones, medical scanners, jet engines, high-strength steels, safer and longer lasting batteries, cancer treatments, and more.
+
+DOE supports several important neutron scattering and imaging facilities. These include the High Flux Isotope Reactor and Spallation Neutron Source at Oak Ridge National Laboratory and the Los Alamos Neutron Science Center at Los Alamos National Laboratory.
+
+## Fast Facts
+
+- The neutron was first discovered in 1932.
+- All around us is a faint, natural “background” of free neutrons created by cosmic rays entering our atmosphere and by natural radioactivity from the Earth’s crust.
+- Neutrons can be a nondestructive way of analyzing material properties, meaning they don’t harm materials during testing like other methods can.
+- Scientists have used neutrons to examine archeological artifacts. For example, researchers used neutrons for forensic tests on President Zachary Taylor’s hair to prove he wasn’t poisoned when he died in 1850.
+
+## Resources
+
+- DOE Office of Science, [Basic Energy Sciences](https://www.energy.gov/science/bes/basic-energy-sciences) ​​​​​​​
+- The [Weapons Neutron Research Facility](https://lansce.lanl.gov/facilities/wnr/index.php) at Los Alamos Neutron Science Center
+- Virtual tours of the [Spallation Neutron Source](https://neutrons.ornl.gov/sns) and [High Flux Isotope Reactor](https://neutrons.ornl.gov/hfir)
+- Science Highlight: [A Cousin of Table Salt Could Make Energy Storage Faster and Safer](https://www.energy.gov/science/bes/articles/cousin-table-salt-could-make-energy-storage-faster-and-safer)
+- Science Highlight: [Even Superalloys Get Creeped Out from Stress](https://www.energy.gov/science/bes/articles/even-superalloys-get-creeped-out-stress)
+- Images of [COVID-19 Neutron Research](https://www.flickr.com/photos/ornl-neutronsciences/albums/72157713916450896)
+- Video: [75-second history: Neutron scattering](https://www.youtube.com/watch?v=_uG6KLa4AtE&t=25s)
+- Video: [Neutrons peer into a running engine](https://www.youtube.com/watch?v=BYXy5CYN9TQ)
+- Video: [Behind the scenes of the Spallation Neutron Source - The linear accelerator](https://www.youtube.com/watch?v=KWcyHXIRhwE)
+
+*Scientific terms can be confusing.* [*DOE Explains*](https://www.energy.gov/science/doe-explains) *offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.*

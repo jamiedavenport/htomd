@@ -1,0 +1,519 @@
+[
+  {
+    "node_index": 79,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Census.gov /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "About the Bureau /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 316,
+    "tag": "li",
+    "text": "Our History /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "Historical Censuses & Surveys /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 322,
+    "tag": "li",
+    "text": "Survey and Census History /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 325,
+    "tag": "li",
+    "text": "Geographic Programs History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 331,
+    "tag": "h1",
+    "text": "Geographic Programs History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "History of Census Tracts and Blocks",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "History of Geographic Regions and Divisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 347,
+    "tag": "li",
+    "text": "History of Island Areas Censuses",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "History of Metropolitan Areas",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 353,
+    "tag": "li",
+    "text": "History of Urban and Rural Areas",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 356,
+    "tag": "li",
+    "text": "How We Map",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 359,
+    "tag": "li",
+    "text": "Notable Maps Through History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 362,
+    "tag": "li",
+    "text": "Statistical Atlases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 376,
+    "tag": "li",
+    "text": "FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 380,
+    "tag": "li",
+    "text": "History of Census Tracts and Blocks",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 384,
+    "tag": "li",
+    "text": "History of Geographic Regions and Divisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 388,
+    "tag": "li",
+    "text": "History of Island Areas Censuses",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "li",
+    "text": "History of Metropolitan Areas",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 396,
+    "tag": "li",
+    "text": "History of Urban and Rural Areas",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 400,
+    "tag": "li",
+    "text": "How We Map",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 404,
+    "tag": "li",
+    "text": "Notable Maps Through History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 408,
+    "tag": "li",
+    "text": "Statistical Atlases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 416,
+    "tag": "h1",
+    "text": "Geographic Programs History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 422,
+    "tag": "p",
+    "text": "Maps are a unique way to study statistical information, making it very easy to compare data across geographic areas. They also provide a quick reference point that can be interpreted by almost anyone, regardless of educational level.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "p",
+    "text": "The U.S. Census Bureau produced its first map based on census results when it published James D.B. DeBow's 1854 map. Despite this early effort, maps were painstakingly difficult to produce. It was not until the end of the 19th and early 20th century that the Census Bureau regularly published maps, beginning with the statistical atlases produced by Francis A. Walker and Henry Gannett. After Gannett's departure from the Census Bureau, development of atlases for the 1930 and later censuses languished.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "The computer revolution of the mid-20th century revitalized interest in development and publication of maps at the Census Bureau. Cartography has since become increasingly important to the operations and planning for the census, with census-takers using detailed maps to precisely locate housing units.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 425,
+    "tag": "p",
+    "text": "From J.D.B. DeBow's first regional map of the continental United States, to the development of the TIGER digital mapping system, to the new National Atlas, the Census Bureau has played an important role in the development of American cartography since the nineteenth century.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 432,
+    "tag": "p",
+    "text": "Missouri Congressional District Map",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 436,
+    "tag": "h2",
+    "text": "For more information:",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 440,
+    "tag": "li",
+    "text": "Working Paper History of Cartography at the Census Bureau and What the Future Holds November 15, 2010 This paper will detail the history of cartographic developments at the Census Bureau as well as examine where the Bureau may be heading in the coming years.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-text__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 454,
+    "tag": "p",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-sub-heading-2 uscb-medium uscb-margin-TB-0 component-title"
+    }
+  },
+  {
+    "node_index": 484,
+    "tag": "h2",
+    "text": "HTTP ERROR 404 Not Found",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 487,
+    "tag": "th",
+    "text": "URI:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "td",
+    "text": "/content/census/en/about/history/historical-censuses-and-surveys/census-programs-surveys/geography/_jcr_content/root/responsivegrid_1843152900/relatedinfolist.nocache.html/census/components/common/body/relatedinfolist.vsdi",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 490,
+    "tag": "th",
+    "text": "STATUS:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 491,
+    "tag": "td",
+    "text": "404",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 493,
+    "tag": "th",
+    "text": "MESSAGE:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 494,
+    "tag": "td",
+    "text": "Not Found",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 496,
+    "tag": "th",
+    "text": "SERVLET:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 497,
+    "tag": "td",
+    "text": "org.apache.felix.http.base.internal.dispatch.DispatcherServlet-2e2c122d",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 548,
+    "tag": "p",
+    "text": "Top",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-top-label uscb-text-align-center"
+    }
+  },
+  {
+    "node_index": 555,
+    "tag": "p",
+    "text": "Receive Updates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-title",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 556,
+    "tag": "p",
+    "text": "To sign up for updates please enter your email address.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-text uscb-margin-T-0 uscb-margin-B-30",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 569,
+    "tag": "p",
+    "text": "Stay Current",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 572,
+    "tag": "p",
+    "text": "America Counts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 574,
+    "tag": "p",
+    "text": "Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 576,
+    "tag": "p",
+    "text": "Deputy Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "p",
+    "text": "Random Samplings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 580,
+    "tag": "p",
+    "text": "Research Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 582,
+    "tag": "p",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 585,
+    "tag": "p",
+    "text": "Contact",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 587,
+    "tag": "p",
+    "text": "Support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 589,
+    "tag": "p",
+    "text": "Jobs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 591,
+    "tag": "p",
+    "text": "Follow",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 623,
+    "tag": "p",
+    "text": "Measuring America's People and Economy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-tag-line"
+    }
+  }
+]

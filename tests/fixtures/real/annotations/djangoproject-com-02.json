@@ -1,0 +1,2760 @@
+[
+  {
+    "node_index": 54,
+    "tag": "p",
+    "text": "The web framework for perfectionists with deadlines.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "meta"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Download",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Code",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Issues",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Community",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "Foundation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "♥ Sponsor",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 98,
+    "tag": "p",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 102,
+    "tag": "h2",
+    "text": "Until September 10, get PyCharm for 30% off!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Getting Help",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current-link"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Language: en",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current"
+    }
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "zh-hans",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "sv",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "pt-br",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "pl",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "ko",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "ja",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "it",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "id",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "fr",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "es",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 140,
+    "tag": "li",
+    "text": "el",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Documentation version: 5.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current "
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "dev",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "6.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "6.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "5.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "5.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "4.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "4.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "3.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "3.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "3.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "2.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "2.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "2.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "1.11",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "1.10",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "1.9",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "1.8",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "h1",
+    "text": "URL dispatcher¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 191,
+    "tag": "p",
+    "text": "A clean, elegant URL scheme is an important detail in a high-quality web application. Django lets you design URLs however you want, with no framework limitations.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "p",
+    "text": "See Cool URIs don’t change, by World Wide Web creator Tim Berners-Lee, for excellent arguments on why URLs should be clean and usable.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "h2",
+    "text": "Overview¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "p",
+    "text": "To design URLs for an app, you create a Python module informally called a URLconf (URL configuration). This module is pure Python code and is a mapping between URL path expressions to Python functions (your views).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "p",
+    "text": "This mapping can be as short or as long as needed. It can reference other mappings. And, because it’s pure Python code, it can be constructed dynamically.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "p",
+    "text": "Django also provides a way to translate URLs according to the active language. See the internationalization documentation for more information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "h2",
+    "text": "How Django processes a request¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 210,
+    "tag": "p",
+    "text": "When a user requests a page from your Django-powered site, this is the algorithm the system follows to determine which Python code to execute:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Django determines the root URLconf module to use. Ordinarily, this is the value of the ROOT_URLCONF setting, but if the incoming HttpRequest object has a urlconf attribute (set by middleware), its value will be used in place of the ROOT_URLCONF setting.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 213,
+    "tag": "p",
+    "text": "Django determines the root URLconf module to use. Ordinarily, this is the value of the ROOT_URLCONF setting, but if the incoming HttpRequest object has a urlconf attribute (set by middleware), its value will be used in place of the ROOT_URLCONF setting.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "Django loads that Python module and looks for the variable urlpatterns. This should be a sequence of django.urls.path() and/or django.urls.re_path() instances.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 226,
+    "tag": "p",
+    "text": "Django loads that Python module and looks for the variable urlpatterns. This should be a sequence of django.urls.path() and/or django.urls.re_path() instances.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Django runs through each URL pattern, in order, and stops at the first one that matches the requested URL, matching against path_info.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "p",
+    "text": "Django runs through each URL pattern, in order, and stops at the first one that matches the requested URL, matching against path_info.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Once one of the URL patterns matches, Django imports and calls the given view, which is a Python function (or a class-based view). The view gets passed the following arguments: An instance of HttpRequest. If the matched URL pattern contained no named groups, then the matches from the regular expression are provided as positional arguments. The keyword arguments are made up of any named parts matched by the path expression that are provided, overridden by any arguments specified in the optional kwargs argument to django.urls.path() or django.urls.re_path().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 243,
+    "tag": "p",
+    "text": "Once one of the URL patterns matches, Django imports and calls the given view, which is a Python function (or a class-based view). The view gets passed the following arguments:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "An instance of HttpRequest.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "p",
+    "text": "An instance of HttpRequest.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "If the matched URL pattern contained no named groups, then the matches from the regular expression are provided as positional arguments.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "p",
+    "text": "If the matched URL pattern contained no named groups, then the matches from the regular expression are provided as positional arguments.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "The keyword arguments are made up of any named parts matched by the path expression that are provided, overridden by any arguments specified in the optional kwargs argument to django.urls.path() or django.urls.re_path().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 255,
+    "tag": "p",
+    "text": "The keyword arguments are made up of any named parts matched by the path expression that are provided, overridden by any arguments specified in the optional kwargs argument to django.urls.path() or django.urls.re_path().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "If no URL pattern matches, or if an exception is raised during any point in this process, Django invokes an appropriate error-handling view. See Error handling below.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 265,
+    "tag": "p",
+    "text": "If no URL pattern matches, or if an exception is raised during any point in this process, Django invokes an appropriate error-handling view. See Error handling below.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "h2",
+    "text": "Example¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "p",
+    "text": "Here’s a sample URLconf:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 274,
+    "tag": "pre",
+    "text": "from django.urls import path from . import views urlpatterns = [ path(\"articles/2003/\", views.special_case_2003), path(\"articles/<int:year>/\", views.year_archive), path(\"articles/<int:year>/<int:month>/\", views.month_archive), path(\"articles/<int:year>/<int:month>/<slug:slug>/\", views.article_detail), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 324,
+    "tag": "p",
+    "text": "Notes:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 326,
+    "tag": "li",
+    "text": "To capture a value from the URL, use angle brackets.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 327,
+    "tag": "p",
+    "text": "To capture a value from the URL, use angle brackets.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "li",
+    "text": "Captured values can optionally include a converter type. For example, use <int:name> to capture an integer parameter. If a converter isn’t included, any string, excluding a / character, is matched.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 329,
+    "tag": "p",
+    "text": "Captured values can optionally include a converter type. For example, use <int:name> to capture an integer parameter. If a converter isn’t included, any string, excluding a / character, is matched.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "li",
+    "text": "There’s no need to add a leading slash, because every URL has that. For example, it’s articles, not /articles.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 335,
+    "tag": "p",
+    "text": "There’s no need to add a leading slash, because every URL has that. For example, it’s articles, not /articles.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 340,
+    "tag": "p",
+    "text": "Example requests:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 342,
+    "tag": "li",
+    "text": "A request to /articles/2005/03/ would match the third entry in the list. Django would call the function views.month_archive(request, year=2005, month=3).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 343,
+    "tag": "p",
+    "text": "A request to /articles/2005/03/ would match the third entry in the list. Django would call the function views.month_archive(request, year=2005, month=3).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "/articles/2003/ would match the first pattern in the list, not the second one, because the patterns are tested in order, and the first one is the first test to pass. Feel free to exploit the ordering to insert special cases like this. Here, Django would call the function views.special_case_2003(request)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 351,
+    "tag": "p",
+    "text": "/articles/2003/ would match the first pattern in the list, not the second one, because the patterns are tested in order, and the first one is the first test to pass. Feel free to exploit the ordering to insert special cases like this. Here, Django would call the function views.special_case_2003(request)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 356,
+    "tag": "li",
+    "text": "/articles/2003 would not match any of these patterns, because each pattern requires that the URL end with a slash.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 357,
+    "tag": "p",
+    "text": "/articles/2003 would not match any of these patterns, because each pattern requires that the URL end with a slash.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 360,
+    "tag": "li",
+    "text": "/articles/2003/03/building-a-django-site/ would match the final pattern. Django would call the function views.article_detail(request, year=2003, month=3, slug=\"building-a-django-site\").",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 361,
+    "tag": "p",
+    "text": "/articles/2003/03/building-a-django-site/ would match the final pattern. Django would call the function views.article_detail(request, year=2003, month=3, slug=\"building-a-django-site\").",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 371,
+    "tag": "h2",
+    "text": "Path converters¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 373,
+    "tag": "p",
+    "text": "The following path converters are available by default:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 375,
+    "tag": "li",
+    "text": "str - Matches any non-empty string, excluding the path separator, '/'. This is the default if a converter isn’t included in the expression.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 376,
+    "tag": "p",
+    "text": "str - Matches any non-empty string, excluding the path separator, '/'. This is the default if a converter isn’t included in the expression.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 381,
+    "tag": "li",
+    "text": "int - Matches zero or any positive integer. Returns an int.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 382,
+    "tag": "p",
+    "text": "int - Matches zero or any positive integer. Returns an int.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 387,
+    "tag": "li",
+    "text": "slug - Matches any slug string consisting of ASCII letters or numbers, plus the hyphen and underscore characters. For example, building-your-1st-django-site.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 388,
+    "tag": "p",
+    "text": "slug - Matches any slug string consisting of ASCII letters or numbers, plus the hyphen and underscore characters. For example, building-your-1st-django-site.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 393,
+    "tag": "li",
+    "text": "uuid - Matches a formatted UUID. To prevent multiple URLs from mapping to the same page, dashes must be included and letters must be lowercase. For example, 075194d3-6885-417e-a8a8-6c931e272f00. Returns a UUID instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 394,
+    "tag": "p",
+    "text": "uuid - Matches a formatted UUID. To prevent multiple URLs from mapping to the same page, dashes must be included and letters must be lowercase. For example, 075194d3-6885-417e-a8a8-6c931e272f00. Returns a UUID instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 402,
+    "tag": "li",
+    "text": "path - Matches any non-empty string, including the path separator, '/'. This allows you to match against a complete URL path rather than a segment of a URL path as with str.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 403,
+    "tag": "p",
+    "text": "path - Matches any non-empty string, including the path separator, '/'. This allows you to match against a complete URL path rather than a segment of a URL path as with str.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 414,
+    "tag": "h2",
+    "text": "Registering custom path converters¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "p",
+    "text": "For more complex matching requirements, you can define your own path converters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 417,
+    "tag": "p",
+    "text": "A converter is a class that includes the following:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 419,
+    "tag": "li",
+    "text": "A regex class attribute, as a string.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 420,
+    "tag": "p",
+    "text": "A regex class attribute, as a string.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "li",
+    "text": "A to_python(self, value) method, which handles converting the matched string into the type that should be passed to the view function. It should raise ValueError if it can’t convert the given value. A ValueError is interpreted as no match and as a consequence a 404 response is sent to the user unless another URL pattern matches.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "A to_python(self, value) method, which handles converting the matched string into the type that should be passed to the view function. It should raise ValueError if it can’t convert the given value. A ValueError is interpreted as no match and as a consequence a 404 response is sent to the user unless another URL pattern matches.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 432,
+    "tag": "li",
+    "text": "A to_url(self, value) method, which handles converting the Python type into a string to be used in the URL. It should raise ValueError if it can’t convert the given value. A ValueError is interpreted as no match and as a consequence reverse() will raise NoReverseMatch unless another URL pattern matches.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 433,
+    "tag": "p",
+    "text": "A to_url(self, value) method, which handles converting the Python type into a string to be used in the URL. It should raise ValueError if it can’t convert the given value. A ValueError is interpreted as no match and as a consequence reverse() will raise NoReverseMatch unless another URL pattern matches.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 447,
+    "tag": "p",
+    "text": "For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 450,
+    "tag": "pre",
+    "text": "class FourDigitYearConverter: regex = \"[0-9]{4}\" def to_python(self, value): return int(value) def to_url(self, value): return \"%04d\" % value",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "p",
+    "text": "Register custom converter classes in your URLconf using register_converter():",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 494,
+    "tag": "pre",
+    "text": "from django.urls import path, register_converter from . import converters, views register_converter(converters.FourDigitYearConverter, \"yyyy\") urlpatterns = [ path(\"articles/2003/\", views.special_case_2003), path(\"articles/<yyyy:year>/\", views.year_archive), ..., ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 543,
+    "tag": "p",
+    "text": "Deprecated since version 5.1: Overriding existing converters with django.urls.register_converter() is deprecated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 549,
+    "tag": "h2",
+    "text": "Using regular expressions¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 551,
+    "tag": "p",
+    "text": "If the paths and converters syntax isn’t sufficient for defining your URL patterns, you can also use regular expressions. To do so, use re_path() instead of path().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 558,
+    "tag": "p",
+    "text": "In Python regular expressions, the syntax for named regular expression groups is (?P<name>pattern), where name is the name of the group and pattern is some pattern to match.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 565,
+    "tag": "p",
+    "text": "Here’s the example URLconf from earlier, rewritten using regular expressions:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 568,
+    "tag": "pre",
+    "text": "from django.urls import path, re_path from . import views urlpatterns = [ path(\"articles/2003/\", views.special_case_2003), re_path(r\"^articles/(?P<year>[0-9]{4})/$\", views.year_archive), re_path(r\"^articles/(?P<year>[0-9]{4})/(?P<month>[0-9]{2})/$\", views.month_archive), re_path( r\"^articles/(?P<year>[0-9]{4})/(?P<month>[0-9]{2})/(?P<slug>[\\w-]+)/$\", views.article_detail, ), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 634,
+    "tag": "p",
+    "text": "This accomplishes roughly the same thing as the previous example, except:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 636,
+    "tag": "li",
+    "text": "The exact URLs that will match are slightly more constrained. For example, the year 10000 will no longer match since the year integers are constrained to be exactly four digits long.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 637,
+    "tag": "p",
+    "text": "The exact URLs that will match are slightly more constrained. For example, the year 10000 will no longer match since the year integers are constrained to be exactly four digits long.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 638,
+    "tag": "li",
+    "text": "Each captured argument is sent to the view as a string, regardless of what sort of match the regular expression makes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 639,
+    "tag": "p",
+    "text": "Each captured argument is sent to the view as a string, regardless of what sort of match the regular expression makes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 640,
+    "tag": "p",
+    "text": "When switching from using path() to re_path() or vice versa, it’s particularly important to be aware that the type of the view arguments may change, and so you may need to adapt your views.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 649,
+    "tag": "h3",
+    "text": "Using unnamed regular expression groups¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 651,
+    "tag": "p",
+    "text": "As well as the named group syntax, e.g. (?P<year>[0-9]{4}), you can also use the shorter unnamed group, e.g. ([0-9]{4}).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 656,
+    "tag": "p",
+    "text": "This usage isn’t particularly recommended as it makes it easier to accidentally introduce errors between the intended meaning of a match and the arguments of the view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 657,
+    "tag": "p",
+    "text": "In either case, using only one style within a given regex is recommended. When both styles are mixed, any unnamed groups are ignored and only named groups are passed to the view function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 660,
+    "tag": "h3",
+    "text": "Nested arguments¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 662,
+    "tag": "p",
+    "text": "Regular expressions allow nested arguments, and Django will resolve them and pass them to the view. When reversing, Django will try to fill in all outer captured arguments, ignoring any nested captured arguments. Consider the following URL patterns which optionally take a page argument:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 665,
+    "tag": "pre",
+    "text": "from django.urls import re_path urlpatterns = [ re_path(r\"^blog/(page-([0-9]+)/)?$\", blog_articles), # bad re_path(r\"^comments/(?:page-(?P<page_number>[0-9]+)/)?$\", comments), # good ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 693,
+    "tag": "p",
+    "text": "Both patterns use nested arguments and will resolve: for example, blog/page-2/ will result in a match to blog_articles with two positional arguments: page-2/ and 2. The second pattern for comments will match comments/page-2/ with keyword argument page_number set to 2. The outer argument in this case is a non-capturing argument (?:...).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 710,
+    "tag": "p",
+    "text": "The blog_articles view needs the outermost captured argument to be reversed, page-2/ or no arguments in this case, while comments can be reversed with either no arguments or a value for page_number.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 719,
+    "tag": "p",
+    "text": "Nested captured arguments create a strong coupling between the view arguments and the URL as illustrated by blog_articles: the view receives part of the URL (page-2/) instead of only the value the view is interested in. This coupling is even more pronounced when reversing, since to reverse the view we need to pass the piece of URL instead of the page number.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 724,
+    "tag": "p",
+    "text": "As a rule of thumb, only capture the values the view needs to work with and use non-capturing arguments when the regular expression needs an argument but the view ignores it.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 727,
+    "tag": "h2",
+    "text": "What the URLconf searches against¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 729,
+    "tag": "p",
+    "text": "The URLconf searches against the requested URL, as a normal Python string. This does not include GET or POST parameters, or the domain name.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 730,
+    "tag": "p",
+    "text": "For example, in a request to https://www.example.com/myapp/, the URLconf will look for myapp/.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 735,
+    "tag": "p",
+    "text": "In a request to https://www.example.com/myapp/?page=3, the URLconf will look for myapp/.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 740,
+    "tag": "p",
+    "text": "The URLconf doesn’t look at the request method. In other words, all request methods – POST, GET, HEAD, etc. – will be routed to the same function for the same URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 749,
+    "tag": "h2",
+    "text": "Specifying defaults for view arguments¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 751,
+    "tag": "p",
+    "text": "A convenient trick is to specify default parameters for your views’ arguments. Here’s an example URLconf and view:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 754,
+    "tag": "pre",
+    "text": "# URLconf from django.urls import path from . import views urlpatterns = [ path(\"blog/\", views.page), path(\"blog/page<int:num>/\", views.page), ] # View (in blog/views.py) def page(request, num=1): # Output the appropriate page of blog entries, according to num. ...",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 802,
+    "tag": "p",
+    "text": "In the above example, both URL patterns point to the same view – views.page – but the first pattern doesn’t capture anything from the URL. If the first pattern matches, the page() function will use its default argument for num, 1. If the second pattern matches, page() will use whatever num value was captured.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 817,
+    "tag": "h2",
+    "text": "Performance¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 819,
+    "tag": "p",
+    "text": "Django processes regular expressions in the urlpatterns list which is compiled the first time it’s accessed. Subsequent requests use the cached configuration via the URL resolver.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 824,
+    "tag": "h2",
+    "text": "Syntax of the urlpatterns variable¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 828,
+    "tag": "p",
+    "text": "urlpatterns should be a sequence of path() and/or re_path() instances.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 841,
+    "tag": "h2",
+    "text": "Error handling¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 843,
+    "tag": "p",
+    "text": "When Django can’t find a match for the requested URL, or when an exception is raised, Django invokes an error-handling view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 844,
+    "tag": "p",
+    "text": "The views to use for these cases are specified by four variables. Their default values should suffice for most projects, but further customization is possible by overriding their default values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 845,
+    "tag": "p",
+    "text": "See the documentation on customizing error views for the full details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 848,
+    "tag": "p",
+    "text": "Such values can be set in your root URLconf. Setting these variables in any other URLconf will have no effect.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 849,
+    "tag": "p",
+    "text": "Values must be callables, or strings representing the full Python import path to the view that should be called to handle the error condition at hand.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 850,
+    "tag": "p",
+    "text": "The variables are:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 852,
+    "tag": "li",
+    "text": "handler400 – See django.conf.urls.handler400.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 853,
+    "tag": "p",
+    "text": "handler400 – See django.conf.urls.handler400.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 859,
+    "tag": "li",
+    "text": "handler403 – See django.conf.urls.handler403.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 860,
+    "tag": "p",
+    "text": "handler403 – See django.conf.urls.handler403.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 866,
+    "tag": "li",
+    "text": "handler404 – See django.conf.urls.handler404.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 867,
+    "tag": "p",
+    "text": "handler404 – See django.conf.urls.handler404.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 873,
+    "tag": "li",
+    "text": "handler500 – See django.conf.urls.handler500.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 874,
+    "tag": "p",
+    "text": "handler500 – See django.conf.urls.handler500.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 884,
+    "tag": "h2",
+    "text": "Including other URLconfs¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 886,
+    "tag": "p",
+    "text": "At any point, your urlpatterns can “include” other URLconf modules. This essentially “roots” a set of URLs below other ones.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 889,
+    "tag": "p",
+    "text": "For example, here’s an excerpt of the URLconf for the Django website itself. It includes a number of other URLconfs:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 893,
+    "tag": "pre",
+    "text": "from django.urls import include, path urlpatterns = [ # ... snip ... path(\"community/\", include(\"aggregator.urls\")), path(\"contact/\", include(\"contact.urls\")), # ... snip ... ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 925,
+    "tag": "p",
+    "text": "Whenever Django encounters include(), it chops off whatever part of the URL matched up to that point and sends the remaining string to the included URLconf for further processing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 929,
+    "tag": "p",
+    "text": "Another possibility is to include additional URL patterns by using a list of path() instances. For example, consider this URLconf:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 935,
+    "tag": "pre",
+    "text": "from django.urls import include, path from apps.main import views as main_views from credit import views as credit_views extra_patterns = [ path(\"reports/\", credit_views.report), path(\"reports/<int:id>/\", credit_views.report), path(\"charge/\", credit_views.charge), ] urlpatterns = [ path(\"\", main_views.homepage), path(\"help/\", include(\"apps.help.urls\")), path(\"credit/\", include(extra_patterns)), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1017,
+    "tag": "p",
+    "text": "In this example, the /credit/reports/ URL will be handled by the credit_views.report() Django view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1022,
+    "tag": "p",
+    "text": "This can be used to remove redundancy from URLconfs where a single pattern prefix is used repeatedly. For example, consider this URLconf:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1025,
+    "tag": "pre",
+    "text": "from django.urls import path from . import views urlpatterns = [ path(\"<page_slug>-<page_id>/history/\", views.history), path(\"<page_slug>-<page_id>/edit/\", views.edit), path(\"<page_slug>-<page_id>/discuss/\", views.discuss), path(\"<page_slug>-<page_id>/permissions/\", views.permissions), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1075,
+    "tag": "p",
+    "text": "We can improve this by stating the common path prefix only once and grouping the suffixes that differ:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1078,
+    "tag": "pre",
+    "text": "from django.urls import include, path from . import views urlpatterns = [ path( \"<page_slug>-<page_id>/\", include( [ path(\"history/\", views.history), path(\"edit/\", views.edit), path(\"discuss/\", views.discuss), path(\"permissions/\", views.permissions), ] ), ), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1142,
+    "tag": "h3",
+    "text": "Captured parameters¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1144,
+    "tag": "p",
+    "text": "An included URLconf receives any captured parameters from parent URLconfs, so the following example is valid:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1147,
+    "tag": "pre",
+    "text": "# In settings/urls/main.py from django.urls import include, path urlpatterns = [ path(\"<username>/blog/\", include(\"foo.urls.blog\")), ] # In foo/urls/blog.py from django.urls import path from . import views urlpatterns = [ path(\"\", views.blog.index), path(\"archive/\", views.blog.archive), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1207,
+    "tag": "p",
+    "text": "In the above example, the captured \"username\" variable is passed to the included URLconf, as expected.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1214,
+    "tag": "h2",
+    "text": "Passing extra options to view functions¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1216,
+    "tag": "p",
+    "text": "URLconfs have a hook that lets you pass extra arguments to your view functions, as a Python dictionary.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1217,
+    "tag": "p",
+    "text": "The path() function can take an optional third argument which should be a dictionary of extra keyword arguments to pass to the view function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1221,
+    "tag": "p",
+    "text": "For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1224,
+    "tag": "pre",
+    "text": "from django.urls import path from . import views urlpatterns = [ path(\"blog/<int:year>/\", views.year_archive, {\"foo\": \"bar\"}), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1255,
+    "tag": "p",
+    "text": "In this example, for a request to /blog/2005/, Django will call views.year_archive(request, year=2005, foo='bar').",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1262,
+    "tag": "p",
+    "text": "This technique is used in the syndication framework to pass metadata and options to views.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1266,
+    "tag": "p",
+    "text": "Dealing with conflicts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 1267,
+    "tag": "p",
+    "text": "It’s possible to have a URL pattern which captures named keyword arguments, and also passes arguments with the same names in its dictionary of extra arguments. When this happens, the arguments in the dictionary will be used instead of the arguments captured in the URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1270,
+    "tag": "h3",
+    "text": "Passing extra options to include()¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1274,
+    "tag": "p",
+    "text": "Similarly, you can pass extra options to include() and each line in the included URLconf will be passed the extra options.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1278,
+    "tag": "p",
+    "text": "For example, these two URLconf sets are functionally identical:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1279,
+    "tag": "p",
+    "text": "Set one:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1282,
+    "tag": "pre",
+    "text": "# main.py from django.urls import include, path urlpatterns = [ path(\"blog/\", include(\"inner\"), {\"blog_id\": 3}), ] # inner.py from django.urls import path from mysite import views urlpatterns = [ path(\"archive/\", views.archive), path(\"about/\", views.about), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1343,
+    "tag": "p",
+    "text": "Set two:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1346,
+    "tag": "pre",
+    "text": "# main.py from django.urls import include, path from mysite import views urlpatterns = [ path(\"blog/\", include(\"inner\")), ] # inner.py from django.urls import path urlpatterns = [ path(\"archive/\", views.archive, {\"blog_id\": 3}), path(\"about/\", views.about, {\"blog_id\": 3}), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1412,
+    "tag": "p",
+    "text": "Note that extra options will always be passed to every line in the included URLconf, regardless of whether the line’s view actually accepts those options as valid. For this reason, this technique is only useful if you’re certain that every view in the included URLconf accepts the extra options you’re passing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1417,
+    "tag": "h2",
+    "text": "Reverse resolution of URLs¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1419,
+    "tag": "p",
+    "text": "A common need when working on a Django project is the possibility to obtain URLs in their final forms either for embedding in generated content (views and assets URLs, URLs shown to the user, etc.) or for handling of the navigation flow on the server side (redirections, etc.)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1420,
+    "tag": "p",
+    "text": "It is strongly desirable to avoid hard-coding these URLs (a laborious, non-scalable and error-prone strategy). Equally dangerous is devising ad-hoc mechanisms to generate URLs that are parallel to the design described by the URLconf, which can result in the production of URLs that become stale over time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1421,
+    "tag": "p",
+    "text": "In other words, what’s needed is a DRY mechanism. Among other advantages it would allow evolution of the URL design without having to go over all the project source code to search and replace outdated URLs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1422,
+    "tag": "p",
+    "text": "The primary piece of information we have available to get a URL is an identification (e.g. the name) of the view in charge of handling it. Other pieces of information that necessarily must participate in the lookup of the right URL are the types (positional, keyword) and values of the view arguments.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1423,
+    "tag": "p",
+    "text": "Django provides a solution such that the URL mapper is the only repository of the URL design. You feed it with your URLconf and then it can be used in both directions:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1425,
+    "tag": "li",
+    "text": "Starting with a URL requested by the user/browser, it calls the right Django view providing any arguments it might need with their values as extracted from the URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1426,
+    "tag": "p",
+    "text": "Starting with a URL requested by the user/browser, it calls the right Django view providing any arguments it might need with their values as extracted from the URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1427,
+    "tag": "li",
+    "text": "Starting with the identification of the corresponding Django view plus the values of arguments that would be passed to it, obtain the associated URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1428,
+    "tag": "p",
+    "text": "Starting with the identification of the corresponding Django view plus the values of arguments that would be passed to it, obtain the associated URL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1429,
+    "tag": "p",
+    "text": "The first one is the usage we’ve been discussing in the previous sections. The second one is what is known as reverse resolution of URLs, reverse URL matching, reverse URL lookup, or simply URL reversing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1434,
+    "tag": "p",
+    "text": "Django provides tools for performing URL reversing that match the different layers where URLs are needed:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1436,
+    "tag": "li",
+    "text": "In templates: Using the url template tag.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1437,
+    "tag": "p",
+    "text": "In templates: Using the url template tag.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1441,
+    "tag": "li",
+    "text": "In Python code: Using the reverse() function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1442,
+    "tag": "p",
+    "text": "In Python code: Using the reverse() function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1446,
+    "tag": "li",
+    "text": "In higher level code related to handling of URLs of Django model instances: The get_absolute_url() method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1447,
+    "tag": "p",
+    "text": "In higher level code related to handling of URLs of Django model instances: The get_absolute_url() method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1453,
+    "tag": "h3",
+    "text": "Examples¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1455,
+    "tag": "p",
+    "text": "Consider again this URLconf entry:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1458,
+    "tag": "pre",
+    "text": "from django.urls import path from . import views urlpatterns = [ # ... path(\"articles/<int:year>/\", views.year_archive, name=\"news-year-archive\"), # ... ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1490,
+    "tag": "p",
+    "text": "According to this design, the URL for the archive corresponding to year nnnn is /articles/<nnnn>/.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1494,
+    "tag": "p",
+    "text": "You can obtain these in template code by using:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1497,
+    "tag": "pre",
+    "text": "<a href=\"{% url 'news-year-archive' 2012 %}\">2012 Archive</a> {# Or with the year in a template context variable: #} <ul> {% for yearvar in year_list %} <li><a href=\"{% url 'news-year-archive' yearvar %}\">{{ yearvar }} Archive</a></li> {% endfor %} </ul>",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1552,
+    "tag": "p",
+    "text": "Or in Python code:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1555,
+    "tag": "pre",
+    "text": "from django.http import HttpResponseRedirect from django.urls import reverse def redirect_to_year(request): # ... year = 2006 # ... return HttpResponseRedirect(reverse(\"news-year-archive\", args=(year,)))",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1592,
+    "tag": "p",
+    "text": "If, for some reason, it was decided that the URLs where content for yearly article archives are published at should be changed then you would only need to change the entry in the URLconf.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1593,
+    "tag": "p",
+    "text": "In some scenarios where views are of a generic nature, a many-to-one relationship might exist between URLs and views. For these cases the view name isn’t a good enough identifier for it when comes the time of reversing URLs. Read the next section to know about the solution Django provides for this.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1598,
+    "tag": "h2",
+    "text": "Naming URL patterns¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1600,
+    "tag": "p",
+    "text": "In order to perform URL reversing, you’ll need to use named URL patterns as done in the examples above. The string used for the URL name can contain any characters you like. You are not restricted to valid Python names.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1602,
+    "tag": "p",
+    "text": "When naming URL patterns, choose names that are unlikely to clash with other applications’ choice of names. If you call your URL pattern comment and another application does the same thing, the URL that reverse() finds depends on whichever pattern is last in your project’s urlpatterns list.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1610,
+    "tag": "p",
+    "text": "Putting a prefix on your URL names, perhaps derived from the application name (such as myapp-comment instead of comment), decreases the chance of collision.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1615,
+    "tag": "p",
+    "text": "You can deliberately choose the same URL name as another application if you want to override a view. For example, a common use case is to override the LoginView. Parts of Django and most third-party apps assume that this view has a URL pattern with the name login. If you have a custom login view and give its URL the name login, reverse() will find your custom view as long as it’s in urlpatterns after django.contrib.auth.urls is included (if that’s included at all).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1631,
+    "tag": "p",
+    "text": "You may also use the same name for multiple URL patterns if they differ in their arguments. In addition to the URL name, reverse() matches the number of arguments and the names of the keyword arguments. Path converters can also raise ValueError to indicate no match, see Registering custom path converters for details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1643,
+    "tag": "h2",
+    "text": "URL namespaces¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1647,
+    "tag": "h3",
+    "text": "Introduction¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1649,
+    "tag": "p",
+    "text": "URL namespaces allow you to uniquely reverse named URL patterns even if different applications use the same URL names. It’s a good practice for third-party apps to always use namespaced URLs (as we did in the tutorial). Similarly, it also allows you to reverse URLs if multiple instances of an application are deployed. In other words, since multiple instances of a single application will share named URLs, namespaces provide a way to tell these named URLs apart.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1652,
+    "tag": "p",
+    "text": "Django applications that make proper use of URL namespacing can be deployed more than once for a particular site. For example django.contrib.admin has an AdminSite class which allows you to deploy more than one instance of the admin. In a later example, we’ll discuss the idea of deploying the polls application from the tutorial in two different locations so we can serve the same functionality to two different audiences (authors and publishers).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1661,
+    "tag": "p",
+    "text": "A URL namespace comes in two parts, both of which are strings:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1663,
+    "tag": "dt",
+    "text": "application namespace¶",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "term-application-namespace"
+    }
+  },
+  {
+    "node_index": 1665,
+    "tag": "dd",
+    "text": "This describes the name of the application that is being deployed. Every instance of a single application will have the same application namespace. For example, Django’s admin application has the somewhat predictable application namespace of 'admin'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1666,
+    "tag": "p",
+    "text": "This describes the name of the application that is being deployed. Every instance of a single application will have the same application namespace. For example, Django’s admin application has the somewhat predictable application namespace of 'admin'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1669,
+    "tag": "dt",
+    "text": "instance namespace¶",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "term-instance-namespace"
+    }
+  },
+  {
+    "node_index": 1671,
+    "tag": "dd",
+    "text": "This identifies a specific instance of an application. Instance namespaces should be unique across your entire project. However, an instance namespace can be the same as the application namespace. This is used to specify a default instance of an application. For example, the default Django admin instance has an instance namespace of 'admin'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1672,
+    "tag": "p",
+    "text": "This identifies a specific instance of an application. Instance namespaces should be unique across your entire project. However, an instance namespace can be the same as the application namespace. This is used to specify a default instance of an application. For example, the default Django admin instance has an instance namespace of 'admin'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1675,
+    "tag": "p",
+    "text": "Namespaced URLs are specified using the ':' operator. For example, the main index page of the admin application is referenced using 'admin:index'. This indicates a namespace of 'admin', and a named URL of 'index'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1684,
+    "tag": "p",
+    "text": "Namespaces can also be nested. The named URL 'sports:polls:index' would look for a pattern named 'index' in the namespace 'polls' that is itself defined within the top-level namespace 'sports'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1697,
+    "tag": "h3",
+    "text": "Reversing namespaced URLs¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1699,
+    "tag": "p",
+    "text": "When given a namespaced URL (e.g. 'polls:index') to resolve, Django splits the fully qualified name into parts and then tries the following lookup:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1703,
+    "tag": "li",
+    "text": "First, Django looks for a matching application namespace (in this example, 'polls'). This will yield a list of instances of that application.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1704,
+    "tag": "p",
+    "text": "First, Django looks for a matching application namespace (in this example, 'polls'). This will yield a list of instances of that application.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1709,
+    "tag": "li",
+    "text": "If there is a current application defined, Django finds and returns the URL resolver for that instance. The current application can be specified with the current_app argument to the reverse() function. The url template tag uses the namespace of the currently resolved view as the current application in a RequestContext. You can override this default by setting the current application on the request.current_app attribute.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1710,
+    "tag": "p",
+    "text": "If there is a current application defined, Django finds and returns the URL resolver for that instance. The current application can be specified with the current_app argument to the reverse() function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1716,
+    "tag": "p",
+    "text": "The url template tag uses the namespace of the currently resolved view as the current application in a RequestContext. You can override this default by setting the current application on the request.current_app attribute.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1726,
+    "tag": "li",
+    "text": "If there is no current application, Django looks for a default application instance. The default application instance is the instance that has an instance namespace matching the application namespace (in this example, an instance of polls called 'polls').",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1727,
+    "tag": "p",
+    "text": "If there is no current application, Django looks for a default application instance. The default application instance is the instance that has an instance namespace matching the application namespace (in this example, an instance of polls called 'polls').",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1736,
+    "tag": "li",
+    "text": "If there is no default application instance, Django will pick the last deployed instance of the application, whatever its instance name may be.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1737,
+    "tag": "p",
+    "text": "If there is no default application instance, Django will pick the last deployed instance of the application, whatever its instance name may be.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1738,
+    "tag": "li",
+    "text": "If the provided namespace doesn’t match an application namespace in step 1, Django will attempt a direct lookup of the namespace as an instance namespace.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1739,
+    "tag": "p",
+    "text": "If the provided namespace doesn’t match an application namespace in step 1, Django will attempt a direct lookup of the namespace as an instance namespace.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1744,
+    "tag": "p",
+    "text": "If there are nested namespaces, these steps are repeated for each part of the namespace until only the view name is unresolved. The view name will then be resolved into a URL in the namespace that has been found.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1749,
+    "tag": "p",
+    "text": "To show this resolution strategy in action, consider an example of two instances of the polls application from the tutorial: one called 'author-polls' and one called 'publisher-polls'. Assume we have enhanced that application so that it takes the instance namespace into consideration when creating and displaying polls.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1764,
+    "tag": "pre",
+    "text": "from django.urls import include, path urlpatterns = [ path(\"author-polls/\", include(\"polls.urls\", namespace=\"author-polls\")), path(\"publisher-polls/\", include(\"polls.urls\", namespace=\"publisher-polls\")), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1810,
+    "tag": "pre",
+    "text": "from django.urls import path from . import views app_name = \"polls\" urlpatterns = [ path(\"\", views.IndexView.as_view(), name=\"index\"), path(\"<int:pk>/\", views.DetailView.as_view(), name=\"detail\"), ..., ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1861,
+    "tag": "p",
+    "text": "Using this setup, the following lookups are possible:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1863,
+    "tag": "li",
+    "text": "If one of the instances is current - say, if we were rendering the detail page in the instance 'author-polls' - 'polls:index' will resolve to the index page of the 'author-polls' instance; i.e. both of the following will result in \"/author-polls/\". In the method of a class-based view: reverse(\"polls:index\", current_app=self.request.resolver_match.namespace) and in the template: {% url 'polls:index' %}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1864,
+    "tag": "p",
+    "text": "If one of the instances is current - say, if we were rendering the detail page in the instance 'author-polls' - 'polls:index' will resolve to the index page of the 'author-polls' instance; i.e. both of the following will result in \"/author-polls/\".",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1873,
+    "tag": "p",
+    "text": "In the method of a class-based view:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1876,
+    "tag": "pre",
+    "text": "reverse(\"polls:index\", current_app=self.request.resolver_match.namespace)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1892,
+    "tag": "p",
+    "text": "and in the template:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1895,
+    "tag": "pre",
+    "text": "{% url 'polls:index' %}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1901,
+    "tag": "li",
+    "text": "If there is no current instance - say, if we were rendering a page somewhere else on the site - 'polls:index' will resolve to the last registered instance of polls. Since there is no default instance (instance namespace of 'polls'), the last instance of polls that is registered will be used. This would be 'publisher-polls' since it’s declared last in the urlpatterns.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1902,
+    "tag": "p",
+    "text": "If there is no current instance - say, if we were rendering a page somewhere else on the site - 'polls:index' will resolve to the last registered instance of polls. Since there is no default instance (instance namespace of 'polls'), the last instance of polls that is registered will be used. This would be 'publisher-polls' since it’s declared last in the urlpatterns.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1915,
+    "tag": "li",
+    "text": "'author-polls:index' will always resolve to the index page of the instance 'author-polls' (and likewise for 'publisher-polls') .",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1916,
+    "tag": "p",
+    "text": "'author-polls:index' will always resolve to the index page of the instance 'author-polls' (and likewise for 'publisher-polls') .",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1923,
+    "tag": "p",
+    "text": "If there were also a default instance - i.e., an instance named 'polls' - the only change from above would be in the case where there is no current instance (the second item in the list above). In this case 'polls:index' would resolve to the index page of the default instance instead of the instance declared last in urlpatterns.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1934,
+    "tag": "h3",
+    "text": "URL namespaces and included URLconfs¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1936,
+    "tag": "p",
+    "text": "Application namespaces of included URLconfs can be specified in two ways.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1937,
+    "tag": "p",
+    "text": "Firstly, you can set an app_name attribute in the included URLconf module, at the same level as the urlpatterns attribute. You have to pass the actual module, or a string reference to the module, to include(), not the list of urlpatterns itself.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1955,
+    "tag": "pre",
+    "text": "from django.urls import path from . import views app_name = \"polls\" urlpatterns = [ path(\"\", views.IndexView.as_view(), name=\"index\"), path(\"<int:pk>/\", views.DetailView.as_view(), name=\"detail\"), ..., ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2014,
+    "tag": "pre",
+    "text": "from django.urls import include, path urlpatterns = [ path(\"polls/\", include(\"polls.urls\")), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2036,
+    "tag": "p",
+    "text": "The URLs defined in polls.urls will have an application namespace polls.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2041,
+    "tag": "p",
+    "text": "Secondly, you can include an object that contains embedded namespace data. If you include() a list of path() or re_path() instances, the URLs contained in that object will be added to the global namespace. However, you can also include() a 2-tuple containing:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2054,
+    "tag": "pre",
+    "text": "(<list of path()/re_path() instances>, <application namespace>)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2056,
+    "tag": "p",
+    "text": "For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2059,
+    "tag": "pre",
+    "text": "from django.urls import include, path from . import views polls_patterns = ( [ path(\"\", views.IndexView.as_view(), name=\"index\"), path(\"<int:pk>/\", views.DetailView.as_view(), name=\"detail\"), ], \"polls\", ) urlpatterns = [ path(\"polls/\", include(polls_patterns)), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2123,
+    "tag": "p",
+    "text": "This will include the nominated URL patterns into the given application namespace.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2124,
+    "tag": "p",
+    "text": "The instance namespace can be specified using the namespace argument to include(). If the instance namespace is not specified, it will default to the included URLconf’s application namespace. This means it will also be the default instance for that namespace.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2141,
+    "tag": "h2",
+    "text": "Additional Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visuallyhidden",
+      "id": "aside-header"
+    }
+  },
+  {
+    "node_index": 2143,
+    "tag": "h3",
+    "text": "Support Django!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2148,
+    "tag": "li",
+    "text": "Karumi donated to the Django Software Foundation to support Django development. Donate today!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2150,
+    "tag": "h3",
+    "text": "Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2152,
+    "tag": "li",
+    "text": "URL dispatcher Overview How Django processes a request Example Path converters Registering custom path converters Using regular expressions Using unnamed regular expression groups Nested arguments What the URLconf searches against Specifying defaults for view arguments Performance Syntax of the urlpatterns variable Error handling Including other URLconfs Captured parameters Passing extra options to view functions Passing extra options to include() Reverse resolution of URLs Examples Naming URL patterns URL namespaces Introduction Reversing namespaced URLs Example URL namespaces and included URLconfs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2155,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2157,
+    "tag": "li",
+    "text": "How Django processes a request",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2159,
+    "tag": "li",
+    "text": "Example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2161,
+    "tag": "li",
+    "text": "Path converters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2163,
+    "tag": "li",
+    "text": "Registering custom path converters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2165,
+    "tag": "li",
+    "text": "Using regular expressions Using unnamed regular expression groups Nested arguments",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2168,
+    "tag": "li",
+    "text": "Using unnamed regular expression groups",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2170,
+    "tag": "li",
+    "text": "Nested arguments",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2172,
+    "tag": "li",
+    "text": "What the URLconf searches against",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2174,
+    "tag": "li",
+    "text": "Specifying defaults for view arguments",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2176,
+    "tag": "li",
+    "text": "Performance",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2178,
+    "tag": "li",
+    "text": "Syntax of the urlpatterns variable",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2182,
+    "tag": "li",
+    "text": "Error handling",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2184,
+    "tag": "li",
+    "text": "Including other URLconfs Captured parameters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2187,
+    "tag": "li",
+    "text": "Captured parameters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2189,
+    "tag": "li",
+    "text": "Passing extra options to view functions Passing extra options to include()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2192,
+    "tag": "li",
+    "text": "Passing extra options to include()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2196,
+    "tag": "li",
+    "text": "Reverse resolution of URLs Examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2199,
+    "tag": "li",
+    "text": "Examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2201,
+    "tag": "li",
+    "text": "Naming URL patterns",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2203,
+    "tag": "li",
+    "text": "URL namespaces Introduction Reversing namespaced URLs Example URL namespaces and included URLconfs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2206,
+    "tag": "li",
+    "text": "Introduction",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2208,
+    "tag": "li",
+    "text": "Reversing namespaced URLs Example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2211,
+    "tag": "li",
+    "text": "Example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2213,
+    "tag": "li",
+    "text": "URL namespaces and included URLconfs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2216,
+    "tag": "h3",
+    "text": "Browse",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "browse-header"
+    }
+  },
+  {
+    "node_index": 2218,
+    "tag": "li",
+    "text": "Prev: Handling HTTP requests",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2220,
+    "tag": "li",
+    "text": "Next: Writing views",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2222,
+    "tag": "li",
+    "text": "Table of contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2224,
+    "tag": "li",
+    "text": "General Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2226,
+    "tag": "li",
+    "text": "Python Module Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2229,
+    "tag": "h3",
+    "text": "You are here:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "breadcrumbs-header"
+    }
+  },
+  {
+    "node_index": 2231,
+    "tag": "li",
+    "text": "Django 5.2 documentation Using Django Handling HTTP requests URL dispatcher",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2234,
+    "tag": "li",
+    "text": "Using Django Handling HTTP requests URL dispatcher",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2237,
+    "tag": "li",
+    "text": "Handling HTTP requests URL dispatcher",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2240,
+    "tag": "li",
+    "text": "URL dispatcher",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2242,
+    "tag": "h3",
+    "text": "Getting help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "getting-help-sidebar"
+    }
+  },
+  {
+    "node_index": 2244,
+    "tag": "dt",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2246,
+    "tag": "dd",
+    "text": "Try the FAQ — it's got answers to many common questions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2247,
+    "tag": "dt",
+    "text": "Index, Module Index, or Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2251,
+    "tag": "dd",
+    "text": "Handy when looking for specific information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2252,
+    "tag": "dt",
+    "text": "Django Discord Server",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2254,
+    "tag": "dd",
+    "text": "Join the Django Discord Community.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2255,
+    "tag": "dt",
+    "text": "Official Django Forum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2257,
+    "tag": "dd",
+    "text": "Join the community on the Django Forum.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2258,
+    "tag": "dt",
+    "text": "Ticket tracker",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2260,
+    "tag": "dd",
+    "text": "Report bugs with Django or Django documentation in our ticket tracker.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2262,
+    "tag": "h3",
+    "text": "Download:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "links-wrapper-header"
+    }
+  },
+  {
+    "node_index": 2263,
+    "tag": "p",
+    "text": "Offline (Django 5.2): HTML | PDF | ePub Provided by Read the Docs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2271,
+    "tag": "h3",
+    "text": "Sponsored Fellow, Diamond and Platinum Members",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2278,
+    "tag": "li",
+    "text": "Sentry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2280,
+    "tag": "li",
+    "text": "Monitor your Django Code Resolve performance bottlenecks and errors using monitoring, replays, logs and Seer an AI agent for debugging.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2288,
+    "tag": "li",
+    "text": "JetBrains",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2290,
+    "tag": "li",
+    "text": "JetBrains delivers intelligent software solutions that make developers more productive by simplifying their challenging tasks, automating the routine, and helping them adopt the best development practices. PyCharm is the Python IDE for Professional Developers by JetBrains providing a complete set of tools for productive Python, Web and scientific development.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2298,
+    "tag": "li",
+    "text": "Kraken Tech",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2300,
+    "tag": "li",
+    "text": "Kraken is the most-loved operating system for energy. Powered by our Utility-Grade AI™ and deep industry know-how, we help utilities transform their technology and operations so they can lead the energy transition. Delivering better outcomes from generation through distribution to supply, Kraken powers 70+ million accounts worldwide, and is on a mission to make a big, green dent in the universe.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2308,
+    "tag": "li",
+    "text": "PostHog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2310,
+    "tag": "li",
+    "text": "PostHog is an all-in-one developer platform for building successful products. We provide product analytics, web analytics, session replay, error tracking, feature flags, experiments, surveys, LLM observability, data warehouse, CDP, workflows, logs, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2315,
+    "tag": "h2",
+    "text": "Django Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visuallyhidden"
+    }
+  },
+  {
+    "node_index": 2318,
+    "tag": "h3",
+    "text": "Learn More",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2320,
+    "tag": "li",
+    "text": "About Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2322,
+    "tag": "li",
+    "text": "Getting Started with Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2324,
+    "tag": "li",
+    "text": "Team Organization",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2326,
+    "tag": "li",
+    "text": "Django Software Foundation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2328,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2330,
+    "tag": "li",
+    "text": "Diversity Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2333,
+    "tag": "h3",
+    "text": "Get Involved",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2335,
+    "tag": "li",
+    "text": "Join a Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2337,
+    "tag": "li",
+    "text": "Contribute to Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2339,
+    "tag": "li",
+    "text": "Submit a Bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2341,
+    "tag": "li",
+    "text": "Report a Security Issue",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2343,
+    "tag": "li",
+    "text": "Individual membership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2346,
+    "tag": "h3",
+    "text": "Get Help",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2348,
+    "tag": "li",
+    "text": "Getting Help FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2350,
+    "tag": "li",
+    "text": "Django Discord",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2352,
+    "tag": "li",
+    "text": "Official Django Forum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2355,
+    "tag": "h3",
+    "text": "Follow Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2357,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2359,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2361,
+    "tag": "li",
+    "text": "Fediverse (Mastodon)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2363,
+    "tag": "li",
+    "text": "Bluesky",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2365,
+    "tag": "li",
+    "text": "LinkedIn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2367,
+    "tag": "li",
+    "text": "News RSS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2370,
+    "tag": "h3",
+    "text": "Support Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2372,
+    "tag": "li",
+    "text": "Sponsor Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2374,
+    "tag": "li",
+    "text": "Corporate membership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2376,
+    "tag": "li",
+    "text": "Official merchandise store",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2378,
+    "tag": "li",
+    "text": "Benevity Workplace Giving Program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2385,
+    "tag": "li",
+    "text": "Hosting by In-kind donors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2388,
+    "tag": "li",
+    "text": "Design by Threespot & andrevv",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "design"
+    }
+  },
+  {
+    "node_index": 2393,
+    "tag": "p",
+    "text": "© 2005-2026 Django Software Foundation and individual contributors. Django is a registered trademark of the Django Software Foundation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "node_index": 79,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Census.gov /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "About the Bureau /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 316,
+    "tag": "li",
+    "text": "Our History /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "Galleries and Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 325,
+    "tag": "h1",
+    "text": "Galleries and Archives",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Census Artifacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "li",
+    "text": "Citing Our Internet Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "Historical Articles and Publications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "Image Galleries",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "Other Resources & References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 347,
+    "tag": "li",
+    "text": "Video Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 361,
+    "tag": "li",
+    "text": "Census Artifacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 365,
+    "tag": "li",
+    "text": "Citing Our Internet Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 369,
+    "tag": "li",
+    "text": "Historical Articles and Publications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 373,
+    "tag": "li",
+    "text": "Image Galleries",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 377,
+    "tag": "li",
+    "text": "Other Resources & References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 381,
+    "tag": "li",
+    "text": "Video Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 389,
+    "tag": "h1",
+    "text": "Galleries and Archives",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 393,
+    "tag": "p",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-sub-heading-2 uscb-medium uscb-margin-TB-0 component-title"
+    }
+  },
+  {
+    "node_index": 419,
+    "tag": "p",
+    "text": "There are many U.S. Census Bureau publications, maps, visualizations, and more that provide information about the history of the Census Bureau and its programs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "li",
+    "text": "Monthly History Stories Read about historical events, innovations, and people in our monthly history stories. You may be surprised how much you can learn from census data and records!",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 433,
+    "tag": "li",
+    "text": "Census Artifacts Learn more about some of these interesting artifacts and their importance to the censuses and surveys we conduct.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 443,
+    "tag": "li",
+    "text": "Image Galleries This image gallery brings the U.S. census, from 1790 to 2010, alive using photographic images.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 456,
+    "tag": "li",
+    "text": "Citing Our Internet Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 462,
+    "tag": "li",
+    "text": "Other Resources & References In this section we have provided links to a variety of reference materials that may be useful in conducting historical and genealogical research.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 468,
+    "tag": "li",
+    "text": "Historical Articles and Publications There are many U.S. Census Bureau publications that provide information about the history of the Census Bureau and its programs.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 522,
+    "tag": "p",
+    "text": "Top",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-top-label uscb-text-align-center"
+    }
+  },
+  {
+    "node_index": 529,
+    "tag": "p",
+    "text": "Receive Updates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-title",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 530,
+    "tag": "p",
+    "text": "To sign up for updates please enter your email address.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-text uscb-margin-T-0 uscb-margin-B-30",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 543,
+    "tag": "p",
+    "text": "Stay Current",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 546,
+    "tag": "p",
+    "text": "America Counts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 548,
+    "tag": "p",
+    "text": "Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 550,
+    "tag": "p",
+    "text": "Deputy Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 552,
+    "tag": "p",
+    "text": "Random Samplings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 554,
+    "tag": "p",
+    "text": "Research Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 556,
+    "tag": "p",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "p",
+    "text": "Contact",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 561,
+    "tag": "p",
+    "text": "Support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 563,
+    "tag": "p",
+    "text": "Jobs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 565,
+    "tag": "p",
+    "text": "Follow",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 597,
+    "tag": "p",
+    "text": "Measuring America's People and Economy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-tag-line"
+    }
+  }
+]

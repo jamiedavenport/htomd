@@ -1,0 +1,587 @@
+[
+  {
+    "node_index": 36,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 39,
+    "tag": "li",
+    "text": "Historical Documents Foreign Relations of the United States About the Foreign Relations Series Status of the Foreign Relations Series History of the Foreign Relations Series Ebooks Initiative Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 43,
+    "tag": "li",
+    "text": "Foreign Relations of the United States",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 46,
+    "tag": "li",
+    "text": "About the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Status of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 52,
+    "tag": "li",
+    "text": "History of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Ebooks Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 57,
+    "tag": "li",
+    "text": "Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 59,
+    "tag": "li",
+    "text": "Department History Overview Biographies of the Secretaries of State Principal Officers and Chiefs of Mission Travels of the Secretary of State Travels of the President Visits by Foreign Heads of State World War I and the Department Buildings of the Department of State U.S. Diplomatic Couriers U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "index_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Biographies of the Secretaries of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Principal Officers and Chiefs of Mission",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Travels of the Secretary of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Travels of the President",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Visits by Foreign Heads of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "World War I and the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Buildings of the Department of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "U.S. Diplomatic Couriers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Guide to Countries Guide to Country Recognition and Relations World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "countries_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Guide to Country Recognition and Relations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "More Resources Browse Resources by Subject Tag Conferences Contact Us Developer Resources & APIs Educational Resources Frequently Asked Questions Key Milestones Open Government Initiative A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "resources_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Browse Resources by Subject Tag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Conferences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Developer Resources & APIs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Key Milestones",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Open Government Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "1776-1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "The Declaration of Independence, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "h2",
+    "text": "Milestones: 1776–1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-navigation-title",
+      "id": "navigation-title"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "h1",
+    "text": "The Declaration of Independence, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-head7"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "p",
+    "text": "By issuing the Declaration of Independence, adopted by the Continental Congress on July 4, 1776, the 13 American colonies severed their political connections to Great Britain. The Declaration summarized the colonists’ motivations for seeking independence. By declaring themselves an independent nation, the American colonists were able to confirm an official alliance with the Government of France and obtain French assistance in the war against Great Britain.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 159,
+    "tag": "p",
+    "text": "Throughout the 1760s and early 1770s, the North American colonists found themselves increasingly at odds with British imperial policies regarding taxation and frontier policy. When repeated protests failed to influence British policies, and instead resulted in the closing of the port of Boston and the declaration of martial law in Massachusetts, the colonial governments sent delegates to a Continental Congress to coordinate a colonial boycott of British goods. When fighting broke out between American colonists and British forces in Massachusetts, the Continental Congress worked with local groups, originally intended to enforce the boycott, to coordinate resistance against the British. British officials throughout the colonies increasingly found their authority challenged by informal local governments, although loyalist sentiment remained strong in some areas.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "p",
+    "text": "Despite these changes, colonial leaders hoped to reconcile with the British Government, and all but the most radical members of Congress were unwilling to declare independence. However, in late 1775, Benjamin Franklin, then a member of the Secret Committee of Correspondence, hinted to French agents and other European sympathizers that the colonies were increasingly leaning towards seeking independence. While perhaps true, Franklin also hoped to convince the French to supply the colonists with aid. Independence would be necessary, however, before French officials would consider the possibility of an alliance.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 165,
+    "tag": "p",
+    "text": "Throughout the winter of 1775–1776, the members of the Continental Congress came to view reconciliation with Britain as unlikely, and independence the only course of action available to them. When on December 22, 1775, the British Parliament prohibited trade with the colonies, Congress responded in April of 1776 by opening colonial ports—this was a major step towards severing ties with Britain. The colonists were aided by the January publication of Thomas Paine’s pamphlet Common Sense, which advocated the colonies’ independence and was widely distributed throughout the colonies. By February of 1776, colonial leaders were discussing the possibility of forming foreign alliances and began to draft the Model Treaty that would serve as a basis for the 1778 alliance with France. Leaders for the cause of independence wanted to make certain that they had sufficient congressional support before they would bring the issue to the vote. On June 7, 1776, Richard Henry Lee introduced a motion in Congress to declare independence. Other members of Congress were amenable but thought some colonies not quite ready. However, Congress did form a committee to draft a declaration of independence and assi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "p",
+    "text": "Benjamin Franklin and John Adams reviewed Jefferson’s draft. They preserved its original form, but struck passages likely to meet with controversy or skepticism, most notably passages blaming King George III for the transatlantic slave trade and those blaming the British people rather than their government. The committee presented the final draft before Congress on June 28, 1776, and Congress adopted the final text of the Declaration of Independence on July 4.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "p",
+    "text": "The British Government did its best to dismiss the Declaration as a trivial document issued by disgruntled colonists. British officials commissioned propagandists to highlight the declaration’s flaws and to rebut the colonists’ complaints. The Declaration divided British domestic opposition, as some American sympathizers thought the Declaration had gone too far, but in British-ruled Ireland it had many supporters.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 179,
+    "tag": "p",
+    "text": "The Declaration’s most important diplomatic effect was to allow for recognition of the United States by friendly foreign governments. The Sultan of Morocco mentioned American ships in a consular document in 1777, but Congress had to wait until the 1778 Treaty of Alliance with France for a formal recognition of U.S. independence. The Netherlands acknowledged U.S. independence in 1782. Although Spain joined the war against Great Britain in 1779, it did not recognize U.S. independence until the 1783 Treaty of Paris. Under the terms of the treaty, which ended the War of the American Revolution, Great Britain officially acknowledged the United States as a sovereign and independent nation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 186,
+    "tag": "h2",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "1776–1783: Diplomacy and the American Revolution",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 191,
+    "tag": "li",
+    "text": "Continental Congress, 1774–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "Secret Committee of Correspondence/ Committee for Foreign Affairs, 1775–1777",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 197,
+    "tag": "li",
+    "text": "The Declaration of Independence, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "The Model Treaty, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 203,
+    "tag": "li",
+    "text": "French Alliance, French Assistance, and European Diplomacy during the American Revolution, 1778–1782",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "li",
+    "text": "Benjamin Franklin: First American Diplomat, 1776–1785",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Articles of Confederation, 1777–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Treaty of Paris, 1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 218,
+    "tag": "h2",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "All",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "li",
+    "text": "Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Historical Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 239,
+    "tag": "li",
+    "text": "Department History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "Countries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 245,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "Accessibility Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 255,
+    "tag": "li",
+    "text": "External Link Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Copyright Information",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "li",
+    "text": "Content Warning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 268,
+    "tag": "p",
+    "text": "history@state.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "p",
+    "text": "Report an issue on this page",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

@@ -1,0 +1,5117 @@
+[
+  {
+    "node_index": 72,
+    "tag": "p",
+    "text": "SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "title logo__title"
+    }
+  },
+  {
+    "node_index": 78,
+    "tag": "li",
+    "text": "Installing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "Building from source",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 86,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "System Settings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 106,
+    "tag": "li",
+    "text": "Light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Dark",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 118,
+    "tag": "li",
+    "text": "Scientific Python Forum",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Installing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "Building from source",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 141,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "System Settings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 161,
+    "tag": "li",
+    "text": "Light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Dark",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "Scientific Python Forum",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "p",
+    "text": "Section Navigation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bd-links__title",
+      "role": "heading",
+      "aria-level": "1"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "p",
+    "text": "User guide",
+    "label": "unreviewed",
+    "formatting": {
+      "aria-level": "2",
+      "class": "caption",
+      "role": "heading"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Discrete Fourier Transforms (scipy.fft)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Integration (scipy.integrate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Interpolation (scipy.interpolate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "File IO (scipy.io)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Linear Algebra (scipy.linalg)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Multidimensional Image Processing (scipy.ndimage)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "Optimization (scipy.optimize)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 current active"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "Signal Processing (scipy.signal)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Sparse Arrays (scipy.sparse)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Spatial Data Structures and Algorithms (scipy.spatial)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "Special Functions (scipy.special)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 236,
+    "tag": "li",
+    "text": "Statistics (scipy.stats)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Sparse eigenvalue problems with ARPACK",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Compressed Sparse Graph Routines (scipy.sparse.csgraph)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Parallel execution support in SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "Thread Safety in SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "SciPy User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Optimization (scipy.optimize)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item active",
+      "aria-current": "page"
+    }
+  },
+  {
+    "node_index": 276,
+    "tag": "h1",
+    "text": "Optimization (scipy.optimize)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 283,
+    "tag": "p",
+    "text": "Contents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topic-title"
+    }
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "Optimization (scipy.optimize) Local minimization of multivariate scalar functions (minimize) Unconstrained minimization Nelder-Mead Simplex algorithm (method='Nelder-Mead') Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS') Newton-Conjugate-Gradient algorithm (method='Newton-CG') Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg') Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov') Trust-Region Nearly Exact Algorithm (method='trust-exact') Constrained minimization Trust-Region Constrained Algorithm (method='trust-constr') Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP') Local minimization solver comparison Global optimization Comparison of Global Optimizers Least-squares minimization (least_squares) Example of solving a fitting problem Further examples Univariate function minimizers (minimize_scalar) Unconstrained minimization (method='brent') Bounded minimization (method='bounded') Custom minimizers Root finding Scalar functions Fixed-point solving Sets of equations Root finding for large problems Still too slow? Preconditioning. Linear programming (linprog) Linear programming example As",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 286,
+    "tag": "p",
+    "text": "Optimization (scipy.optimize)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "Local minimization of multivariate scalar functions (minimize) Unconstrained minimization Nelder-Mead Simplex algorithm (method='Nelder-Mead') Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS') Newton-Conjugate-Gradient algorithm (method='Newton-CG') Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg') Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov') Trust-Region Nearly Exact Algorithm (method='trust-exact') Constrained minimization Trust-Region Constrained Algorithm (method='trust-constr') Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP') Local minimization solver comparison",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 293,
+    "tag": "p",
+    "text": "Local minimization of multivariate scalar functions (minimize)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 299,
+    "tag": "li",
+    "text": "Unconstrained minimization Nelder-Mead Simplex algorithm (method='Nelder-Mead') Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS') Newton-Conjugate-Gradient algorithm (method='Newton-CG') Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg') Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov') Trust-Region Nearly Exact Algorithm (method='trust-exact')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 300,
+    "tag": "p",
+    "text": "Unconstrained minimization",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "li",
+    "text": "Nelder-Mead Simplex algorithm (method='Nelder-Mead')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 304,
+    "tag": "p",
+    "text": "Nelder-Mead Simplex algorithm (method='Nelder-Mead')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 308,
+    "tag": "li",
+    "text": "Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "p",
+    "text": "Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "Newton-Conjugate-Gradient algorithm (method='Newton-CG')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 314,
+    "tag": "p",
+    "text": "Newton-Conjugate-Gradient algorithm (method='Newton-CG')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 318,
+    "tag": "li",
+    "text": "Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 319,
+    "tag": "p",
+    "text": "Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 323,
+    "tag": "li",
+    "text": "Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 324,
+    "tag": "p",
+    "text": "Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "li",
+    "text": "Trust-Region Nearly Exact Algorithm (method='trust-exact')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 329,
+    "tag": "p",
+    "text": "Trust-Region Nearly Exact Algorithm (method='trust-exact')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 333,
+    "tag": "li",
+    "text": "Constrained minimization Trust-Region Constrained Algorithm (method='trust-constr') Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "p",
+    "text": "Constrained minimization",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 337,
+    "tag": "li",
+    "text": "Trust-Region Constrained Algorithm (method='trust-constr')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 338,
+    "tag": "p",
+    "text": "Trust-Region Constrained Algorithm (method='trust-constr')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 342,
+    "tag": "li",
+    "text": "Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 343,
+    "tag": "p",
+    "text": "Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 347,
+    "tag": "li",
+    "text": "Local minimization solver comparison",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 348,
+    "tag": "p",
+    "text": "Local minimization solver comparison",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "Global optimization Comparison of Global Optimizers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 351,
+    "tag": "p",
+    "text": "Global optimization",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 354,
+    "tag": "li",
+    "text": "Comparison of Global Optimizers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 355,
+    "tag": "p",
+    "text": "Comparison of Global Optimizers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 357,
+    "tag": "li",
+    "text": "Least-squares minimization (least_squares) Example of solving a fitting problem Further examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 358,
+    "tag": "p",
+    "text": "Least-squares minimization (least_squares)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 364,
+    "tag": "li",
+    "text": "Example of solving a fitting problem",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 365,
+    "tag": "p",
+    "text": "Example of solving a fitting problem",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 367,
+    "tag": "li",
+    "text": "Further examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 368,
+    "tag": "p",
+    "text": "Further examples",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "Univariate function minimizers (minimize_scalar) Unconstrained minimization (method='brent') Bounded minimization (method='bounded')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 371,
+    "tag": "p",
+    "text": "Univariate function minimizers (minimize_scalar)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 377,
+    "tag": "li",
+    "text": "Unconstrained minimization (method='brent')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 378,
+    "tag": "p",
+    "text": "Unconstrained minimization (method='brent')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 382,
+    "tag": "li",
+    "text": "Bounded minimization (method='bounded')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 383,
+    "tag": "p",
+    "text": "Bounded minimization (method='bounded')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 387,
+    "tag": "li",
+    "text": "Custom minimizers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 388,
+    "tag": "p",
+    "text": "Custom minimizers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 390,
+    "tag": "li",
+    "text": "Root finding Scalar functions Fixed-point solving Sets of equations Root finding for large problems Still too slow? Preconditioning.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "p",
+    "text": "Root finding",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 394,
+    "tag": "li",
+    "text": "Scalar functions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 395,
+    "tag": "p",
+    "text": "Scalar functions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "li",
+    "text": "Fixed-point solving",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 398,
+    "tag": "p",
+    "text": "Fixed-point solving",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 400,
+    "tag": "li",
+    "text": "Sets of equations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 401,
+    "tag": "p",
+    "text": "Sets of equations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 403,
+    "tag": "li",
+    "text": "Root finding for large problems",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 404,
+    "tag": "p",
+    "text": "Root finding for large problems",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "li",
+    "text": "Still too slow? Preconditioning.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "p",
+    "text": "Still too slow? Preconditioning.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 409,
+    "tag": "li",
+    "text": "Linear programming (linprog) Linear programming example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 410,
+    "tag": "p",
+    "text": "Linear programming (linprog)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "li",
+    "text": "Linear programming example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 417,
+    "tag": "p",
+    "text": "Linear programming example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 419,
+    "tag": "li",
+    "text": "Assignment problems Linear sum assignment problem example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 420,
+    "tag": "p",
+    "text": "Assignment problems",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "li",
+    "text": "Linear sum assignment problem example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "Linear sum assignment problem example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 426,
+    "tag": "li",
+    "text": "Mixed integer linear programming Knapsack problem example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 427,
+    "tag": "p",
+    "text": "Mixed integer linear programming",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 430,
+    "tag": "li",
+    "text": "Knapsack problem example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 431,
+    "tag": "p",
+    "text": "Knapsack problem example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 433,
+    "tag": "li",
+    "text": "Parallel execution support",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 434,
+    "tag": "p",
+    "text": "Parallel execution support",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 436,
+    "tag": "p",
+    "text": "The scipy.optimize package provides several commonly used optimization algorithms. A detailed listing is available: scipy.optimize (can also be found by help(scipy.optimize)).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 446,
+    "tag": "h2",
+    "text": "Local minimization of multivariate scalar functions (minimize)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 452,
+    "tag": "p",
+    "text": "The minimize function provides a common interface to unconstrained and constrained minimization algorithms for multivariate scalar functions in scipy.optimize. To demonstrate the minimization function, consider the problem of minimizing the Rosenbrock function of \\(N\\) variables:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 461,
+    "tag": "p",
+    "text": "The minimum value of this function is 0 which is achieved when \\(x_{i}=1.\\)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 463,
+    "tag": "p",
+    "text": "Note that the Rosenbrock function and its derivatives are included in scipy.optimize. The implementations shown in the following sections provide examples of how to define an objective function as well as its jacobian and hessian functions. Objective functions in scipy.optimize expect a numpy array as their first parameter which is to be optimized and must return a float value. The exact calling signature must be f(x, *args) where x represents a numpy array and args a tuple of additional arguments supplied to the objective function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 478,
+    "tag": "h3",
+    "text": "Unconstrained minimization#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 487,
+    "tag": "p",
+    "text": "In the example below, the minimize routine is used with the Nelder-Mead simplex algorithm (selected through the method parameter):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 496,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> from scipy.optimize import minimize",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 515,
+    "tag": "pre",
+    "text": ">>> def rosen(x): ... \"\"\"The Rosenbrock function\"\"\" ... return sum(100.0*(x[1:]-x[:-1]**2.0)**2.0 + (1-x[:-1])**2.0)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 563,
+    "tag": "pre",
+    "text": ">>> x0 = np.array([1.3, 0.7, 0.8, 1.9, 1.2]) >>> res = minimize(rosen, x0, method='nelder-mead', ... options={'xatol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 339 Function evaluations: 571",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 613,
+    "tag": "pre",
+    "text": ">>> print(res.x) [1. 1. 1. 1. 1.]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 623,
+    "tag": "p",
+    "text": "The simplex algorithm is probably the simplest way to minimize a fairly well-behaved function. It requires only function evaluations and is a good choice for simple minimization problems. However, because it does not use any gradient evaluations, it may take longer to find the minimum.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 624,
+    "tag": "p",
+    "text": "Another optimization algorithm that needs only function calls to find the minimum is Powell’s method available by setting method='powell' in minimize.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 631,
+    "tag": "p",
+    "text": "To demonstrate how to supply additional arguments to an objective function, let us minimize the Rosenbrock function with an additional scaling factor a and an offset b:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 635,
+    "tag": "p",
+    "text": "Again using the minimize routine this can be solved by the following code block for the example parameters a=0.5 and b=1.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 645,
+    "tag": "pre",
+    "text": ">>> def rosen_with_args(x, a, b): ... \"\"\"The Rosenbrock function with additional arguments\"\"\" ... return sum(a*(x[1:]-x[:-1]**2.0)**2.0 + (1-x[:-1])**2.0) + b",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 699,
+    "tag": "pre",
+    "text": ">>> x0 = np.array([1.3, 0.7, 0.8, 1.9, 1.2]) >>> res = minimize(rosen_with_args, x0, method='nelder-mead', ... args=(0.5, 1.), options={'xatol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 1.000000 Iterations: 319 # may vary Function evaluations: 525 # may vary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 756,
+    "tag": "pre",
+    "text": ">>> print(res.x) [1. 1. 1. 1. 0.99999999]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 766,
+    "tag": "p",
+    "text": "As an alternative to using the args parameter of minimize, simply wrap the objective function in a new function that accepts only x. This approach is also useful when it is necessary to pass additional parameters to the objective function as keyword arguments.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 776,
+    "tag": "pre",
+    "text": ">>> def rosen_with_args(x, a, *, b): # b is a keyword-only argument ... return sum(a*(x[1:]-x[:-1]**2.0)**2.0 + (1-x[:-1])**2.0) + b >>> def wrapped_rosen_without_args(x): ... return rosen_with_args(x, 0.5, b=1.) # pass in `a` and `b` >>> x0 = np.array([1.3, 0.7, 0.8, 1.9, 1.2]) >>> res = minimize(wrapped_rosen_without_args, x0, method='nelder-mead', ... options={'xatol': 1e-8,}) >>> print(res.x) [1. 1. 1. 1. 0.99999999]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 894,
+    "tag": "p",
+    "text": "Another alternative is to use functools.partial.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 900,
+    "tag": "pre",
+    "text": ">>> from functools import partial >>> partial_rosen = partial(rosen_with_args, a=0.5, b=1.) >>> res = minimize(partial_rosen, x0, method='nelder-mead', ... options={'xatol': 1e-8,}) >>> print(res.x) [1. 1. 1. 1. 0.99999999]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 959,
+    "tag": "p",
+    "text": "In order to converge more quickly to the solution, this routine uses the gradient of the objective function. If the gradient is not given by the user, then it is estimated using first-differences. The Broyden-Fletcher-Goldfarb-Shanno (BFGS) method typically requires fewer function calls than the simplex algorithm even when the gradient must be estimated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 960,
+    "tag": "p",
+    "text": "To demonstrate this algorithm, the Rosenbrock function is again used. The gradient of the Rosenbrock function is the vector:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 962,
+    "tag": "p",
+    "text": "This expression is valid for the interior derivatives. Special cases are",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 964,
+    "tag": "p",
+    "text": "A Python function which computes this gradient is constructed by the code-segment:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 967,
+    "tag": "pre",
+    "text": ">>> def rosen_der(x): ... xm = x[1:-1] ... xm_m1 = x[:-2] ... xm_p1 = x[2:] ... der = np.zeros_like(x) ... der[1:-1] = 200*(xm-xm_m1**2) - 400*(xm_p1 - xm**2)*xm - 2*(1-xm) ... der[0] = -400*x[0]*(x[1]-x[0]**2) - 2*(1-x[0]) ... der[-1] = 200*(x[-1]-x[-2]**2) ... return der",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1112,
+    "tag": "p",
+    "text": "This gradient information is specified in the minimize function through the jac parameter as illustrated below.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1120,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='BFGS', jac=rosen_der, ... options={'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 25 # may vary Function evaluations: 30 Gradient evaluations: 30 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1157,
+    "tag": "p",
+    "text": "Avoiding Redundant Calculation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1159,
+    "tag": "p",
+    "text": "It is common for the objective function and its gradient to share parts of the calculation. For instance, consider the following problem.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1162,
+    "tag": "pre",
+    "text": ">>> def f(x): ... return -expensive(x[0])**2 >>> >>> def df(x): ... return -2 * expensive(x[0]) * dexpensive(x[0]) >>> >>> def expensive(x): ... # this function is computationally expensive! ... expensive.count += 1 # let's keep track of how many times it runs ... return np.sin(x) >>> expensive.count = 0 >>> >>> def dexpensive(x): ... return np.cos(x) >>> >>> res = minimize(f, 0.5, jac=df) >>> res.fun -0.9999999999999174 >>> res.nfev, res.njev 6, 6 >>> expensive.count 12",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1288,
+    "tag": "p",
+    "text": "Here, expensive is called 12 times: six times in the objective function and six times from the gradient. One way of reducing redundant calculations is to create a single function that returns both the objective function and the gradient.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1293,
+    "tag": "pre",
+    "text": ">>> def f_and_df(x): ... expensive_value = expensive(x[0]) ... return (-expensive_value**2, # objective function ... -2*expensive_value*dexpensive(x[0])) # gradient >>> >>> expensive.count = 0 # reset the counter >>> res = minimize(f_and_df, 0.5, jac=True) >>> res.fun -0.9999999999999174 >>> expensive.count 6",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1364,
+    "tag": "p",
+    "text": "When we call minimize, we specify jac==True to indicate that the provided function returns both the objective function and its gradient. While convenient, not all scipy.optimize functions support this feature, and moreover, it is only for sharing calculations between the function and its gradient, whereas in some problems we will want to share calculations with the Hessian (second derivative of the objective function) and constraints. A more general approach is to memoize the expensive parts of the calculation. In simple situations, this can be accomplished with the functools.lru_cache wrapper.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1375,
+    "tag": "pre",
+    "text": ">>> from functools import lru_cache >>> expensive.count = 0 # reset the counter >>> expensive = lru_cache(expensive) >>> res = minimize(f, 0.5, jac=df) >>> res.fun -0.9999999999999174 >>> expensive.count 6",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1427,
+    "tag": "p",
+    "text": "Newton-Conjugate Gradient algorithm is a modified Newton’s method and uses a conjugate gradient algorithm to (approximately) invert the local Hessian [NW]. Newton’s method is based on fitting the function locally to a quadratic form:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1431,
+    "tag": "p",
+    "text": "where \\(\\mathbf{H}\\left(\\mathbf{x}_{0}\\right)\\) is a matrix of second-derivatives (the Hessian). If the Hessian is positive definite then the local minimum of this function can be found by setting the gradient of the quadratic form to zero, resulting in",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1434,
+    "tag": "p",
+    "text": "The inverse of the Hessian is evaluated using the conjugate-gradient method. An example of employing this method to minimizing the Rosenbrock function is given below. To take full advantage of the Newton-CG method, a function which computes the Hessian must be provided. The Hessian matrix itself does not need to be constructed, only a vector which is the product of the Hessian with an arbitrary vector needs to be available to the minimization routine. As a result, the user can provide either a function to compute the Hessian matrix, or a function to compute the product of the Hessian with an arbitrary vector.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1435,
+    "tag": "p",
+    "text": "Full Hessian example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1437,
+    "tag": "p",
+    "text": "The Hessian of the Rosenbrock function is",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1439,
+    "tag": "p",
+    "text": "if \\(i,j\\in\\left[1,N-2\\right]\\) with \\(i,j\\in\\left[0,N-1\\right]\\) defining the \\(N\\times N\\) matrix. Other non-zero entries of the matrix are",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1444,
+    "tag": "p",
+    "text": "For example, the Hessian when \\(N=5\\) is",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1447,
+    "tag": "p",
+    "text": "The code which computes this Hessian along with the code to minimize the function using Newton-CG method is shown in the following example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1450,
+    "tag": "pre",
+    "text": ">>> def rosen_hess(x): ... x = np.asarray(x) ... H = np.diag(-400*x[:-1],1) - np.diag(400*x[:-1],-1) ... diagonal = np.zeros_like(x) ... diagonal[0] = 1200*x[0]**2-400*x[1]+2 ... diagonal[-1] = 200 ... diagonal[1:-1] = 202 + 1200*x[1:-1]**2 - 400*x[2:] ... H = H + np.diag(diagonal) ... return H",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1585,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='Newton-CG', ... jac=rosen_der, hess=rosen_hess, ... options={'xtol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 19 # may vary Function evaluations: 22 Gradient evaluations: 19 Hessian evaluations: 19 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1632,
+    "tag": "p",
+    "text": "Hessian product example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1634,
+    "tag": "p",
+    "text": "For larger minimization problems, storing the entire Hessian matrix can consume considerable time and memory. The Newton-CG algorithm only needs the product of the Hessian times an arbitrary vector. As a result, the user can supply code to compute this product rather than the full Hessian by giving a hess function which take the minimization vector as the first argument and the arbitrary vector as the second argument (along with extra arguments passed to the function to be minimized). If possible, using Newton-CG with the Hessian product option is probably the fastest way to minimize the function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1637,
+    "tag": "p",
+    "text": "In this case, the product of the Rosenbrock Hessian with an arbitrary vector is not difficult to compute. If \\(\\mathbf{p}\\) is the arbitrary vector, then \\(\\mathbf{H}\\left(\\mathbf{x}\\right)\\mathbf{p}\\) has elements:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1641,
+    "tag": "p",
+    "text": "Code which makes use of this Hessian product to minimize the Rosenbrock function using minimize follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1647,
+    "tag": "pre",
+    "text": ">>> def rosen_hess_p(x, p): ... x = np.asarray(x) ... Hp = np.zeros_like(x) ... Hp[0] = (1200*x[0]**2 - 400*x[1] + 2)*p[0] - 400*x[0]*p[1] ... Hp[1:-1] = -400*x[:-2]*p[:-2]+(202+1200*x[1:-1]**2-400*x[2:])*p[1:-1] \\ ... -400*x[1:-1]*p[2:] ... Hp[-1] = -400*x[-2]*p[-2] + 200*p[-1] ... return Hp",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1821,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='Newton-CG', ... jac=rosen_der, hessp=rosen_hess_p, ... options={'xtol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 20 # may vary Function evaluations: 23 Gradient evaluations: 20 Hessian evaluations: 44 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1868,
+    "tag": "p",
+    "text": "According to [NW] p. 170 the Newton-CG algorithm can be inefficient when the Hessian is ill-conditioned because of the poor quality search directions provided by the method in those situations. The method trust-ncg, according to the authors, deals more effectively with this problematic situation and will be described next.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1881,
+    "tag": "p",
+    "text": "The Newton-CG method is a line search method: it finds a direction of search minimizing a quadratic approximation of the function and then uses a line search algorithm to find the (nearly) optimal step size in that direction. An alternative approach is to, first, fix the step size limit \\(\\Delta\\) and then find the optimal step \\(\\mathbf{p}\\) inside the given trust-radius by solving the following quadratic subproblem:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1887,
+    "tag": "p",
+    "text": "The solution is then updated \\(\\mathbf{x}_{k+1} = \\mathbf{x}_{k} + \\mathbf{p}\\) and the trust-radius \\(\\Delta\\) is adjusted according to the degree of agreement of the quadratic model with the real function. This family of methods is known as trust-region methods. The trust-ncg algorithm is a trust-region method that uses a conjugate gradient algorithm to solve the trust-region subproblem [NW].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1894,
+    "tag": "p",
+    "text": "Full Hessian example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1898,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='trust-ncg', ... jac=rosen_der, hess=rosen_hess, ... options={'gtol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 20 # may vary Function evaluations: 21 Gradient evaluations: 20 Hessian evaluations: 19 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1945,
+    "tag": "p",
+    "text": "Hessian product example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1949,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='trust-ncg', ... jac=rosen_der, hessp=rosen_hess_p, ... options={'gtol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 20 # may vary Function evaluations: 21 Gradient evaluations: 20 Hessian evaluations: 0 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2002,
+    "tag": "p",
+    "text": "Similar to the trust-ncg method, the trust-krylov method is a method suitable for large-scale problems as it uses the hessian only as linear operator by means of matrix-vector products. It solves the quadratic subproblem more accurately than the trust-ncg method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2010,
+    "tag": "p",
+    "text": "This method wraps the [TRLIB] implementation of the [GLTR] method solving exactly a trust-region subproblem restricted to a truncated Krylov subspace. For indefinite problems it is usually better to use this method as it reduces the number of nonlinear iterations at the expense of few more matrix-vector products per subproblem solve in comparison to the trust-ncg method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2017,
+    "tag": "p",
+    "text": "Full Hessian example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2021,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='trust-krylov', ... jac=rosen_der, hess=rosen_hess, ... options={'gtol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 19 # may vary Function evaluations: 20 Gradient evaluations: 20 Hessian evaluations: 18 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2068,
+    "tag": "p",
+    "text": "Hessian product example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2072,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='trust-krylov', ... jac=rosen_der, hessp=rosen_hess_p, ... options={'gtol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 19 # may vary Function evaluations: 20 Gradient evaluations: 20 Hessian evaluations: 0 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2125,
+    "tag": "p",
+    "text": "F. Lenders, C. Kirches, A. Potschka: “trlib: A vector-free implementation of the GLTR method for iterative solution of the trust region problem”, arXiv:1611.04718",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2132,
+    "tag": "p",
+    "text": "N. Gould, S. Lucidi, M. Roma, P. Toint: “Solving the Trust-Region Subproblem using the Lanczos Method”, SIAM J. Optim., 9(2), 504–525, (1999). DOI:10.1137/S1052623497322735",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2140,
+    "tag": "p",
+    "text": "All methods Newton-CG, trust-ncg and trust-krylov are suitable for dealing with large-scale problems (problems with thousands of variables). That is because the conjugate gradient algorithm approximately solve the trust-region subproblem (or invert the Hessian) by iterations without the explicit Hessian factorization. Since only the product of the Hessian with an arbitrary vector is needed, the algorithm is specially suited for dealing with sparse Hessians, allowing low storage requirements and significant time savings for those sparse problems.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2147,
+    "tag": "p",
+    "text": "For medium-size problems, for which the storage and factorization cost of the Hessian are not critical, it is possible to obtain a solution within fewer iteration by solving the trust-region subproblems almost exactly. To achieve that, a certain nonlinear equations is solved iteratively for each quadratic subproblem [CGT]. This solution requires usually 3 or 4 Cholesky factorizations of the Hessian matrix. As the result, the method converges in fewer number of iterations and takes fewer evaluations of the objective function than the other implemented trust-region methods. The Hessian product option is not supported by this algorithm. An example using the Rosenbrock function follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2152,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='trust-exact', ... jac=rosen_der, hess=rosen_hess, ... options={'gtol': 1e-8, 'disp': True}) Optimization terminated successfully. Current function value: 0.000000 Iterations: 13 # may vary Function evaluations: 14 Gradient evaluations: 13 Hessian evaluations: 14 >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2208,
+    "tag": "p",
+    "text": "J. Nocedal, S.J. Wright “Numerical optimization.” 2nd edition. Springer Science (2006).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2214,
+    "tag": "p",
+    "text": "Conn, A. R., Gould, N. I., & Toint, P. L. “Trust region methods”. Siam. (2000). pp. 169-200.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2217,
+    "tag": "h3",
+    "text": "Constrained minimization#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2220,
+    "tag": "p",
+    "text": "The minimize function provides several algorithms for constrained minimization, namely 'trust-constr' , 'SLSQP', 'COBYLA', and 'COBYQA'. They require the constraints to be defined using slightly different structures. The methods 'trust-constr', 'COBYQA', and 'COBYLA' require the constraints to be defined as a sequence of objects LinearConstraint and NonlinearConstraint. Method 'SLSQP', on the other hand, requires constraints to be defined as a sequence of dictionaries, with keys type, fun and jac.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2252,
+    "tag": "p",
+    "text": "As an example let us consider the constrained minimization of the Rosenbrock function:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2254,
+    "tag": "p",
+    "text": "This optimization problem has the unique solution \\([x_0, x_1] = [0.4149,~ 0.1701]\\), for which only the first and fourth constraints are active.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2262,
+    "tag": "p",
+    "text": "The trust-region constrained method deals with constrained minimization problems of the form:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2264,
+    "tag": "p",
+    "text": "When \\(c^l_j = c^u_j\\) the method reads the \\(j\\)-th constraint as an equality constraint and deals with it accordingly. Besides that, one-sided constraint can be specified by setting the upper or lower bound to np.inf with the appropriate sign.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2269,
+    "tag": "p",
+    "text": "The implementation is based on [EQSQP] for equality-constraint problems and on [TRIP] for problems with inequality constraints. Both are trust-region type algorithms suitable for large-scale problems.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2274,
+    "tag": "p",
+    "text": "Defining Bounds Constraints",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2276,
+    "tag": "p",
+    "text": "The bound constraints \\(0 \\leq x_0 \\leq 1\\) and \\(-0.5 \\leq x_1 \\leq 2.0\\) are defined using a Bounds object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2284,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import Bounds >>> bounds = Bounds([0, -0.5], [1.0, 2.0])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2308,
+    "tag": "p",
+    "text": "Defining Linear Constraints",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2310,
+    "tag": "p",
+    "text": "The constraints \\(x_0 + 2 x_1 \\leq 1\\) and \\(2 x_0 + x_1 = 1\\) can be written in the linear constraint standard format:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2314,
+    "tag": "p",
+    "text": "and defined using a LinearConstraint object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2320,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import LinearConstraint >>> linear_constraint = LinearConstraint([[1, 2], [2, 1]], [-np.inf, 1], [1, 1])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2356,
+    "tag": "p",
+    "text": "Defining Nonlinear Constraints",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2358,
+    "tag": "p",
+    "text": "The nonlinear constraint:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2360,
+    "tag": "p",
+    "text": "with Jacobian matrix:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2362,
+    "tag": "p",
+    "text": "and linear combination of the Hessians:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2364,
+    "tag": "p",
+    "text": "is defined using a NonlinearConstraint object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2370,
+    "tag": "pre",
+    "text": ">>> def cons_f(x): ... return [x[0]**2 + x[1], x[0]**2 - x[1]] >>> def cons_J(x): ... return [[2*x[0], 1], [2*x[0], -1]] >>> def cons_H(x, v): ... return v[0]*np.array([[2, 0], [0, 0]]) + v[1]*np.array([[2, 0], [0, 0]]) >>> from scipy.optimize import NonlinearConstraint >>> nonlinear_constraint = NonlinearConstraint(cons_f, -np.inf, 1, jac=cons_J, hess=cons_H)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2509,
+    "tag": "p",
+    "text": "Alternatively, it is also possible to define the Hessian \\(H(x, v)\\) as a sparse matrix,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2513,
+    "tag": "pre",
+    "text": ">>> from scipy.sparse import csc_array >>> def cons_H_sparse(x, v): ... return v[0]*csc_array([[2, 0], [0, 0]]) + v[1]*csc_array([[2, 0], [0, 0]]) >>> nonlinear_constraint = NonlinearConstraint(cons_f, -np.inf, 1, ... jac=cons_J, hess=cons_H_sparse)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2589,
+    "tag": "p",
+    "text": "or as a LinearOperator object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2595,
+    "tag": "pre",
+    "text": ">>> from scipy.sparse.linalg import LinearOperator >>> def cons_H_linear_operator(x, v): ... def matvec(p): ... return np.array([p[0]*2*(v[0]+v[1]), 0]) ... return LinearOperator((2, 2), matvec=matvec) >>> nonlinear_constraint = NonlinearConstraint(cons_f, -np.inf, 1, ... jac=cons_J, hess=cons_H_linear_operator)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2680,
+    "tag": "p",
+    "text": "When the evaluation of the Hessian \\(H(x, v)\\) is difficult to implement or computationally infeasible, one may use HessianUpdateStrategy. Currently available strategies are BFGS and SR1.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2693,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import BFGS >>> nonlinear_constraint = NonlinearConstraint(cons_f, -np.inf, 1, jac=cons_J, hess=BFGS())",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2724,
+    "tag": "p",
+    "text": "Alternatively, the Hessian may be approximated using finite differences.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2727,
+    "tag": "pre",
+    "text": ">>> nonlinear_constraint = NonlinearConstraint(cons_f, -np.inf, 1, jac=cons_J, hess='2-point')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2751,
+    "tag": "p",
+    "text": "The Jacobian of the constraints can be approximated by finite differences as well. In this case, however, the Hessian cannot be computed with finite differences and needs to be provided by the user or defined using HessianUpdateStrategy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2757,
+    "tag": "pre",
+    "text": ">>> nonlinear_constraint = NonlinearConstraint(cons_f, -np.inf, 1, jac='2-point', hess=BFGS())",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2781,
+    "tag": "p",
+    "text": "Solving the Optimization Problem The optimization problem is solved using:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2785,
+    "tag": "pre",
+    "text": ">>> x0 = np.array([0.5, 0]) >>> res = minimize(rosen, x0, method='trust-constr', jac=rosen_der, hess=rosen_hess, ... constraints=[linear_constraint, nonlinear_constraint], ... options={'verbose': 1}, bounds=bounds) # may vary `gtol` termination condition is satisfied. Number of iterations: 12, function evaluations: 8, CG iterations: 7, optimality: 2.99e-09, constraint violation: 1.11e-16, execution time: 0.016 s. >>> print(res.x) [0.41494531 0.17010937]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2850,
+    "tag": "p",
+    "text": "When needed, the objective function Hessian can be defined using a LinearOperator object,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2856,
+    "tag": "pre",
+    "text": ">>> def rosen_hess_linop(x): ... def matvec(p): ... return rosen_hess_p(x, p) ... return LinearOperator((2, 2), matvec=matvec) >>> res = minimize(rosen, x0, method='trust-constr', jac=rosen_der, hess=rosen_hess_linop, ... constraints=[linear_constraint, nonlinear_constraint], ... options={'verbose': 1}, bounds=bounds) # may vary `gtol` termination condition is satisfied. Number of iterations: 12, function evaluations: 8, CG iterations: 7, optimality: 2.99e-09, constraint violation: 1.11e-16, execution time: 0.018 s. >>> print(res.x) [0.41494531 0.17010937]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2944,
+    "tag": "p",
+    "text": "or a Hessian-vector product through the parameter hessp.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2949,
+    "tag": "pre",
+    "text": ">>> res = minimize(rosen, x0, method='trust-constr', jac=rosen_der, hessp=rosen_hess_p, ... constraints=[linear_constraint, nonlinear_constraint], ... options={'verbose': 1}, bounds=bounds) # may vary `gtol` termination condition is satisfied. Number of iterations: 12, function evaluations: 8, CG iterations: 7, optimality: 2.99e-09, constraint violation: 1.11e-16, execution time: 0.018 s. >>> print(res.x) [0.41494531 0.17010937]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3003,
+    "tag": "p",
+    "text": "Alternatively, the first and second derivatives of the objective function can be approximated. For instance, the Hessian can be approximated with SR1 quasi-Newton approximation and the gradient with finite differences.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3009,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import SR1 >>> res = minimize(rosen, x0, method='trust-constr', jac=\"2-point\", hess=SR1(), ... constraints=[linear_constraint, nonlinear_constraint], ... options={'verbose': 1}, bounds=bounds) # may vary `gtol` termination condition is satisfied. Number of iterations: 12, function evaluations: 24, CG iterations: 7, optimality: 4.48e-09, constraint violation: 0.00e+00, execution time: 0.016 s. >>> print(res.x) [0.41494531 0.17010937]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3076,
+    "tag": "p",
+    "text": "Byrd, Richard H., Mary E. Hribar, and Jorge Nocedal. 1999. An interior point algorithm for large-scale nonlinear programming. SIAM Journal on Optimization 9.4: 877-900.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3082,
+    "tag": "p",
+    "text": "Lalee, Marucha, Jorge Nocedal, and Todd Plantega. 1998. On the implementation of an algorithm for large-scale equality constrained optimization. SIAM Journal on Optimization 8.3: 682-706.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3089,
+    "tag": "p",
+    "text": "The SLSQP method deals with constrained minimization problems of the form:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3091,
+    "tag": "p",
+    "text": "Where \\(\\mathcal{E}\\) or \\(\\mathcal{I}\\) are sets of indices containing equality and inequality constraints.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3094,
+    "tag": "p",
+    "text": "Both linear and nonlinear constraints are defined as dictionaries with keys type, fun and jac.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3103,
+    "tag": "pre",
+    "text": ">>> ineq_cons = {'type': 'ineq', ... 'fun' : lambda x: np.array([1 - x[0] - 2*x[1], ... 1 - x[0]**2 - x[1], ... 1 - x[0]**2 + x[1]]), ... 'jac' : lambda x: np.array([[-1.0, -2.0], ... [-2*x[0], -1.0], ... [-2*x[0], 1.0]])} >>> eq_cons = {'type': 'eq', ... 'fun' : lambda x: np.array([2*x[0] + x[1] - 1]), ... 'jac' : lambda x: np.array([2.0, 1.0])}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3249,
+    "tag": "p",
+    "text": "And the optimization problem is solved with:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3252,
+    "tag": "pre",
+    "text": ">>> x0 = np.array([0.5, 0]) >>> res = minimize(rosen, x0, method='SLSQP', jac=rosen_der, ... constraints=[eq_cons, ineq_cons], options={'ftol': 1e-9, 'disp': True}, ... bounds=bounds) # may vary Optimization terminated successfully. (Exit mode 0) Current function value: 0.342717574857755 Iterations: 5 Function evaluations: 6 Gradient evaluations: 5 >>> print(res.x) [0.41494475 0.1701105 ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3320,
+    "tag": "p",
+    "text": "Most of the options available for the method 'trust-constr' are not available for 'SLSQP'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3326,
+    "tag": "h3",
+    "text": "Local minimization solver comparison#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3329,
+    "tag": "p",
+    "text": "Find a solver that meets your requirements using the table below. If there are multiple candidates, try several and see which ones best meet your needs (e.g. execution time, objective function value).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3341,
+    "tag": "th",
+    "text": "Solver",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 3342,
+    "tag": "p",
+    "text": "Solver",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3343,
+    "tag": "th",
+    "text": "Bounds Constraints",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 3344,
+    "tag": "p",
+    "text": "Bounds Constraints",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3345,
+    "tag": "th",
+    "text": "Nonlinear Constraints",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 3346,
+    "tag": "p",
+    "text": "Nonlinear Constraints",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3347,
+    "tag": "th",
+    "text": "Uses Gradient",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 3348,
+    "tag": "p",
+    "text": "Uses Gradient",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3349,
+    "tag": "th",
+    "text": "Uses Hessian",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 3350,
+    "tag": "p",
+    "text": "Uses Hessian",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3351,
+    "tag": "th",
+    "text": "Utilizes Sparsity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 3352,
+    "tag": "p",
+    "text": "Utilizes Sparsity",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3355,
+    "tag": "td",
+    "text": "CG",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3356,
+    "tag": "p",
+    "text": "CG",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3359,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3360,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3364,
+    "tag": "td",
+    "text": "BFGS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3365,
+    "tag": "p",
+    "text": "BFGS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3368,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3369,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3373,
+    "tag": "td",
+    "text": "dogleg",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3374,
+    "tag": "p",
+    "text": "dogleg",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3377,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3378,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3379,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3380,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3383,
+    "tag": "td",
+    "text": "trust-ncg",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3384,
+    "tag": "p",
+    "text": "trust-ncg",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3387,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3388,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3389,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3390,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3393,
+    "tag": "td",
+    "text": "trust-krylov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3394,
+    "tag": "p",
+    "text": "trust-krylov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3397,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3398,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3399,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3400,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3403,
+    "tag": "td",
+    "text": "trust-exact",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3404,
+    "tag": "p",
+    "text": "trust-exact",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3407,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3408,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3409,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3410,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3413,
+    "tag": "td",
+    "text": "Newton-CG",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3414,
+    "tag": "p",
+    "text": "Newton-CG",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3417,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3418,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3419,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3420,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3421,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3422,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3424,
+    "tag": "td",
+    "text": "Nelder-Mead",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3425,
+    "tag": "p",
+    "text": "Nelder-Mead",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3426,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3427,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3433,
+    "tag": "td",
+    "text": "Powell",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3434,
+    "tag": "p",
+    "text": "Powell",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3435,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3436,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3442,
+    "tag": "td",
+    "text": "L-BFGS-B",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3443,
+    "tag": "p",
+    "text": "L-BFGS-B",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3444,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3445,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3447,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3448,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3452,
+    "tag": "td",
+    "text": "TNC",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3453,
+    "tag": "p",
+    "text": "TNC",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3454,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3455,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3457,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3458,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3462,
+    "tag": "td",
+    "text": "COBYLA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3463,
+    "tag": "p",
+    "text": "COBYLA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3464,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3465,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3466,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3467,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3472,
+    "tag": "td",
+    "text": "COBYQA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3473,
+    "tag": "p",
+    "text": "COBYQA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3474,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3475,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3476,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3477,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3482,
+    "tag": "td",
+    "text": "SLSQP",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3483,
+    "tag": "p",
+    "text": "SLSQP",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3484,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3485,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3486,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3487,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3488,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3489,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3493,
+    "tag": "td",
+    "text": "trust-constr",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3494,
+    "tag": "p",
+    "text": "trust-constr",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3495,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3496,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3497,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3498,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3499,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3500,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3501,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3502,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3503,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3504,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3507,
+    "tag": "h2",
+    "text": "Global optimization#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3510,
+    "tag": "p",
+    "text": "Global optimization aims to find the global minimum of a function within given bounds, in the presence of potentially many local minima. Typically, global minimizers efficiently search the parameter space, while using a local minimizer (e.g., minimize) under the hood. SciPy contains a number of good global optimizers. Here, we’ll use those on the same objective function, namely the (aptly named) eggholder function:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3518,
+    "tag": "pre",
+    "text": ">>> def eggholder(x): ... return (-(x[1] + 47) * np.sin(np.sqrt(abs(x[0]/2 + (x[1] + 47)))) ... -x[0] * np.sin(np.sqrt(abs(x[0] - (x[1] + 47))))) >>> bounds = [(-512, 512), (-512, 512)]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3610,
+    "tag": "p",
+    "text": "This function looks like an egg carton:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3613,
+    "tag": "pre",
+    "text": ">>> import matplotlib.pyplot as plt >>> from mpl_toolkits.mplot3d import Axes3D >>> x = np.arange(-512, 513) >>> y = np.arange(-512, 513) >>> xgrid, ygrid = np.meshgrid(x, y) >>> xy = np.stack([xgrid, ygrid]) >>> fig = plt.figure() >>> ax = fig.add_subplot(111, projection='3d') >>> ax.view_init(45, -45) >>> ax.plot_surface(xgrid, ygrid, eggholder(xy), cmap='terrain') >>> ax.set_xlabel('x') >>> ax.set_ylabel('y') >>> ax.set_zlabel('eggholder(x, y)') >>> plt.show()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3753,
+    "tag": "p",
+    "text": "We now use the global optimizers to obtain the minimum and the function value at the minimum. We’ll store the results in a dictionary so we can compare different optimization results later.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3756,
+    "tag": "pre",
+    "text": ">>> from scipy import optimize >>> results = dict() >>> results['shgo'] = optimize.shgo(eggholder, bounds) >>> results['shgo'] fun: -935.3379515604197 # may vary funl: array([-935.33795156]) message: 'Optimization terminated successfully.' nfev: 42 nit: 2 nlfev: 37 nlhev: 0 nljev: 9 success: True x: array([439.48096952, 453.97740589]) xl: array([[439.48096952, 453.97740589]])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3802,
+    "tag": "pre",
+    "text": ">>> results['DA'] = optimize.dual_annealing(eggholder, bounds) >>> results['DA'] fun: -956.9182316237413 # may vary message: ['Maximum number of iteration reached'] nfev: 4091 nhev: 0 nit: 1000 njev: 0 x: array([482.35324114, 432.87892901])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3830,
+    "tag": "p",
+    "text": "All optimizers return an OptimizeResult, which in addition to the solution contains information on the number of function evaluations, whether the optimization was successful, and more. For brevity, we won’t show the full output of the other optimizers:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3835,
+    "tag": "pre",
+    "text": ">>> results['DE'] = optimize.differential_evolution(eggholder, bounds)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3851,
+    "tag": "p",
+    "text": "shgo has a second method, which returns all local minima rather than only what it thinks is the global minimum:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3857,
+    "tag": "pre",
+    "text": ">>> results['shgo_sobol'] = optimize.shgo(eggholder, bounds, n=200, iters=5, ... sampling_method='sobol')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3886,
+    "tag": "p",
+    "text": "We’ll now plot all found minima on a heatmap of the function:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3889,
+    "tag": "pre",
+    "text": ">>> fig = plt.figure() >>> ax = fig.add_subplot(111) >>> im = ax.imshow(eggholder(xy), interpolation='bilinear', origin='lower', ... cmap='gray') >>> ax.set_xlabel('x') >>> ax.set_ylabel('y') >>> >>> def plot_point(res, marker='o', color=None): ... ax.plot(512+res.x[0], 512+res.x[1], marker=marker, color=color, ms=10) >>> plot_point(results['DE'], color='c') # differential_evolution - cyan >>> plot_point(results['DA'], color='w') # dual_annealing. - white >>> # SHGO produces multiple minima, plot them all (with a smaller marker size) >>> plot_point(results['shgo'], color='r', marker='+') >>> plot_point(results['shgo_sobol'], color='r', marker='x') >>> for i in range(results['shgo_sobol'].xl.shape[0]): ... ax.plot(512 + results['shgo_sobol'].xl[i, 0], ... 512 + results['shgo_sobol'].xl[i, 1], ... 'ro', ms=2) >>> ax.set_xlim([-4, 514*2]) >>> ax.set_ylim([-4, 514*2]) >>> plt.show()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4138,
+    "tag": "h3",
+    "text": "Comparison of Global Optimizers#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4141,
+    "tag": "p",
+    "text": "Find a solver that meets your requirements using the table below. If there are multiple candidates, try several and see which ones best meet your needs (e.g. execution time, objective function value).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4152,
+    "tag": "th",
+    "text": "Solver",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 4153,
+    "tag": "p",
+    "text": "Solver",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4154,
+    "tag": "th",
+    "text": "Bounds Constraints",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 4155,
+    "tag": "p",
+    "text": "Bounds Constraints",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4156,
+    "tag": "th",
+    "text": "Nonlinear Constraints",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 4157,
+    "tag": "p",
+    "text": "Nonlinear Constraints",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4158,
+    "tag": "th",
+    "text": "Uses Gradient",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 4159,
+    "tag": "p",
+    "text": "Uses Gradient",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4160,
+    "tag": "th",
+    "text": "Uses Hessian",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 4161,
+    "tag": "p",
+    "text": "Uses Hessian",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4164,
+    "tag": "td",
+    "text": "basinhopping",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4165,
+    "tag": "p",
+    "text": "basinhopping",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4168,
+    "tag": "td",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4169,
+    "tag": "p",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4170,
+    "tag": "td",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4171,
+    "tag": "p",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4173,
+    "tag": "td",
+    "text": "direct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4174,
+    "tag": "p",
+    "text": "direct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4175,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4176,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4181,
+    "tag": "td",
+    "text": "dual_annealing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4182,
+    "tag": "p",
+    "text": "dual_annealing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4183,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4184,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4186,
+    "tag": "td",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4187,
+    "tag": "p",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4188,
+    "tag": "td",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4189,
+    "tag": "p",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4191,
+    "tag": "td",
+    "text": "differential_evolution",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4192,
+    "tag": "p",
+    "text": "differential_evolution",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4193,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4194,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4195,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4196,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4200,
+    "tag": "td",
+    "text": "shgo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4201,
+    "tag": "p",
+    "text": "shgo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4202,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4203,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4204,
+    "tag": "td",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4205,
+    "tag": "p",
+    "text": "✓",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4206,
+    "tag": "td",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4207,
+    "tag": "p",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4208,
+    "tag": "td",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4209,
+    "tag": "p",
+    "text": "(✓)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4210,
+    "tag": "p",
+    "text": "(✓) = Depending on the chosen local minimizer",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4212,
+    "tag": "h2",
+    "text": "Least-squares minimization (least_squares)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4218,
+    "tag": "p",
+    "text": "SciPy is capable of solving robustified bound-constrained nonlinear least-squares problems:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4220,
+    "tag": "p",
+    "text": "Here \\(f_i(\\mathbf{x})\\) are smooth functions from \\(\\mathbb{R}^n\\) to \\(\\mathbb{R}\\), we refer to them as residuals. The purpose of a scalar-valued function \\(\\rho(\\cdot)\\) is to reduce the influence of outlier residuals and contribute to robustness of the solution, we refer to it as a loss function. A linear loss function gives a standard least-squares problem. Additionally, constraints in a form of lower and upper bounds on some of \\(x_j\\) are allowed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4226,
+    "tag": "p",
+    "text": "All methods specific to least-squares minimization utilize a \\(m \\times n\\) matrix of partial derivatives called Jacobian and defined as \\(J_{ij} = \\partial f_i / \\partial x_j\\). It is highly recommended to compute this matrix analytically and pass it to least_squares, otherwise, it will be estimated by finite differences, which takes a lot of additional time and can be very inaccurate in hard cases.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4232,
+    "tag": "p",
+    "text": "Function least_squares can be used for fitting a function \\(\\varphi(t; \\mathbf{x})\\) to empirical data \\(\\{(t_i, y_i), i = 0, \\ldots, m-1\\}\\). To do this, one should simply precompute residuals as \\(f_i(\\mathbf{x}) = w_i (\\varphi(t_i; \\mathbf{x}) - y_i)\\), where \\(w_i\\) are weights assigned to each observation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4241,
+    "tag": "h3",
+    "text": "Example of solving a fitting problem#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4244,
+    "tag": "p",
+    "text": "Here we consider an enzymatic reaction [1]. There are 11 residuals defined as",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4249,
+    "tag": "p",
+    "text": "where \\(y_i\\) are measurement values and \\(u_i\\) are values of the independent variable. The unknown vector of parameters is \\(\\mathbf{x} = (x_0, x_1, x_2, x_3)^T\\). As was said previously, it is recommended to compute Jacobian matrix in a closed form:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4254,
+    "tag": "p",
+    "text": "We are going to use the “hard” starting point defined in [2]. To find a physically meaningful solution, avoid potential division by zero and assure convergence to the global minimum we impose constraints \\(0 \\leq x_j \\leq 100, j = 0, 1, 2, 3\\).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4259,
+    "tag": "p",
+    "text": "The code below implements least-squares estimation of \\(\\mathbf{x}\\) and finally plots the original data and the fitted model function:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4263,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import least_squares",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4274,
+    "tag": "pre",
+    "text": ">>> def model(x, u): ... return x[0] * (u ** 2 + x[1] * u) / (u ** 2 + x[2] * u + x[3])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4323,
+    "tag": "pre",
+    "text": ">>> def fun(x, u, y): ... return model(x, u) - y",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4348,
+    "tag": "pre",
+    "text": ">>> def jac(x, u, y): ... J = np.empty((u.size, x.size)) ... den = u ** 2 + x[2] * u + x[3] ... num = u ** 2 + x[1] * u ... J[:, 0] = num / den ... J[:, 1] = x[0] * u / den ... J[:, 2] = -x[0] * num * u / den ** 2 ... J[:, 3] = -x[0] * num / den ** 2 ... return J",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4471,
+    "tag": "pre",
+    "text": ">>> u = np.array([4.0, 2.0, 1.0, 5.0e-1, 2.5e-1, 1.67e-1, 1.25e-1, 1.0e-1, ... 8.33e-2, 7.14e-2, 6.25e-2]) >>> y = np.array([1.957e-1, 1.947e-1, 1.735e-1, 1.6e-1, 8.44e-2, 6.27e-2, ... 4.56e-2, 3.42e-2, 3.23e-2, 2.35e-2, 2.46e-2]) >>> x0 = np.array([2.5, 3.9, 4.15, 3.9]) >>> res = least_squares(fun, x0, jac=jac, bounds=(0, 100), args=(u, y), verbose=1) # may vary `ftol` termination condition is satisfied. Function evaluations 130, initial cost 4.4383e+00, final cost 1.5375e-04, first-order optimality 4.92e-08. >>> res.x array([ 0.19280596, 0.19130423, 0.12306063, 0.13607247])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4589,
+    "tag": "pre",
+    "text": ">>> import matplotlib.pyplot as plt >>> u_test = np.linspace(0, 5) >>> y_test = model(res.x, u_test) >>> plt.plot(u, y, 'o', markersize=4, label='data') >>> plt.plot(u_test, y_test, label='fitted model') >>> plt.xlabel(\"u\") >>> plt.ylabel(\"y\") >>> plt.legend(loc='lower right') >>> plt.show()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4683,
+    "tag": "p",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "rubric"
+    }
+  },
+  {
+    "node_index": 4690,
+    "tag": "p",
+    "text": "J. Kowalik and J. F. Morrison, “Analysis of kinetic data for allosteric enzyme reactions as a nonlinear regression problem”, Math. Biosci., vol. 2, pp. 57-66, 1968.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4696,
+    "tag": "p",
+    "text": "B. M. Averick, R. G. Carter, G.-L. Xue, and JJ Mor{'e}, “The MINPACK-2 Test Problem Collection”, 1992. DOI:10.2172/79972",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4699,
+    "tag": "h3",
+    "text": "Further examples#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4702,
+    "tag": "p",
+    "text": "Three interactive examples below illustrate usage of least_squares in greater detail.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4707,
+    "tag": "li",
+    "text": "Large-scale bundle adjustment in scipy demonstrates large-scale capabilities of least_squares and how to efficiently compute finite difference approximation of sparse Jacobian.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4708,
+    "tag": "p",
+    "text": "Large-scale bundle adjustment in scipy demonstrates large-scale capabilities of least_squares and how to efficiently compute finite difference approximation of sparse Jacobian.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4713,
+    "tag": "li",
+    "text": "Robust nonlinear regression in scipy shows how to handle outliers with a robust loss function in a nonlinear regression.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4714,
+    "tag": "p",
+    "text": "Robust nonlinear regression in scipy shows how to handle outliers with a robust loss function in a nonlinear regression.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4716,
+    "tag": "li",
+    "text": "Solving a discrete boundary-value problem in scipy examines how to solve a large system of equations and use bounds to achieve desired properties of the solution.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4717,
+    "tag": "p",
+    "text": "Solving a discrete boundary-value problem in scipy examines how to solve a large system of equations and use bounds to achieve desired properties of the solution.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4719,
+    "tag": "p",
+    "text": "For the details about mathematical algorithms behind the implementation refer to documentation of least_squares.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4724,
+    "tag": "h2",
+    "text": "Univariate function minimizers (minimize_scalar)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4730,
+    "tag": "p",
+    "text": "Often only the minimum of a univariate function (i.e., a function that takes a scalar as input) is needed. In these circumstances, other optimization techniques have been developed that can work faster. These are accessible from the minimize_scalar function, which proposes several algorithms.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4735,
+    "tag": "h3",
+    "text": "Unconstrained minimization (method='brent')#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4740,
+    "tag": "p",
+    "text": "There are, actually, two methods that can be used to minimize a univariate function: brent and golden, but golden is included only for academic purposes and should rarely be used. These can be respectively selected through the method parameter in minimize_scalar. The brent method uses Brent’s algorithm for locating a minimum. Optimally, a bracket (the bracket parameter) should be given which contains the minimum desired. A bracket is a triple \\(\\left( a, b, c \\right)\\) such that \\(f \\left( a \\right) > f \\left( b \\right) < f \\left( c \\right)\\) and \\(a < b < c\\) . If this is not given, then alternatively two starting points can be chosen and a bracket will be found from these points using a simple marching algorithm. If these two starting points are not provided, 0 and 1 will be used (this may not be the right choice for your function and result in an unexpected minimum being returned).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4765,
+    "tag": "p",
+    "text": "Here is an example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4768,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import minimize_scalar >>> f = lambda x: (x - 2) * (x + 1)**2 >>> res = minimize_scalar(f, method='brent') >>> print(res.x) 1.0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4816,
+    "tag": "h3",
+    "text": "Bounded minimization (method='bounded')#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4821,
+    "tag": "p",
+    "text": "Very often, there are constraints that can be placed on the solution space before minimization occurs. The bounded method in minimize_scalar is an example of a constrained minimization procedure that provides a rudimentary interval constraint for scalar functions. The interval constraint allows the minimization to occur only between two fixed endpoints, specified using the mandatory bounds parameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4827,
+    "tag": "p",
+    "text": "For example, to find the minimum of \\(J_{1}\\left( x \\right)\\) near \\(x=5\\) , minimize_scalar can be called using the interval \\(\\left[ 4, 7 \\right]\\) as a constraint. The result is \\(x_{\\textrm{min}}=5.3314\\) :",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4837,
+    "tag": "pre",
+    "text": ">>> from scipy.special import j1 >>> res = minimize_scalar(j1, bounds=(4, 7), method='bounded') >>> res.x 5.33144184241",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4870,
+    "tag": "h2",
+    "text": "Custom minimizers#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4873,
+    "tag": "p",
+    "text": "Sometimes, it may be useful to use a custom method as a (multivariate or univariate) minimizer, for example, when using some library wrappers of minimize (e.g., basinhopping).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4880,
+    "tag": "p",
+    "text": "We can achieve that by, instead of passing a method name, passing a callable (either a function or an object implementing a __call__ method) as the method parameter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4883,
+    "tag": "p",
+    "text": "Let us consider an (admittedly rather virtual) need to use a trivial custom multivariate minimization method that will just search the neighborhood in each dimension independently with a fixed step size:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 4886,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import OptimizeResult >>> def custmin(fun, x0, args=(), maxfev=None, stepsize=0.1, ... maxiter=100, callback=None, **options): ... bestx = x0 ... besty = fun(x0) ... funcalls = 1 ... niter = 0 ... improved = True ... stop = False ... ... while improved and not stop and niter < maxiter: ... improved = False ... niter += 1 ... for dim in range(np.size(x0)): ... for s in [bestx[dim] - stepsize, bestx[dim] + stepsize]: ... testx = np.copy(bestx) ... testx[dim] = s ... testy = fun(testx, *args) ... funcalls += 1 ... if testy < besty: ... besty = testy ... bestx = testx ... improved = True ... if callback is not None: ... callback(bestx) ... if maxfev is not None and funcalls >= maxfev: ... stop = True ... break ... ... return OptimizeResult(fun=besty, x=bestx, nit=niter, ... nfev=funcalls, success=(niter > 1)) >>> x0 = [1.35, 0.9, 0.8, 1.1, 1.2] >>> res = minimize(rosen, x0, method=custmin, options=dict(stepsize=0.05)) >>> res.x array([1., 1., 1., 1., 1.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5151,
+    "tag": "p",
+    "text": "This will work just as well in case of univariate optimization:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5154,
+    "tag": "pre",
+    "text": ">>> def custmin(fun, bracket, args=(), maxfev=None, stepsize=0.1, ... maxiter=100, callback=None, **options): ... bestx = (bracket[1] + bracket[0]) / 2.0 ... besty = fun(bestx) ... funcalls = 1 ... niter = 0 ... improved = True ... stop = False ... ... while improved and not stop and niter < maxiter: ... improved = False ... niter += 1 ... for testx in [bestx - stepsize, bestx + stepsize]: ... testy = fun(testx, *args) ... funcalls += 1 ... if testy < besty: ... besty = testy ... bestx = testx ... improved = True ... if callback is not None: ... callback(bestx) ... if maxfev is not None and funcalls >= maxfev: ... stop = True ... break ... ... return OptimizeResult(fun=besty, x=bestx, nit=niter, ... nfev=funcalls, success=(niter > 1)) >>> def f(x): ... return (x - 2)**2 * (x + 2)**2 >>> res = minimize_scalar(f, bracket=(-3.5, 0), method=custmin, ... options=dict(stepsize = 0.05)) >>> res.x -2.0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5407,
+    "tag": "h2",
+    "text": "Root finding#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5411,
+    "tag": "h3",
+    "text": "Scalar functions#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5414,
+    "tag": "p",
+    "text": "If one has a single-variable equation, there are multiple different root finding algorithms that can be tried. Most of these algorithms require the endpoints of an interval in which a root is expected (because the function changes signs). In general, brentq is the best choice, but the other methods may be useful in certain circumstances or for academic purposes. When a bracket is not available, but one or more derivatives are available, then newton (or halley, secant) may be applicable. This is especially the case if the function is defined on a subset of the complex plane, and the bracketing methods cannot be used.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5426,
+    "tag": "h3",
+    "text": "Fixed-point solving#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5429,
+    "tag": "p",
+    "text": "A problem closely related to finding the zeros of a function is the problem of finding a fixed point of a function. A fixed point of a function is the point at which evaluation of the function returns the point: \\(g\\left(x\\right)=x.\\) Clearly, the fixed point of \\(g\\) is the root of \\(f\\left(x\\right)=g\\left(x\\right)-x.\\) Equivalently, the root of \\(f\\) is the fixed point of \\(g\\left(x\\right)=f\\left(x\\right)+x.\\) The routine fixed_point provides a simple iterative method using Aitkens sequence acceleration to estimate the fixed point of \\(g\\) given a starting point.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5440,
+    "tag": "h3",
+    "text": "Sets of equations#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5443,
+    "tag": "p",
+    "text": "Finding a root of a set of non-linear equations can be achieved using the root function. Several methods are available, amongst which hybr (the default) and lm, which, respectively, use the hybrid method of Powell and the Levenberg-Marquardt method from MINPACK.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5451,
+    "tag": "p",
+    "text": "The following example considers the single-variable transcendental equation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5453,
+    "tag": "p",
+    "text": "a root of which can be found as follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5456,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> from scipy.optimize import root >>> def func(x): ... return x + 2 * np.cos(x) >>> sol = root(func, 0.3) >>> sol.x array([-1.02986653]) >>> sol.fun array([ -6.66133815e-16])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5511,
+    "tag": "p",
+    "text": "Consider now a set of non-linear equations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5513,
+    "tag": "p",
+    "text": "We define the objective function so that it also returns the Jacobian and indicate this by setting the jac parameter to True. Also, the Levenberg-Marquardt solver is used here.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5520,
+    "tag": "pre",
+    "text": ">>> def func2(x): ... f = [x[0] * np.cos(x[1]) - 4, ... x[1]*x[0] - x[1] - 5] ... df = np.array([[np.cos(x[1]), -x[0] * np.sin(x[1])], ... [x[1], x[0] - 1]]) ... return f, df >>> sol = root(func2, [1, 1], jac=True, method='lm') >>> sol.x array([ 6.50409711, 0.90841421])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5640,
+    "tag": "h3",
+    "text": "Root finding for large problems#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5643,
+    "tag": "p",
+    "text": "Methods hybr and lm in root cannot deal with a very large number of variables (N), as they need to calculate and invert a dense N x N Jacobian matrix on every Newton step. This becomes rather inefficient when N grows.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5654,
+    "tag": "p",
+    "text": "Consider, for instance, the following problem: we need to solve the following integrodifferential equation on the square \\([0,1]\\times[0,1]\\):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5657,
+    "tag": "p",
+    "text": "with the boundary condition \\(P(x,1) = 1\\) on the upper edge and \\(P=0\\) elsewhere on the boundary of the square. This can be done by approximating the continuous function P by its values on a grid, \\(P_{n,m}\\approx{}P(n h, m h)\\), with a small grid spacing h. The derivatives and integrals can then be approximated; for instance \\(\\partial_x^2 P(x,y)\\approx{}(P(x+h,y) - 2 P(x,y) + P(x-h,y))/h^2\\). The problem is then equivalent to finding the root of some function residual(P), where P is a vector of length \\(N_x N_y\\).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5669,
+    "tag": "p",
+    "text": "Now, because \\(N_x N_y\\) can be large, methods hybr or lm in root will take a long time to solve this problem. The solution can, however, be found using one of the large-scale solvers, for example krylov, broyden2, or anderson. These use what is known as the inexact Newton method, which instead of computing the Jacobian matrix exactly, forms an approximation for it.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5684,
+    "tag": "p",
+    "text": "The problem we have can now be solved as follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 5687,
+    "tag": "pre",
+    "text": "import numpy as np from scipy.optimize import root from numpy import cosh, zeros_like, mgrid, zeros # parameters nx, ny = 75, 75 hx, hy = 1./(nx-1), 1./(ny-1) P_left, P_right = 0, 0 P_top, P_bottom = 1, 0 def residual(P): d2x = zeros_like(P) d2y = zeros_like(P) d2x[1:-1] = (P[2:] - 2*P[1:-1] + P[:-2]) / hx/hx d2x[0] = (P[1] - 2*P[0] + P_left)/hx/hx d2x[-1] = (P_right - 2*P[-1] + P[-2])/hx/hx d2y[:,1:-1] = (P[:,2:] - 2*P[:,1:-1] + P[:,:-2])/hy/hy d2y[:,0] = (P[:,1] - 2*P[:,0] + P_bottom)/hy/hy d2y[:,-1] = (P_top - 2*P[:,-1] + P[:,-2])/hy/hy return d2x + d2y + 5*cosh(P).mean()**2 # solve guess = zeros((nx, ny), float) sol = root(residual, guess, method='krylov', options={'disp': True}) #sol = root(residual, guess, method='broyden2', options={'disp': True, 'max_rank': 50}) #sol = root(residual, guess, method='anderson', options={'disp': True, 'M': 10}) print('Residual: %g' % abs(residual(sol.x)).max()) # visualize import matplotlib.pyplot as plt x, y = mgrid[0:1:(nx*1j), 0:1:(ny*1j)] plt.pcolormesh(x, y, sol.x, shading='gouraud') plt.colorbar() plt.show()",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6062,
+    "tag": "h3",
+    "text": "Still too slow? Preconditioning.#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6065,
+    "tag": "p",
+    "text": "When looking for the zero of the functions \\(f_i({\\bf x}) = 0\\), i = 1, 2, …, N, the krylov solver spends most of the time inverting the Jacobian matrix,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6071,
+    "tag": "p",
+    "text": "If you have an approximation for the inverse matrix \\(M\\approx{}J^{-1}\\), you can use it for preconditioning the linear-inversion problem. The idea is that instead of solving \\(J{\\bf s}={\\bf y}\\) one solves \\(MJ{\\bf s}=M{\\bf y}\\): since matrix \\(MJ\\) is “closer” to the identity matrix than \\(J\\) is, the equation should be easier for the Krylov method to deal with.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6078,
+    "tag": "p",
+    "text": "The matrix M can be passed to root with method krylov as an option options['jac_options']['inner_M']. It can be a (sparse) matrix or a scipy.sparse.linalg.LinearOperator instance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6090,
+    "tag": "p",
+    "text": "For the problem in the previous section, we note that the function to solve consists of two parts: the first one is the application of the Laplace operator, \\([\\partial_x^2 + \\partial_y^2] P\\), and the second is the integral. We can actually easily compute the Jacobian corresponding to the Laplace operator part: we know that in 1-D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6093,
+    "tag": "p",
+    "text": "so that the whole 2-D operator is represented by",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6095,
+    "tag": "p",
+    "text": "The matrix \\(J_2\\) of the Jacobian corresponding to the integral is more difficult to calculate, and since all of it entries are nonzero, it will be difficult to invert. \\(J_1\\) on the other hand is a relatively simple matrix, and can be inverted by scipy.sparse.linalg.splu (or the inverse can be approximated by scipy.sparse.linalg.spilu). So we are content to take \\(M\\approx{}J_1^{-1}\\) and hope for the best.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6106,
+    "tag": "p",
+    "text": "In the example below, we use the preconditioner \\(M=J_1^{-1}\\).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6110,
+    "tag": "pre",
+    "text": "from scipy.optimize import root from scipy.sparse import dia_array, kron from scipy.sparse.linalg import spilu, LinearOperator from numpy import cosh, zeros_like, mgrid, zeros, eye # parameters nx, ny = 75, 75 hx, hy = 1./(nx-1), 1./(ny-1) P_left, P_right = 0, 0 P_top, P_bottom = 1, 0 def get_preconditioner(): \"\"\"Compute the preconditioner M\"\"\" diags_x = zeros((3, nx)) diags_x[0,:] = 1/hx/hx diags_x[1,:] = -2/hx/hx diags_x[2,:] = 1/hx/hx Lx = dia_array((diags_x, [-1,0,1]), shape=(nx, nx)) diags_y = zeros((3, ny)) diags_y[0,:] = 1/hy/hy diags_y[1,:] = -2/hy/hy diags_y[2,:] = 1/hy/hy Ly = dia_array((diags_y, [-1,0,1]), shape=(ny, ny)) J1 = kron(Lx, eye(ny)) + kron(eye(nx), Ly) # Now we have the matrix `J_1`. We need to find its inverse `M` -- # however, since an approximate inverse is enough, we can use # the *incomplete LU* decomposition J1_ilu = spilu(J1) # This returns an object with a method .solve() that evaluates # the corresponding matrix-vector product. We need to wrap it into # a LinearOperator before it can be passed to the Krylov methods: M = LinearOperator(shape=(nx*ny, nx*ny), matvec=J1_ilu.solve) return M def solve(preconditioning=True): \"\"\"Compute the solution\"\"\" count",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6747,
+    "tag": "p",
+    "text": "Resulting run, first without preconditioning:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6750,
+    "tag": "pre",
+    "text": "0: |F(x)| = 803.614; step 1; tol 0.000257947 1: |F(x)| = 345.912; step 1; tol 0.166755 2: |F(x)| = 139.159; step 1; tol 0.145657 3: |F(x)| = 27.3682; step 1; tol 0.0348109 4: |F(x)| = 1.03303; step 1; tol 0.00128227 5: |F(x)| = 0.0406634; step 1; tol 0.00139451 6: |F(x)| = 0.00344341; step 1; tol 0.00645373 7: |F(x)| = 0.000153671; step 1; tol 0.00179246 8: |F(x)| = 6.7424e-06; step 1; tol 0.00173256 Residual 3.57078908664e-07 Evaluations 317",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6900,
+    "tag": "p",
+    "text": "and then with preconditioning:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6903,
+    "tag": "pre",
+    "text": "0: |F(x)| = 136.993; step 1; tol 7.49599e-06 1: |F(x)| = 4.80983; step 1; tol 0.00110945 2: |F(x)| = 0.195942; step 1; tol 0.00149362 3: |F(x)| = 0.000563597; step 1; tol 7.44604e-06 4: |F(x)| = 1.00698e-09; step 1; tol 2.87308e-12 Residual 9.29603061195e-11 Evaluations 77",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6989,
+    "tag": "p",
+    "text": "Using a preconditioner reduced the number of evaluations of the residual function by a factor of 4. For problems where the residual is expensive to compute, good preconditioning can be crucial — it can even decide whether the problem is solvable in practice or not.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6993,
+    "tag": "p",
+    "text": "Preconditioning is an art, science, and industry. Here, we were lucky in making a simple choice that worked reasonably well, but there is a lot more depth to this topic than is shown here.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 6995,
+    "tag": "h2",
+    "text": "Linear programming (linprog)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7001,
+    "tag": "p",
+    "text": "The function linprog can minimize a linear objective function subject to linear equality and inequality constraints. This kind of problem is well known as linear programming. Linear programming solves problems of the following form:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7006,
+    "tag": "p",
+    "text": "where \\(x\\) is a vector of decision variables; \\(c\\), \\(b_{ub}\\), \\(b_{eq}\\), \\(l\\), and \\(u\\) are vectors; and \\(A_{ub}\\) and \\(A_{eq}\\) are matrices.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7015,
+    "tag": "p",
+    "text": "In this tutorial, we will try to solve a typical linear programming problem using linprog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7020,
+    "tag": "h3",
+    "text": "Linear programming example#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7023,
+    "tag": "p",
+    "text": "Consider the following simple linear programming problem:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7025,
+    "tag": "p",
+    "text": "We need some mathematical manipulations to convert the target problem to the form accepted by linprog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7029,
+    "tag": "p",
+    "text": "First of all, let’s consider the objective function. We want to maximize the objective function, but linprog can only accept a minimization problem. This is easily remedied by converting the maximize \\(29x_1 + 45x_2\\) to minimizing \\(-29x_1 -45x_2\\). Also, \\(x_3, x_4\\) are not shown in the objective function. That means the weights corresponding with \\(x_3, x_4\\) are zero. So, the objective function can be converted to:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7038,
+    "tag": "p",
+    "text": "If we define the vector of decision variables \\(x = [x_1, x_2, x_3, x_4]^T\\), the objective weights vector \\(c\\) of linprog in this problem should be",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7045,
+    "tag": "p",
+    "text": "Next, let’s consider the two inequality constraints. The first one is a “less than” inequality, so it is already in the form accepted by linprog. The second one is a “greater than” inequality, so we need to multiply both sides by \\(-1\\) to convert it to a “less than” inequality. Explicitly showing zero coefficients, we have:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7051,
+    "tag": "p",
+    "text": "These equations can be converted to matrix form:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7053,
+    "tag": "p",
+    "text": "where",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7056,
+    "tag": "p",
+    "text": "Next, let’s consider the two equality constraints. Showing zero weights explicitly, these are:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7058,
+    "tag": "p",
+    "text": "These equations can be converted to matrix form:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7060,
+    "tag": "p",
+    "text": "where",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7063,
+    "tag": "p",
+    "text": "Lastly, let’s consider the separate inequality constraints on individual decision variables, which are known as “box constraints” or “simple bounds”. These constraints can be applied using the bounds argument of linprog. As noted in the linprog documentation, the default value of bounds is (0, None), meaning that the lower bound on each decision variable is 0, and the upper bound on each decision variable is infinity: all the decision variables are non-negative. Our bounds are different, so we will need to specify the lower and upper bound on each decision variable as a tuple and group these tuples into a list.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7073,
+    "tag": "p",
+    "text": "Finally, we can solve the transformed problem using linprog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7079,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> from scipy.optimize import linprog >>> c = np.array([-29.0, -45.0, 0.0, 0.0]) >>> A_ub = np.array([[1.0, -1.0, -3.0, 0.0], ... [-2.0, 3.0, 7.0, -3.0]]) >>> b_ub = np.array([5.0, -10.0]) >>> A_eq = np.array([[2.0, 8.0, 1.0, 0.0], ... [4.0, 4.0, 0.0, 1.0]]) >>> b_eq = np.array([60.0, 60.0]) >>> x0_bounds = (0, None) >>> x1_bounds = (0, 5.0) >>> x2_bounds = (-np.inf, 0.5) # +/- np.inf can be used instead of None >>> x3_bounds = (-3.0, None) >>> bounds = [x0_bounds, x1_bounds, x2_bounds, x3_bounds] >>> result = linprog(c, A_ub=A_ub, b_ub=b_ub, A_eq=A_eq, b_eq=b_eq, bounds=bounds) >>> print(result.message) The problem is infeasible. (HiGHS Status 8: model_status is Infeasible; primal_status is None)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7274,
+    "tag": "p",
+    "text": "The result states that our problem is infeasible, meaning that there is no solution vector that satisfies all the constraints. That doesn’t necessarily mean we did anything wrong; some problems truly are infeasible. Suppose, however, that we were to decide that our bound constraint on \\(x_1\\) was too tight and that it could be loosened to \\(0 \\leq x_1 \\leq 6\\). After adjusting our code x1_bounds = (0, 6) to reflect the change and executing it again:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7284,
+    "tag": "pre",
+    "text": ">>> x1_bounds = (0, 6) >>> bounds = [x0_bounds, x1_bounds, x2_bounds, x3_bounds] >>> result = linprog(c, A_ub=A_ub, b_ub=b_ub, A_eq=A_eq, b_eq=b_eq, bounds=bounds) >>> print(result.message) Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7341,
+    "tag": "p",
+    "text": "The result shows the optimization was successful. We can check the objective value (result.fun) is same as \\(c^Tx\\):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7347,
+    "tag": "pre",
+    "text": ">>> x = np.array(result.x) >>> obj = result.fun >>> print(c @ x) -505.97435889013434 # may vary >>> print(obj) -505.97435889013434 # may vary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7380,
+    "tag": "p",
+    "text": "We can also check that all constraints are satisfied within reasonable tolerances:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7383,
+    "tag": "pre",
+    "text": ">>> print(b_ub - (A_ub @ x).flatten()) # this is equivalent to result.slack [ 6.52747190e-10, -2.26730279e-09] # may vary >>> print(b_eq - (A_eq @ x).flatten()) # this is equivalent to result.con [ 9.78840831e-09, 1.04662945e-08]] # may vary >>> print([0 <= result.x[0], 0 <= result.x[1] <= 6.0, result.x[2] <= 0.5, -3.0 <= result.x[3]]) [True, True, True, True]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7457,
+    "tag": "h2",
+    "text": "Assignment problems#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7461,
+    "tag": "h3",
+    "text": "Linear sum assignment problem example#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7464,
+    "tag": "p",
+    "text": "Consider the problem of selecting students for a swimming medley relay team. We have a table showing times for each swimming style of five students:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7469,
+    "tag": "th",
+    "text": "Student",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 7470,
+    "tag": "p",
+    "text": "Student",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7471,
+    "tag": "th",
+    "text": "backstroke",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 7472,
+    "tag": "p",
+    "text": "backstroke",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7473,
+    "tag": "th",
+    "text": "breaststroke",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 7474,
+    "tag": "p",
+    "text": "breaststroke",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7475,
+    "tag": "th",
+    "text": "butterfly",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 7476,
+    "tag": "p",
+    "text": "butterfly",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7477,
+    "tag": "th",
+    "text": "freestyle",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 7478,
+    "tag": "p",
+    "text": "freestyle",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7481,
+    "tag": "td",
+    "text": "A",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7482,
+    "tag": "p",
+    "text": "A",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7483,
+    "tag": "td",
+    "text": "43.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7484,
+    "tag": "p",
+    "text": "43.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7485,
+    "tag": "td",
+    "text": "47.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7486,
+    "tag": "p",
+    "text": "47.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7487,
+    "tag": "td",
+    "text": "48.4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7488,
+    "tag": "p",
+    "text": "48.4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7489,
+    "tag": "td",
+    "text": "38.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7490,
+    "tag": "p",
+    "text": "38.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7492,
+    "tag": "td",
+    "text": "B",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7493,
+    "tag": "p",
+    "text": "B",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7494,
+    "tag": "td",
+    "text": "45.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7495,
+    "tag": "p",
+    "text": "45.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7496,
+    "tag": "td",
+    "text": "42.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7497,
+    "tag": "p",
+    "text": "42.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7498,
+    "tag": "td",
+    "text": "49.6",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7499,
+    "tag": "p",
+    "text": "49.6",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7500,
+    "tag": "td",
+    "text": "36.8",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7501,
+    "tag": "p",
+    "text": "36.8",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7503,
+    "tag": "td",
+    "text": "C",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7504,
+    "tag": "p",
+    "text": "C",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7505,
+    "tag": "td",
+    "text": "43.4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7506,
+    "tag": "p",
+    "text": "43.4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7507,
+    "tag": "td",
+    "text": "39.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7508,
+    "tag": "p",
+    "text": "39.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7509,
+    "tag": "td",
+    "text": "42.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7510,
+    "tag": "p",
+    "text": "42.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7511,
+    "tag": "td",
+    "text": "43.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7512,
+    "tag": "p",
+    "text": "43.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7514,
+    "tag": "td",
+    "text": "D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7515,
+    "tag": "p",
+    "text": "D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7516,
+    "tag": "td",
+    "text": "46.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7517,
+    "tag": "p",
+    "text": "46.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7518,
+    "tag": "td",
+    "text": "44.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7519,
+    "tag": "p",
+    "text": "44.1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7520,
+    "tag": "td",
+    "text": "44.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7521,
+    "tag": "p",
+    "text": "44.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7522,
+    "tag": "td",
+    "text": "41.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7523,
+    "tag": "p",
+    "text": "41.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7525,
+    "tag": "td",
+    "text": "E",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7526,
+    "tag": "p",
+    "text": "E",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7527,
+    "tag": "td",
+    "text": "46.3",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7528,
+    "tag": "p",
+    "text": "46.3",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7529,
+    "tag": "td",
+    "text": "47.8",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7530,
+    "tag": "p",
+    "text": "47.8",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7531,
+    "tag": "td",
+    "text": "50.4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7532,
+    "tag": "p",
+    "text": "50.4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7533,
+    "tag": "td",
+    "text": "37.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7534,
+    "tag": "p",
+    "text": "37.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7535,
+    "tag": "p",
+    "text": "We need to choose a student for each of the four swimming styles such that the total relay time is minimized. This is a typical linear sum assignment problem. We can use linear_sum_assignment to solve it.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7539,
+    "tag": "p",
+    "text": "The linear sum assignment problem is one of the most famous combinatorial optimization problems. Given a “cost matrix” \\(C\\), the problem is to choose",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7542,
+    "tag": "li",
+    "text": "exactly one element from each row",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7543,
+    "tag": "p",
+    "text": "exactly one element from each row",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7544,
+    "tag": "li",
+    "text": "without choosing more than one element from any column",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7545,
+    "tag": "p",
+    "text": "without choosing more than one element from any column",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7546,
+    "tag": "li",
+    "text": "such that the sum of the chosen elements is minimized",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7547,
+    "tag": "p",
+    "text": "such that the sum of the chosen elements is minimized",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7548,
+    "tag": "p",
+    "text": "In other words, we need to assign each row to one column such that the sum of the corresponding entries is minimized.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7549,
+    "tag": "p",
+    "text": "Formally, let \\(X\\) be a boolean matrix where \\(X[i,j] = 1\\) iff row \\(i\\) is assigned to column \\(j\\). Then the optimal assignment has cost",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7555,
+    "tag": "p",
+    "text": "The first step is to define the cost matrix. In this example, we want to assign each swimming style to a student. linear_sum_assignment is able to assign each row of a cost matrix to a column. Therefore, to form the cost matrix, the table above needs to be transposed so that the rows correspond with swimming styles and the columns correspond with students:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7561,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> cost = np.array([[43.5, 45.5, 43.4, 46.5, 46.3], ... [47.1, 42.1, 39.1, 44.1, 47.8], ... [48.4, 49.6, 42.1, 44.5, 50.4], ... [38.2, 36.8, 43.2, 41.2, 37.2]])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7624,
+    "tag": "p",
+    "text": "We can solve the assignment problem with linear_sum_assignment:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7630,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import linear_sum_assignment >>> row_ind, col_ind = linear_sum_assignment(cost)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7648,
+    "tag": "p",
+    "text": "The row_ind and col_ind are optimal assigned matrix indexes of the cost matrix:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7655,
+    "tag": "pre",
+    "text": ">>> row_ind array([0, 1, 2, 3]) >>> col_ind array([0, 2, 3, 1])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7663,
+    "tag": "p",
+    "text": "The optimal assignment is:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7666,
+    "tag": "pre",
+    "text": ">>> styles = np.array([\"backstroke\", \"breaststroke\", \"butterfly\", \"freestyle\"])[row_ind] >>> students = np.array([\"A\", \"B\", \"C\", \"D\", \"E\"])[col_ind] >>> dict(zip(styles, students)) {'backstroke': 'A', 'breaststroke': 'C', 'butterfly': 'D', 'freestyle': 'B'}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7714,
+    "tag": "p",
+    "text": "The optimal total medley time is:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7717,
+    "tag": "pre",
+    "text": ">>> cost[row_ind, col_ind].sum() 163.89999999999998",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7730,
+    "tag": "p",
+    "text": "Note that this result is not the same as the sum of the minimum times for each swimming style:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7733,
+    "tag": "pre",
+    "text": ">>> np.min(cost, axis=1).sum() 161.39999999999998",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7750,
+    "tag": "p",
+    "text": "because student “C” is the best swimmer in both “breaststroke” and “butterfly” style. We cannot assign student “C” to both styles, so we assigned student C to the “breaststroke” style and D to the “butterfly” style to minimize the total time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7751,
+    "tag": "p",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "rubric"
+    }
+  },
+  {
+    "node_index": 7752,
+    "tag": "p",
+    "text": "Some further reading and related software, such as Newton-Krylov [KK], PETSc [PP], and PyAMG [AMG]:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7765,
+    "tag": "p",
+    "text": "D.A. Knoll and D.E. Keyes, “Jacobian-free Newton-Krylov methods”, J. Comp. Phys. 193, 357 (2004). DOI:10.1016/j.jcp.2003.08.010",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7772,
+    "tag": "p",
+    "text": "PETSc https://www.mcs.anl.gov/petsc/ and its Python bindings https://bitbucket.org/petsc/petsc4py/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7780,
+    "tag": "p",
+    "text": "PyAMG (algebraic multigrid preconditioners/solvers) pyamg/pyamg#issues",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7784,
+    "tag": "h2",
+    "text": "Mixed integer linear programming#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7788,
+    "tag": "h3",
+    "text": "Knapsack problem example#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7791,
+    "tag": "p",
+    "text": "The knapsack problem is a well known combinatorial optimization problem. Given a set of items, each with a size and a value, the problem is to choose the items that maximize the total value under the condition that the total size is below a certain threshold.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7792,
+    "tag": "p",
+    "text": "Formally, let",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7794,
+    "tag": "li",
+    "text": "\\(x_i\\) be a boolean variable that indicates whether item \\(i\\) is included in the knapsack,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7795,
+    "tag": "p",
+    "text": "\\(x_i\\) be a boolean variable that indicates whether item \\(i\\) is included in the knapsack,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7798,
+    "tag": "li",
+    "text": "\\(n\\) be the total number of items,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7799,
+    "tag": "p",
+    "text": "\\(n\\) be the total number of items,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7801,
+    "tag": "li",
+    "text": "\\(v_i\\) be the value of item \\(i\\),",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7802,
+    "tag": "p",
+    "text": "\\(v_i\\) be the value of item \\(i\\),",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7805,
+    "tag": "li",
+    "text": "\\(s_i\\) be the size of item \\(i\\), and",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7806,
+    "tag": "p",
+    "text": "\\(s_i\\) be the size of item \\(i\\), and",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7809,
+    "tag": "li",
+    "text": "\\(C\\) be the capacity of the knapsack.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7810,
+    "tag": "p",
+    "text": "\\(C\\) be the capacity of the knapsack.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7812,
+    "tag": "p",
+    "text": "Then the problem is:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7815,
+    "tag": "p",
+    "text": "Although the objective function and inequality constraints are linear in the decision variables \\(x_i\\), this differs from a typical linear programming problem in that the decision variables can only assume integer values. Specifically, our decision variables can only be \\(0\\) or \\(1\\), so this is known as a binary integer linear program (BILP). Such a problem falls within the larger class of mixed integer linear programs (MILPs), which we we can solve with milp.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7825,
+    "tag": "p",
+    "text": "In our example, there are 8 items to choose from, and the size and value of each is specified as follows.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7828,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> from scipy import optimize >>> sizes = np.array([21, 11, 15, 9, 34, 25, 41, 52]) >>> values = np.array([22, 12, 16, 10, 35, 26, 42, 53])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7891,
+    "tag": "p",
+    "text": "We need to constrain our eight decision variables to be binary. We do so by adding a Bounds: constraint to ensure that they lie between \\(0\\) and \\(1\\), and we apply “integrality” constraints to ensure that they are either \\(0\\) or \\(1\\).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7903,
+    "tag": "pre",
+    "text": ">>> bounds = optimize.Bounds(0, 1) # 0 <= x_i <= 1 >>> integrality = np.full_like(values, True) # x_i are integers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7929,
+    "tag": "p",
+    "text": "The knapsack capacity constraint is specified using LinearConstraint.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7935,
+    "tag": "pre",
+    "text": ">>> capacity = 100 >>> constraints = optimize.LinearConstraint(A=sizes, lb=0, ub=capacity)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7960,
+    "tag": "p",
+    "text": "If we are following the usual rules of linear algebra, the input A should be a two-dimensional matrix, and the lower and upper bounds lb and ub should be one-dimensional vectors, but LinearConstraint is forgiving as long as the inputs can be broadcast to consistent shapes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7970,
+    "tag": "p",
+    "text": "Using the variables defined above, we can solve the knapsack problem using milp. Note that milp minimizes the objective function, but we want to maximize the total value, so we set c to be negative of the values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 7980,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import milp >>> res = milp(c=-values, constraints=constraints, ... integrality=integrality, bounds=bounds)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8011,
+    "tag": "p",
+    "text": "Let’s check the result:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8014,
+    "tag": "pre",
+    "text": ">>> res.success True >>> res.x array([1., 1., 0., 1., 1., 1., 0., 0.])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8026,
+    "tag": "p",
+    "text": "This means that we should select the items 1, 2, 4, 5, 6 to optimize the total value under the size constraint. Note that this is different from we would have obtained had we solved the linear programming relaxation (without integrality constraints) and attempted to round the decision variables.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8030,
+    "tag": "pre",
+    "text": ">>> from scipy.optimize import milp >>> res = milp(c=-values, constraints=constraints, ... integrality=False, bounds=bounds) >>> res.x array([1. , 1. , 1. , 1. , 0.55882353, 1. , 0. , 0. ])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8067,
+    "tag": "p",
+    "text": "If we were to round this solution up to array([1., 1., 1., 1., 1., 1., 0., 0.]), our knapsack would be over the capacity constraint, whereas if we were to round down to array([1., 1., 1., 1., 0., 1., 0., 0.]), we would have a sub-optimal solution.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8086,
+    "tag": "p",
+    "text": "For more MILP tutorials, see the Jupyter notebooks on SciPy Cookbooks:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8088,
+    "tag": "li",
+    "text": "Compressed Sensing l1 program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8089,
+    "tag": "p",
+    "text": "Compressed Sensing l1 program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8091,
+    "tag": "li",
+    "text": "Compressed Sensing l0 program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8092,
+    "tag": "p",
+    "text": "Compressed Sensing l0 program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8095,
+    "tag": "h2",
+    "text": "Parallel execution support#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8098,
+    "tag": "p",
+    "text": "Some SciPy optimization methods, such as differential_evolution, offer parallelization through the use of a workers keyword.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8104,
+    "tag": "p",
+    "text": "For differential_evolution there are two loops (iteration) levels in the algorithm. The outer loop represents successive generations of a population. This loop can’t be parallelized. For a given generation candidate solutions are generated that have to be compared against existing population members. The fitness of the candidate solution can be done in a loop, but it’s also possible to parallelize the calculation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8108,
+    "tag": "p",
+    "text": "Parallelization is also possible in other optimization algorithms. For example in various minimize methods numerical differentiation is used to estimate derivatives. For a simple gradient calculation using two-point forward differences a total of N + 1 objective function calculations have to be done, where N is the number of parameters. These are just small perturbations around a given location (the +1). Those N + 1 calculations are also parallelizable. The calculation of numerical derivatives are used by the minimization algorithm to generate new steps.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8122,
+    "tag": "p",
+    "text": "Each optimization algorithm is quite different in how they work, but they often have locations where multiple objective function calculations are required before the algorithm does something else. Those locations are what can be parallelized. There are therefore common characteristics in how workers is used. These commonalities are described below.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8125,
+    "tag": "p",
+    "text": "If an int is supplied then a multiprocessing.Pool is created, with the object’s map method being used to evaluate solutions in parallel. With this approach it is mandatory that the objective function is pickleable. Lambda functions do not meet that requirement.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8134,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> from scipy.optimize import rosen, differential_evolution, Bounds >>> bnds = Bounds([0., 0., 0.], [10., 10., 10.]) >>> res = differential_evolution(rosen, bnds, workers=2, updating='deferred')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8190,
+    "tag": "p",
+    "text": "It is also possible to use a map-like callable as a worker. Here the map-like function is provided with a series of vectors that the optimization algorithm provides. The map-like function needs to evaluate each vector against the objective function. In the following example we use multiprocessing.Pool as the map-like. As before, the objective function still needs to be pickleable. This example is semantically identical to the previous example.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8196,
+    "tag": "pre",
+    "text": ">>> from multiprocessing import Pool >>> with Pool(2) as pwl: ... res = differential_evolution(rosen, bnds, workers=pwl.map, updating='deferred')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8233,
+    "tag": "p",
+    "text": "It can be an advantage to use this pattern because the Pool can be re-used for further calculations - there is a significant amount of overhead in creating those objects. Alternatives to multiprocessing.Pool include the mpi4py package, which enables parallel processing on clusters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8238,
+    "tag": "p",
+    "text": "In Scipy 1.16.0 the workers keyword was introduced to selected minimize methods. Here parallelization is typically applied during numerical differentiation. Either of the two approaches outlined above can be used, although it’s strongly advised to supply the map-like callable due to the overhead of creating new processes. Performance gains will only be made if the objective function is expensive to calculate. Let’s compare how much parallelization can help compared to the serial version. To simulate a slow function we use the time package.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8248,
+    "tag": "pre",
+    "text": ">>> import time >>> def slow_func(x): ... time.sleep(0.0002) ... return rosen(x)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8274,
+    "tag": "p",
+    "text": "Examine the serial minimization first:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8277,
+    "tag": "pre",
+    "text": "In [1]: rng = np.random.default_rng() In [2]: x0 = rng.uniform(low=0.0, high=10.0, size=(20,)) In [3]: %timeit minimize(slow_func, x0, method='L-BFGS-B') # serial approach 365 ms ± 6.17 ms per loop (mean ± std. dev. of 7 runs, 1 loop each) # may vary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8279,
+    "tag": "p",
+    "text": "Now the parallel version:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8282,
+    "tag": "pre",
+    "text": "In [4]: with Pool() as pwl: # parallel approach ... %timeit minimize(slow_func, x0, method='L-BFGS-B', options={'workers':pwl.map}) 70.5 ms ± 146 μs per loop (mean ± std. dev. of 7 runs, 1 loop each) # may vary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8284,
+    "tag": "p",
+    "text": "If the objective function can be vectorized, then a map-like can be used to take advantage of vectorization during function evaluation. Vectorization means that the objective function can carry out the required calculations in a single (rather than multiple) call, which is typically very efficient:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8287,
+    "tag": "pre",
+    "text": "In [5]: def vectorized_maplike(fun, iterable): ... arr = np.array([i for i in iter(iterable)]) # arr.shape = (S, N) ... arr_t = arr.T # arr_t.shape = (N, S) ... r = slow_func(arr_t) # calculation vectorized over S ... return r In [6]: %timeit minimize(slow_func, x0, method='L-BFGS-B', options={'workers':vectorized_maplike}) 38.9 ms ± 734 μs per loop (mean ± std. dev. of 7 runs, 10 loops each) # may vary",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8289,
+    "tag": "p",
+    "text": "There are several important points to note about this example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8291,
+    "tag": "li",
+    "text": "The iterable represents the series of parameter vectors that the algorithm wishes to be evaluated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8292,
+    "tag": "p",
+    "text": "The iterable represents the series of parameter vectors that the algorithm wishes to be evaluated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8293,
+    "tag": "li",
+    "text": "The iterable is first converted to an iterator, before being made into an array via a list comprehension. This allows the iterable to be a generator, list, array, etc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8294,
+    "tag": "p",
+    "text": "The iterable is first converted to an iterator, before being made into an array via a list comprehension. This allows the iterable to be a generator, list, array, etc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8295,
+    "tag": "li",
+    "text": "Within the map-like the calculation is done using slow_func instead of using fun. The map-like is actually supplied with a wrapped version of the objective function. The wrapping is used to detect various types of common user errors, including checking whether the objective function returns a scalar. If fun is used then a RuntimeError will result, because fun(arr_t) will be a 1-D array and not a scalar. We therefore use slow_func directly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8296,
+    "tag": "p",
+    "text": "Within the map-like the calculation is done using slow_func instead of using fun. The map-like is actually supplied with a wrapped version of the objective function. The wrapping is used to detect various types of common user errors, including checking whether the objective function returns a scalar. If fun is used then a RuntimeError will result, because fun(arr_t) will be a 1-D array and not a scalar. We therefore use slow_func directly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8310,
+    "tag": "li",
+    "text": "arr.T is sent to the objective function. This is because arr.shape == (S, N), where S is the number of parameter vectors to evaluate and N is the number of variables. For slow_func vectorization occurs on (N, S) shaped arrays.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8311,
+    "tag": "p",
+    "text": "arr.T is sent to the objective function. This is because arr.shape == (S, N), where S is the number of parameter vectors to evaluate and N is the number of variables. For slow_func vectorization occurs on (N, S) shaped arrays.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8328,
+    "tag": "li",
+    "text": "This approach is not needed for differential_evolution as that minimizer already has a keyword for vectorization.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8329,
+    "tag": "p",
+    "text": "This approach is not needed for differential_evolution as that minimizer already has a keyword for vectorization.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 8338,
+    "tag": "p",
+    "text": "previous",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 8339,
+    "tag": "p",
+    "text": "Multidimensional Image Processing (scipy.ndimage)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 8344,
+    "tag": "p",
+    "text": "next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 8345,
+    "tag": "p",
+    "text": "Signal Processing (scipy.signal)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 8357,
+    "tag": "li",
+    "text": "Local minimization of multivariate scalar functions (minimize) Unconstrained minimization Nelder-Mead Simplex algorithm (method='Nelder-Mead') Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS') Newton-Conjugate-Gradient algorithm (method='Newton-CG') Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg') Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov') Trust-Region Nearly Exact Algorithm (method='trust-exact') Constrained minimization Trust-Region Constrained Algorithm (method='trust-constr') Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP') Local minimization solver comparison",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8362,
+    "tag": "li",
+    "text": "Unconstrained minimization Nelder-Mead Simplex algorithm (method='Nelder-Mead') Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS') Newton-Conjugate-Gradient algorithm (method='Newton-CG') Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg') Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov') Trust-Region Nearly Exact Algorithm (method='trust-exact')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8365,
+    "tag": "li",
+    "text": "Nelder-Mead Simplex algorithm (method='Nelder-Mead')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8369,
+    "tag": "li",
+    "text": "Broyden-Fletcher-Goldfarb-Shanno algorithm (method='BFGS')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8373,
+    "tag": "li",
+    "text": "Newton-Conjugate-Gradient algorithm (method='Newton-CG')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8377,
+    "tag": "li",
+    "text": "Trust-Region Newton-Conjugate-Gradient Algorithm (method='trust-ncg')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8381,
+    "tag": "li",
+    "text": "Trust-Region Truncated Generalized Lanczos / Conjugate Gradient Algorithm (method='trust-krylov')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8385,
+    "tag": "li",
+    "text": "Trust-Region Nearly Exact Algorithm (method='trust-exact')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8389,
+    "tag": "li",
+    "text": "Constrained minimization Trust-Region Constrained Algorithm (method='trust-constr') Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8392,
+    "tag": "li",
+    "text": "Trust-Region Constrained Algorithm (method='trust-constr')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8396,
+    "tag": "li",
+    "text": "Sequential Least SQuares Programming (SLSQP) Algorithm (method='SLSQP')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h4 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8400,
+    "tag": "li",
+    "text": "Local minimization solver comparison",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8402,
+    "tag": "li",
+    "text": "Global optimization Comparison of Global Optimizers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8405,
+    "tag": "li",
+    "text": "Comparison of Global Optimizers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8407,
+    "tag": "li",
+    "text": "Least-squares minimization (least_squares) Example of solving a fitting problem Further examples",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8412,
+    "tag": "li",
+    "text": "Example of solving a fitting problem",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8414,
+    "tag": "li",
+    "text": "Further examples",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8416,
+    "tag": "li",
+    "text": "Univariate function minimizers (minimize_scalar) Unconstrained minimization (method='brent') Bounded minimization (method='bounded')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8421,
+    "tag": "li",
+    "text": "Unconstrained minimization (method='brent')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8425,
+    "tag": "li",
+    "text": "Bounded minimization (method='bounded')",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8429,
+    "tag": "li",
+    "text": "Custom minimizers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8431,
+    "tag": "li",
+    "text": "Root finding Scalar functions Fixed-point solving Sets of equations Root finding for large problems Still too slow? Preconditioning.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8434,
+    "tag": "li",
+    "text": "Scalar functions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8436,
+    "tag": "li",
+    "text": "Fixed-point solving",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8438,
+    "tag": "li",
+    "text": "Sets of equations",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8440,
+    "tag": "li",
+    "text": "Root finding for large problems",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8442,
+    "tag": "li",
+    "text": "Still too slow? Preconditioning.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8444,
+    "tag": "li",
+    "text": "Linear programming (linprog) Linear programming example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8449,
+    "tag": "li",
+    "text": "Linear programming example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8451,
+    "tag": "li",
+    "text": "Assignment problems Linear sum assignment problem example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8454,
+    "tag": "li",
+    "text": "Linear sum assignment problem example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8456,
+    "tag": "li",
+    "text": "Mixed integer linear programming Knapsack problem example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8459,
+    "tag": "li",
+    "text": "Knapsack problem example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8461,
+    "tag": "li",
+    "text": "Parallel execution support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 8470,
+    "tag": "p",
+    "text": "© Copyright 2008, The SciPy community.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  },
+  {
+    "node_index": 8473,
+    "tag": "p",
+    "text": "Created using Sphinx 8.1.3.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sphinx-version"
+    }
+  },
+  {
+    "node_index": 8478,
+    "tag": "p",
+    "text": "Built with the PyData Sphinx Theme 0.19.0.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "theme-version"
+    }
+  }
+]

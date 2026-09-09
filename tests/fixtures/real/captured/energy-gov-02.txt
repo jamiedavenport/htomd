@@ -1,0 +1,37 @@
+# DOE Explains...Particle Accelerators
+
+![Known as STAR, the Solenoidal Tracker at the RHIC (Relativistic Heavy Ion Collider) particle accelerator detects particles produced by collisions. This helps scientists investigate the quark-gluon plasma and how matter behaves at high energy densities.](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-particle-accelerators.jpg?itok=cvvl7EzG)
+
+Known as STAR, the Solenoidal Tracker at the RHIC (Relativistic Heavy Ion Collider) particle accelerator detects particles produced by collisions. This helps scientists investigate the quark-gluon plasma and how matter behaves at high energy densities.
+
+Image courtesy of Brookhaven National Laboratory
+
+**Particle accelerators** are devices that speed up the particles that make up all matter in the universe and collide them together or into a target. This allows scientists to study those particles and the forces that shape them. Specifically, particle accelerators speed up charged particles. These are particles with a positive or negative electrical charge such as protons, atomic [nuclei](https://www.energy.gov/science/doe-explainsnuclei), and the electrons that orbit atomic nuclei. In some cases, these particles reach speeds close to the speed of light. When the particles then collide with targets or other particles, the collisions that result can release energy, produce nuclear reactions, scatter particles, and produce other particles, such as [neutrons](https://www.energy.gov/science/doe-explainsneutrons). This gives scientists a look at what holds atoms, atomic nuclei, and nucleons together, as well as the world of particles like the [Higgs boson](https://www.energy.gov/science/doe-explainsthe-higgs-boson). These particles and forces are the subject of the [Standard Model of Particle Physics](https://www.energy.gov/science/doe-explainsthe-standard-model-particle-physics). Scientists also get insights into the quantum physics that govern how the world behaves at incredibly small scales. In the quantum realm, the classical Newtonian physics that we live with every day is insufficient to explain particle interactions.
+
+How do these machines accelerate particles? They inject particles into a “beamline.” This is a pipe held at very low air pressure in order to keep the environment free of air and dust that might disturb the particles as they travel though the accelerator. The particles injected into an accelerator are referred to as a “beam.” A series of electromagnets steers and focuses the beam of particles. In a linear accelerator or LINAC (pronounced line-ack or lin-ack), the particles shoot straight toward a fixed target. In a circular accelerator, the particles travel around a ring, constantly gaining speed. Circular accelerators can speed particles up in less overall space than a LINAC, but they tend to be more complex to build and operate. However, because the particles travel in a circle, circular accelerators create many more opportunities for particles to collide. Particles collide into each other or a target in a device called a particle detector. This device measures the particles’ speed, mass, and charge. This information allows scientists to determine what types of particles result from a collision.
+
+## DOE Office of Science: Contributions to Particle Accelerators
+
+The Department of Energy Office of Science supports particle accelerators and research that uses these devices primarily through its High Energy Physics and Nuclear Physics programs. These programs fund particle accelerators across the country. The Argonne Tandem Linac Accelerator System (ATLAS) at Argonne National Laboratory is the first superconducting linear accelerator for heavy ions. At Brookhaven National Laboratory, the Relativistic Heavy Ion Collider (RHIC) is the world's first heavy ion collider, able to work with particles such as gold ions and polarized protons. Brookhaven is also home to the Accelerator Test Facility, which provides equipment to help scientists study particle acceleration and radiation generation. Fermi National Accelerator Laboratory is the core U.S. particle physics lab. Fermi was home to the world’s most powerful collider until that device, the Tevatron, was superseded by the Large Hadron Collider in 2009. The Continuous Electron Beam Accelerator Facility at Thomas Jefferson National Accelerator Facility helps scientists study the structure of protons and neutrons. The Facility for Rare Isotope Beams at Michigan State University is a linear accelerator for studying exotic nuclei, especially isotopes. The SLAC National Accelerator Laboratory began operating a linear particle accelerator in 1962. Today, SLAC supports advanced accelerator design research for facilities around the world.
+
+## Fast Facts
+
+- Learn more with DOE’s [How Particle Accelerators Work](https://www.energy.gov/articles/how-particle-accelerators-work)
+- The main injector at Fermi National Accelerator Laboratory accelerates protons to 99.997 percent of the speed of light.
+- The largest particle accelerator in the world, the Large Hadron Collider at CERN, is more than 5 miles in diameter.
+
+## Resources
+
+- [DOE Office of Science High Energy Physics program](https://www.energy.gov/science/hep/high-energy-physics)
+- [DOE Office of Science Nuclear Physics program](https://www.energy.gov/science/np/nuclear-physics)
+- [Argonne Wakefield Accelerator Facility](https://www.anl.gov/awa) at Argonne National Laboratory
+- [Accelerator Test Facility (ATF)](https://www.bnl.gov/atf/) at Brookhaven National Laboratory
+- [Relativistic Heavy Ion Collider](https://www.bnl.gov/rhic/) (RHIC) at Brookhaven National Laboratory
+- [Fermi National Accelerator Laboratory](https://www.fnal.gov/)
+- Continuous Electron Beam Accelerator Facility (CEBAF) at [Thomas Jefferson National Accelerator Facility](https://www.jlab.org/)
+- Lawrence Berkeley National Laboratory’s [Accelerator Technology &amp; Applied Physics Division](https://atap.lbl.gov/about-us/)
+- The [Facility for Rare Isotope Beams](https://frib.msu.edu/index.php) (FRIB) at Michigan State University
+- [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/about/slac-overview)
+- [Facility for Advanced Accelerator Experimental Tests (FACET)](https://www6.slac.stanford.edu/facilities/facet-ii) at SLAC
+
+*Scientific terms can be confusing. [DOE Explains](https://www.energy.gov/science/doe-explains) offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.*

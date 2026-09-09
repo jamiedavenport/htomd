@@ -1,0 +1,756 @@
+[
+  {
+    "node_index": 61,
+    "tag": "p",
+    "text": "Scan to visit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "qr-code-text"
+    }
+  },
+  {
+    "node_index": 71,
+    "tag": "h3",
+    "text": "NIH Websites Are Changing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "p",
+    "text": "NIH is moving the launch of its new website to the fall to ensure the best possible experience for everyone who relies on our websites for health information, research, funding opportunities, and other resources. Get the Latest Updates and FAQs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "AboutGenomics AboutGenomics Introduction to Genomics Educational Resources Policy Issues in Genomics The Human Genome Project History of Genomics Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item",
+      "tabindex": "0",
+      "data-nav": "",
+      "role": "menuitem",
+      "aria-label": "About Genomics"
+    }
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "Introduction to Genomics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 118,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 121,
+    "tag": "li",
+    "text": "Policy Issues in Genomics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "The Human Genome Project",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "History of Genomics Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "ResearchFunding ResearchFunding Funding Opportunities Funded Programs & Projects Division and Program Directors Scientific Program Analysts Contacts by Research Area News & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item",
+      "tabindex": "0",
+      "data-nav": "",
+      "role": "menuitem",
+      "aria-label": "Research Funding"
+    }
+  },
+  {
+    "node_index": 144,
+    "tag": "li",
+    "text": "Funding Opportunities",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 147,
+    "tag": "li",
+    "text": "Funded Programs & Projects",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Division and Program Directors",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "li",
+    "text": "Scientific Program Analysts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Contacts by Research Area",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 159,
+    "tag": "li",
+    "text": "News & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "Research at NHGRI Research at NHGRI Research Areas Research Investigators Staff Clinicians Research Projects Inaccessible Data Tools & Resources News & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item",
+      "tabindex": "0",
+      "data-nav": "",
+      "role": "menuitem",
+      "aria-label": "Research at NHGRI"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Research Areas",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 179,
+    "tag": "li",
+    "text": "Research Investigators",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 182,
+    "tag": "li",
+    "text": "Staff Clinicians",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 185,
+    "tag": "li",
+    "text": "Research Projects",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "Inaccessible",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 191,
+    "tag": "li",
+    "text": "Data Tools & Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "News & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 197,
+    "tag": "li",
+    "text": "AboutHealth AboutHealth Genomics & Medicine Family Health History For Patients & Families For Health Professionals",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item",
+      "tabindex": "0",
+      "data-nav": "",
+      "role": "menuitem",
+      "aria-label": "About Health"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Genomics & Medicine",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Family Health History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "For Patients & Families",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "For Health Professionals",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Careers &Training Careers &Training Jobs at NHGRI Training at NHGRI Funding for Research Training Professional Development Programs NHGRI Culture",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item",
+      "tabindex": "0",
+      "data-nav": "",
+      "role": "menuitem",
+      "aria-label": "Careers & Training"
+    }
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Jobs at NHGRI",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Training at NHGRI",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Funding for Research Training",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Professional Development Programs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "NHGRI Culture",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "News &Events News &Events News Events Social Media Broadcast Media Image Gallery Videos Press Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item",
+      "tabindex": "0",
+      "data-nav": "",
+      "role": "menuitem",
+      "aria-label": "News & Events"
+    }
+  },
+  {
+    "node_index": 266,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 272,
+    "tag": "li",
+    "text": "Social Media",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "Broadcast Media",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "Image Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Videos",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 284,
+    "tag": "li",
+    "text": "Press Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 287,
+    "tag": "li",
+    "text": "AboutNHGRI AboutNHGRI Organization Mission and Vision Policies and Guidance Budget Institute Advisors Strategic Vision Partner with NHGRI Staff Search Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item",
+      "tabindex": "0",
+      "data-nav": "",
+      "role": "menuitem",
+      "aria-label": "About NHGRI"
+    }
+  },
+  {
+    "node_index": 301,
+    "tag": "li",
+    "text": "Organization",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Mission and Vision",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 307,
+    "tag": "li",
+    "text": "Policies and Guidance",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Budget",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "Institute Advisors",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 316,
+    "tag": "li",
+    "text": "Strategic Vision",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "Partner with NHGRI",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 322,
+    "tag": "li",
+    "text": "Staff Search",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 325,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item",
+      "tabindex": "0"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "h2",
+    "text": "Breadcrumb",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "system-breadcrumb",
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 343,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 345,
+    "tag": "li",
+    "text": "About Genomics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 347,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 349,
+    "tag": "li",
+    "text": "Talking Glossary of Genomic and Genetic Terms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 351,
+    "tag": "li",
+    "text": "Mutation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 386,
+    "tag": "h1",
+    "text": "​Mutation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 392,
+    "tag": "h2",
+    "text": "Definition",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 396,
+    "tag": "p",
+    "text": "A mutation is a change in the DNA sequence of an organism. Mutations can result from errors in DNA replication during cell division, exposure to mutagens or a viral infection. Germline mutations (that occur in eggs and sperm) can be passed on to offspring, while somatic mutations (that occur in body cells) are not passed on.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dm en"
+    }
+  },
+  {
+    "node_index": 405,
+    "tag": "h2",
+    "text": "Narration",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 409,
+    "tag": "p",
+    "text": "Mutation. Mutations are happening in our cells all the time, but almost none of these affect our health. This is very different than what we often see in science fiction in movies. In real life, a mutation is never so beneficial that it turns a person into a superhero or does something bizarre like cause them to grow wings. There are many reasons that mutations usually don't have major consequences. One reason is that our cells have very sophisticated machinery for repairing mutations very quickly. So there's not enough time for them to cause problems. Another is that most mutations occur in somatic cells like muscle cells or skin cells and can only affect the cell where the mutation occurred and cells that grow from that cell. On the other hand, when mutations occur in germline cells, eggs and sperm, they will be present in every cell that develops from that egg or sperm, an entire person, and can have larger effects.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dm"
+    }
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "Program Director",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "p",
+    "text": "Division of Genome Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 420,
+    "tag": "h2",
+    "text": "Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 433,
+    "tag": "h2",
+    "text": "Related",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 466,
+    "tag": "h3",
+    "text": "Get Updates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "underscore"
+    }
+  },
+  {
+    "node_index": 467,
+    "tag": "p",
+    "text": "Enter your email address to receive updates about the latest advances in genomics research.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 472,
+    "tag": "h3",
+    "text": "Social Media Stream",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "underscore"
+    }
+  },
+  {
+    "node_index": 498,
+    "tag": "h2",
+    "text": "Footer Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden",
+      "id": "block-footer-links-menu"
+    }
+  },
+  {
+    "node_index": 500,
+    "tag": "li",
+    "text": "Contact",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 502,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 504,
+    "tag": "li",
+    "text": "Site Map",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 506,
+    "tag": "li",
+    "text": "Staff Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 508,
+    "tag": "li",
+    "text": "Plug-Ins Used by HHS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 510,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 512,
+    "tag": "li",
+    "text": "Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 514,
+    "tag": "li",
+    "text": "Copyright",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 516,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

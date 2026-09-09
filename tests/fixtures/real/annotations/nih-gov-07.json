@@ -1,0 +1,226 @@
+[
+  {
+    "node_index": 65,
+    "tag": "h1",
+    "text": "National Institute ofGeneral Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "p",
+    "text": "NIH is moving the launch of its new website to the fall to ensure the best possible experience for everyone who relies on our websites for health information, research, funding opportunities, and other resources.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "p",
+    "text": "Get the Latest Updates and FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "h1",
+    "text": "National Institute of General Medical SciencesBiomedical Beat Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "h1",
+    "text": "What Are Stem Cells?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "fbl-header node__title"
+    }
+  },
+  {
+    "node_index": 123,
+    "tag": "p",
+    "text": "Stem cells are a special type of cell that is uniquely able to replicate many times and to develop into many different cell types. Stem cells live in tissues and organs throughout the body—including the liver, muscles, and skin—at all stages of life.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 128,
+    "tag": "p",
+    "text": "Humans have two basic types of stem cells. Embryonic stem cells are only found in the embryo during the early stages of development. They are pluripotent, meaning they can divide and transform—or differentiate—into every kind of cell in the body.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 131,
+    "tag": "p",
+    "text": "On the other hand, somatic stem cells (also known as adult stem cells) are multipotent, which means they can only differentiate into a small subset of cell types. For example, blood stem cells can only differentiate into the stem cell types that make up the blood, such as red blood cells and immune system cells. Somatic stem cells live throughout the body at all ages and frequently replicate to replace nearby old or dying cells, which is an important part of maintaining healthy tissues. This type of cell is also important for regeneration—the natural process of replacing or restoring damaged tissue. In humans, regeneration is limited to processes like healing broken bones and cuts or scrapes on the skin, but some organisms, like hydras, can regrow entire lost body parts with the help of stem cells!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 140,
+    "tag": "figcaption",
+    "text": "Induced pluripotent stem cells derived from human skin cells in the laboratory. Credit: Junying Yu, University of Wisconsin-Madison.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mt-2"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "p",
+    "text": "Scientists can create a third type of stem cells, called induced pluripotent stem cells (iPSCs), in the laboratory. To do this, the scientists change differentiated adult cells, like human skin cells, back into a pluripotent state through exposure to specific cell culture conditions. These newly reprogrammed cells then act like embryonic stem cells and are highly useful in biomedical research. For example, scientists use iPSCs to develop and test new medicines and to study the basics of human aging.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "p",
+    "text": "Studying Stem Cells",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "p",
+    "text": "Some NIGMS-funded scientists are studying stem cells to learn more about how the body develops and maintains itself. Their research proje",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 163,
+    "tag": "h2",
+    "text": "About the Author",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "h3",
+    "text": "Kimberly Smith",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-title"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "p",
+    "text": "Connect With Us: Linkedin YouTube",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "h6 social my-2"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Your Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 210,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "U.S. Department of Health and Human Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "National Institutes of Health: NIH...Turning Discovery Into Health®",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "National Institute of General Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "45 Center Drive MSC 6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Bethesda, MD 20892-6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "301-496-7301",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "p",
+    "text": "Some content included on this platform includes historical information about programs or activities that have since been discontinued.",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

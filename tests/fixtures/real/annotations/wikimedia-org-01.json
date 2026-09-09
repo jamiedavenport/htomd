@@ -1,0 +1,578 @@
+[
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "Categories Equity & Inclusion Education & Open Access Technology Partnerships & Events Policy & Advocacy Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62390",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62390"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Equity & Inclusion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62395",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62395"
+    }
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Education & Open Access",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62394",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62394"
+    }
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62392",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62392"
+    }
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "Partnerships & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62396",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62396"
+    }
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Policy & Advocacy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62393",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62393"
+    }
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62397",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62397"
+    }
+  },
+  {
+    "node_index": 231,
+    "tag": "li",
+    "text": "About",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62512",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62512"
+    }
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "Submit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62513",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62513"
+    }
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-69330",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-69330"
+    }
+  },
+  {
+    "node_index": 328,
+    "tag": "p",
+    "text": "News from the Wikimedia movement",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "site-description"
+    }
+  },
+  {
+    "node_index": 337,
+    "tag": "h3",
+    "text": "FY25-26 Annual Funding Programs Reflections & Learnings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "entry-title"
+    }
+  },
+  {
+    "node_index": 346,
+    "tag": "p",
+    "text": "Communities are driving movement efforts around the world. Explore the year’s lessons and highlights.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 451,
+    "tag": "h3",
+    "text": "My First Wikimania Experience in Paris",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "entry-title"
+    }
+  },
+  {
+    "node_index": 460,
+    "tag": "h2",
+    "text": "Posts navigation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "screen-reader-text"
+    }
+  },
+  {
+    "node_index": 476,
+    "tag": "h1",
+    "text": "Welcome to Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 477,
+    "tag": "p",
+    "text": "Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 483,
+    "tag": "h2",
+    "text": "Subscribe to Diff via Email",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "widgettitle"
+    }
+  },
+  {
+    "node_index": 487,
+    "tag": "p",
+    "text": "Enter your email address to subscribe to Diff and receive notifications of new posts by email.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "p",
+    "text": "Email Address",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-email"
+    }
+  },
+  {
+    "node_index": 491,
+    "tag": "p",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-submit"
+    }
+  },
+  {
+    "node_index": 502,
+    "tag": "h1",
+    "text": "Wikimedia News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 506,
+    "tag": "h3",
+    "text": "Wikimedia Foundation News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 508,
+    "tag": "li",
+    "text": "Wikimedia Foundation Statement on US staff unionization3 September 2026 by Wikimedia Foundation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 514,
+    "tag": "h3",
+    "text": "Down the Rabbit Hole",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 516,
+    "tag": "li",
+    "text": "The cost of ‘free’: How Wikimedia Enterprise protects Wikipedia in the AI era16 July 2026 by Wikimedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 523,
+    "tag": "h2",
+    "text": "Photo credits",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 528,
+    "tag": "p",
+    "text": "Drying the cotton silk fabric",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 530,
+    "tag": "p",
+    "text": "Sopyaylynn",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 531,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 536,
+    "tag": "p",
+    "text": "20260822_131828.jpg",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 538,
+    "tag": "p",
+    "text": "Sir Amugi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 539,
+    "tag": "p",
+    "text": "CC0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 544,
+    "tag": "p",
+    "text": "On the occasion of Rakher Upobash, devotees light lamps and participate in prayers before breaking the fast at Baba Lokenath Brahmachari Ashram, Narayanganj, Bangladesh.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 546,
+    "tag": "p",
+    "text": "Azim Khan Ronnie",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 547,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 552,
+    "tag": "p",
+    "text": "Gears",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 554,
+    "tag": "p",
+    "text": "Steven Fine",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 555,
+    "tag": "p",
+    "text": "CC0 1.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 560,
+    "tag": "p",
+    "text": "Language_preconference_group_photo",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 562,
+    "tag": "p",
+    "text": "Tochiprecious",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 563,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 568,
+    "tag": "p",
+    "text": "wiki-polis-flow",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 569,
+    "tag": "p",
+    "text": "Lodewijk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 570,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 575,
+    "tag": "p",
+    "text": "Wikipedia_camp_Tunisia_03",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 577,
+    "tag": "p",
+    "text": "Nagaboussi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "p",
+    "text": "CC-Zero",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 582,
+    "tag": "p",
+    "text": "Kopdar_WikiRempah_Bandung",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 584,
+    "tag": "p",
+    "text": "Oceanmuse",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 585,
+    "tag": "p",
+    "text": "CC-BY 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 590,
+    "tag": "p",
+    "text": "Wikidata_Community_Summit_2026_State_of_the_Map_Taiwan_speakers_group_photo",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 592,
+    "tag": "p",
+    "text": "Shinji Enoki(WJPUG)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit"
+    }
+  },
+  {
+    "node_index": 593,
+    "tag": "p",
+    "text": "CC BY-SA 4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "credit-desc"
+    }
+  },
+  {
+    "node_index": 598,
+    "tag": "h3",
+    "text": "Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 600,
+    "tag": "p",
+    "text": "This is Diff, a Wikimedia community blog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 601,
+    "tag": "p",
+    "text": "All participants are responsible for building a place that is welcoming and friendly to everyone. Learn more about Diff.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 603,
+    "tag": "p",
+    "text": "A Wikimedia Foundation Project",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 606,
+    "tag": "h3",
+    "text": "Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 609,
+    "tag": "li",
+    "text": "Join",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 611,
+    "tag": "li",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 613,
+    "tag": "li",
+    "text": "Guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 615,
+    "tag": "li",
+    "text": "Editorial guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 617,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 619,
+    "tag": "li",
+    "text": "Terms of Use",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 625,
+    "tag": "p",
+    "text": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted. Powered by WordPress.com VIP, Automattic Privacy Notice.",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

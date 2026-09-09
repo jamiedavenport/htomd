@@ -1,0 +1,377 @@
+[
+  {
+    "node_index": 47,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 48,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 56,
+    "tag": "p",
+    "text": "Official websites use .govA .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 63,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPSA lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "Health Topics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Drugs & Supplements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Genetics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "Medical Tests",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 93,
+    "tag": "li",
+    "text": "Medical Encyclopedia",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "About MedlinePlus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "li",
+    "text": "About MedlinePlus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "What's New",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Site Map",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "Customer Support",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 125,
+    "tag": "li",
+    "text": "Health Topics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Drugs & Supplements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Genetics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "Medical Tests",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Medical Encyclopedia",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "h1",
+    "text": "What is DNA?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "p",
+    "text": "DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms. Nearly every cell in a person’s body has the same DNA. Most DNA is located in the cell nucleus (where it is called nuclear DNA), but a small amount of DNA can also be found in the mitochondria (where it is called mitochondrial DNA or mtDNA). Mitochondria are structures within cells that convert the energy from food into a form that cells can use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 175,
+    "tag": "p",
+    "text": "The information in DNA is stored as a code made up of four chemical bases: adenine (A), guanine (G), cytosine (C), and thymine (T). Human DNA consists of about 3 billion bases, and more than 99 percent of those bases are the same in all people. The order, or sequence, of these bases determines the information available for building and maintaining an organism, similar to the way in which letters of the alphabet appear in a certain order to form words and sentences.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 176,
+    "tag": "p",
+    "text": "DNA bases pair up with each other, A with T and C with G, to form units called base pairs. Each base is also attached to a sugar molecule and a phosphate molecule. Together, a base, sugar, and phosphate are called a nucleotide. Nucleotides are arranged in two long strands that form a spiral called a double helix. The structure of the double helix is somewhat like a ladder, with the base pairs forming the ladder’s rungs and the sugar and phosphate molecules forming the vertical sidepieces of the ladder.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 177,
+    "tag": "p",
+    "text": "An important property of DNA is that it can replicate, or make copies of itself. Each strand of DNA in the double helix can serve as a pattern for duplicating the sequence of bases. This is critical when cells divide because each new cell needs to have an exact copy of the DNA present in the old cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 180,
+    "tag": "p",
+    "text": "DNA is a double helix formed by base pairs attached to a sugar-phosphate backbone.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 190,
+    "tag": "h2",
+    "text": "For more information about DNA:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "p",
+    "text": "The National Human Genome Research Institute (NHGRI) provides a fact sheet on Deoxyribonucleic Acid (DNA).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "p",
+    "text": "The NHGRI Talking Glossary of Genomic and Genetic Terms offers information on DNA and mitochondrial DNA.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "p",
+    "text": "StatedClearly offers a video: What is DNA and How Does it Work?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 203,
+    "tag": "p",
+    "text": "A basic explanation and illustration of DNA can be found on the Arizona State University \"Ask a Biologist\" website.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "h2",
+    "text": "Topics in the Cells and DNA chapter",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "What is a cell?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "What is DNA?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "What is a gene?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "What is a chromosome?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 218,
+    "tag": "li",
+    "text": "How many chromosomes do people have?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "What is noncoding DNA?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "p",
+    "text": "Other chapters in Help Me Understand Genetics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "p",
+    "text": "The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "About MedlinePlus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "What's New",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Site Map",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 239,
+    "tag": "li",
+    "text": "Customer Support",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Subscribe to RSS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Connect with NLM",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "NLM Web Policies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "Copyright",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "li",
+    "text": "Guidelines for Links",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "li",
+    "text": "Viewers & Players",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "MedlinePlus Connect for EHRs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "For Developers",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

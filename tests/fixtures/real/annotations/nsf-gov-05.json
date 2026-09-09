@@ -1,0 +1,1476 @@
+[
+  {
+    "node_index": 50,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 51,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 59,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 66,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS. A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 108,
+    "tag": "li",
+    "text": "Find Funding Funding Search Award Search NSF-wide Initiatives Research Experiences for Undergraduates Where to Start For Everyone For Early-Career Researchers For Postdoctoral Fellows For Graduate Students For Undergraduates For Industry For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 112,
+    "tag": "li",
+    "text": "Funding Search Award Search NSF-wide Initiatives Research Experiences for Undergraduates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "Funding Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 116,
+    "tag": "li",
+    "text": "Award Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 118,
+    "tag": "li",
+    "text": "NSF-wide Initiatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "Research Experiences for Undergraduates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "Where to Start For Everyone For Early-Career Researchers For Postdoctoral Fellows For Graduate Students For Undergraduates For Industry For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "li",
+    "text": "For Everyone",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "For Early-Career Researchers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "For Postdoctoral Fellows",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "For Graduate Students",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "For Undergraduates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "For Industry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "How to Apply Preparing Your Proposal Submitting Your Proposal Proposal & Award Policies & Procedures Guide (PAPPG) Additional Resources Research.gov Grants.gov How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Preparing Your Proposal Submitting Your Proposal Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 145,
+    "tag": "li",
+    "text": "Preparing Your Proposal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "li",
+    "text": "Submitting Your Proposal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "li",
+    "text": "Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "Additional Resources Research.gov Grants.gov How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Grants.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Manage Your Award Getting Started Request a Change to Your Award Report Your Outcomes Proposal & Award Policies & Procedures Guide (PAPPG) Additional Resources Research.gov NSF Public Access Repository Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Getting Started Request a Change to Your Award Report Your Outcomes Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "Getting Started",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "Request a Change to Your Award",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Report Your Outcomes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Additional Resources Research.gov NSF Public Access Repository Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 177,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 179,
+    "tag": "li",
+    "text": "NSF Public Access Repository",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "li",
+    "text": "Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "li",
+    "text": "Focus Areas Major Initiatives Artificial Intelligence Biotechnology Quantum STEM Workforce Focus Areas Explore All Focus Areas Arctic and Antarctic Astronomy and Space Biology Chemistry Computing Earth and Environment Education and Training Engineering Facilities and Infrastructure Materials Research Mathematics People and Society Physics Research Partnerships Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-33-66-text-large-small"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "li",
+    "text": "Major Initiatives Artificial Intelligence Biotechnology Quantum STEM Workforce",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "Artificial Intelligence",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Biotechnology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "Quantum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "STEM Workforce",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Focus Areas Explore All Focus Areas Arctic and Antarctic Astronomy and Space Biology Chemistry Computing Earth and Environment Education and Training Engineering Facilities and Infrastructure Materials Research Mathematics People and Society Physics Research Partnerships Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 201,
+    "tag": "li",
+    "text": "Explore All Focus Areas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 203,
+    "tag": "li",
+    "text": "Arctic and Antarctic",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 205,
+    "tag": "li",
+    "text": "Astronomy and Space",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 207,
+    "tag": "li",
+    "text": "Biology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Chemistry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Computing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Earth and Environment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Education and Training",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "Engineering",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Facilities and Infrastructure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Materials Research",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Mathematics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "People and Society",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Physics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Research Partnerships",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "News & Events News & Announcements NSF Impacts Science Matters Blog For the Press Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-large"
+    }
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "News & Announcements NSF Impacts Science Matters Blog For the Press",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 239,
+    "tag": "li",
+    "text": "News & Announcements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "NSF Impacts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 245,
+    "tag": "li",
+    "text": "For the Press",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "About About NSF Careers at NSF Updates on NSF Priorities Contact Us Our Directorates & Offices How NSF Is Organized Biological Sciences (BIO) Computer & Information Science & Engineering (CISE) Engineering (ENG) Geosciences (GEO) Integrative Activities (OIA) International Science & Engineering (OISE) Mathematical & Physical Sciences (MPS) Social, Behavioral & Economic Sciences (SBE) STEM Education (EDU) Technology, Innovation & Partnerships (TIP) National Center for Science & Engineering Statistics (NCSES) National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-33-66-text-large-small"
+    }
+  },
+  {
+    "node_index": 255,
+    "tag": "li",
+    "text": "About NSF Careers at NSF Updates on NSF Priorities Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list "
+    }
+  },
+  {
+    "node_index": 258,
+    "tag": "li",
+    "text": "Careers at NSF",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "li",
+    "text": "Updates on NSF Priorities",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Our Directorates & Offices How NSF Is Organized Biological Sciences (BIO) Computer & Information Science & Engineering (CISE) Engineering (ENG) Geosciences (GEO) Integrative Activities (OIA) International Science & Engineering (OISE) Mathematical & Physical Sciences (MPS) Social, Behavioral & Economic Sciences (SBE) STEM Education (EDU) Technology, Innovation & Partnerships (TIP) National Center for Science & Engineering Statistics (NCSES) National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "How NSF Is Organized",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Biological Sciences (BIO)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Computer & Information Science & Engineering (CISE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Engineering (ENG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "Geosciences (GEO)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 277,
+    "tag": "li",
+    "text": "Integrative Activities (OIA)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 279,
+    "tag": "li",
+    "text": "International Science & Engineering (OISE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Mathematical & Physical Sciences (MPS)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 283,
+    "tag": "li",
+    "text": "Social, Behavioral & Economic Sciences (SBE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "STEM Education (EDU)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 287,
+    "tag": "li",
+    "text": "Technology, Innovation & Partnerships (TIP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "li",
+    "text": "National Center for Science & Engineering Statistics (NCSES)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 291,
+    "tag": "li",
+    "text": "National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 302,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Science Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 306,
+    "tag": "li",
+    "text": "Engineering materials for the quantum age",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 339,
+    "tag": "h1",
+    "text": "Engineering materials for the quantum age",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 345,
+    "tag": "p",
+    "text": "Quantum materials are expanding the understanding of matter and opening new possibilities for future technologies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 351,
+    "tag": "h2",
+    "text": "The bottom line",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 353,
+    "tag": "li",
+    "text": "Quantum materials harness unusual quantum effects to produce properties not found in ordinary materials, which could enable next-generation technologies like quantum computers, advanced sensing and ultra secure communications.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 354,
+    "tag": "li",
+    "text": "From atomically thin layers and superconductors to light-emitting devices for secure communication and networking, decades of U.S. National Science Foundation support have helped uncover how quantum materials behave.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 355,
+    "tag": "li",
+    "text": "NSF investments are helping build the scientific foundation for future quantum technologies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 361,
+    "tag": "figcaption",
+    "text": "MIT physicists developed a technique to arrange atoms (represented as spheres with arrows) in much closer proximity than previously possible, down to 50 nanometers. The group plans to use the method to manipulate atoms into configurations that could generate the first purely magnetic quantum gate — a key building block for a new type of quantum computer. In this image, the magnetic interaction is represented by the colorful lines.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 362,
+    "tag": "h3",
+    "text": "What are quantum materials?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 363,
+    "tag": "p",
+    "text": "Most materials behave according to the familiar rules of everyday physics. But in the quantum world, at the scales of molecules, atoms and electrons, the laws of physics become peculiar. Quantum materials allow unusual quantum effects to manifest on a larger, collective scale, producing properties not found in ordinary materials. For example, quantum particles like electrons can behave collectively, producing properties such as superconductivity, magnetism and unusual interactions with light.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 369,
+    "tag": "figcaption",
+    "text": "This illustration shows a newly observed quantum vibration, called the Higgs mode, in an iron-based superconductor. By using light to control this behavior, researchers gained new insight into the unusual properties of superconducting materials.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "h3",
+    "text": "Why are quantum materials important?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 371,
+    "tag": "p",
+    "text": "Quantum materials already underpin technologies that people use every day. Their unusual properties enable advances in data storage, fiber-optic communications and highly sensitive magnetic field detectors used in technologies such as MRI scanners.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 372,
+    "tag": "p",
+    "text": "Researchers are now working to harness these same quantum properties to create technologies that go beyond current capabilities. For example, future quantum materials could help doctors detect diseases earlier, make computers far more powerful while using less energy, improve the reliability of communications and navigation systems and create more efficient ways to generate, store and transmit electricity and information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 373,
+    "tag": "p",
+    "text": "By expanding what is possible in computing, communications, sensing and energy technologies, advances in quantum materials could help drive innovation, support high-tech industries and strengthen U.S. economic competitiveness and technological leadership.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 379,
+    "tag": "figcaption",
+    "text": "This illustration shows how electrons and the empty spaces they leave behind can interact inside tiny semiconductor crystals called quantum dots. These quantum interactions give quantum dots their unique optical and electronic properties, making them useful for technologies such as displays, sensors and future quantum devices.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 380,
+    "tag": "h3",
+    "text": "NSF's investments in quantum materials",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 383,
+    "tag": "li",
+    "text": "Cooling matter into new states: NSF-supported researchers discovered that cooling certain materials to extremely low temperatures causes atoms and electrons to behave collectively, revealing new states of matter, such as exotic phases of superconductors (which conduct electricity with zero resistance) and superfluids (which flow without friction).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 385,
+    "tag": "li",
+    "text": "The science behind modern electronics: NSF-supported research revealed how the arrangements of atoms, including crystal structure and atomic defects, shape electron behavior and determine a material's properties. These discoveries helped lay the scientific foundation for modern electronic, photonic and quantum technologies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 387,
+    "tag": "li",
+    "text": "When electrons work together: NSF-supported research advanced many-body physics, statistical mechanics and the quantum theory of solids, revealing how interacting electrons can create new phases of matter, including topological materials that conduct electricity on their surfaces.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "li",
+    "text": "Moving electricity without energy loss: Following the discovery of high-temperature superconductors, which carry electricity without energy loss while requiring less extreme cooling, NSF supported research to understand their unusual quantum behavior and explore their potential for practical technologies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 393,
+    "tag": "li",
+    "text": "Controlling quantum behavior at the nanoscale: NSF also supported research on nanoscale semiconductor structures, including quantum wells, quantum dots and quantum wires, uncovering new quantum behaviors that enabled technologies such as QLED television displays. This work on quantum dots helped earn the 2023 Nobel Prize in chemistry.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 396,
+    "tag": "li",
+    "text": "A new way for electricity to flow: NSF-supported research helped establish the theoretical and experimental foundations of topological insulators and semimetals, whose unusual electronic properties allow electricity to flow along their surfaces with exceptional stability, even in the presence of defects.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 398,
+    "tag": "li",
+    "text": "2D and atomically thin materials: Following the isolation of graphene in 2004, NSF supported research on atomically thin materials, where electrons behave in new ways that produce unique electrical, optical and magnetic properties.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 405,
+    "tag": "figcaption",
+    "text": "Researchers at the Center for Advanced Materials and Manufacturing use artificial intelligence to speed the discovery and design of new quantum materials. Their work could lead to advances in energy technologies, low-power electronics, quantum computing, advanced sensors and materials that can withstand extreme conditions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "h3",
+    "text": "What opportunities remain?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "p",
+    "text": "Despite decades of progress, many questions about quantum materials remain unanswered. Researchers are working to better understand how interactions among electrons and atoms give rise to the unusual properties of quantum materials, how to manufacture these materials at scale, and how to ensure they perform reliably outside the lab.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 408,
+    "tag": "p",
+    "text": "Realizing the full potential of these materials will also require a skilled workforce capable of discovering, designing and manufacturing next-generation quantum technologies. Together, these advances will accelerate innovation across fields such as health care, energy and transportation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 414,
+    "tag": "figcaption",
+    "text": "The pairing between spinning quasiparticles called magnons and light-emitting quasiparticles called excitons will allow researchers to see spin directions, an important consideration for several quantum applications.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "h3",
+    "text": "Taking quantum materials research into the future",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "p",
+    "text": "Since the passage of the \"National Quantum Initiative Act\" in 2018, NSF has expanded its investments in quantum materials research. Through programs such as the NSF Quantum Leap Challenge Institutes, NSF Materials Research Science and Engineering Centers, NSF Designing Materials to Revolutionize and Engineer our Future and NSF National Quantum Virtual Laboratory - Quantum Testbeds, researchers are advancing the design, discovery and application of quantum materials. These efforts include:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 422,
+    "tag": "li",
+    "text": "Creating new quantum materials with tailored electronic, magnetic and optical properties for future technologies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "li",
+    "text": "Investigating superconductors, magnetic quantum materials and quantum spin liquids to better understand their unusual quantum properties.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "li",
+    "text": "Developing quantum devices, sensors and secure communication technologies for future computing, sensing and networking.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 425,
+    "tag": "li",
+    "text": "Using theory, artificial intelligence and experiments to design quantum materials before they are created in the laboratory, including high-entropy and moiré materials with novel quantum properties.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 428,
+    "tag": "li",
+    "text": "Building the quantum workforce through education and training programs such as NSF Quantum for All, where NSF is helping high school science teachers bring quantum concepts into their classrooms and preparing the next generation of quantum scientists and engineers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 430,
+    "tag": "p",
+    "text": "NSF Project Triad brings together industry, academia and government to demonstrate how integrated quantum systems could enable real-world applications in areas such as public safety, healthcare, energy and manufacturing.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 437,
+    "tag": "figcaption",
+    "text": "Lasers of different colors are used for cooling and capturing dysprosium atoms.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 438,
+    "tag": "h3",
+    "text": "Additional resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 440,
+    "tag": "li",
+    "text": "Quantum Information ScienceLearn how NSF investments in quantum materials, computing, sensing and networking are helping advance the next generation of quantum technologies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 443,
+    "tag": "li",
+    "text": "\"Photonic Quantum Chips Promise Fast Future\" | PodcastAn \"NSF's Discovery Files\" podcast highlighting a breakthrough that integrates photonic quantum systems onto traditional semiconductor chips.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 446,
+    "tag": "li",
+    "text": "\"AI-Powered Labs Accelerating Scientific Discovery\" | PodcastLearn how NSF-supported researchers are using AI and automated laboratories to accelerate the discovery of new materials and technologies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 449,
+    "tag": "li",
+    "text": "\"Bringing Quantum Concepts into Classrooms\" | PodcastAn \"NSF's Discovery Files\" podcast exploring how educators are introducing quantum concepts to students and helping build the future quantum workforce through innovative teaching approaches and hands-on learning opportunities.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "h2",
+    "text": "Topics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "content-tags--title"
+    }
+  },
+  {
+    "node_index": 455,
+    "tag": "li",
+    "text": "Computing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 456,
+    "tag": "li",
+    "text": "Engineering",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 457,
+    "tag": "li",
+    "text": "Materials Research",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 458,
+    "tag": "li",
+    "text": "Mathematics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 459,
+    "tag": "li",
+    "text": "Physics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 460,
+    "tag": "li",
+    "text": "Quantum Information Science & Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 461,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 464,
+    "tag": "li",
+    "text": "Newer Blog Post Materials science: The stuff of the modern world",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pagination__item pagination__item--previous"
+    }
+  },
+  {
+    "node_index": 467,
+    "tag": "li",
+    "text": "Older Blog Post Quantum sensing: From the inner workings of cells to the outer limits of the universe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pagination__item pagination__item--next"
+    }
+  },
+  {
+    "node_index": 473,
+    "tag": "h2",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "h2",
+    "text": "Related Stories",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 498,
+    "tag": "h2",
+    "text": "Materials science: The stuff of the modern world",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "headline--left header-two-as-three headline-callout headline--left-linked"
+    }
+  },
+  {
+    "node_index": 507,
+    "tag": "h2",
+    "text": "Quantum sensing: From the inner workings of cells to the outer limits of the universe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "headline--left header-two-as-three headline-callout headline--left-linked"
+    }
+  },
+  {
+    "node_index": 516,
+    "tag": "h2",
+    "text": "Robotics: Engineering the future of intelligent machines",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "headline--left header-two-as-three headline-callout headline--left-linked"
+    }
+  },
+  {
+    "node_index": 526,
+    "tag": "li",
+    "text": "Publication date: July 21, 2026",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 529,
+    "tag": "li",
+    "text": "Last updated: August 26, 2026",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 546,
+    "tag": "p",
+    "text": "Randolph Building401 Dulany StreetAlexandria, VA 22314",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 553,
+    "tag": "p",
+    "text": "Sign up for email updates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 580,
+    "tag": "h2",
+    "text": "Footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden menu--footer__title",
+      "id": "block-footer-menu"
+    }
+  },
+  {
+    "node_index": 583,
+    "tag": "li",
+    "text": "About Us About NSF Careers Our Directorates & Offices National Science Board Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 584,
+    "tag": "h3",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 587,
+    "tag": "li",
+    "text": "About NSF",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 589,
+    "tag": "li",
+    "text": "Careers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 591,
+    "tag": "li",
+    "text": "Our Directorates & Offices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 593,
+    "tag": "li",
+    "text": "National Science Board",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 595,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 597,
+    "tag": "li",
+    "text": "What's New News & Announcements Events Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 598,
+    "tag": "h3",
+    "text": "What's New",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 601,
+    "tag": "li",
+    "text": "News & Announcements",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 603,
+    "tag": "li",
+    "text": "Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 605,
+    "tag": "li",
+    "text": "Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 607,
+    "tag": "li",
+    "text": "Information For Funding Seekers NSF Awardees Congress Media Educators Panelists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 608,
+    "tag": "h3",
+    "text": "Information For",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 611,
+    "tag": "li",
+    "text": "Funding Seekers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 613,
+    "tag": "li",
+    "text": "NSF Awardees",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 615,
+    "tag": "li",
+    "text": "Congress",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 617,
+    "tag": "li",
+    "text": "Media",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 619,
+    "tag": "li",
+    "text": "Educators",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 621,
+    "tag": "li",
+    "text": "Panelists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 623,
+    "tag": "li",
+    "text": "Resources Documents & Reports Budget, Performance & Financial Reporting Public Access Stopping Harassment Research Security Scientific Integrity Research.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 624,
+    "tag": "h3",
+    "text": "Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 627,
+    "tag": "li",
+    "text": "Documents & Reports",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 629,
+    "tag": "li",
+    "text": "Budget, Performance & Financial Reporting",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 631,
+    "tag": "li",
+    "text": "Public Access",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 633,
+    "tag": "li",
+    "text": "Stopping Harassment",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 635,
+    "tag": "li",
+    "text": "Research Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 637,
+    "tag": "li",
+    "text": "Scientific Integrity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 639,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 645,
+    "tag": "h2",
+    "text": "Required Policy Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden menu--required-policy-links__title",
+      "id": "block-requiredpolicylinks-menu"
+    }
+  },
+  {
+    "node_index": 648,
+    "tag": "li",
+    "text": "Vulnerability disclosure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 650,
+    "tag": "li",
+    "text": "Inspector General",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 652,
+    "tag": "li",
+    "text": "Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 654,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 656,
+    "tag": "li",
+    "text": "No FEAR Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 658,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 660,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 662,
+    "tag": "li",
+    "text": "Plain language",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  }
+]

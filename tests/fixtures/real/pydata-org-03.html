@@ -1,0 +1,973 @@
+<!-- Modified by htomd on 2026-09-09: embedded scripts, styles, artwork, frames and active attributes removed.
+Source: https://pandas.pydata.org/docs/getting_started/intro_tutorials/03_subset_data.html
+Credits, licences and change details: ../NOTICE.md and ../LICENSES.txt; original hash: manifest.json. -->
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>How do I select a subset of a DataFrame? &#8212; pandas 3.0.5 documentation</title>
+  
+  
+  
+  <template></template>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <template></template>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=956a7be408686d7d6a7b" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=956a7be408686d7d6a7b" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/plot_directive.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/getting_started.css?v=8d8a0ed4" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/pandas.css?v=b7db95b1" />
+  
+  <!-- So that users can add custom icons -->
+  <template></template>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=956a7be408686d7d6a7b" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=956a7be408686d7d6a7b" />
+
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <link rel="icon" href="../../_static/favicon.ico"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="How do I create plots in pandas?" href="04_plotting.html" />
+    <link rel="prev" title="How do I read and write tabular data?" href="02_read_write.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="3.0.5" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+  <aside class="bd-header-announcement d-print-none d-none" aria-label="Announcement" data-pst-announcement-url="https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/_templates/docs-announcement-banner.html"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class=" navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../../_static/pandas.svg" class="logo__image only-light" alt="pandas 3.0.5 documentation - Home"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" class="logo__image only-dark pst-js-only" alt="pandas 3.0.5 documentation - Home"/>
+  
+  
+</a></div>
+    
+  </div>
+  
+  <div class=" navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Getting started
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../user_guide/index.html">
+    User Guide
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../reference/index.html">
+    API reference
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../development/index.html">
+    Development
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../whatsnew/index.html">
+    Release notes
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+        <div class="navbar-item">
+<div class="version-switcher__container dropdown pst-js-only">
+  <button id="pst-version-switcher-button-2"
+    type="button"
+    class="version-switcher__button btn btn-sm dropdown-toggle"
+    data-bs-toggle="dropdown"
+    aria-haspopup="listbox"
+    aria-controls="pst-version-switcher-list-2"
+    aria-label="Version switcher list"
+  >
+    Choose version  <!-- this text may get changed later by javascript -->
+    <span class="caret"></span>
+  </button>
+  <div id="pst-version-switcher-list-2"
+    class="version-switcher__menu dropdown-menu list-group-flush py-0"
+    role="listbox" aria-labelledby="pst-version-switcher-button-2">
+    <!-- dropdown will be populated by javascript on page load -->
+  </div>
+</div></div>
+      
+        <div class="navbar-item">
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button></div>
+      
+        <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/pandas-dev/pandas" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://x.com/pandas_dev" title="X" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-x-twitter fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">X</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://fosstodon.org/@pandas_dev" title="Mastodon" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-mastodon fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Mastodon</span></a>
+        </li>
+</ul></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Getting started
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../user_guide/index.html">
+    User Guide
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../reference/index.html">
+    API reference
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../development/index.html">
+    Development
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../whatsnew/index.html">
+    Release notes
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item">
+<div class="version-switcher__container dropdown pst-js-only">
+  <button id="pst-version-switcher-button-3"
+    type="button"
+    class="version-switcher__button btn btn-sm dropdown-toggle"
+    data-bs-toggle="dropdown"
+    aria-haspopup="listbox"
+    aria-controls="pst-version-switcher-list-3"
+    aria-label="Version switcher list"
+  >
+    Choose version  <!-- this text may get changed later by javascript -->
+    <span class="caret"></span>
+  </button>
+  <div id="pst-version-switcher-list-3"
+    class="version-switcher__menu dropdown-menu list-group-flush py-0"
+    role="listbox" aria-labelledby="pst-version-switcher-button-3">
+    <!-- dropdown will be populated by javascript on page load -->
+  </div>
+</div></div>
+        
+          <div class="navbar-item">
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button></div>
+        
+          <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/pandas-dev/pandas" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://x.com/pandas_dev" title="X" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-x-twitter fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">X</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://fosstodon.org/@pandas_dev" title="Mastodon" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-mastodon fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Mastodon</span></a>
+        </li>
+</ul></div>
+        
+      </div>
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <div class="bd-toc-item navbar-nav">
+    
+    <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../overview.html">Package overview</a></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">Getting started tutorials</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="01_table_oriented.html">What kind of data does pandas handle?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="02_read_write.html">How do I read and write tabular data?</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">How do I select a subset of a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="04_plotting.html">How do I create plots in pandas?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="05_add_columns.html">How to create new columns derived from existing columns</a></li>
+<li class="toctree-l2"><a class="reference internal" href="06_calculate_statistics.html">How to calculate summary statistics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="07_reshape_table_layout.html">How to reshape the layout of tables</a></li>
+<li class="toctree-l2"><a class="reference internal" href="08_combine_dataframes.html">How to combine data from multiple tables</a></li>
+<li class="toctree-l2"><a class="reference internal" href="09_timeseries.html">How to handle time series data with ease</a></li>
+<li class="toctree-l2"><a class="reference internal" href="10_text_data.html">How to manipulate textual data</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../comparison/index.html">Comparison with other tools</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_r.html">Comparison with R / R libraries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_sql.html">Comparison with SQL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_spreadsheets.html">Comparison with spreadsheets</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_sas.html">Comparison with SAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_stata.html">Comparison with Stata</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_spss.html">Comparison with SPSS</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../tutorials.html">Community tutorials</a></li>
+</ul>
+
+    
+  </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../index.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Getting started</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Getting started tutorials</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">How do I select a subset of a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <div class="highlight-ipython notranslate" id="min-tut-03-subset"><div class="highlight"><pre><span></span><span class="gp">In [1]: </span><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+</pre></div>
+</div>
+<div class="card gs-data">
+    <div class="card-header gs-data-header">
+        <div class="gs-data-title">
+            Data used for this tutorial:
+        </div>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item gs-data-list"><div data-bs-toggle="collapse" href="#collapsedata" role="button" aria-expanded="false" aria-controls="collapsedata">
+    <span class="badge bg-secondary">Titanic data</span>
+</div>
+<div class="collapse" id="collapsedata">
+    <div class="card-body">
+        <p class="card-text"><p>This tutorial uses the Titanic data set, stored as CSV. The data
+consists of the following data columns:</p>
+<ul class="simple">
+<li><p>PassengerId: Id of every passenger.</p></li>
+<li><p>Survived: Indication whether passenger survived. <code class="docutils literal notranslate"><span class="pre">0</span></code> for no and <code class="docutils literal notranslate"><span class="pre">1</span></code> for yes.</p></li>
+<li><p>Pclass: One out of the 3 ticket classes: Class <code class="docutils literal notranslate"><span class="pre">1</span></code>, Class <code class="docutils literal notranslate"><span class="pre">2</span></code> and Class <code class="docutils literal notranslate"><span class="pre">3</span></code>.</p></li>
+<li><p>Name: Name of passenger.</p></li>
+<li><p>Sex: Gender of passenger.</p></li>
+<li><p>Age: Age of passenger in years.</p></li>
+<li><p>SibSp: Number of siblings or spouses aboard.</p></li>
+<li><p>Parch: Number of parents or children aboard.</p></li>
+<li><p>Ticket: Ticket number of passenger.</p></li>
+<li><p>Fare: Indicating the fare.</p></li>
+<li><p>Cabin: Cabin number of passenger.</p></li>
+<li><p>Embarked: Port of embarkation.</p></li>
+</ul>
+        </p>
+        <a href="https://github.com/pandas-dev/pandas/raw/main/doc/data/titanic.csv" class="btn btn-dark btn-sm">To raw data</a>
+    </div>
+</div><div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [2]: </span><span class="n">titanic</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&quot;data/titanic.csv&quot;</span><span class="p">)</span>
+
+<span class="gp">In [3]: </span><span class="n">titanic</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[3]: </span>
+<span class="go">   PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked</span>
+<span class="go">0            1         0       3  ...   7.2500   NaN         S</span>
+<span class="go">1            2         1       1  ...  71.2833   C85         C</span>
+<span class="go">2            3         1       3  ...   7.9250   NaN         S</span>
+<span class="go">3            4         1       1  ...  53.1000  C123         S</span>
+<span class="go">4            5         0       3  ...   8.0500   NaN         S</span>
+
+<span class="go">[5 rows x 12 columns]</span>
+</pre></div>
+</div>
+        </li>
+    </ul>
+</div><section id="how-do-i-select-a-subset-of-a-dataframe">
+<h1>How do I select a subset of a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?<a class="headerlink" href="#how-do-i-select-a-subset-of-a-dataframe" title="Link to this heading">#</a></h1>
+<section id="how-do-i-select-specific-columns-from-a-dataframe">
+<h2>How do I select specific columns from a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?<a class="headerlink" href="#how-do-i-select-specific-columns-from-a-dataframe" title="Link to this heading">#</a></h2>
+<img alt="../../_images/03_subset_columns.svg" class="align-center" src="../../_images/03_subset_columns.svg" />
+<ul class="task-bullet">
+    <li><p>I’m interested in the age of the Titanic passengers.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [4]: </span><span class="n">ages</span> <span class="o">=</span> <span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span>
+
+<span class="gp">In [5]: </span><span class="n">ages</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[5]: </span>
+<span class="go">0    22.0</span>
+<span class="go">1    38.0</span>
+<span class="go">2    26.0</span>
+<span class="go">3    35.0</span>
+<span class="go">4    35.0</span>
+<span class="go">Name: Age, dtype: float64</span>
+</pre></div>
+</div>
+<p>To select a single column, use square brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code> with the column
+name of the column of interest.</p>
+<p>For more explanation, see <a class="reference external" href="https://python-public-policy.afeld.me/en/columbia/brackets.html">Brackets in Python and pandas</a>.</p>
+    </li>
+</ul><p>Each column in a <a class="reference internal" href="../../reference/api/pandas.DataFrame.html#pandas.DataFrame" title="pandas.DataFrame"><code class="xref py py-class docutils literal notranslate"><span class="pre">DataFrame</span></code></a> is a <a class="reference internal" href="../../reference/api/pandas.Series.html#pandas.Series" title="pandas.Series"><code class="xref py py-class docutils literal notranslate"><span class="pre">Series</span></code></a>. As a single column is
+selected, the returned object is a pandas <a class="reference internal" href="../../reference/api/pandas.Series.html#pandas.Series" title="pandas.Series"><code class="xref py py-class docutils literal notranslate"><span class="pre">Series</span></code></a>. We can verify this
+by checking the type of the output:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [6]: </span><span class="nb">type</span><span class="p">(</span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">])</span>
+<span class="gh">Out[6]: </span><span class="go">pandas.Series</span>
+</pre></div>
+</div>
+<p>And have a look at the <code class="docutils literal notranslate"><span class="pre">shape</span></code> of the output:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [7]: </span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">shape</span>
+<span class="gh">Out[7]: </span><span class="go">(891,)</span>
+</pre></div>
+</div>
+<p><a class="reference internal" href="../../reference/api/pandas.DataFrame.shape.html#pandas.DataFrame.shape" title="pandas.DataFrame.shape"><code class="xref py py-attr docutils literal notranslate"><span class="pre">DataFrame.shape</span></code></a> is an attribute (remember <a class="reference internal" href="02_read_write.html#min-tut-02-read-write"><span class="std std-ref">tutorial on reading and writing</span></a>, do not use parentheses for attributes) of a
+pandas <code class="docutils literal notranslate"><span class="pre">Series</span></code> and <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> containing the number of rows and
+columns: <em>(nrows, ncolumns)</em>. A pandas Series is 1-dimensional and only
+the number of rows is returned.</p>
+<ul class="task-bullet">
+    <li><p>I’m interested in the age and sex of the Titanic passengers.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [8]: </span><span class="n">age_sex</span> <span class="o">=</span> <span class="n">titanic</span><span class="p">[[</span><span class="s2">&quot;Age&quot;</span><span class="p">,</span> <span class="s2">&quot;Sex&quot;</span><span class="p">]]</span>
+
+<span class="gp">In [9]: </span><span class="n">age_sex</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[9]: </span>
+<span class="go">    Age     Sex</span>
+<span class="go">0  22.0    male</span>
+<span class="go">1  38.0  female</span>
+<span class="go">2  26.0  female</span>
+<span class="go">3  35.0  female</span>
+<span class="go">4  35.0    male</span>
+</pre></div>
+</div>
+<p>To select multiple columns, use a list of column names within the
+selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>.</p>
+    </li>
+</ul><div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The inner square brackets define a
+<a class="reference external" href="https://docs.python.org/3/tutorial/datastructures.html#tut-morelists" title="(in Python v3.14)"><span class="xref std std-ref">Python list</span></a> with column names, whereas
+the outer square brackets are used to select the data from a pandas
+<code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> as seen in the previous example.</p>
+</div>
+<p>The returned data type is a pandas DataFrame:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [10]: </span><span class="nb">type</span><span class="p">(</span><span class="n">titanic</span><span class="p">[[</span><span class="s2">&quot;Age&quot;</span><span class="p">,</span> <span class="s2">&quot;Sex&quot;</span><span class="p">]])</span>
+<span class="gh">Out[10]: </span><span class="go">pandas.DataFrame</span>
+</pre></div>
+</div>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [11]: </span><span class="n">titanic</span><span class="p">[[</span><span class="s2">&quot;Age&quot;</span><span class="p">,</span> <span class="s2">&quot;Sex&quot;</span><span class="p">]]</span><span class="o">.</span><span class="n">shape</span>
+<span class="gh">Out[11]: </span><span class="go">(891, 2)</span>
+</pre></div>
+</div>
+<p>The selection returned a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> with 891 rows and 2 columns. Remember, a
+<code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> is 2-dimensional with both a row and column dimension.</p>
+<div class="d-flex flex-row gs-torefguide">
+    <span class="badge badge-info">To user guide</span><p>For basic information on indexing, see the user guide section on <a class="reference internal" href="../../user_guide/indexing.html#indexing-basics"><span class="std std-ref">indexing and selecting data</span></a>.</p>
+</div></section>
+<section id="how-do-i-filter-specific-rows-from-a-dataframe">
+<h2>How do I filter specific rows from a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?<a class="headerlink" href="#how-do-i-filter-specific-rows-from-a-dataframe" title="Link to this heading">#</a></h2>
+<img alt="../../_images/03_subset_rows.svg" class="align-center" src="../../_images/03_subset_rows.svg" />
+<ul class="task-bullet">
+    <li><p>I’m interested in the passengers older than 35 years.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [12]: </span><span class="n">above_35</span> <span class="o">=</span> <span class="n">titanic</span><span class="p">[</span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="mi">35</span><span class="p">]</span>
+
+<span class="gp">In [13]: </span><span class="n">above_35</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[13]: </span>
+<span class="go">    PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked</span>
+<span class="go">1             2         1       1  ...  71.2833   C85         C</span>
+<span class="go">6             7         0       1  ...  51.8625   E46         S</span>
+<span class="go">11           12         1       1  ...  26.5500  C103         S</span>
+<span class="go">13           14         0       3  ...  31.2750   NaN         S</span>
+<span class="go">15           16         1       2  ...  16.0000   NaN         S</span>
+
+<span class="go">[5 rows x 12 columns]</span>
+</pre></div>
+</div>
+<p>To select rows based on a conditional expression, use a condition inside
+the selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>.</p>
+    </li>
+</ul><p>The condition inside the selection
+brackets <code class="docutils literal notranslate"><span class="pre">titanic[&quot;Age&quot;]</span> <span class="pre">&gt;</span> <span class="pre">35</span></code> checks for which rows the <code class="docutils literal notranslate"><span class="pre">Age</span></code>
+column has a value larger than 35:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [14]: </span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="mi">35</span>
+<span class="gh">Out[14]: </span>
+<span class="go">0      False</span>
+<span class="go">1       True</span>
+<span class="go">2      False</span>
+<span class="go">3      False</span>
+<span class="go">4      False</span>
+<span class="go">       ...  </span>
+<span class="go">886    False</span>
+<span class="go">887    False</span>
+<span class="go">888    False</span>
+<span class="go">889    False</span>
+<span class="go">890    False</span>
+<span class="go">Name: Age, Length: 891, dtype: bool</span>
+</pre></div>
+</div>
+<p>The output of the conditional expression (<code class="docutils literal notranslate"><span class="pre">&gt;</span></code>, but also <code class="docutils literal notranslate"><span class="pre">==</span></code>,
+<code class="docutils literal notranslate"><span class="pre">!=</span></code>, <code class="docutils literal notranslate"><span class="pre">&lt;</span></code>, <code class="docutils literal notranslate"><span class="pre">&lt;=</span></code>,… would work) is actually a pandas <code class="docutils literal notranslate"><span class="pre">Series</span></code> of
+boolean values (either <code class="docutils literal notranslate"><span class="pre">True</span></code> or <code class="docutils literal notranslate"><span class="pre">False</span></code>) with the same number of
+rows as the original <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>. Such a <code class="docutils literal notranslate"><span class="pre">Series</span></code> of boolean values
+can be used to filter the <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> by putting it in between the
+selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>. Only rows for which the value is <code class="docutils literal notranslate"><span class="pre">True</span></code>
+will be selected.</p>
+<p>We know from before that the original Titanic <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> consists of
+891 rows. Let’s have a look at the number of rows which satisfy the
+condition by checking the <code class="docutils literal notranslate"><span class="pre">shape</span></code> attribute of the resulting
+<code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> <code class="docutils literal notranslate"><span class="pre">above_35</span></code>:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [15]: </span><span class="n">above_35</span><span class="o">.</span><span class="n">shape</span>
+<span class="gh">Out[15]: </span><span class="go">(217, 12)</span>
+</pre></div>
+</div>
+<ul class="task-bullet">
+    <li><p>I’m interested in the Titanic passengers from cabin class 2 and 3.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [16]: </span><span class="n">class_23</span> <span class="o">=</span> <span class="n">titanic</span><span class="p">[</span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Pclass&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">([</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">])]</span>
+
+<span class="gp">In [17]: </span><span class="n">class_23</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[17]: </span>
+<span class="go">   PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked</span>
+<span class="go">0            1         0       3  ...   7.2500   NaN         S</span>
+<span class="go">2            3         1       3  ...   7.9250   NaN         S</span>
+<span class="go">4            5         0       3  ...   8.0500   NaN         S</span>
+<span class="go">5            6         0       3  ...   8.4583   NaN         Q</span>
+<span class="go">7            8         0       3  ...  21.0750   NaN         S</span>
+
+<span class="go">[5 rows x 12 columns]</span>
+</pre></div>
+</div>
+<p>Similar to the conditional expression, the <a class="reference internal" href="../../reference/api/pandas.Series.isin.html#pandas.Series.isin" title="pandas.Series.isin"><code class="xref py py-func docutils literal notranslate"><span class="pre">isin()</span></code></a> conditional function
+returns a <code class="docutils literal notranslate"><span class="pre">True</span></code> for each row the values are in the provided list. To
+filter the rows based on such a function, use the conditional function
+inside the selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>. In this case, the condition inside
+the selection brackets <code class="docutils literal notranslate"><span class="pre">titanic[&quot;Pclass&quot;].isin([2,</span> <span class="pre">3])</span></code> checks for
+which rows the <code class="docutils literal notranslate"><span class="pre">Pclass</span></code> column is either 2 or 3.</p>
+    </li>
+</ul><p>The above is equivalent to filtering by rows for which the class is
+either 2 or 3 and combining the two statements with an <code class="docutils literal notranslate"><span class="pre">|</span></code> (or)
+operator:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [18]: </span><span class="n">class_23</span> <span class="o">=</span> <span class="n">titanic</span><span class="p">[(</span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Pclass&quot;</span><span class="p">]</span> <span class="o">==</span> <span class="mi">2</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Pclass&quot;</span><span class="p">]</span> <span class="o">==</span> <span class="mi">3</span><span class="p">)]</span>
+
+<span class="gp">In [19]: </span><span class="n">class_23</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[19]: </span>
+<span class="go">   PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked</span>
+<span class="go">0            1         0       3  ...   7.2500   NaN         S</span>
+<span class="go">2            3         1       3  ...   7.9250   NaN         S</span>
+<span class="go">4            5         0       3  ...   8.0500   NaN         S</span>
+<span class="go">5            6         0       3  ...   8.4583   NaN         Q</span>
+<span class="go">7            8         0       3  ...  21.0750   NaN         S</span>
+
+<span class="go">[5 rows x 12 columns]</span>
+</pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>When combining multiple conditional statements, each condition
+must be surrounded by parentheses <code class="docutils literal notranslate"><span class="pre">()</span></code>. Moreover, you can not use
+<code class="docutils literal notranslate"><span class="pre">or</span></code>/<code class="docutils literal notranslate"><span class="pre">and</span></code> but need to use the <code class="docutils literal notranslate"><span class="pre">or</span></code> operator <code class="docutils literal notranslate"><span class="pre">|</span></code> and the <code class="docutils literal notranslate"><span class="pre">and</span></code>
+operator <code class="docutils literal notranslate"><span class="pre">&amp;</span></code>.</p>
+</div>
+<div class="d-flex flex-row gs-torefguide">
+    <span class="badge badge-info">To user guide</span><p>See the dedicated section in the user guide about <a class="reference internal" href="../../user_guide/indexing.html#indexing-boolean"><span class="std std-ref">boolean indexing</span></a> or about the <a class="reference internal" href="../../user_guide/indexing.html#indexing-basics-indexing-isin"><span class="std std-ref">isin function</span></a>.</p>
+</div><ul class="task-bullet">
+    <li><p>I want to work with passenger data for which the age is known.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [20]: </span><span class="n">age_no_na</span> <span class="o">=</span> <span class="n">titanic</span><span class="p">[</span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">notna</span><span class="p">()]</span>
+
+<span class="gp">In [21]: </span><span class="n">age_no_na</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[21]: </span>
+<span class="go">   PassengerId  Survived  Pclass  ...     Fare Cabin  Embarked</span>
+<span class="go">0            1         0       3  ...   7.2500   NaN         S</span>
+<span class="go">1            2         1       1  ...  71.2833   C85         C</span>
+<span class="go">2            3         1       3  ...   7.9250   NaN         S</span>
+<span class="go">3            4         1       1  ...  53.1000  C123         S</span>
+<span class="go">4            5         0       3  ...   8.0500   NaN         S</span>
+
+<span class="go">[5 rows x 12 columns]</span>
+</pre></div>
+</div>
+<p>The <a class="reference internal" href="../../reference/api/pandas.Series.notna.html#pandas.Series.notna" title="pandas.Series.notna"><code class="xref py py-meth docutils literal notranslate"><span class="pre">notna()</span></code></a> conditional function returns a <code class="docutils literal notranslate"><span class="pre">True</span></code> for each row the
+values are not a <code class="docutils literal notranslate"><span class="pre">Null</span></code> value. As such, this can be combined with the
+selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code> to filter the data table.</p>
+    </li>
+</ul><p>You might wonder what actually changed, as the first 5 lines are still
+the same values. One way to verify is to check if the shape has changed:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [22]: </span><span class="n">age_no_na</span><span class="o">.</span><span class="n">shape</span>
+<span class="gh">Out[22]: </span><span class="go">(714, 12)</span>
+</pre></div>
+</div>
+<div class="d-flex flex-row gs-torefguide">
+    <span class="badge badge-info">To user guide</span><p>For more dedicated functions on missing values, see the user guide section about <a class="reference internal" href="../../user_guide/missing_data.html#missing-data"><span class="std std-ref">handling missing data</span></a>.</p>
+</div></section>
+<section id="how-do-i-select-specific-rows-and-columns-from-a-dataframe">
+<span id="min-tut-03-subset-rows-and-columns"></span><h2>How do I select specific rows and columns from a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?<a class="headerlink" href="#how-do-i-select-specific-rows-and-columns-from-a-dataframe" title="Link to this heading">#</a></h2>
+<img alt="../../_images/03_subset_columns_rows.svg" class="align-center" src="../../_images/03_subset_columns_rows.svg" />
+<ul class="task-bullet">
+    <li><p>I’m interested in the names of the passengers older than 35 years.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [23]: </span><span class="n">adult_names</span> <span class="o">=</span> <span class="n">titanic</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">titanic</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="mi">35</span><span class="p">,</span> <span class="s2">&quot;Name&quot;</span><span class="p">]</span>
+
+<span class="gp">In [24]: </span><span class="n">adult_names</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+<span class="gh">Out[24]: </span>
+<span class="go">1     Cumings, Mrs. John Bradley (Florence Briggs Th...</span>
+<span class="go">6                               McCarthy, Mr. Timothy J</span>
+<span class="go">11                              Bonnell, Miss Elizabeth</span>
+<span class="go">13                          Andersson, Mr. Anders Johan</span>
+<span class="go">15                     Hewlett, Mrs. (Mary D Kingcome) </span>
+<span class="go">Name: Name, dtype: str</span>
+</pre></div>
+</div>
+<p>In this case, a subset of both rows and columns is made in one go and
+just using selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code> is not sufficient anymore. The
+<code class="docutils literal notranslate"><span class="pre">loc</span></code>/<code class="docutils literal notranslate"><span class="pre">iloc</span></code> operators are required in front of the selection
+brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>. When using <code class="docutils literal notranslate"><span class="pre">loc</span></code>/<code class="docutils literal notranslate"><span class="pre">iloc</span></code>, the part before the comma
+is the rows you want, and the part after the comma is the columns you
+want to select.</p>
+    </li>
+</ul><p>When using column names, row labels or a condition expression, use
+the <code class="docutils literal notranslate"><span class="pre">loc</span></code> operator in front of the selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>. For both
+the part before and after the comma, you can use a single label, a list
+of labels, a slice of labels, a conditional expression or a colon. Using
+a colon specifies you want to select all rows or columns.</p>
+<ul class="task-bullet">
+    <li><p>I’m interested in rows 10 till 25 and columns 3 to 5.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [25]: </span><span class="n">titanic</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">9</span><span class="p">:</span><span class="mi">25</span><span class="p">,</span> <span class="mi">2</span><span class="p">:</span><span class="mi">5</span><span class="p">]</span>
+<span class="gh">Out[25]: </span>
+<span class="go">    Pclass                                 Name     Sex</span>
+<span class="go">9        2  Nasser, Mrs. Nicholas (Adele Achem)  female</span>
+<span class="go">10       3       Sandstrom, Miss Marguerite Rut  female</span>
+<span class="go">11       1              Bonnell, Miss Elizabeth  female</span>
+<span class="go">12       3       Saundercock, Mr. William Henry    male</span>
+<span class="go">13       3          Andersson, Mr. Anders Johan    male</span>
+<span class="go">..     ...                                  ...     ...</span>
+<span class="go">20       2                 Fynney, Mr. Joseph J    male</span>
+<span class="go">21       2                Beesley, Mr. Lawrence    male</span>
+<span class="go">22       3           McGowan, Miss Anna &quot;Annie&quot;  female</span>
+<span class="go">23       1         Sloper, Mr. William Thompson    male</span>
+<span class="go">24       3         Palsson, Miss Torborg Danira  female</span>
+
+<span class="go">[16 rows x 3 columns]</span>
+</pre></div>
+</div>
+<p>Again, a subset of both rows and columns is made in one go and just
+using selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code> is not sufficient anymore. When
+specifically interested in certain rows and/or columns based on their
+position in the table, use the <code class="docutils literal notranslate"><span class="pre">iloc</span></code> operator in front of the
+selection brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>.</p>
+    </li>
+</ul><p>When selecting specific rows and/or columns with <code class="docutils literal notranslate"><span class="pre">loc</span></code> or <code class="docutils literal notranslate"><span class="pre">iloc</span></code>,
+new values can be assigned to the selected data. For example, to assign
+the name <code class="docutils literal notranslate"><span class="pre">anonymous</span></code> to the first 3 elements of the fourth column:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [26]: </span><span class="n">titanic</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">3</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span> <span class="o">=</span> <span class="s2">&quot;anonymous&quot;</span>
+
+<span class="gp">In [27]: </span><span class="n">titanic</span><span class="o">.</span><span class="n">iloc</span><span class="p">[:</span><span class="mi">5</span><span class="p">,</span> <span class="mi">3</span><span class="p">]</span>
+<span class="gh">Out[27]: </span>
+<span class="go">0                                       anonymous</span>
+<span class="go">1                                       anonymous</span>
+<span class="go">2                                       anonymous</span>
+<span class="go">3    Futrelle, Mrs. Jacques Heath (Lily May Peel)</span>
+<span class="go">4                        Allen, Mr. William Henry</span>
+<span class="go">Name: Name, dtype: str</span>
+</pre></div>
+</div>
+<div class="d-flex flex-row gs-torefguide">
+    <span class="badge badge-info">To user guide</span><p>See the user guide section on <a class="reference internal" href="../../user_guide/indexing.html#indexing-choice"><span class="std std-ref">different choices for indexing</span></a> to get more insight into the usage of <code class="docutils literal notranslate"><span class="pre">loc</span></code> and <code class="docutils literal notranslate"><span class="pre">iloc</span></code>.</p>
+</div><div class="shadow gs-callout gs-callout-remember">
+    <h4>REMEMBER</h4><ul class="simple">
+<li><p>When selecting subsets of data, square brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code> are used.</p></li>
+<li><p>Inside these square brackets, you can use a single column/row label, a list
+of column/row labels, a slice of labels, a conditional expression or
+a colon.</p></li>
+<li><p>Use <code class="docutils literal notranslate"><span class="pre">loc</span></code> for label-based selection (using row/column names).</p></li>
+<li><p>Use <code class="docutils literal notranslate"><span class="pre">iloc</span></code> for position-based selection (using table positions).</p></li>
+<li><p>You can assign new values to a selection based on <code class="docutils literal notranslate"><span class="pre">loc</span></code>/<code class="docutils literal notranslate"><span class="pre">iloc</span></code>.</p></li>
+</ul>
+</div><div class="d-flex flex-row gs-torefguide">
+    <span class="badge badge-info">To user guide</span><p>A full overview of indexing is provided in the user guide pages on <a class="reference internal" href="../../user_guide/indexing.html#indexing"><span class="std std-ref">indexing and selecting data</span></a>.</p>
+</div></section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="02_read_write.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">How do I read and write tabular data?</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="04_plotting.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">How do I create plots in pandas?</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-do-i-select-specific-columns-from-a-dataframe">How do I select specific columns from a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-do-i-filter-specific-rows-from-a-dataframe">How do I filter specific rows from a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-do-i-select-specific-rows-and-columns-from-a-dataframe">How do I select specific rows and columns from a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <template></template>
+<template></template>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item"><p class="copyright">
+    &copy 2026, pandas via <a href="https://numfocus.org">NumFOCUS, Inc.</a> Hosted by <a href="https://www.ovhcloud.com">OVHcloud</a>.
+</p></div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 9.0.4.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

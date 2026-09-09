@@ -1,0 +1,1376 @@
+[
+  {
+    "node_index": 66,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 75,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 82,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "p",
+    "text": "https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-print-header__url"
+    }
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Publications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "What We Do All Topics Advanced communications Artificial intelligence Bioscience Buildings and construction Chemistry Cybersecurity and Privacy Electronics Energy Environment Fire Forensic science Health Information technology Infrastructure Manufacturing Materials Mathematics and statistics Metrology Nanotechnology Neutron research Performance excellence Physics Public safety Quantum information science Resilience Standards Transportation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "All Topics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "Advanced communications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "Artificial intelligence",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "Bioscience",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "Buildings and construction",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Chemistry",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "Cybersecurity and Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "Electronics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "Energy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 142,
+    "tag": "li",
+    "text": "Environment",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 144,
+    "tag": "li",
+    "text": "Fire",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Forensic science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Health",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Information technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Infrastructure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Manufacturing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Materials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Mathematics and statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "Metrology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Nanotechnology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "Neutron research",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "Performance excellence",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Physics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "Public safety",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Quantum information science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Resilience",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "Standards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "Transportation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 182,
+    "tag": "li",
+    "text": "Labs & Major Programs Laboratories Communications Technology Laboratory Engineering Laboratory Information Technology Laboratory Material Measurement Laboratory Physical Measurement Laboratory User Facilities NIST Center for Neutron Research CNST NanoFab Research Test Beds Research Projects Tools & Instruments Major Programs CHIPS for America Initiative Congressionally Identified Project Program (CIPP) Manufacturing Extension Partnership (MEP) Manufacturing USA Office of Advanced Manufacturing Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "Laboratories Communications Technology Laboratory Engineering Laboratory Information Technology Laboratory Material Measurement Laboratory Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Communications Technology Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "Engineering Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Information Technology Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Material Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "User Facilities NIST Center for Neutron Research CNST NanoFab",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 207,
+    "tag": "li",
+    "text": "NIST Center for Neutron Research",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "CNST NanoFab",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Research Test Beds",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Research Projects",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Tools & Instruments",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Major Programs CHIPS for America Initiative Congressionally Identified Project Program (CIPP) Manufacturing Extension Partnership (MEP) Manufacturing USA Office of Advanced Manufacturing Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "CHIPS for America Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Congressionally Identified Project Program (CIPP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 226,
+    "tag": "li",
+    "text": "Manufacturing Extension Partnership (MEP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Manufacturing USA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "Office of Advanced Manufacturing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "li",
+    "text": "Services & Resources Measurements and Standards Calibration Services Laboratory Accreditation (NVLAP) Quality System Standard Reference Materials (SRMs) Standard Reference Instruments (SRIs) Standards.gov Time Services Office of Weights and Measures Software Data Chemistry WebBook National Vulnerability Database Physical Reference Data Standard Reference Data (SRD) Storefront License & Patents Computer Security Resource Center (CSRC) NIST Research Library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "Measurements and Standards Calibration Services Laboratory Accreditation (NVLAP) Quality System Standard Reference Materials (SRMs) Standard Reference Instruments (SRIs) Standards.gov Time Services Office of Weights and Measures",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "Calibration Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Laboratory Accreditation (NVLAP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Quality System",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "Standard Reference Materials (SRMs)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "Standard Reference Instruments (SRIs)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "Standards.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "li",
+    "text": "Time Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "li",
+    "text": "Office of Weights and Measures",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "Software",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Data Chemistry WebBook National Vulnerability Database Physical Reference Data Standard Reference Data (SRD)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "Chemistry WebBook",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "National Vulnerability Database",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Physical Reference Data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Standard Reference Data (SRD)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "Storefront",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 277,
+    "tag": "li",
+    "text": "License & Patents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Computer Security Resource Center (CSRC)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 283,
+    "tag": "li",
+    "text": "NIST Research Library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "News & Events News Events Blogs NIST In Focus Feature Stories Awards Video Gallery Image Gallery Media Contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 294,
+    "tag": "li",
+    "text": "Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 296,
+    "tag": "li",
+    "text": "Blogs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "NIST In Focus",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 300,
+    "tag": "li",
+    "text": "Feature Stories",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Awards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 306,
+    "tag": "li",
+    "text": "Video Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 308,
+    "tag": "li",
+    "text": "Image Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Media Contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 312,
+    "tag": "li",
+    "text": "About NIST About Us Leadership Organization Structure Budget & Planning Contact Us Visit Careers Student programs Work with NIST History NIST Digital Archives NIST Museum NIST and the Nobel Educational Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "About Us Leadership Organization Structure Budget & Planning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 322,
+    "tag": "li",
+    "text": "Leadership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 324,
+    "tag": "li",
+    "text": "Organization Structure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 326,
+    "tag": "li",
+    "text": "Budget & Planning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 330,
+    "tag": "li",
+    "text": "Visit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Careers Student programs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "li",
+    "text": "Student programs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 339,
+    "tag": "li",
+    "text": "Work with NIST",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "History NIST Digital Archives NIST Museum NIST and the Nobel",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "NIST Digital Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 346,
+    "tag": "li",
+    "text": "NIST Museum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "NIST and the Nobel",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 362,
+    "tag": "h1",
+    "text": "New Atomic Fountain Clock Joins Elite Group That Keeps the World on Time",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-page__title"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "h2",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-social__title"
+    }
+  },
+  {
+    "node_index": 390,
+    "tag": "li",
+    "text": "NIST scientists have published results establishing a new atomic clock, NIST-F4, as one of the world’s most accurate timekeepers, priming the clock to be recognized as a primary frequency standard — the ultimate source of time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "li",
+    "text": "The NIST-F4 clock was carefully and painstakingly assembled and tested over the last few years.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 392,
+    "tag": "li",
+    "text": "By joining a small group of elite clocks run by a handful of countries, NIST-F4 makes the foundation of global time more stable and secure.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "figcaption",
+    "text": "NIST scientists Greg Hoth (left) and Vladislav Gerginov work on NIST-F4, NIST’s new cesium fountain clock. Credit: R. Eskalis/NIST",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-image__caption"
+    }
+  },
+  {
+    "node_index": 399,
+    "tag": "p",
+    "text": "NIST scientists Greg Hoth (left) and Vladislav Gerginov work on NIST-F4, NIST’s new cesium fountain clock.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 402,
+    "tag": "p",
+    "text": "Clocks on Earth are ticking a bit more regularly thanks to NIST-F4, a new atomic clock at the National Institute of Standards and Technology (NIST) campus in Boulder, Colorado.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 403,
+    "tag": "p",
+    "text": "This month, NIST researchers published a journal article establishing NIST-F4 as one of the world’s most accurate timekeepers. NIST has also submitted the clock for acceptance as a primary frequency standard by the International Bureau of Weights and Measures (BIPM), the body that oversees the world’s time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 405,
+    "tag": "p",
+    "text": "NIST-F4 measures an unchanging frequency in the heart of cesium atoms, the internationally agreed-upon basis for defining the second since 1967. The clock is based on a “fountain” design that represents the gold standard of accuracy in timekeeping. NIST-F4 ticks at such a steady rate that if it had started running 100 million years ago, when dinosaurs roamed, it would be off by less than a second today.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "p",
+    "text": "By joining a small group of similarly elite time pieces run by just 10 countries around the world, NIST-F4 makes the foundation of global time more stable and secure. At the same time, it is helping to steer the clocks NIST uses to keep official U.S. time. Distributed via radio and the internet, official U.S. time is critical for telecommunications and transportation systems, financial trading platforms, data center operations and more.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "p",
+    "text": "NIST-F4 has improved time signals that are “used literally billions of times each day for everything from setting clocks and watches to ensuring the accurate time stamping of hundreds of billions of dollars of electronic financial transactions,” said Liz Donley, chief of the Time and Frequency Division at NIST.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "figcaption",
+    "text": "NIST-F4 isn’t just a clock — it’s the culmination of decades of scientific ingenuity, engineering breakthroughs, and an unwavering pursuit of precision. In this video, we explore the creation of NIST-F4, the United States’ latest primary frequency standard, and how it redefines what it means to measure time with atomic accuracy. From unexpected flaws to groundbreaking redesigns, this is the story of how one of the most precise timekeeping instruments ever built came to be — and why it’s crucial for everything from global synchronization to tomorrow’s technologies. Because when it comes to time, every billionth of a second counts. Find out more: https://www.nist.gov/atomic-clocks",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-image__caption"
+    }
+  },
+  {
+    "node_index": 417,
+    "tag": "h2",
+    "text": "A Special Kind of Clock",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 418,
+    "tag": "p",
+    "text": "Cesium fountain clocks such as NIST-F4 are a type of atomic clock — a complex, high-precision device that extracts timing pulses from atoms. These clocks play a critical role in our globally connected society: They serve as “primary frequency standards” that work together to calibrate Coordinated Universal Time, or UTC (an agreed-upon system for keeping time using data from atomic clocks around the world, known as a time scale).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 420,
+    "tag": "p",
+    "text": "National measurement labs such as NIST produce and distribute versions of UTC using their own time scales; NIST’s version, for example, is known as UTC(NIST). Those national time scales are then used to synchronize the clocks and networks we rely on in our daily lives.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 422,
+    "tag": "p",
+    "text": "Read more about how global timekeeping works.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "In fountain clocks, a cloud of thousands of cesium atoms is first cooled to near absolute zero using lasers. Then, a pair of laser beams toss the atoms gently upward, after which they fall under their own weight.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 425,
+    "tag": "p",
+    "text": "During their journey, the atoms pass twice through a small chamber full of microwave radiation. The first time, as the atoms are on their way up, the microwaves put the atoms into a quantum state that cycles in time at a special frequency known as the cesium resonant frequency — an unchanging constant set by the laws of nature.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 426,
+    "tag": "p",
+    "text": "About one second later, as the atoms fall back down, a second interaction between the microwaves and the atoms reveals how close the clock’s microwave frequency is to the atoms’ natural resonant frequency. This measurement is used to tune the microwave frequency toward the atomic resonance frequency.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 427,
+    "tag": "p",
+    "text": "A detector then counts 9,192,631,770 wave cycles of the fine-tuned microwaves. The time it takes to count those cycles defines the official international second.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 428,
+    "tag": "p",
+    "text": "(That may change as early as 2030, when nations plan to consider redefining the second in terms of one or more different atomic elements used in so-called optical clocks that can measure time even more precisely than fountain clocks can. Even after that, cesium fountain clocks will still play an important, though diminished, role in timekeeping.)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 437,
+    "tag": "figcaption",
+    "text": "Meet NIST-F4, NIST's newest fountain clock and our nation's primary standard for the measurement of a second. It's used to calibrate the hydrogen maser clocks that determine U.S. standard time. In this animation we explain the intricacies of how it works.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-image__caption"
+    }
+  },
+  {
+    "node_index": 439,
+    "tag": "p",
+    "text": "Read a longer explanation of how fountain clocks work.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 441,
+    "tag": "h2",
+    "text": "A Journey Years in the Making",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 442,
+    "tag": "p",
+    "text": "Fewer than 20 cesium fountains are operating anywhere in the world. Unlike commercially available atomic clocks that tick off seconds for internet data centers, stock markets and other private enterprises, nearly every fountain clock is built and operated by scientists in a national measurement lab such as NIST.“It’s a beautiful technology that has real performance advantages, but it’s very delicate,” said Greg Hoth, a NIST physicist on the fountain clock team.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 444,
+    "tag": "p",
+    "text": "Getting NIST-F4 admitted into this rarefied club was a journey years in the making. NIST scientists built the agency’s first fountain clock, NIST-F1, in the late 1990s. NIST-F1 ran for more than a decade and a half and was used to perform regular frequency calibrations. But fountain clocks can be as fragile as they are precise, and after a move to a new building in 2016, the clock had to be restored and carefully tested to operate as a primary frequency standard again — a process that took longer than expected.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 446,
+    "tag": "p",
+    "text": "In 2020, physicist Vladislav Gerginov began investigating NIST-F1’s frequency measurements. Eventually, he, Hoth and colleagues decided to rebuild the core of the clock — the microwave cavity, where the cesium atoms are measured — from scratch. To achieve the necessary precision, they needed to achieve tolerances of 5 to 10 microns — roughly one-fifth the width of a human hair.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 448,
+    "tag": "p",
+    "text": "The scientists added and fine-tuned new electric heating coils, magnetic coils, optics and microwave components. The NIST team decided to name the new fountain NIST-F4. (NIST has built two other fountain clocks, NIST-F2 and NIST-F3, making NIST-F4 the fourth in the series.)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 450,
+    "tag": "p",
+    "text": "Read more about the process of building NIST-F4.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 452,
+    "tag": "p",
+    "text": "The research team took months’ worth of measurements to make sure NIST-F4 was not thrown off by factors such as pressure and temperature fluctuations or stray electric and magnetic fields. They compared the fountain’s ticks to those of hydrogen masers — the workhorse atomic clocks that tick off the seconds for official U.S. time — to make sure they were keeping a steady, unchanging beat.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "p",
+    "text": "“Fountain clocks are supposed to be very boring,” said Hoth.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 454,
+    "tag": "p",
+    "text": "Evaluating a fountain clock such as NIST-F4 “is a slow process because we have to be very conservative,” said Gerginov. “We should know everything about it” before putting it into service, he said, because any error in the timing signals could corrupt not only U.S. time but also the global timekeeping infrastructure.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 455,
+    "tag": "p",
+    "text": "This month, the NIST team reported in the journal Metrologia that NIST-F4’s frequency measurements were accurate to within 2.2 parts in 10 to the 16th (10 million billion) — comparable to the world’s best fountain clocks. The NIST team also sent the clock data to the BIPM, where a team of experts is checking it over before BIPM officially certifies the clock as a primary frequency standard.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 458,
+    "tag": "p",
+    "text": "“The success of NIST-F4 has renewed NIST’s global leadership in primary frequency standards,” said Donley. “Vladi and Greg used ingenuity and skill to restore the reliable, world-class operation of NIST’s atomic fountains.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 459,
+    "tag": "p",
+    "text": "NIST-F4 and a second fountain clock, NIST-F3, operate roughly 90% of the time, with at least one of the clocks running at any given time. Data from NIST-F4 will be sent periodically to BIPM to calibrate UTC, and both clocks are already helping to steer the NIST time scale UTC(NIST).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "p",
+    "text": "The NIST time scale “has already benefited significantly from the fountain’s high uptime and the reliability of its performance,” Donley said.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 462,
+    "tag": "p",
+    "text": "Read more about NIST’s fountain clocks.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 465,
+    "tag": "p",
+    "text": "Paper: Vladislav Gerginov, Gregory W. Hoth, Thomas P. Heavner, Thomas E. Parker, Kurt Gibble and Jeff A. Sherman. Accuracy evaluation of primary frequency standard NIST-F4. Metrologia. Published online April 15, 2025. DOI: 10.1088/1681-7575/adc7bd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 468,
+    "tag": "p",
+    "text": "B-roll footage for news media is available here.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 480,
+    "tag": "h2",
+    "text": "Media Contact",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 484,
+    "tag": "li",
+    "text": "Rich Press [email protected] (301) 975-0501",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "/people/rich-press",
+      "class": "nist-contact__item"
+    }
+  },
+  {
+    "node_index": 492,
+    "tag": "h2",
+    "text": "NIST in your inbox",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 503,
+    "tag": "h2",
+    "text": "Learn More",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 511,
+    "tag": "h2",
+    "text": "Organizations",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 517,
+    "tag": "li",
+    "text": "NIST Headquarters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 519,
+    "tag": "li",
+    "text": "Laboratory ProgramsPhysical Measurement LaboratoryTime and Frequency DivisionTime Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 521,
+    "tag": "li",
+    "text": "Laboratory Programs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 523,
+    "tag": "li",
+    "text": "Physical Measurement LaboratoryTime and Frequency DivisionTime Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 525,
+    "tag": "li",
+    "text": "Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 527,
+    "tag": "li",
+    "text": "Time and Frequency DivisionTime Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 529,
+    "tag": "li",
+    "text": "Time and Frequency Division",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 531,
+    "tag": "li",
+    "text": "Time Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 533,
+    "tag": "li",
+    "text": "Time Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 554,
+    "tag": "h3",
+    "text": "HEADQUARTERS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__contact-heading"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "p",
+    "text": "Webmaster | Contact Us | Our Other Offices",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 586,
+    "tag": "li",
+    "text": "Site Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 588,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 590,
+    "tag": "li",
+    "text": "Privacy Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 592,
+    "tag": "li",
+    "text": "Copyright & Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 594,
+    "tag": "li",
+    "text": "Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 596,
+    "tag": "li",
+    "text": "No Fear Act Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 598,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 600,
+    "tag": "li",
+    "text": "Environmental Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 602,
+    "tag": "li",
+    "text": "Scientific Integrity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 604,
+    "tag": "li",
+    "text": "Information Quality Standards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 606,
+    "tag": "li",
+    "text": "Commerce.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 608,
+    "tag": "li",
+    "text": "Science.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 610,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 612,
+    "tag": "li",
+    "text": "Vote.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  }
+]

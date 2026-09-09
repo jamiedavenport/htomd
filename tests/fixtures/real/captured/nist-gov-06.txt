@@ -1,0 +1,55 @@
+![Color-enhanced photo of Mars shows the planet with patches of orange and brown.](https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2025/11/24/PIA02000~orig.jpg?itok=-2OJtfnp)
+
+This image from the Mars Global Surveyor Mars Orbiter Camera shows the region Ares Vallis and the Chryse Plains, where both early Mars missions, Mars Pathfinder and the Viking 1, landed in 1997 and 1976, respectively. As scientists plan for future Mars missions, they need to understand how time passes on Mars to better synchronize communications with rovers on the red planet.
+
+Credit: NASA/JPL/MSSS
+
+Ask someone on Earth for the time and they can give you an exact answer, thanks to our planet’s intricate timekeeping system, built with atomic clocks, GPS satellites and high-speed telecommunications networks.
+
+However, Einstein showed us that clocks don’t tick at the same rate across the universe. Clocks will run slightly faster or slower depending on the strength of gravity in their environment, making it tricky to synchronize our watches here on Earth, let alone across the vast solar system. If humans want to establish a long-term presence on the red planet, scientists need to know: What time is it on Mars?
+
+Physicists at the National Institute of Standards and Technology (NIST) have calculated a precise answer for the first time. On average, clocks on Mars will tick 477 microseconds (millionths of a second) faster than on Earth per day. However, Mars’ eccentric orbit and the gravity from its celestial neighbors can increase or decrease this amount by as much as 226 microseconds a day over the course of the Martian year. These findings, just published in [*The Astronomical Journal*](https://iopscience.iop.org/article/10.3847/1538-3881/ae0c16)*,* follow a 2024 paper in which NIST physicists developed a plan for [precise timekeeping on the Moon](https://www.nist.gov/news-events/news/2024/08/what-time-it-moon).
+
+Knowing how clocks will tick on Mars is a steppingstone for future space missions, said NIST physicist Bijunath Patla. As NASA plans [Mars exploration missions](https://science.nasa.gov/planetary-science/programs/mars-exploration/), understanding time on our planetary neighbor will help synchronize navigation and communication across our solar system.
+
+“The time is just right for the Moon and Mars,” Patla said. “This is the closest we have been to realizing the science fiction vision of expanding across the solar system.”
+
+## Mars Time Zone
+
+Martian days and years are longer than those on Earth. The planet’s day, or full rotation on its axis, is 40 minutes longer than Earth’s, and it takes 687 days to complete its orbit around the Sun, compared with Earth’s 365 days. But scientists needed to know how fast or slow each second passes on Mars compared with Earth.
+
+If you were to land on the surface of Mars with an atomic clock, it would still tick the same way it would on Earth. But if you compare the Mars clock with one on Earth, they will be out of sync. The challenge is to determine how much Mars’ time is offset from Earth’s, almost like calculating a time-zone difference.
+
+That was much trickier than NIST physicists had expected. Einstein’s theory of relativity states that the strength of gravity affects the passage of time. Clocks tick slower where gravity is stronger, and faster where gravity is weaker. The velocity of a planet’s orbit will also cause clocks to tick slower or faster.
+
+NIST chose a point on the Martian surface to act as a reference, sort of like sea level at the equator on Earth. Thanks to years of data collected from Mars missions, Patla and fellow NIST physicist Neil Ashby could estimate gravity on the surface of the planet, which is five times weaker than Earth’s.
+
+But they needed to figure in more than just Mars’ gravity. Our solar system has other massive bodies that pull on each other. The Sun alone accounts for more than 99% of the mass in our solar system. Mars’ position in the solar system — its distance from the Sun, its neighbors like Earth, the Moon, Jupiter and Saturn — pulls it into a more eccentric, elongated orbit. The Earth’s and Moon’s orbits are relatively constant; time on the Moon is consistently 56 microseconds faster than time on Earth.
+
+“But for Mars, that’s not the case. Its distance from the Sun and its eccentric orbit make the variations in time larger. A three-body problem is extremely complicated. Now we’re dealing with four: the Sun, Earth, the Moon and Mars,” Patla explained. “The heavy lifting was more challenging than I initially thought.”
+
+After taking all these effects into consideration — Martian surface gravity, Mars’ eccentric orbit, the effect of the Sun, the Earth and the Moon on Mars — Patla and Ashby arrived at their answer.
+
+## Paving the Way for Solar System Internet
+
+Maybe 477 millionths of a second doesn’t sound like a lot — it’s about a thousandth of the time it takes to blink. But accounting for tiny time differences is key to developing communications networks. 5G networks, for example, need to be accurate to within a tenth of a microsecond.
+
+Right now, communications between Earth and Mars are delayed anywhere from four to 24 minutes (sometimes more). It’s almost like pre-telegram communications, Patla explained: People delivered handwritten letters to a ship, which crossed the ocean, and then waited weeks or months for another ship to deliver the reply.
+
+Having a framework for timing between planets paves the way toward creating synchronized networks across vast distances.
+
+*“The time is just right for the Moon and Mars. This is the closest we have been to realizing the science fiction vision of expanding across the solar system.” — Bijunath Patla, NIST physicist*
+
+“If you get synchronization, it will be almost like real-time communication without any loss of information. You don’t have to wait to see what happens,” Patla said.
+
+Those networks are a long way from reality; so are long-term human and robotic Mars missions, Ashby pointed out. Studying these issues helps scientists prepare for all the variables they will encounter.
+
+“It may be decades before the surface of Mars is covered by the tracks of wandering rovers, but it is useful now to study the issues involved in establishing navigation systems on other planets and moons,” Ashby said. “Like current global navigation systems like GPS, these systems will depend on accurate clocks, and the effects on clock rates can be analyzed with the help of Einstein’s general theory of relativity.”
+
+There is also scientific value to this knowledge, Patla added. Understanding how clocks will tick on far-flung planets is new information and builds on Einstein’s theories of special and general relativity.
+
+“It's good to know for the first time what is happening on Mars timewise. Nobody knew that before. It improves our knowledge of the theory itself, the theory of how clocks tick and relativity,” he said. “The passage of time is fundamental to the theory of relativity: how you realize it, how you calculate it, and what influences it. These may seem like simple concepts, but they can be quite complicated to calculate.”
+
+---
+
+Paper: Neil Ashby and Bijunath R. Patla. A Comparative Study of Time on Mars with Lunar and Terrestrial Clocks. *The Astronomical Journal.* Published online Dec. 1, 2025. DOI: [10.3847/1538-3881/ae0c16](https://doi.org/10.3847/1538-3881/ae0c16)

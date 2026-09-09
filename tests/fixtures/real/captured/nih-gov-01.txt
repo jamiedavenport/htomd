@@ -1,0 +1,81 @@
+April 8, 2024
+
+# What Is Genetics?
+
+By [Abbey Bigler](https://www.nigms.nih.gov/blog-author/abbey-bigler?type%5B%5D=biobeat_post)
+
+This post is the first in our miniseries on genetics. Be sure to check out the [other posts in this series.](https://www.nigms.nih.gov/biobeat/tag/genetics-miniseries/)
+
+ 
+
+[Genetics](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#130) is the study of [genes](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#127) and heredity—how traits are passed from parents to children through [DNA](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#106). A gene is a segment of DNA that contains instructions for building one or more [molecules](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#196) that help the body work. Researchers estimate that humans have about 20,000 genes, which account for about 1 percent of our DNA. The remainder of the DNA plays a role in regulating genes, and scientists are researching other potential functions.
+
+    
+
+**DNA Details**
+
+ 
+
+![On the left, a cell contains a nucleus, which has chromosomes inside. On the right, a chromosome is unraveled into a strand of DNA, a segment of which is identified as a gene.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/04/BioBeat-MM-4.8.2024-1.jpg)
+
+Credit: NIGMS.
+
+ 
+
+DNA is shaped like a twisted ladder, called a double helix. The two ladder rails are called backbones, and the rungs are pairs of four building blocks (adenine, thymine, guanine, and cytosine) called bases. The sequence of these bases provides the instructions for building molecules. The number of bases in a human gene varies from about 1,000 to 1 million.
+
+ 
+
+Nearly all the cells in our bodies contain a full copy of our DNA, and it’s stored in a structure called the [nucleus](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#25). To enable DNA to fit inside the nucleus, it’s tightly wrapped around spool-like [proteins](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#49) called [histones](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#141) to form [chromosomes](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#174). People typically have 23 pairs of chromosomes. The two chromosomes in each pair contain the same genes, but they may have different [variants](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#240) of those genes, in part because we generally inherit one chromosome in each pair from each parent.
+
+ 
+
+**Variation and Health**
+
+ 
+
+Most of your DNA is the same as that of everyone around you, but there are small genetic differences, or variants, among people that make us unique. Many variants in DNA are harmless, but some can negatively impact health by, for example, causing a protein to be shaped incorrectly so that it can’t do its job. Specific gene variants can also influence how a person responds to certain [medicines](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#252) or affect their likelihood of developing a disease. Because parents pass their genes to their children, some diseases tend to cluster in families, similar to other inherited traits.
+
+ 
+
+Some [variation](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#241) in DNA among individuals results from [epigenetic](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#119) differences. Certain molecular tags attached to either the DNA or histones cause these differences. Epigenetic tags don’t change the sequence of bases, but they can turn genes on or off. Lifestyle and environmental factors, such as smoking and infectious diseases, can cause epigenetic changes. In some rare cases, these changes can be inherited.
+
+ 
+
+**Clarifying Terms**
+
+ 
+
+In addition to genetics, you might have come across the term [*genomics*](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#132). These two fields are interconnected. Genomics is typically defined as the study of all of a person’s genes, also known as their [genome](https://www.nigms.nih.gov/biobeat/2024/04/what-is-genetics#131). In contrast to genetics, genomics doesn’t emphasize heredity. Instead, it focuses on topics such as genes’ interactions with each other and with the environment.
+
+ 
+
+Researchers studying genetics and genomics play an important role in helping us understand human health and disease by shedding light on our bodies’ blueprints.
+
+ 
+
+![](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2022/08/educators-corner-logo-large-margin.png)
+
+Find the teaching activity that corresponds with this post in our [Educator's Corner](https://www.nigms.nih.gov/biobeat/educators-corner/?issue=9#what-is-genetics).
+
+topic  [Genes](https://www.nigms.nih.gov/biobeat/category/genes)
+
+tag  [Common questions](https://www.nigms.nih.gov/biobeat/tag/common-questions) , [DNA](https://www.nigms.nih.gov/biobeat/tag/dna) , [Genes](https://www.nigms.nih.gov/biobeat/tag/genes) , [Genetics Miniseries](https://www.nigms.nih.gov/biobeat/tag/genetics-miniseries) , [Genomics](https://www.nigms.nih.gov/biobeat/tag/genomics)
+
+---
+
+## About the Author
+
+![Abbey Bigler-Coyne](https://www.nigms.nih.gov/sites/nigms/files/headshots/AbbeyBigler_photo-002.png)
+
+### [Abbey Bigler](https://www.nigms.nih.gov/blog-author/abbey-bigler?type%5B%5D=biobeat_post)
+
+Abbey is a science writer who enjoys making important biological science and public health information accessible to everyone.
+
+---
+
+**PREVIOUS**  
+ [arrow\_back  In Other Words: What Being Unionized Means for Molecules](https://www.nigms.nih.gov/biobeat/2024/04/in-other-words-what-being-unionized-means-for-molecules)
+
+**NEXT**  
+ [arrow\_forward  Martin Burke: Replacing Lost Proteins to Treat Disease](https://www.nigms.nih.gov/biobeat/2024/04/martin-burke-replacing-lost-proteins-to-treat-disease)

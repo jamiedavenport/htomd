@@ -1,0 +1,473 @@
+[
+  {
+    "node_index": 47,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 48,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 56,
+    "tag": "p",
+    "text": "Official websites use .govA .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 63,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPSA lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Skip to global NPS navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "Skip to this park navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Skip to the main content",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Skip to this park information section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "Skip to the footer section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 119,
+    "tag": "h2",
+    "text": "Explore This Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--green",
+      "hidden": ""
+    }
+  },
+  {
+    "node_index": 121,
+    "tag": "h2",
+    "text": "Explore the National Park Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--blue"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "h2",
+    "text": "Exiting nps.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "modal-title visually-hidden",
+      "id": "exitModalLabel"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Alerts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 163,
+    "tag": "li",
+    "text": "Maps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 165,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Fees",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "h1",
+    "text": "Hot Springs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "page-title"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "td",
+    "text": "Emerald Pool is one of many colorful hot springs in Yellowstone National Park. NPS / Jim Peaco Water temperatures within some springs exceed the boiling point. The intense blue color of some springs results when sunlight passes into their deep, clear waters. Blue, a color visible in light, is scattered the most and the color we see. NPS Hot springs are the most common hydrothermal features in Yellowstone. Beginning as precipitation, the water of a hot spring seeps through the bedrock underlying Yellowstone and becomes superheated at depth. An open plumbing system allows the hot water to rise back to the surface unimpeded. Convection currents constantly circulate the water, preventing it from getting hot enough to trigger an eruption. At times, fierce, boiling waters within a hot spring (such as Crested Pool) can explode, shooting water into the air, acting much like a geyser. It is believed, however, that in the case of Crested Pool, no constrictions block the flow of water to the surface. The spring's wide mouth and 42-foot depth provide a natural conduit for superheated water to circulate continuously to the surface. Hot Springs Colors Many of the bright colors found in Yellowsto",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cs_idCell2x1x1",
+      "class": "CS_Layout_TD"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "figcaption",
+    "text": "Emerald Pool is one of many colorful hot springs in Yellowstone National Park. NPS / Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 212,
+    "tag": "p",
+    "text": "NPS / Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 221,
+    "tag": "figcaption",
+    "text": "Water temperatures within some springs exceed the boiling point. The intense blue color of some springs results when sunlight passes into their deep, clear waters. Blue, a color visible in light, is scattered the most and the color we see. NPS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "p",
+    "text": "NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 223,
+    "tag": "p",
+    "text": "Hot springs are the most common hydrothermal features in Yellowstone. Beginning as precipitation, the water of a hot spring seeps through the bedrock underlying Yellowstone and becomes superheated at depth. An open plumbing system allows the hot water to rise back to the surface unimpeded. Convection currents constantly circulate the water, preventing it from getting hot enough to trigger an eruption.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "p",
+    "text": "At times, fierce, boiling waters within a hot spring (such as Crested Pool) can explode, shooting water into the air, acting much like a geyser. It is believed, however, that in the case of Crested Pool, no constrictions block the flow of water to the surface. The spring's wide mouth and 42-foot depth provide a natural conduit for superheated water to circulate continuously to the surface.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 226,
+    "tag": "h2",
+    "text": "Hot Springs Colors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "p",
+    "text": "Many of the bright colors found in Yellowstone's hydrothermal basins come from thermophiles—microorganisms that thrive in hot temperatures. So many individual microorganisms are grouped together—trillions!—that they appear as masses of color.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "p",
+    "text": "Different types of thermophiles live at different temperatures within a hot spring and cannot tolerate much cooler or warmer conditions. Yellowstone's hot water systems often show distinct gradations of living, vibrant colors where the temperature limit of one group of microbes is reached, only to be replaced by a different set of thermophiles.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "p",
+    "text": "More Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "section_title"
+    }
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "Listen to Ear Spring: Yellowstone Sound Library",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Inside Yellowstone Videos about Hydrothermal Features: Watch videos that tell the story of microorganisms that thrive in hot water.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "West Thumb Geyser Basin: Located on the edge of Yellowstone Lake with many hot springs pools.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "p",
+    "text": "Yellowstone's hydrothermal systems are the visible expression of the immense Yellowstone volcano.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 260,
+    "tag": "p",
+    "text": "Hydrothermal features are habitats for microscopic organisms called thermophiles: \"thermo\" for heat, \"phile\" for lover.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 266,
+    "tag": "p",
+    "text": "Last updated: April 18, 2025",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:right;"
+    }
+  },
+  {
+    "node_index": 268,
+    "tag": "h2",
+    "text": "Park footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 273,
+    "tag": "h3",
+    "text": "Contact Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 278,
+    "tag": "p",
+    "text": "PO Box 168 Yellowstone National Park, WY 82190-0168",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "adr"
+    }
+  },
+  {
+    "node_index": 285,
+    "tag": "p",
+    "text": "307-344-7381",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 293,
+    "tag": "h3",
+    "text": "Tools",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "Site Index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 301,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 306,
+    "tag": "h3",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 320,
+    "tag": "li",
+    "text": "This Site",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 322,
+    "tag": "li",
+    "text": "All NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 330,
+    "tag": "p",
+    "text": "Download the NPS app to navigate the parks on the go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 366,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 372,
+    "tag": "li",
+    "text": "Notices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 374,
+    "tag": "li",
+    "text": "Contact Yellowstone National Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 376,
+    "tag": "li",
+    "text": "NPS FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 378,
+    "tag": "li",
+    "text": "No Fear Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 380,
+    "tag": "li",
+    "text": "Disclaimer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 382,
+    "tag": "li",
+    "text": "Vulnerability Disclosure Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 384,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 386,
+    "tag": "li",
+    "text": "Office of Civil Rights",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  }
+]

@@ -1,0 +1,949 @@
+[
+  {
+    "node_index": 36,
+    "tag": "li",
+    "text": "Why Go arrow_drop_down Press Enter to activate/deactivate dropdown Case Studies Common problems companies solve with Go Use Cases Stories about how and why companies use Go Security How Go can help keep you secure by default",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 41,
+    "tag": "li",
+    "text": "Case Studies Common problems companies solve with Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 44,
+    "tag": "p",
+    "text": "Common problems companies solve with Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 45,
+    "tag": "li",
+    "text": "Use Cases Stories about how and why companies use Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 48,
+    "tag": "p",
+    "text": "Stories about how and why companies use Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Security How Go can help keep you secure by default",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 52,
+    "tag": "p",
+    "text": "How Go can help keep you secure by default",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 53,
+    "tag": "li",
+    "text": "Learn Press Enter to activate/deactivate dropdown",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 56,
+    "tag": "li",
+    "text": "Docs arrow_drop_down Press Enter to activate/deactivate dropdown Go Spec The official Go language specification Go User Manual A complete introduction to building software with Go Standard library Reference documentation for Go's standard library Release Notes Learn what's new in each Go release Effective Go Tips for writing clear, performant, and idiomatic Go code",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem  Header-menuItem--active"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Go Spec The official Go language specification",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "p",
+    "text": "The official Go language specification",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Go User Manual A complete introduction to building software with Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 68,
+    "tag": "p",
+    "text": "A complete introduction to building software with Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Standard library Reference documentation for Go's standard library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 72,
+    "tag": "p",
+    "text": "Reference documentation for Go's standard library",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Release Notes Learn what's new in each Go release",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "p",
+    "text": "Learn what's new in each Go release",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Effective Go Tips for writing clear, performant, and idiomatic Go code",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "p",
+    "text": "Tips for writing clear, performant, and idiomatic Go code",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "Packages Press Enter to activate/deactivate dropdown",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "Community arrow_drop_down Press Enter to activate/deactivate dropdown Recorded Talks Videos from prior events Meetups open_in_new Meet other local Go developers Conferences open_in_new Learn and network with Go developers from around the world Go blog The Go project's official blog. Go project Get help and stay informed from Go Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Recorded Talks Videos from prior events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "p",
+    "text": "Videos from prior events",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 93,
+    "tag": "li",
+    "text": "Meetups open_in_new Meet other local Go developers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 97,
+    "tag": "p",
+    "text": "Meet other local Go developers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "Conferences open_in_new Learn and network with Go developers from around the world",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 102,
+    "tag": "p",
+    "text": "Learn and network with Go developers from around the world",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Go blog The Go project's official blog.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 106,
+    "tag": "p",
+    "text": "The Go project's official blog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Go project Get help and stay informed from Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 110,
+    "tag": "p",
+    "text": "Get help and stay informed from Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "Why Go navigate_next navigate_beforeWhy Go Case Studies Use Cases Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem js-mobile-subnav-trigger  NavigationDrawer-hasSubnav"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Case Studies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Use Cases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Learn",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem "
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Docs navigate_next navigate_beforeDocs Go Spec Go User Manual Standard library Release Notes Effective Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem js-mobile-subnav-trigger  NavigationDrawer-listItem--active NavigationDrawer-hasSubnav"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "Go Spec",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "Go User Manual",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Standard library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "Release Notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Effective Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Packages",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem "
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "Community navigate_next navigate_beforeCommunity Recorded Talks Meetups open_in_new Conferences open_in_new Go blog Go project Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem js-mobile-subnav-trigger  NavigationDrawer-hasSubnav"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "Recorded Talks",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "Meetups open_in_new",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "Conferences open_in_new",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Go blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Go project",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "BreadcrumbNav-li "
+    }
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "Tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "BreadcrumbNav-li "
+    }
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Tutorial: Get started with Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "BreadcrumbNav-li active"
+    }
+  },
+  {
+    "node_index": 229,
+    "tag": "h1",
+    "text": "Tutorial: Get started with Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "p",
+    "text": "In this tutorial, you'll get a brief introduction to Go programming. Along the way, you will:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "Install Go (if you haven't already).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "li",
+    "text": "Write some simple \"Hello, world\" code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "Use the go command to run your code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Use the Go package discovery tool to find packages you can use in your own code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "Call functions of an external module.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "h2",
+    "text": "Prerequisites",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "prerequisites"
+    }
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "Some programming experience. The code here is pretty simple, but it helps to know something about functions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "A tool to edit your code. Any text editor you have will work fine. Most text editors have good support for Go. The most popular are VSCode (free), GoLand (paid), and Vim (free).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "A command terminal. Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "h2",
+    "text": "Install Go",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "install"
+    }
+  },
+  {
+    "node_index": 251,
+    "tag": "p",
+    "text": "Just use the Download and install steps.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "h2",
+    "text": "Write some code",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "code"
+    }
+  },
+  {
+    "node_index": 254,
+    "tag": "p",
+    "text": "Get started with Hello, World.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "li",
+    "text": "Open a command prompt and cd to your home directory. On Linux or Mac: cd On Windows: cd %HOMEPATH%",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "p",
+    "text": "On Linux or Mac:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "pre",
+    "text": "cd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "p",
+    "text": "On Windows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "pre",
+    "text": "cd %HOMEPATH%",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "li",
+    "text": "Create a hello directory for your first Go source code. For example, use the following commands: mkdir hello cd hello",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "p",
+    "text": "For example, use the following commands:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "pre",
+    "text": "mkdir hello cd hello",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Enable dependency tracking for your code. When your code imports packages contained in other modules, you manage those dependencies through your code's own module. That module is defined by a go.mod file that tracks the modules that provide those packages. That go.mod file stays with your code, including in your source code repository. To enable dependency tracking for your code by creating a go.mod file, run the go mod init command, giving it the name of the module your code will be in. The name is the module's module path. In actual development, the module path will typically be the repository location where your source code will be kept. For example, the module path might be github.com/mymodule. If you plan to publish your module for others to use, the module path must be a location from which Go tools can download your module. For more about naming a module with a module path, see Managing dependencies. For the purposes of this tutorial, just use example/hello. $ go mod init example/hello go: creating new go.mod: module example/hello",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 265,
+    "tag": "p",
+    "text": "When your code imports packages contained in other modules, you manage those dependencies through your code's own module. That module is defined by a go.mod file that tracks the modules that provide those packages. That go.mod file stays with your code, including in your source code repository.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 266,
+    "tag": "p",
+    "text": "To enable dependency tracking for your code by creating a go.mod file, run the go mod init command, giving it the name of the module your code will be in. The name is the module's module path.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "p",
+    "text": "In actual development, the module path will typically be the repository location where your source code will be kept. For example, the module path might be github.com/mymodule. If you plan to publish your module for others to use, the module path must be a location from which Go tools can download your module. For more about naming a module with a module path, see Managing dependencies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "p",
+    "text": "For the purposes of this tutorial, just use example/hello.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "pre",
+    "text": "$ go mod init example/hello go: creating new go.mod: module example/hello",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "In your text editor, create a file hello.go in which to write your code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 277,
+    "tag": "p",
+    "text": "In your text editor, create a file hello.go in which to write your code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "Paste the following code into your hello.go file and save the file. package main import \"fmt\" func main() { fmt.Println(\"Hello, World!\") } This is your Go code. In this code, you: Declare a main package (a package is a way to group functions, and it's made up of all the files in the same directory). Import the popular fmt package, which contains functions for formatting text, including printing to the console. This package is one of the standard library packages you got when you installed Go. Implement a main function to print a message to the console. A main function executes by default when you run the main package.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 279,
+    "tag": "p",
+    "text": "Paste the following code into your hello.go file and save the file.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "pre",
+    "text": "package main import \"fmt\" func main() { fmt.Println(\"Hello, World!\") }",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "p",
+    "text": "This is your Go code. In this code, you:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 283,
+    "tag": "li",
+    "text": "Declare a main package (a package is a way to group functions, and it's made up of all the files in the same directory).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "Import the popular fmt package, which contains functions for formatting text, including printing to the console. This package is one of the standard library packages you got when you installed Go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "li",
+    "text": "Implement a main function to print a message to the console. A main function executes by default when you run the main package.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 293,
+    "tag": "li",
+    "text": "Run your code to see the greeting. $ go run . Hello, World! The go run command is one of many go commands you'll use to get things done with Go. Use the following command to get a list of the others: $ go help",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 294,
+    "tag": "p",
+    "text": "Run your code to see the greeting.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "pre",
+    "text": "$ go run . Hello, World!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "p",
+    "text": "The go run command is one of many go commands you'll use to get things done with Go. Use the following command to get a list of the others:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 300,
+    "tag": "pre",
+    "text": "$ go help",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 301,
+    "tag": "h2",
+    "text": "Call code in an external package",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "call"
+    }
+  },
+  {
+    "node_index": 302,
+    "tag": "p",
+    "text": "When you need your code to do something that might have been implemented by someone else, you can look for a package that has functions you can use in your code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Make your printed message a little more interesting with a function from an external module. Visit pkg.go.dev and search for a \"quote\" package. In the search results, locate and click on the v1 of the rsc.io/quote package (it should be listed with the \"Other major versions\" of rsc.io/quote/v4). In the Documentation section, under Index, note the list of functions you can call from your code. You'll use the Go function. At the top of this page, note that package quote is included in the rsc.io/quote module. You can use the pkg.go.dev site to find published modules whose packages have functions you can use in your own code. Packages are published in modules -- like rsc.io/quote -- where others can use them. Modules are improved with new versions over time, and you can upgrade your code to use the improved versions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "li",
+    "text": "Visit pkg.go.dev and search for a \"quote\" package.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 308,
+    "tag": "li",
+    "text": "In the search results, locate and click on the v1 of the rsc.io/quote package (it should be listed with the \"Other major versions\" of rsc.io/quote/v4).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "li",
+    "text": "In the Documentation section, under Index, note the list of functions you can call from your code. You'll use the Go function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 315,
+    "tag": "li",
+    "text": "At the top of this page, note that package quote is included in the rsc.io/quote module.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 318,
+    "tag": "p",
+    "text": "You can use the pkg.go.dev site to find published modules whose packages have functions you can use in your own code. Packages are published in modules -- like rsc.io/quote -- where others can use them. Modules are improved with new versions over time, and you can upgrade your code to use the improved versions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 320,
+    "tag": "li",
+    "text": "In your Go code, import the rsc.io/quote package and add a call to its Go function. After adding the highlighted lines, your code should include the following: package main import \"fmt\" import \"rsc.io/quote\" func main() { fmt.Println(quote.Go()) }",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 323,
+    "tag": "p",
+    "text": "After adding the highlighted lines, your code should include the following:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 324,
+    "tag": "pre",
+    "text": "package main import \"fmt\" import \"rsc.io/quote\" func main() { fmt.Println(quote.Go()) }",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 327,
+    "tag": "li",
+    "text": "Add new module requirements and sums. Go will add the quote module as a requirement, as well as a go.sum file for use in authenticating the module. For more, see Authenticating modules in the Go Modules Reference. $ go mod tidy go: finding module for package rsc.io/quote go: found rsc.io/quote in rsc.io/quote v1.5.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "p",
+    "text": "Go will add the quote module as a requirement, as well as a go.sum file for use in authenticating the module. For more, see Authenticating modules in the Go Modules Reference.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 331,
+    "tag": "pre",
+    "text": "$ go mod tidy go: finding module for package rsc.io/quote go: found rsc.io/quote in rsc.io/quote v1.5.2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Run your code to see the message generated by the function you're calling. $ go run . Don't communicate by sharing memory, share memory by communicating. Notice that your code calls the Go function, printing a clever message about communication. When you ran go mod tidy, it located and downloaded the rsc.io/quote module that contains the package you imported. By default, it downloaded the latest version -- v1.5.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 333,
+    "tag": "pre",
+    "text": "$ go run . Don't communicate by sharing memory, share memory by communicating.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "p",
+    "text": "Notice that your code calls the Go function, printing a clever message about communication.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 336,
+    "tag": "p",
+    "text": "When you ran go mod tidy, it located and downloaded the rsc.io/quote module that contains the package you imported. By default, it downloaded the latest version -- v1.5.2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 339,
+    "tag": "h2",
+    "text": "Write more code",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "write-more"
+    }
+  },
+  {
+    "node_index": 340,
+    "tag": "p",
+    "text": "With this quick introduction, you got Go installed and learned some of the basics. To write some more code with another tutorial, take a look at Create a Go module.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 385,
+    "tag": "li",
+    "text": "Copyright",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  },
+  {
+    "node_index": 387,
+    "tag": "li",
+    "text": "Terms of Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  },
+  {
+    "node_index": 389,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  },
+  {
+    "node_index": 391,
+    "tag": "li",
+    "text": "Report an Issue",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  }
+]

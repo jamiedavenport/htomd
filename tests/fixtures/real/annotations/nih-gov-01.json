@@ -1,0 +1,261 @@
+[
+  {
+    "node_index": 65,
+    "tag": "h1",
+    "text": "National Institute ofGeneral Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "p",
+    "text": "NIH is moving the launch of its new website to the fall to ensure the best possible experience for everyone who relies on our websites for health information, research, funding opportunities, and other resources.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "p",
+    "text": "Get the Latest Updates and FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "h1",
+    "text": "National Institute of General Medical SciencesBiomedical Beat Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "h1",
+    "text": "What Is Genetics?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "fbl-header node__title"
+    }
+  },
+  {
+    "node_index": 123,
+    "tag": "p",
+    "text": "Genetics is the study of genes and heredity—how traits are passed from parents to children through DNA. A gene is a segment of DNA that contains instructions for building one or more molecules that help the body work. Researchers estimate that humans have about 20,000 genes, which account for about 1 percent of our DNA. The remainder of the DNA plays a role in regulating genes, and scientists are researching other potential functions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 128,
+    "tag": "p",
+    "text": "DNA Details",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 132,
+    "tag": "figcaption",
+    "text": "Credit: NIGMS.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "p",
+    "text": "DNA is shaped like a twisted ladder, called a double helix. The two ladder rails are called backbones, and the rungs are pairs of four building blocks (adenine, thymine, guanine, and cytosine) called bases. The sequence of these bases provides the instructions for building molecules. The number of bases in a human gene varies from about 1,000 to 1 million.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 134,
+    "tag": "p",
+    "text": "Nearly all the cells in our bodies contain a full copy of our DNA, and it’s stored in a structure called the nucleus. To enable DNA to fit inside the nucleus, it’s tightly wrapped around spool-like proteins called histones to form chromosomes. People typically have 23 pairs of chromosomes. The two chromosomes in each pair contain the same genes, but they may have different variants of those genes, in part because we generally inherit one chromosome in each pair from each parent.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 140,
+    "tag": "p",
+    "text": "Variation and Health",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 142,
+    "tag": "p",
+    "text": "Most of your DNA is the same as that of everyone around you, but there are small genetic differences, or variants, among people that make us unique. Many variants in DNA are harmless, but some can negatively impact health by, for example, causing a protein to be shaped incorrectly so that it can’t do its job. Specific gene variants can also influence how a person responds to certain medicines or affect their likelihood of developing a disease. Because parents pass their genes to their children, some diseases tend to cluster in families, similar to other inherited traits.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 144,
+    "tag": "p",
+    "text": "Some variation in DNA among individuals results from epigenetic differences. Certain molecular tags attached to either the DNA or histones cause these differences. Epigenetic tags don’t change the sequence of bases, but they can turn genes on or off. Lifestyle and environmental factors, such as smoking and infectious diseases, can cause epigenetic changes. In some rare cases, these changes can be inherited.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "p",
+    "text": "Clarifying Terms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "p",
+    "text": "In addition to genetics, you might have come across the term genomics. These two fields are interconnected. Genomics is typically defined as the study of all of a person’s genes, also known as their genome. In contrast to genetics, genomics doesn’t emphasize heredity. Instead, it focuses on topics such as genes’ interactions with each other and with the environment.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 153,
+    "tag": "p",
+    "text": "Researchers studying genetics and genomics play an important role in helping us understand human health and disease by shedding light on our bodies’ blueprints.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "p",
+    "text": "Find the teaching activity that corresponds with this post in our Educator's Corner.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 175,
+    "tag": "h2",
+    "text": "About the Author",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "h3",
+    "text": "Abbey Bigler",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-title"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "p",
+    "text": "Connect With Us: Linkedin YouTube",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "h6 social my-2"
+    }
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 218,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "Your Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 226,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "U.S. Department of Health and Human Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "National Institutes of Health: NIH...Turning Discovery Into Health®",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 239,
+    "tag": "li",
+    "text": "National Institute of General Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "45 Center Drive MSC 6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "Bethesda, MD 20892-6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "301-496-7301",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "p",
+    "text": "Some content included on this platform includes historical information about programs or activities that have since been discontinued.",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

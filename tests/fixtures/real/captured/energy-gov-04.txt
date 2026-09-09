@@ -1,0 +1,32 @@
+# DOE Explains...Nuclei
+
+![An artist’s impression of a beryllium atom. The nucleus, with its four protons and five neutrons, is surrounded by a cloud of electrons.](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-nuclei.jpg?itok=Zayhcxxg)
+
+An artist’s impression of a beryllium atom. The nucleus, with its four protons and five neutrons, is surrounded by a cloud of electrons.
+
+Credit: https://www.sciencephoto.com/media/2075/view
+
+In 1911, Ernest Rutherford discovered that at the core of every atom is a nucleus. Atomic nuclei consist of electrically positive protons and electrically neutral [neutrons](https://www.energy.gov/science/doe-explainsneutrons). These are held together by the strongest known fundamental force, called the strong force. The nucleus makes up much less than .01% of the *volume* of the atom, but typically contains more than 99.9% of the *mass* of the atom. The chemical properties of a substance are determined by the negatively charged electrons enshrouding the nucleus. The number of electrons usually matches the number of protons in the nucleus. Some nuclei are unstable and may undergo radioactive decay, eventually arriving at a stable state through the emission of photons (gamma decay), emission or capture of electrons or positrons (beta decay), emission of helium nuclei (alpha decay), or a combination of these processes. Most nuclei are spherical or ellipsoidal, though some exotic shapes exist. Nuclei can vibrate and rotate when struck by other particles. Some are unstable and will break apart or change their relative number of protons and neutrons.
+
+## DOE Office of Science: Contributions to Nuclei Research
+
+The DOE Office of Nuclear Physics in the Office of Science supports research to understand all forms of nuclear matter. This research includes mechanisms that form heavy nuclei in cosmic neutron star mergers. It also includes unraveling previously unknown properties of nuclei in their natural state for important applications in medicine, commerce, and national defense. Another area of study is understanding precisely how nuclei are structured depending on the number of protons and neutrons inside them. Other research focuses on heating nuclei to the temperature of the early universe to understand how they condensed out of the quark-gluon soup that existed at the time.
+
+## Nuclei Facts
+
+- A typical grain of sand contains more than 10 million trillion nuclei. That’s 100 times more than the number of seconds since the beginning of the Universe.
+- The nucleus accounts for more than 99.9994% of the total atomic mass, but occupies less than one ten-trillionth of the atomic volume.
+- All nuclei have approximately the same density. If the Moon was smashed to the same density, it would fit inside Yankee Stadium.
+
+## Resources and Related Terms
+
+- [NSAC Long Range Plan Report: “Reaching for the Horizon”](https://science.osti.gov/-/media/np/nsac/pdf/2015LRP/2015_LRPNS_091815.pdf?la=en&hash=F731E22D31731E61C64E4B684377314FD4A0D6C7)
+- [NAP Study: Nuclear Physics Decadal Survey](https://www.nap.edu/catalog/13438/nuclear-physics-exploring-the-heart-of-matter)
+- [NASEM Report: Opportunities in Intense Ultrafast Lasers](https://www.nap.edu/catalog/24939/opportunities-in-intense-ultrafast-lasers-reaching-for-the-brightest-light)
+- [HEDLP Basic Research Needs Workshop Report](https://science.osti.gov/bes/Community-Resources/Reports)
+- [Argonne Tandem Linac Accelerator System (ATLAS)](https://science.osti.gov/np/Facilities/User-Facilities/ATLAS)
+- [Continuous Electron Beam Accelerator Facility (CEBAF)](https://science.osti.gov/np/Facilities/User-Facilities/CEBAF)
+- [Relativistic Heavy Ion Collider (RHIC)](https://science.osti.gov/np/Facilities/User-Facilities/RHIC)
+- Science Highlight: [Smashing Heavy Nuclei Reveals Proton Size](https://science.osti.gov/np/Highlights/2022/NP-2022-09-b)
+
+*Scientific terms can be confusing.* [*DOE Explains*](https://www.energy.gov/science/doe-explains) *offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.*

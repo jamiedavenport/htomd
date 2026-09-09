@@ -1,0 +1,2709 @@
+[
+  {
+    "node_index": 54,
+    "tag": "p",
+    "text": "The web framework for perfectionists with deadlines.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "meta"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Download",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Code",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Issues",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Community",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "Foundation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "♥ Sponsor",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 98,
+    "tag": "p",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 102,
+    "tag": "h2",
+    "text": "Until September 10, get PyCharm for 30% off!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Getting Help",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current-link"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Language: en",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current"
+    }
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "zh-hans",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "sv",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "pt-br",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "pl",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "ko",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "ja",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "it",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "id",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "fr",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "es",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 140,
+    "tag": "li",
+    "text": "el",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Documentation version: 5.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current "
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "dev",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "6.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "6.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "5.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "5.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "4.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "4.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "3.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "3.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "3.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "2.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "2.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "2.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "1.11",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "1.10",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "1.9",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "1.8",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 191,
+    "tag": "h1",
+    "text": "Templates¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 193,
+    "tag": "p",
+    "text": "Being a web framework, Django needs a convenient way to generate HTML dynamically. The most common approach relies on templates. A template contains the static parts of the desired HTML output as well as some special syntax describing how dynamic content will be inserted. For a hands-on example of creating HTML pages with templates, see Tutorial 3.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "p",
+    "text": "A Django project can be configured with one or several template engines (or even zero if you don’t use templates). Django ships built-in backends for its own template system, creatively called the Django template language (DTL), and for the popular alternative Jinja2. Backends for other template languages may be available from third-parties. You can also write your own custom backend, see Custom template backend",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "p",
+    "text": "Django defines a standard API for loading and rendering templates regardless of the backend. Loading consists of finding the template for a given identifier and preprocessing it, usually compiling it to an in-memory representation. Rendering means interpolating the template with context data and returning the resulting string.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "p",
+    "text": "The Django template language is Django’s own template system. Until Django 1.8 it was the only built-in option available. It’s a good template library even though it’s fairly opinionated and sports a few idiosyncrasies. If you don’t have a pressing reason to choose another backend, you should use the DTL, especially if you’re writing a pluggable application and you intend to distribute templates. Django’s contrib apps that include templates, like django.contrib.admin, use the DTL.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 206,
+    "tag": "p",
+    "text": "For historical reasons, both the generic support for template engines and the implementation of the Django template language live in the django.template namespace.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 210,
+    "tag": "p",
+    "text": "Warning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "p",
+    "text": "The template system isn’t safe against untrusted template authors. For example, a site shouldn’t allow its users to provide their own templates, since template authors can do things like perform XSS attacks and access properties of template variables that may contain sensitive information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 216,
+    "tag": "h2",
+    "text": "The Django template language¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 220,
+    "tag": "h3",
+    "text": "Syntax¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "p",
+    "text": "About this section",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 224,
+    "tag": "p",
+    "text": "This is an overview of the Django template language’s syntax. For details see the language syntax reference.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "p",
+    "text": "A Django template is a text document or a Python string marked-up using the Django template language. Some constructs are recognized and interpreted by the template engine. The main ones are variables and tags.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "p",
+    "text": "A template is rendered with a context. Rendering replaces variables with their values, which are looked up in the context, and executes tags. Everything else is output as is.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "p",
+    "text": "The syntax of the Django template language involves four constructs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "p",
+    "text": "A variable outputs a value from the context, which is a dict-like object mapping keys to values.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "p",
+    "text": "Variables are surrounded by {{ and }} like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "pre",
+    "text": "My first name is {{ first_name }}. My last name is {{ last_name }}.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "p",
+    "text": "With a context of {'first_name': 'John', 'last_name': 'Doe'}, this template renders to:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "pre",
+    "text": "My first name is John. My last name is Doe.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "p",
+    "text": "Dictionary lookup, attribute lookup and list-index lookups are implemented with a dot notation:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "pre",
+    "text": "{{ my_dict.key }} {{ my_object.attribute }} {{ my_list.0 }}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 274,
+    "tag": "p",
+    "text": "If a variable resolves to a callable, the template system will call it with no arguments and use its result instead of the callable.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 279,
+    "tag": "p",
+    "text": "Tags provide arbitrary logic in the rendering process.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "p",
+    "text": "This definition is deliberately vague. For example, a tag can output content, serve as a control structure e.g. an “if” statement or a “for” loop, grab content from a database, or even enable access to other template tags.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "p",
+    "text": "Tags are surrounded by {% and %} like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 288,
+    "tag": "pre",
+    "text": "{% csrf_token %}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 293,
+    "tag": "p",
+    "text": "Most tags accept arguments:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "pre",
+    "text": "{% cycle 'odd' 'even' %}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "p",
+    "text": "Some tags require beginning and ending tags:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "pre",
+    "text": "{% if user.is_authenticated %}Hello, {{ user.username }}.{% endif %}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 318,
+    "tag": "p",
+    "text": "A reference of built-in tags is available as well as instructions for writing custom tags.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 327,
+    "tag": "p",
+    "text": "Filters transform the values of variables and tag arguments.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "p",
+    "text": "They look like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 331,
+    "tag": "pre",
+    "text": "{{ django|title }}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 338,
+    "tag": "p",
+    "text": "With a context of {'django': 'the web framework for perfectionists with deadlines'}, this template renders to:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "pre",
+    "text": "The Web Framework For Perfectionists With Deadlines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 352,
+    "tag": "p",
+    "text": "Some filters take an argument:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 355,
+    "tag": "pre",
+    "text": "{{ my_date|date:\"Y-m-d\" }}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 363,
+    "tag": "p",
+    "text": "A reference of built-in filters is available as well as instructions for writing custom filters.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 372,
+    "tag": "p",
+    "text": "Comments look like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 375,
+    "tag": "pre",
+    "text": "{# this won't be rendered #}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 378,
+    "tag": "p",
+    "text": "A {% comment %} tag provides multi-line comments.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 386,
+    "tag": "h3",
+    "text": "Components¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 389,
+    "tag": "p",
+    "text": "About this section",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 390,
+    "tag": "p",
+    "text": "This is an overview of the Django template language’s APIs. For details see the API reference.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "p",
+    "text": "django.template.Engine encapsulates an instance of the Django template system. The main reason for instantiating an Engine directly is to use the Django template language outside of a Django project.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 404,
+    "tag": "p",
+    "text": "django.template.backends.django.DjangoTemplates is a thin wrapper adapting django.template.Engine to Django’s template backend API.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "django.template.Template represents a compiled template. Templates are obtained with Engine.get_template() or Engine.from_string().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 425,
+    "tag": "p",
+    "text": "Likewise django.template.backends.django.Template is a thin wrapper adapting django.template.Template to the common template API.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 435,
+    "tag": "p",
+    "text": "django.template.Context holds some metadata in addition to the context data. It is passed to Template.render() for rendering a template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 442,
+    "tag": "p",
+    "text": "django.template.RequestContext is a subclass of Context that stores the current HttpRequest and runs template context processors.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 452,
+    "tag": "p",
+    "text": "The common API doesn’t have an equivalent concept. Context data is passed in a plain dict and the current HttpRequest is passed separately if needed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 463,
+    "tag": "p",
+    "text": "Template loaders are responsible for locating templates, loading them, and returning Template objects.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 467,
+    "tag": "p",
+    "text": "Django provides several built-in template loaders and supports custom template loaders.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 476,
+    "tag": "p",
+    "text": "Context processors are functions that receive the current HttpRequest as an argument and return a dict of data to be added to the rendering context.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 483,
+    "tag": "p",
+    "text": "Their main use is to add common data shared by all templates to the context without repeating code in every view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 484,
+    "tag": "p",
+    "text": "Django provides many built-in context processors, and you can implement your own additional context processors, too.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 491,
+    "tag": "h2",
+    "text": "Support for template engines¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 495,
+    "tag": "h3",
+    "text": "Configuration¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 497,
+    "tag": "p",
+    "text": "Templates engines are configured with the TEMPLATES setting. It’s a list of configurations, one for each engine. The default value is empty. The settings.py generated by the startproject command defines a more useful value:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 508,
+    "tag": "pre",
+    "text": "TEMPLATES = [ { \"BACKEND\": \"django.template.backends.django.DjangoTemplates\", \"DIRS\": [], \"APP_DIRS\": True, \"OPTIONS\": { # ... some options here ... }, }, ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 532,
+    "tag": "p",
+    "text": "BACKEND is a dotted Python path to a template engine class implementing Django’s template backend API. The built-in backends are django.template.backends.django.DjangoTemplates and django.template.backends.jinja2.Jinja2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 542,
+    "tag": "p",
+    "text": "Since most engines load templates from files, the top-level configuration for each engine contains two common settings:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 544,
+    "tag": "li",
+    "text": "DIRS defines a list of directories where the engine should look for template source files, in search order.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 545,
+    "tag": "p",
+    "text": "DIRS defines a list of directories where the engine should look for template source files, in search order.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 549,
+    "tag": "li",
+    "text": "APP_DIRS tells whether the engine should look for templates inside installed applications. Each backend defines a conventional name for the subdirectory inside applications where its templates should be stored.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 550,
+    "tag": "p",
+    "text": "APP_DIRS tells whether the engine should look for templates inside installed applications. Each backend defines a conventional name for the subdirectory inside applications where its templates should be stored.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 554,
+    "tag": "p",
+    "text": "While uncommon, it’s possible to configure several instances of the same backend with different options. In that case you should define a unique NAME for each engine.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 558,
+    "tag": "p",
+    "text": "OPTIONS contains backend-specific settings.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 568,
+    "tag": "h3",
+    "text": "Usage¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 570,
+    "tag": "p",
+    "text": "The django.template.loader module defines two functions to load templates.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 574,
+    "tag": "dt",
+    "text": "get_template(template_name, using=None)[source]¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.loader.get_template"
+    }
+  },
+  {
+    "node_index": 591,
+    "tag": "dd",
+    "text": "This function loads the template with the given name and returns a Template object. The exact type of the return value depends on the backend that loaded the template. Each backend has its own Template class. get_template() tries each template engine in order until one succeeds. If the template cannot be found, it raises TemplateDoesNotExist. If the template is found but contains invalid syntax, it raises TemplateSyntaxError. How templates are searched and loaded depends on each engine’s backend and configuration. If you want to restrict the search to a particular template engine, pass the engine’s NAME in the using argument.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 592,
+    "tag": "p",
+    "text": "This function loads the template with the given name and returns a Template object.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 595,
+    "tag": "p",
+    "text": "The exact type of the return value depends on the backend that loaded the template. Each backend has its own Template class.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 598,
+    "tag": "p",
+    "text": "get_template() tries each template engine in order until one succeeds. If the template cannot be found, it raises TemplateDoesNotExist. If the template is found but contains invalid syntax, it raises TemplateSyntaxError.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 607,
+    "tag": "p",
+    "text": "How templates are searched and loaded depends on each engine’s backend and configuration.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 608,
+    "tag": "p",
+    "text": "If you want to restrict the search to a particular template engine, pass the engine’s NAME in the using argument.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 615,
+    "tag": "dt",
+    "text": "select_template(template_name_list, using=None)[source]¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.loader.select_template"
+    }
+  },
+  {
+    "node_index": 632,
+    "tag": "dd",
+    "text": "select_template() is just like get_template(), except it takes a list of template names. It tries each name in order and returns the first template that exists.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 633,
+    "tag": "p",
+    "text": "select_template() is just like get_template(), except it takes a list of template names. It tries each name in order and returns the first template that exists.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 638,
+    "tag": "p",
+    "text": "If loading a template fails, the following two exceptions, defined in django.template, may be raised:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 642,
+    "tag": "dt",
+    "text": "exception TemplateDoesNotExist(msg, tried=None, backend=None, chain=None)[source]¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.TemplateDoesNotExist"
+    }
+  },
+  {
+    "node_index": 676,
+    "tag": "dd",
+    "text": "This exception is raised when a template cannot be found. It accepts the following optional arguments for populating the template postmortem on the debug page: backendThe template backend instance from which the exception originated. triedA list of sources that were tried when finding the template. This is formatted as a list of tuples containing (origin, status), where origin is an origin-like object and status is a string with the reason the template wasn’t found. chainA list of intermediate TemplateDoesNotExist exceptions raised when trying to load a template. This is used by functions, such as get_template(), that try to load a given template from multiple engines.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 677,
+    "tag": "p",
+    "text": "This exception is raised when a template cannot be found. It accepts the following optional arguments for populating the template postmortem on the debug page:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 681,
+    "tag": "dt",
+    "text": "backend",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 684,
+    "tag": "dd",
+    "text": "The template backend instance from which the exception originated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 685,
+    "tag": "p",
+    "text": "The template backend instance from which the exception originated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 686,
+    "tag": "dt",
+    "text": "tried",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 689,
+    "tag": "dd",
+    "text": "A list of sources that were tried when finding the template. This is formatted as a list of tuples containing (origin, status), where origin is an origin-like object and status is a string with the reason the template wasn’t found.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 690,
+    "tag": "p",
+    "text": "A list of sources that were tried when finding the template. This is formatted as a list of tuples containing (origin, status), where origin is an origin-like object and status is a string with the reason the template wasn’t found.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 700,
+    "tag": "dt",
+    "text": "chain",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 703,
+    "tag": "dd",
+    "text": "A list of intermediate TemplateDoesNotExist exceptions raised when trying to load a template. This is used by functions, such as get_template(), that try to load a given template from multiple engines.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 704,
+    "tag": "p",
+    "text": "A list of intermediate TemplateDoesNotExist exceptions raised when trying to load a template. This is used by functions, such as get_template(), that try to load a given template from multiple engines.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 712,
+    "tag": "dt",
+    "text": "exception TemplateSyntaxError(msg)[source]¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.TemplateSyntaxError"
+    }
+  },
+  {
+    "node_index": 725,
+    "tag": "dd",
+    "text": "This exception is raised when a template was found but contains errors.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 726,
+    "tag": "p",
+    "text": "This exception is raised when a template was found but contains errors.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 727,
+    "tag": "p",
+    "text": "Template objects returned by get_template() and select_template() must provide a render() method with the following signature:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 737,
+    "tag": "dt",
+    "text": "Template.render(context=None, request=None)¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.backends.base.Template.render"
+    }
+  },
+  {
+    "node_index": 757,
+    "tag": "dd",
+    "text": "Renders this template with a given context. If context is provided, it must be a dict. If it isn’t provided, the engine will render the template with an empty context. If request is provided, it must be an HttpRequest. Then the engine must make it, as well as the CSRF token, available in the template. How this is achieved is up to each backend.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 758,
+    "tag": "p",
+    "text": "Renders this template with a given context.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 759,
+    "tag": "p",
+    "text": "If context is provided, it must be a dict. If it isn’t provided, the engine will render the template with an empty context.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 765,
+    "tag": "p",
+    "text": "If request is provided, it must be an HttpRequest. Then the engine must make it, as well as the CSRF token, available in the template. How this is achieved is up to each backend.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 771,
+    "tag": "p",
+    "text": "Here’s an example of the search algorithm. For this example the TEMPLATES setting is:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 777,
+    "tag": "pre",
+    "text": "TEMPLATES = [ { \"BACKEND\": \"django.template.backends.django.DjangoTemplates\", \"DIRS\": [ \"/home/html/example.com\", \"/home/html/default\", ], }, { \"BACKEND\": \"django.template.backends.jinja2.Jinja2\", \"DIRS\": [ \"/home/html/jinja2\", ], }, ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 809,
+    "tag": "p",
+    "text": "If you call get_template('story_detail.html'), here are the files Django will look for, in order:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 813,
+    "tag": "li",
+    "text": "/home/html/example.com/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 814,
+    "tag": "p",
+    "text": "/home/html/example.com/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 819,
+    "tag": "li",
+    "text": "/home/html/default/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 820,
+    "tag": "p",
+    "text": "/home/html/default/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 825,
+    "tag": "li",
+    "text": "/home/html/jinja2/story_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 826,
+    "tag": "p",
+    "text": "/home/html/jinja2/story_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 831,
+    "tag": "p",
+    "text": "If you call select_template(['story_253_detail.html', 'story_detail.html']), here’s what Django will look for:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 836,
+    "tag": "li",
+    "text": "/home/html/example.com/story_253_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 837,
+    "tag": "p",
+    "text": "/home/html/example.com/story_253_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 842,
+    "tag": "li",
+    "text": "/home/html/default/story_253_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 843,
+    "tag": "p",
+    "text": "/home/html/default/story_253_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 848,
+    "tag": "li",
+    "text": "/home/html/jinja2/story_253_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 849,
+    "tag": "p",
+    "text": "/home/html/jinja2/story_253_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 854,
+    "tag": "li",
+    "text": "/home/html/example.com/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 855,
+    "tag": "p",
+    "text": "/home/html/example.com/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 860,
+    "tag": "li",
+    "text": "/home/html/default/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 861,
+    "tag": "p",
+    "text": "/home/html/default/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 866,
+    "tag": "li",
+    "text": "/home/html/jinja2/story_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 867,
+    "tag": "p",
+    "text": "/home/html/jinja2/story_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 872,
+    "tag": "p",
+    "text": "When Django finds a template that exists, it stops looking.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 874,
+    "tag": "p",
+    "text": "Use django.template.loader.select_template() for more flexibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 877,
+    "tag": "p",
+    "text": "You can use select_template() for flexible template loading. For example, if you’ve written a news story and want some stories to have custom templates, use something like select_template(['story_%s_detail.html' % story.id, 'story_detail.html']). That’ll allow you to use a custom template for an individual story, with a fallback template for stories that don’t have custom templates.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 886,
+    "tag": "p",
+    "text": "It’s possible – and preferable – to organize templates in subdirectories inside each directory containing templates. The convention is to make a subdirectory for each Django app, with subdirectories within those subdirectories as needed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 887,
+    "tag": "p",
+    "text": "Do this for your own sanity. Storing all templates in the root level of a single directory gets messy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 888,
+    "tag": "p",
+    "text": "To load a template that’s within a subdirectory, use a slash, like so:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 891,
+    "tag": "pre",
+    "text": "get_template(\"news/story_detail.html\")",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 897,
+    "tag": "p",
+    "text": "Using the same TEMPLATES option as above, this will attempt to load the following templates:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 902,
+    "tag": "li",
+    "text": "/home/html/example.com/news/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 903,
+    "tag": "p",
+    "text": "/home/html/example.com/news/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 908,
+    "tag": "li",
+    "text": "/home/html/default/news/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 909,
+    "tag": "p",
+    "text": "/home/html/default/news/story_detail.html ('django' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 914,
+    "tag": "li",
+    "text": "/home/html/jinja2/news/story_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 915,
+    "tag": "p",
+    "text": "/home/html/jinja2/news/story_detail.html ('jinja2' engine)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 920,
+    "tag": "p",
+    "text": "In addition, to cut down on the repetitive nature of loading and rendering templates, Django provides a shortcut function which automates the process.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 922,
+    "tag": "dt",
+    "text": "render_to_string(template_name, context=None, request=None, using=None)[source]¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.loader.render_to_string"
+    }
+  },
+  {
+    "node_index": 953,
+    "tag": "dd",
+    "text": "render_to_string() loads a template like get_template() and calls its render() method immediately. It takes the following arguments. template_nameThe name of the template to load and render. If it’s a list of template names, Django uses select_template() instead of get_template() to find the template. contextA dict to be used as the template’s context for rendering. requestAn optional HttpRequest that will be available during the template’s rendering process. usingAn optional template engine NAME. The search for the template will be restricted to that engine. Usage example: from django.template.loader import render_to_string rendered = render_to_string(\"my_template.html\", {\"foo\": \"bar\"})",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 954,
+    "tag": "p",
+    "text": "render_to_string() loads a template like get_template() and calls its render() method immediately. It takes the following arguments.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 963,
+    "tag": "dt",
+    "text": "template_name",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 966,
+    "tag": "dd",
+    "text": "The name of the template to load and render. If it’s a list of template names, Django uses select_template() instead of get_template() to find the template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 967,
+    "tag": "p",
+    "text": "The name of the template to load and render. If it’s a list of template names, Django uses select_template() instead of get_template() to find the template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 974,
+    "tag": "dt",
+    "text": "context",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 977,
+    "tag": "dd",
+    "text": "A dict to be used as the template’s context for rendering.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 978,
+    "tag": "p",
+    "text": "A dict to be used as the template’s context for rendering.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 982,
+    "tag": "dt",
+    "text": "request",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 985,
+    "tag": "dd",
+    "text": "An optional HttpRequest that will be available during the template’s rendering process.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 986,
+    "tag": "p",
+    "text": "An optional HttpRequest that will be available during the template’s rendering process.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 990,
+    "tag": "dt",
+    "text": "using",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 993,
+    "tag": "dd",
+    "text": "An optional template engine NAME. The search for the template will be restricted to that engine.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 994,
+    "tag": "p",
+    "text": "An optional template engine NAME. The search for the template will be restricted to that engine.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 998,
+    "tag": "p",
+    "text": "Usage example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1001,
+    "tag": "pre",
+    "text": "from django.template.loader import render_to_string rendered = render_to_string(\"my_template.html\", {\"foo\": \"bar\"})",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1020,
+    "tag": "p",
+    "text": "See also the render() shortcut which calls render_to_string() and feeds the result into an HttpResponse suitable for returning from a view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1030,
+    "tag": "p",
+    "text": "Finally, you can use configured engines directly:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1032,
+    "tag": "dt",
+    "text": "engines¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.loader.engines"
+    }
+  },
+  {
+    "node_index": 1036,
+    "tag": "dd",
+    "text": "Template engines are available in django.template.engines: from django.template import engines django_engine = engines[\"django\"] template = django_engine.from_string(\"Hello {{ name }}!\") The lookup key — 'django' in this example — is the engine’s NAME.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1037,
+    "tag": "p",
+    "text": "Template engines are available in django.template.engines:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1042,
+    "tag": "pre",
+    "text": "from django.template import engines django_engine = engines[\"django\"] template = django_engine.from_string(\"Hello {{ name }}!\")",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1064,
+    "tag": "p",
+    "text": "The lookup key — 'django' in this example — is the engine’s NAME.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1076,
+    "tag": "h3",
+    "text": "Built-in backends¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1079,
+    "tag": "dt",
+    "text": "class DjangoTemplates[source]¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.backends.django.DjangoTemplates"
+    }
+  },
+  {
+    "node_index": 1090,
+    "tag": "p",
+    "text": "Set BACKEND to 'django.template.backends.django.DjangoTemplates' to configure a Django template engine.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1096,
+    "tag": "p",
+    "text": "When APP_DIRS is True, DjangoTemplates engines look for templates in the templates subdirectory of installed applications. This generic name was kept for backwards-compatibility.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1106,
+    "tag": "p",
+    "text": "DjangoTemplates engines accept the following OPTIONS:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1113,
+    "tag": "li",
+    "text": "'autoescape': a boolean that controls whether HTML autoescaping is enabled. It defaults to True. Warning Only set it to False if you’re rendering non-HTML templates!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1114,
+    "tag": "p",
+    "text": "'autoescape': a boolean that controls whether HTML autoescaping is enabled.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1117,
+    "tag": "p",
+    "text": "It defaults to True.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1121,
+    "tag": "p",
+    "text": "Warning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 1122,
+    "tag": "p",
+    "text": "Only set it to False if you’re rendering non-HTML templates!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1125,
+    "tag": "li",
+    "text": "'context_processors': a list of dotted Python paths to callables that are used to populate the context when a template is rendered with a request. These callables take a request object as their argument and return a dict of items to be merged into the context. It defaults to an empty list. See RequestContext for more information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1126,
+    "tag": "p",
+    "text": "'context_processors': a list of dotted Python paths to callables that are used to populate the context when a template is rendered with a request. These callables take a request object as their argument and return a dict of items to be merged into the context.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1132,
+    "tag": "p",
+    "text": "It defaults to an empty list.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1133,
+    "tag": "p",
+    "text": "See RequestContext for more information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1137,
+    "tag": "li",
+    "text": "'debug': a boolean that turns on/off template debug mode. If it is True, the fancy error page will display a detailed report for any exception raised during template rendering. This report contains the relevant snippet of the template with the appropriate line highlighted. It defaults to the value of the DEBUG setting.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1138,
+    "tag": "p",
+    "text": "'debug': a boolean that turns on/off template debug mode. If it is True, the fancy error page will display a detailed report for any exception raised during template rendering. This report contains the relevant snippet of the template with the appropriate line highlighted.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1143,
+    "tag": "p",
+    "text": "It defaults to the value of the DEBUG setting.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1147,
+    "tag": "li",
+    "text": "'loaders': a list of dotted Python paths to template loader classes. Each Loader class knows how to import templates from a particular source. Optionally, a tuple can be used instead of a string. The first item in the tuple should be the Loader class name, and subsequent items are passed to the Loader during initialization. The default depends on the values of DIRS and APP_DIRS. See Loader types for details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1148,
+    "tag": "p",
+    "text": "'loaders': a list of dotted Python paths to template loader classes. Each Loader class knows how to import templates from a particular source. Optionally, a tuple can be used instead of a string. The first item in the tuple should be the Loader class name, and subsequent items are passed to the Loader during initialization.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1157,
+    "tag": "p",
+    "text": "The default depends on the values of DIRS and APP_DIRS.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1164,
+    "tag": "p",
+    "text": "See Loader types for details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1167,
+    "tag": "li",
+    "text": "'string_if_invalid': the output, as a string, that the template system should use for invalid (e.g. misspelled) variables. It defaults to an empty string. See How invalid variables are handled for details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1168,
+    "tag": "p",
+    "text": "'string_if_invalid': the output, as a string, that the template system should use for invalid (e.g. misspelled) variables.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1171,
+    "tag": "p",
+    "text": "It defaults to an empty string.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1172,
+    "tag": "p",
+    "text": "See How invalid variables are handled for details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1175,
+    "tag": "li",
+    "text": "'file_charset': the charset used to read template files on disk. It defaults to 'utf-8'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1176,
+    "tag": "p",
+    "text": "'file_charset': the charset used to read template files on disk.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1179,
+    "tag": "p",
+    "text": "It defaults to 'utf-8'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1182,
+    "tag": "li",
+    "text": "'libraries': A dictionary of labels and dotted Python paths of template tag modules to register with the template engine. This can be used to add new libraries or provide alternate labels for existing ones. For example: OPTIONS = { \"libraries\": { \"myapp_tags\": \"path.to.myapp.tags\", \"admin.urls\": \"django.contrib.admin.templatetags.admin_urls\", }, } Libraries can be loaded by passing the corresponding dictionary key to the {% load %} tag.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1183,
+    "tag": "p",
+    "text": "'libraries': A dictionary of labels and dotted Python paths of template tag modules to register with the template engine. This can be used to add new libraries or provide alternate labels for existing ones. For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1188,
+    "tag": "pre",
+    "text": "OPTIONS = { \"libraries\": { \"myapp_tags\": \"path.to.myapp.tags\", \"admin.urls\": \"django.contrib.admin.templatetags.admin_urls\", }, }",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1206,
+    "tag": "p",
+    "text": "Libraries can be loaded by passing the corresponding dictionary key to the {% load %} tag.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1212,
+    "tag": "li",
+    "text": "'builtins': A list of dotted Python paths of template tag modules to add to built-ins. For example: OPTIONS = { \"builtins\": [\"myapp.builtins\"], } Tags and filters from built-in libraries can be used without first calling the {% load %} tag.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1213,
+    "tag": "p",
+    "text": "'builtins': A list of dotted Python paths of template tag modules to add to built-ins. For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1220,
+    "tag": "pre",
+    "text": "OPTIONS = { \"builtins\": [\"myapp.builtins\"], }",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1231,
+    "tag": "p",
+    "text": "Tags and filters from built-in libraries can be used without first calling the {% load %} tag.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1238,
+    "tag": "dt",
+    "text": "class Jinja2[source]¶",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sig sig-object py",
+      "id": "django.template.backends.jinja2.Jinja2"
+    }
+  },
+  {
+    "node_index": 1249,
+    "tag": "p",
+    "text": "Requires Jinja2 to be installed:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1259,
+    "tag": "pre",
+    "text": "$ python -m pip install Jinja2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1268,
+    "tag": "pre",
+    "text": "...\\> py -m pip install Jinja2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1271,
+    "tag": "p",
+    "text": "Set BACKEND to 'django.template.backends.jinja2.Jinja2' to configure a Jinja2 engine.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1278,
+    "tag": "p",
+    "text": "When APP_DIRS is True, Jinja2 engines look for templates in the jinja2 subdirectory of installed applications.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1288,
+    "tag": "p",
+    "text": "The most important entry in OPTIONS is 'environment'. It’s a dotted Python path to a callable returning a Jinja2 environment. It defaults to 'jinja2.Environment'. Django invokes that callable and passes other options as keyword arguments. Furthermore, Django adds defaults that differ from Jinja2’s for a few options:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1297,
+    "tag": "li",
+    "text": "'autoescape': True",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1298,
+    "tag": "p",
+    "text": "'autoescape': True",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1303,
+    "tag": "li",
+    "text": "'loader': a loader configured for DIRS and APP_DIRS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1304,
+    "tag": "p",
+    "text": "'loader': a loader configured for DIRS and APP_DIRS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1313,
+    "tag": "li",
+    "text": "'auto_reload': settings.DEBUG",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1314,
+    "tag": "p",
+    "text": "'auto_reload': settings.DEBUG",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1319,
+    "tag": "li",
+    "text": "'undefined': DebugUndefined if settings.DEBUG else Undefined",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1320,
+    "tag": "p",
+    "text": "'undefined': DebugUndefined if settings.DEBUG else Undefined",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1329,
+    "tag": "p",
+    "text": "Jinja2 engines also accept the following OPTIONS:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1336,
+    "tag": "li",
+    "text": "'context_processors': a list of dotted Python paths to callables that are used to populate the context when a template is rendered with a request. These callables take a request object as their argument and return a dict of items to be merged into the context. It defaults to an empty list. Using context processors with Jinja2 templates is discouraged. Context processors are useful with Django templates because Django templates don’t support calling functions with arguments. Since Jinja2 doesn’t have that limitation, it’s recommended to put the function that you would use as a context processor in the global variables available to the template using jinja2.Environment as described below. You can then call that function in the template: {{ function(request) }} Some Django templates context processors return a fixed value. For Jinja2 templates, this layer of indirection isn’t necessary since you can add constants directly in jinja2.Environment. The original use case for adding context processors for Jinja2 involved: Making an expensive computation that depends on the request. Needing the result in every template. Using the result multiple times in each template. Unless all of these co",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1337,
+    "tag": "p",
+    "text": "'context_processors': a list of dotted Python paths to callables that are used to populate the context when a template is rendered with a request. These callables take a request object as their argument and return a dict of items to be merged into the context.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1343,
+    "tag": "p",
+    "text": "It defaults to an empty list.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1345,
+    "tag": "p",
+    "text": "Using context processors with Jinja2 templates is discouraged.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 1346,
+    "tag": "p",
+    "text": "Context processors are useful with Django templates because Django templates don’t support calling functions with arguments. Since Jinja2 doesn’t have that limitation, it’s recommended to put the function that you would use as a context processor in the global variables available to the template using jinja2.Environment as described below. You can then call that function in the template:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1351,
+    "tag": "pre",
+    "text": "{{ function(request) }}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1359,
+    "tag": "p",
+    "text": "Some Django templates context processors return a fixed value. For Jinja2 templates, this layer of indirection isn’t necessary since you can add constants directly in jinja2.Environment.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1362,
+    "tag": "p",
+    "text": "The original use case for adding context processors for Jinja2 involved:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1364,
+    "tag": "li",
+    "text": "Making an expensive computation that depends on the request.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1365,
+    "tag": "p",
+    "text": "Making an expensive computation that depends on the request.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1366,
+    "tag": "li",
+    "text": "Needing the result in every template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1367,
+    "tag": "p",
+    "text": "Needing the result in every template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1368,
+    "tag": "li",
+    "text": "Using the result multiple times in each template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1369,
+    "tag": "p",
+    "text": "Using the result multiple times in each template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1370,
+    "tag": "p",
+    "text": "Unless all of these conditions are met, passing a function to the template is more in line with the design of Jinja2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1371,
+    "tag": "p",
+    "text": "The default configuration is purposefully kept to a minimum. If a template is rendered with a request (e.g. when using render()), the Jinja2 backend adds the globals request, csrf_input, and csrf_token to the context. Apart from that, this backend doesn’t create a Django-flavored environment. It doesn’t know about Django filters and tags. In order to use Django-specific APIs, you must configure them into the environment.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1383,
+    "tag": "p",
+    "text": "For example, you can create myproject/jinja2.py with this content:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1388,
+    "tag": "pre",
+    "text": "from django.templatetags.static import static from django.urls import reverse from jinja2 import Environment def environment(**options): env = Environment(**options) env.globals.update( { \"static\": static, \"url\": reverse, } ) return env",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1441,
+    "tag": "p",
+    "text": "and set the 'environment' option to 'myproject.jinja2.environment'.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1446,
+    "tag": "p",
+    "text": "Then you could use the following constructs in Jinja2 templates:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1449,
+    "tag": "pre",
+    "text": "<img src=\"{{ static('path/to/company-logo.png') }}\" alt=\"Company Logo\"> <a href=\"{{ url('admin:index') }}\">Administration</a>",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1483,
+    "tag": "p",
+    "text": "The concepts of tags and filters exist both in the Django template language and in Jinja2 but they’re used differently. Since Jinja2 supports passing arguments to callables in templates, many features that require a template tag or filter in Django templates can be achieved by calling a function in Jinja2 templates, as shown in the example above. Jinja2’s global namespace removes the need for template context processors. The Django template language doesn’t have an equivalent of Jinja2 tests.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1497,
+    "tag": "h2",
+    "text": "Additional Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visuallyhidden",
+      "id": "aside-header"
+    }
+  },
+  {
+    "node_index": 1499,
+    "tag": "h3",
+    "text": "Support Django!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1504,
+    "tag": "li",
+    "text": "Kye Russell donated to the Django Software Foundation to support Django development. Donate today!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1506,
+    "tag": "h3",
+    "text": "Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1508,
+    "tag": "li",
+    "text": "Templates The Django template language Syntax Variables Tags Filters Comments Components Engine Template Context Loaders Context processors Support for template engines Configuration Usage Built-in backends",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1511,
+    "tag": "li",
+    "text": "The Django template language Syntax Variables Tags Filters Comments Components Engine Template Context Loaders Context processors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1514,
+    "tag": "li",
+    "text": "Syntax Variables Tags Filters Comments",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1517,
+    "tag": "li",
+    "text": "Variables",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1519,
+    "tag": "li",
+    "text": "Tags",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1521,
+    "tag": "li",
+    "text": "Filters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1523,
+    "tag": "li",
+    "text": "Comments",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1525,
+    "tag": "li",
+    "text": "Components Engine Template Context Loaders Context processors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1528,
+    "tag": "li",
+    "text": "Engine",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1530,
+    "tag": "li",
+    "text": "Template",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1532,
+    "tag": "li",
+    "text": "Context",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1534,
+    "tag": "li",
+    "text": "Loaders",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1536,
+    "tag": "li",
+    "text": "Context processors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1538,
+    "tag": "li",
+    "text": "Support for template engines Configuration Usage Built-in backends",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1541,
+    "tag": "li",
+    "text": "Configuration",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1543,
+    "tag": "li",
+    "text": "Usage",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1545,
+    "tag": "li",
+    "text": "Built-in backends",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1548,
+    "tag": "h3",
+    "text": "Browse",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "browse-header"
+    }
+  },
+  {
+    "node_index": 1550,
+    "tag": "li",
+    "text": "Prev: Form Assets (the Media class)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1554,
+    "tag": "li",
+    "text": "Next: Class-based views",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1556,
+    "tag": "li",
+    "text": "Table of contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1558,
+    "tag": "li",
+    "text": "General Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1560,
+    "tag": "li",
+    "text": "Python Module Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1563,
+    "tag": "h3",
+    "text": "You are here:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "breadcrumbs-header"
+    }
+  },
+  {
+    "node_index": 1565,
+    "tag": "li",
+    "text": "Django 5.2 documentation Using Django Templates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1568,
+    "tag": "li",
+    "text": "Using Django Templates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1571,
+    "tag": "li",
+    "text": "Templates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1573,
+    "tag": "h3",
+    "text": "Getting help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "getting-help-sidebar"
+    }
+  },
+  {
+    "node_index": 1575,
+    "tag": "dt",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1577,
+    "tag": "dd",
+    "text": "Try the FAQ — it's got answers to many common questions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1578,
+    "tag": "dt",
+    "text": "Index, Module Index, or Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1582,
+    "tag": "dd",
+    "text": "Handy when looking for specific information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1583,
+    "tag": "dt",
+    "text": "Django Discord Server",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1585,
+    "tag": "dd",
+    "text": "Join the Django Discord Community.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1586,
+    "tag": "dt",
+    "text": "Official Django Forum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1588,
+    "tag": "dd",
+    "text": "Join the community on the Django Forum.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1589,
+    "tag": "dt",
+    "text": "Ticket tracker",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1591,
+    "tag": "dd",
+    "text": "Report bugs with Django or Django documentation in our ticket tracker.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1593,
+    "tag": "h3",
+    "text": "Download:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "links-wrapper-header"
+    }
+  },
+  {
+    "node_index": 1594,
+    "tag": "p",
+    "text": "Offline (Django 5.2): HTML | PDF | ePub Provided by Read the Docs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1602,
+    "tag": "h3",
+    "text": "Sponsored Fellow, Diamond and Platinum Members",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1609,
+    "tag": "li",
+    "text": "Sentry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1611,
+    "tag": "li",
+    "text": "Monitor your Django Code Resolve performance bottlenecks and errors using monitoring, replays, logs and Seer an AI agent for debugging.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1619,
+    "tag": "li",
+    "text": "JetBrains",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1621,
+    "tag": "li",
+    "text": "JetBrains delivers intelligent software solutions that make developers more productive by simplifying their challenging tasks, automating the routine, and helping them adopt the best development practices. PyCharm is the Python IDE for Professional Developers by JetBrains providing a complete set of tools for productive Python, Web and scientific development.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1629,
+    "tag": "li",
+    "text": "Kraken Tech",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1631,
+    "tag": "li",
+    "text": "Kraken is the most-loved operating system for energy. Powered by our Utility-Grade AI™ and deep industry know-how, we help utilities transform their technology and operations so they can lead the energy transition. Delivering better outcomes from generation through distribution to supply, Kraken powers 70+ million accounts worldwide, and is on a mission to make a big, green dent in the universe.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1639,
+    "tag": "li",
+    "text": "PostHog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1641,
+    "tag": "li",
+    "text": "PostHog is an all-in-one developer platform for building successful products. We provide product analytics, web analytics, session replay, error tracking, feature flags, experiments, surveys, LLM observability, data warehouse, CDP, workflows, logs, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1646,
+    "tag": "h2",
+    "text": "Django Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visuallyhidden"
+    }
+  },
+  {
+    "node_index": 1649,
+    "tag": "h3",
+    "text": "Learn More",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1651,
+    "tag": "li",
+    "text": "About Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1653,
+    "tag": "li",
+    "text": "Getting Started with Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1655,
+    "tag": "li",
+    "text": "Team Organization",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1657,
+    "tag": "li",
+    "text": "Django Software Foundation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1659,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1661,
+    "tag": "li",
+    "text": "Diversity Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1664,
+    "tag": "h3",
+    "text": "Get Involved",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1666,
+    "tag": "li",
+    "text": "Join a Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1668,
+    "tag": "li",
+    "text": "Contribute to Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1670,
+    "tag": "li",
+    "text": "Submit a Bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1672,
+    "tag": "li",
+    "text": "Report a Security Issue",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1674,
+    "tag": "li",
+    "text": "Individual membership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1677,
+    "tag": "h3",
+    "text": "Get Help",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1679,
+    "tag": "li",
+    "text": "Getting Help FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1681,
+    "tag": "li",
+    "text": "Django Discord",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1683,
+    "tag": "li",
+    "text": "Official Django Forum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1686,
+    "tag": "h3",
+    "text": "Follow Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1688,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1690,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1692,
+    "tag": "li",
+    "text": "Fediverse (Mastodon)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1694,
+    "tag": "li",
+    "text": "Bluesky",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1696,
+    "tag": "li",
+    "text": "LinkedIn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1698,
+    "tag": "li",
+    "text": "News RSS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1701,
+    "tag": "h3",
+    "text": "Support Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1703,
+    "tag": "li",
+    "text": "Sponsor Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1705,
+    "tag": "li",
+    "text": "Corporate membership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1707,
+    "tag": "li",
+    "text": "Official merchandise store",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1709,
+    "tag": "li",
+    "text": "Benevity Workplace Giving Program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1716,
+    "tag": "li",
+    "text": "Hosting by In-kind donors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1719,
+    "tag": "li",
+    "text": "Design by Threespot & andrevv",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "design"
+    }
+  },
+  {
+    "node_index": 1724,
+    "tag": "p",
+    "text": "© 2005-2026 Django Software Foundation and individual contributors. Django is a registered trademark of the Django Software Foundation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  }
+]

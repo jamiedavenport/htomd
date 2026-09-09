@@ -1,0 +1,585 @@
+[
+  {
+    "node_index": 34,
+    "tag": "p",
+    "text": "An official website of the United States government. Here's how you know we're official.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "text-center"
+    }
+  },
+  {
+    "node_index": 46,
+    "tag": "p",
+    "text": "A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 56,
+    "tag": "p",
+    "text": "A small lock or https:// means you’ve safely connected to a .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "home"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Ocean Facts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "facts"
+    }
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "TOPICS Explore All Topics Careers Deep Seabed Mining Economy Ecosystems Geodesy Hazards Navigation Observations Ocean Recreation Sea Level Rise Story Maps Tools",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown explore"
+    }
+  },
+  {
+    "node_index": 93,
+    "tag": "li",
+    "text": "Explore All Topics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Careers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Deep Seabed Mining",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "Economy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Ecosystems",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Geodesy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Hazards",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Observations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "Ocean",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Recreation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "Sea Level Rise",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Story Maps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 119,
+    "tag": "li",
+    "text": "Tools",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 121,
+    "tag": "li",
+    "text": "Education",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "education"
+    }
+  },
+  {
+    "node_index": 123,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "posts"
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "li",
+    "text": "Podcasts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "media-podcast"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Video",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "media-video"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Images",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "media-images"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "about"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "h1",
+    "text": "Tidal Currents 1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "title"
+    }
+  },
+  {
+    "node_index": 149,
+    "tag": "h2",
+    "text": "Currents Tutorial",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 153,
+    "tag": "p",
+    "text": "Tidal currents occur in conjunction with the rise and fall of the tide. The vertical motion of the tides near the shore causes the water to move horizontally, creating currents. When a tidal current moves toward the land and away from the sea, it “floods.” When it moves toward the sea away from the land, it “ebbs.” These tidal currents that ebb and flood in opposite directions are called “rectilinear” or “reversing” currents.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 154,
+    "tag": "p",
+    "text": "Rectilinear tidal currents, which typically are found in coastal rivers and estuaries, experience a “slack water” period of no velocity as they move from the ebbing to flooding stage, and vice versa. After a brief slack period, which can range from seconds to several minutes and generally coincides with high or low tide, the current switches direction and increases in velocity.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 174,
+    "tag": "p",
+    "text": "Tidal currents are the only type of current affected by the interactions of the Earth, sun, and moon. The moon’s force is much greater than that of the sun because it is 389 times closer to the Earth than the sun is. Tidal currents, just like tides, are affected by the different phases of the moon. When the moon is at full or new phases, tidal current velocities are strong and are called “spring currents.” When the moon is at first or third quarter phases, tidal current velocities are weak and are called “neap currents.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 179,
+    "tag": "h3",
+    "text": "Currents Lessons",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 184,
+    "tag": "li",
+    "text": "Welcome",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap1"
+    }
+  },
+  {
+    "node_index": 186,
+    "tag": "li",
+    "text": "Tidal Currents 1",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap2-1"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "Tidal Currents 2",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap2-2"
+    }
+  },
+  {
+    "node_index": 191,
+    "tag": "li",
+    "text": "Waves",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap3-1"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "Longshore Currents",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap3-2"
+    }
+  },
+  {
+    "node_index": 195,
+    "tag": "li",
+    "text": "Rip Currents",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap3-3"
+    }
+  },
+  {
+    "node_index": 197,
+    "tag": "li",
+    "text": "Upwelling",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap3-4"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "The Coriolis Effect",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap4-1"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Surface Ocean Currents",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap4-2"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "Boundary Currents",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap4-3"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "li",
+    "text": "The Ekman Spiral",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap4-4"
+    }
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Thermohaline Circulation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap5-1"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "The Global Conveyor Belt",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap5-2"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Effects of Climate Change",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap5-3"
+    }
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "Age of Exploration",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap6-1"
+    }
+  },
+  {
+    "node_index": 218,
+    "tag": "li",
+    "text": "What is a \"knot\"?",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap6-2"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "Shallow Water Drifter",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap6-3"
+    }
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "Deep Ocean Drifter",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap6-4"
+    }
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Current Profiler",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap6-5"
+    }
+  },
+  {
+    "node_index": 226,
+    "tag": "li",
+    "text": "Shore-based Current Meters",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap6-6"
+    }
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "How Currents Affect Our Lives?",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "chap7"
+    }
+  },
+  {
+    "node_index": 231,
+    "tag": "li",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "references"
+    }
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "Roadmap to Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "roadmap"
+    }
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "Subject Review",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "p",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "Report an error",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 294,
+    "tag": "li",
+    "text": "NOS Program Offices",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "li",
+    "text": "Media Inquiries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "Website Acknowledgements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "li",
+    "text": "Site Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 305,
+    "tag": "li",
+    "text": "Disclaimer",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 307,
+    "tag": "li",
+    "text": "Freedom of Information Act",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 314,
+    "tag": "li",
+    "text": "Information Quality",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 316,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 318,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 324,
+    "tag": "li",
+    "text": "National Ocean Service",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 326,
+    "tag": "li",
+    "text": "National Oceanic and Atmospheric Administration",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "li",
+    "text": "Department of Commerce",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

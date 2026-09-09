@@ -1,0 +1,294 @@
+[
+  {
+    "node_index": 65,
+    "tag": "h1",
+    "text": "National Institute ofGeneral Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "p",
+    "text": "NIH is moving the launch of its new website to the fall to ensure the best possible experience for everyone who relies on our websites for health information, research, funding opportunities, and other resources.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "p",
+    "text": "Get the Latest Updates and FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "h1",
+    "text": "National Institute of General Medical SciencesBiomedical Beat Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "h1",
+    "text": "Hunting Disease-Causing Genetic Variants",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "fbl-header node__title"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "figcaption",
+    "text": "Dr. Miriam Meisler. Credit: University of Michigan Medical School.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 123,
+    "tag": "p",
+    "text": "“In my lab, we’ve been gene hunters—starting with visible phenotypes, or characteristics, and searching for the responsible genes,” says Miriam Meisler, Ph.D., the Myron Levine Distinguished University Professor at the University of Michigan Medical School in Ann Arbor. During her career, Dr. Meisler has identified the functions of multiple genes and has shown how genetic variants, or mutations, can impact human health.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 133,
+    "tag": "p",
+    "text": "Becoming a Scientist",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 135,
+    "tag": "p",
+    "text": "Dr. Meisler had a strong interest in science as a child, which she credits to “growing up at the time of Sputnik” and receiving encouragement from her father and excellent science teachers in high school and college. However, when she started her undergraduate studies at Antioch College in Yellow Spring, Ohio, she decided to explore the humanities and social sciences. After 2 years of sociology and anthropology classes, she returned to biomedical science and, at a student swap, symbolically traded her dictionary for a slide rule—a mechanical device used to do calculations that was eventually replaced by the electric calculator.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 138,
+    "tag": "figcaption",
+    "text": "Dr. Meisler as a graduate student. Credit: Courtesy of Dr. Miriam Meisler.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "p",
+    "text": "Dr. Meisler completed her undergraduate work at Queens College in New York City, where a lecturer inspired her to focus on the rapidly developing fields of cell biology and genetics. She earned her Ph.D. from Ohio State University in Columbus studying how genes are regulated by chemical changes to histones. Dr. Meisler then took a postdoctoral position in the lab of Kenneth Paigen, Ph.D., a geneticist at Roswell Park Memorial Institute (now Roswell Park Comprehensive Cancer Center) in Buffalo, New York. Dr. Paigen used mice in research because of the similarity of their genes to the human genome and the availability of tools to connect specific genes with their role in physiology and health.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 145,
+    "tag": "p",
+    "text": "“At the time, we didn’t have a complete list of human genes as we do today. Instead, we had a ‘large black box’ with a few identified components,” says Dr. Meisler. “I became fascinated with mice that had abnormal phenotypes that could be traced directly to specific genes. They provided a way into that black box.” She continued with this approach, investigating genes using mice as research organisms, when she started her independent research career as a faculty member at the State University of New York at Buffalo and later at the University of Michigan Medical School.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "p",
+    "text": "From Phenotype to Therapy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "p",
+    "text": "One major achievement of Dr. Meisler’s lab was linking a variation in a gene called SCN8A to a mouse phenotype in 1995. Like many of Dr. Meisler’s discoveries, this one began by studying mice with specific features—in this case, mice that became paralyzed at 2 weeks of age and died a week later—and then determining which gene was responsible.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 154,
+    "tag": "figcaption",
+    "text": "Channel proteins, including sodium channels, act as tunnels through cell membranes. Credit: Judith Stoffer.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 155,
+    "tag": "p",
+    "text": "Through meticulous work, Dr. Meisler’s lab characterized the gene SCN8A. Its genetic sequence encodes a sodium channel protein—a structure in cell membranes that sodium ions travel through to send signals. Dr. Meisler found that a specific mouse SCN8A genetic sequence variant disrupted the function of the sodium channel. She reviewed work by other scientists and found three additional mouse lines with different variations in SCN8A that resulted in neurological disorders ranging from mild tremors to involuntary muscle movements to complete paralysis.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 162,
+    "tag": "p",
+    "text": "Dr. Meisler then began screening people with similar neurological symptoms to see if SCN8A sequence variants were correlated with disease in humans. Though she searched extensively, she found only one family with an SCN8A variant in 2006. Then in 2012, a phone call from Michael Hammer, Ph.D., a geneticist at the University of Arizona, Tucson, changed everything. Dr. Hammer’s daughter Shay experienced seizures and other neurological symptoms, and genome sequencing determined that she had a variation in SCN8A that differed from those Dr. Meisler had previously studied. When he asked Dr. Meisler if she would help investigate the variant, she replied, “I’ve been waiting for this call for nearly 20 years!”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "figcaption",
+    "text": "Left to right: postdoctoral researchers Guy Lenk, Jacy Wagnon, and Rosie Bunton-Stasyshyn from Dr. Meisler’s lab on the inaugural International SCN8A Awareness Day, February 9, 2017, which would’ve been Shay Hammer’s 21st birthday. Credit: Courtesy of Dr. Miriam Meisler.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "p",
+    "text": "Dr. Meisler introduced the newly identified SCN8A variant into mice and observed that, like the human phenotype, they also developed seizures. The sequence variation caused the sodium channels to be overactive, leading to the realization that variants in the SCN8A gene that result in excess channel activity could cause disease. As of 2022, more than 600 people with variation in SCN8A have been identified, according to Dr. Meisler. These individuals experience early-onset severe epilepsy that doesn’t respond well to standard medications. Dr. Meisler’s lab is now working to develop a treatment for these patients using CRISPR gene therapy, a powerful approach to gene therapy with recent successes in patients with sickle cell disease and other rare inherited disorders.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 177,
+    "tag": "p",
+    "text": "Using an approach similar to her work with the SCN8A gene, Dr. Meisler identified variations in the mouse FIG4 gene. This discovery has allowed researchers to genetically diagnose human disorders including a type of Charcot-Marie-Tooth disease, and Dr. Meisler’s lab is working toward developing therapies for these FIG4 disorders. Another high point was the identification of the first epilepsy-associated variants in the sodium channel gene SCN1A, now recognized as a significant factor for genetic epilepsy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "p",
+    "text": "Dr. Meisler salutes the dedicated group of graduate students, postdoctoral fellows, and senior researchers who have worked with her on these projects for many years, as well as the continued support from the National Institutes of Health that made their work possible. “In my lifetime, we progressed from not knowing the structure of DNA to knowing the entire sequence of the human genome, with the development of powerful tools to understand gene function and to intervene in genetic diseases,” she reflected. “It’s been an exciting privilege to be involved in genetic research during this amazing era.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 185,
+    "tag": "p",
+    "text": "Dr. Meisler’s research is supported by NIGMS grant R01GM024872 and National Institute of Neurological Disorders and Stroke grant R01NS034509.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 206,
+    "tag": "h2",
+    "text": "About the Author",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "h3",
+    "text": "Abbey Bigler",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-title"
+    }
+  },
+  {
+    "node_index": 239,
+    "tag": "p",
+    "text": "Connect With Us: Linkedin YouTube",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "h6 social my-2"
+    }
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "Your Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 255,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "U.S. Department of Health and Human Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 266,
+    "tag": "li",
+    "text": "National Institutes of Health: NIH...Turning Discovery Into Health®",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 268,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 270,
+    "tag": "li",
+    "text": "National Institute of General Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "45 Center Drive MSC 6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 272,
+    "tag": "li",
+    "text": "Bethesda, MD 20892-6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "301-496-7301",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 277,
+    "tag": "p",
+    "text": "Some content included on this platform includes historical information about programs or activities that have since been discontinued.",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

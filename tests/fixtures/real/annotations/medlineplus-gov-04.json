@@ -1,0 +1,531 @@
+[
+  {
+    "node_index": 47,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 48,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 56,
+    "tag": "p",
+    "text": "Official websites use .govA .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 63,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPSA lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "Health Topics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Drugs & Supplements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Genetics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "Medical Tests",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 93,
+    "tag": "li",
+    "text": "Medical Encyclopedia",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "About MedlinePlus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "li",
+    "text": "About MedlinePlus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "What's New",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Site Map",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "Customer Support",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 125,
+    "tag": "li",
+    "text": "Health Topics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Drugs & Supplements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Genetics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "Medical Tests",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Medical Encyclopedia",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "h1",
+    "text": "What is a cell?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "p",
+    "text": "Cells are the basic building blocks of all living things. The human body is composed of trillions of cells. They provide structure for the body, take in nutrients from food, convert those nutrients into energy, and carry out specialized functions. Cells also contain the body’s hereditary material and can make copies of themselves.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 172,
+    "tag": "p",
+    "text": "Cells have many parts, each with a different function. Some of these parts, called organelles, are specialized structures that perform certain tasks within the cell. Human cells contain the following major parts, listed in alphabetical order:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 174,
+    "tag": "dt",
+    "text": "Cytoplasm",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 175,
+    "tag": "dd",
+    "text": "Within cells, the cytoplasm is made up of a jelly-like fluid (called the cytosol) and other structures that surround the nucleus.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 176,
+    "tag": "p",
+    "text": "Within cells, the cytoplasm is made up of a jelly-like fluid (called the cytosol) and other structures that surround the nucleus.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 179,
+    "tag": "dt",
+    "text": "Cytoskeleton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 180,
+    "tag": "dd",
+    "text": "The cytoskeleton is a network of long fibers that make up the cell’s structural framework. The cytoskeleton has several critical functions, including determining cell shape, participating in cell division, and allowing cells to move. It also provides a track-like system that directs the movement of organelles and other substances within cells.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "p",
+    "text": "The cytoskeleton is a network of long fibers that make up the cell’s structural framework. The cytoskeleton has several critical functions, including determining cell shape, participating in cell division, and allowing cells to move. It also provides a track-like system that directs the movement of organelles and other substances within cells.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 182,
+    "tag": "dt",
+    "text": "Endoplasmic reticulum (ER)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "dd",
+    "text": "This organelle helps process molecules created by the cell. The endoplasmic reticulum also transports these molecules to their specific destinations either inside or outside the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 184,
+    "tag": "p",
+    "text": "This organelle helps process molecules created by the cell. The endoplasmic reticulum also transports these molecules to their specific destinations either inside or outside the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 187,
+    "tag": "dt",
+    "text": "Golgi apparatus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 188,
+    "tag": "dd",
+    "text": "The Golgi apparatus packages molecules processed by the endoplasmic reticulum to be transported out of the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 189,
+    "tag": "p",
+    "text": "The Golgi apparatus packages molecules processed by the endoplasmic reticulum to be transported out of the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "dt",
+    "text": "Lysosomes and peroxisomes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 193,
+    "tag": "dd",
+    "text": "These organelles are the recycling center of the cell. They digest foreign bacteria that invade the cell, rid the cell of toxic substances, and recycle worn-out cell components.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "p",
+    "text": "These organelles are the recycling center of the cell. They digest foreign bacteria that invade the cell, rid the cell of toxic substances, and recycle worn-out cell components.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 197,
+    "tag": "dt",
+    "text": "Mitochondria",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "dd",
+    "text": "Mitochondria are complex organelles that convert energy from food into a form that the cell can use. They have their own genetic material, separate from the DNA in the nucleus, and can make copies of themselves.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 199,
+    "tag": "p",
+    "text": "Mitochondria are complex organelles that convert energy from food into a form that the cell can use. They have their own genetic material, separate from the DNA in the nucleus, and can make copies of themselves.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 202,
+    "tag": "dt",
+    "text": "Nucleus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 203,
+    "tag": "dd",
+    "text": "The nucleus serves as the cell’s command center, sending directions to the cell to grow, mature, divide, or die. It also houses DNA (deoxyribonucleic acid), the cell’s hereditary material. The nucleus is surrounded by a membrane called the nuclear envelope, which protects the DNA and separates the nucleus from the rest of the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "p",
+    "text": "The nucleus serves as the cell’s command center, sending directions to the cell to grow, mature, divide, or die. It also houses DNA (deoxyribonucleic acid), the cell’s hereditary material. The nucleus is surrounded by a membrane called the nuclear envelope, which protects the DNA and separates the nucleus from the rest of the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 207,
+    "tag": "dt",
+    "text": "Plasma membrane",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "dd",
+    "text": "The plasma membrane is the outer lining of the cell. It separates the cell from its environment and allows materials to enter and leave the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "p",
+    "text": "The plasma membrane is the outer lining of the cell. It separates the cell from its environment and allows materials to enter and leave the cell.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 212,
+    "tag": "dt",
+    "text": "Ribosomes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 213,
+    "tag": "dd",
+    "text": "Ribosomes are organelles that process the cell’s genetic instructions to create proteins. These organelles can float freely in the cytoplasm or be connected to the endoplasmic reticulum (see above).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "p",
+    "text": "Ribosomes are organelles that process the cell’s genetic instructions to create proteins. These organelles can float freely in the cytoplasm or be connected to the endoplasmic reticulum (see above).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "h2",
+    "text": "For more information about cells:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "p",
+    "text": "The National Human Genome Research Institute's Talking Glossary provides information about cells.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "p",
+    "text": "Arizona State University's \"Ask a Biologist\" provides a description and illustration of each of the cell’s organelles.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "h2",
+    "text": "Topics in the Cells and DNA chapter",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "What is a cell?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "What is DNA?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "What is a gene?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "What is a chromosome?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "How many chromosomes do people have?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "What is noncoding DNA?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "p",
+    "text": "Other chapters in Help Me Understand Genetics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "p",
+    "text": "The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "li",
+    "text": "About MedlinePlus",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "li",
+    "text": "What's New",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "li",
+    "text": "Site Map",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 265,
+    "tag": "li",
+    "text": "Customer Support",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Subscribe to RSS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 272,
+    "tag": "li",
+    "text": "Connect with NLM",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "NLM Web Policies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "Copyright",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 282,
+    "tag": "li",
+    "text": "Guidelines for Links",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 284,
+    "tag": "li",
+    "text": "Viewers & Players",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 286,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 288,
+    "tag": "li",
+    "text": "MedlinePlus Connect for EHRs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 290,
+    "tag": "li",
+    "text": "For Developers",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

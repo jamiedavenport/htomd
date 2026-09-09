@@ -1,0 +1,303 @@
+[
+  {
+    "node_index": 65,
+    "tag": "h1",
+    "text": "National Institute ofGeneral Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "p",
+    "text": "NIH is moving the launch of its new website to the fall to ensure the best possible experience for everyone who relies on our websites for health information, research, funding opportunities, and other resources.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "p",
+    "text": "Get the Latest Updates and FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "h1",
+    "text": "National Institute of General Medical SciencesBiomedical Beat Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "h1",
+    "text": "Slideshow: Creepy Crawlies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "fbl-header node__title"
+    }
+  },
+  {
+    "node_index": 120,
+    "tag": "p",
+    "text": "This time of year, many creepy crawlies take center stage to frighten people of all ages. To celebrate Halloween, we've conjured up a slideshow of fascinating but spooky species that NIGMS-funded scientists study. Some of these creatures drink blood like vampires, while others—frogs, worms, flies, and salamanders—are perfect cauldron ingredients for a witch's brew. Check out the slideshow—if you dare!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 121,
+    "tag": "p",
+    "text": "For other less frightening images, visit our image and video gallery to find scientific photos, illustrations, and videos.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 130,
+    "tag": "figcaption",
+    "text": "Credit: Gantz Lab, University of California, San Diego.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align: center"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "figcaption",
+    "text": "Credit: Igor Siwanowicz, Janelia Farm Research Campus, Howard Hughes Medical Institute, Ashburn, VA.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align: center"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "figcaption",
+    "text": "Credit: Jay Hirsh, University of Virginia.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align: center"
+    }
+  },
+  {
+    "node_index": 142,
+    "tag": "figcaption",
+    "text": "Credit: Michael Shribak, Marine Biological Laboratory/University of Chicago, and Fred Chang, University of California, San Francisco.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align: center"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "figcaption",
+    "text": "Credit: Michael Klymkowsky, University of Colorado, Boulder.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align: center"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "figcaption",
+    "text": "Credit: Marko Pende, MDI Biological Laboratory; MDI Biological Laboratory Light Microscopy Facility; and the Murawala Lab, MDI Biological Laboratory and Hannover Medical School.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align: center"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "p",
+    "text": "This eerie video shows Culex quinquefasciatus mosquito larvae swimming in water. By feeding on blood, this species can spread several diseases, including West Nile virus. The researchers who captured this video used CRISPR (clustered regularly interspaced short palindromic repeats)—a tool adapted from bacteria that can change DNA or RNA—to edit genes of the mosquito larvae. These genetic changes could help stop the mosquitoes from spreading pathogens.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "txt0",
+      "class": "txt-container show"
+    }
+  },
+  {
+    "node_index": 161,
+    "tag": "p",
+    "text": "This mysterious image shows the mouth parts of a lone star tick, a common parasite in the central and eastern United States that feeds on the blood of hosts. The center part of the mouth is covered in barbs that help the tick stay attached to the host while feeding. Although this tick species doesn’t typically carry the Lyme disease bacterium carried by some other ticks, it can cause a potentially life-threatening condition called alpha-gal syndrome, which makes people allergic to meat from mammals.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "txt1",
+      "class": "txt-container"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "p",
+    "text": "The fruit fly (Drosophila melanogaster) is one of the most common research organisms used for basic science due to its low cost and short lifecycle that allows scientists to observe all life stages quickly. Thanks to green fluorescent protein (GFP), this ghoulish fruit fly’s surface and sensory neurons glow. Scientists use GFP to tag proteins they want to study, and in this fly, they’ve tagged a protein involved in regulating circadian rhythm. GFP tagging allows scientists to see where a protein is expressed and how it interacts with other proteins.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "txt2",
+      "class": "txt-container"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "p",
+    "text": "This real-time, spine-chilling footage shows a tiny roundworm (Caenorhabditis elegans) trapped by a fungus (Arthrobotrys dactyloides). This carnivorous fungus makes ring traps in response to the presence of C. elegans. When a worm enters the ring, the fungus rapidly constricts so that the worm can’t move away, allowing the fungus to eat the worm.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "txt3",
+      "class": "txt-container"
+    }
+  },
+  {
+    "node_index": 179,
+    "tag": "p",
+    "text": "Boo! This ghostly image of a two-headed Xenopus laevis tadpole shows the result of excess RNA that encodes an important cell-signaling protein involved in embryonic development. Researchers often use X. laevis, commonly known as the African clawed frog, to study the development of embryos and organs, as well as the causes of human diseases.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "txt4",
+      "class": "txt-container"
+    }
+  },
+  {
+    "node_index": 184,
+    "tag": "p",
+    "text": "These peculiar amphibians, called axolotls, glow purple and green because researchers genetically modified various parts of their nervous systems for easier observation. Scientists study axolotls, which are a type of salamander, due to their extensive regenerative abilities. These salamanders can regrow tails, limbs, spinal cords, brains, and more.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "txt5",
+      "class": "txt-container"
+    }
+  },
+  {
+    "node_index": 216,
+    "tag": "h2",
+    "text": "About the Author",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "h3",
+    "text": "Heather Hayes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-title"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "p",
+    "text": "Connect With Us: Linkedin YouTube",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "h6 social my-2"
+    }
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 259,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "li",
+    "text": "Your Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 265,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 274,
+    "tag": "li",
+    "text": "U.S. Department of Health and Human Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "National Institutes of Health: NIH...Turning Discovery Into Health®",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "National Institute of General Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "45 Center Drive MSC 6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 282,
+    "tag": "li",
+    "text": "Bethesda, MD 20892-6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 283,
+    "tag": "li",
+    "text": "301-496-7301",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 287,
+    "tag": "p",
+    "text": "Some content included on this platform includes historical information about programs or activities that have since been discontinued.",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "node_index": 52,
+    "tag": "li",
+    "text": "Main Page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-mainpage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Community portal",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-portal",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 58,
+    "tag": "li",
+    "text": "Central discussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-scriptorium",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Recent changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-recentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "li",
+    "text": "Subject index",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-subjectindex",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Authors",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-categoryauthors",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 70,
+    "tag": "li",
+    "text": "Random work",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomwork",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Random author",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomauthor",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "Random transcription",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomindex",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-help",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Special pages",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-specialpages",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Donate",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 147,
+    "tag": "li",
+    "text": "Donate",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "h1",
+    "text": "The Road Not Taken",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "firstHeading",
+      "class": "firstHeading mw-first-heading"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "Page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-nstab-main",
+      "class": "selected mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Discussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-talk",
+      "class": "new mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view",
+      "class": "selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 218,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view-more",
+      "class": "selected mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "What links here",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-whatlinkshere",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Related changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-recentchangeslinked",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 260,
+    "tag": "li",
+    "text": "Permanent link",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-permalink",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 263,
+    "tag": "li",
+    "text": "Page information",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-info",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 266,
+    "tag": "li",
+    "text": "Cite this page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-cite",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Get shortened URL",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-urlshortener",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "Printable version",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-print",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 279,
+    "tag": "li",
+    "text": "Download EPUB",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-epub",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 282,
+    "tag": "li",
+    "text": "Download MOBI",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-mobi",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "Download PDF",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-pdf",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 288,
+    "tag": "li",
+    "text": "Other formats",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-choose",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 295,
+    "tag": "li",
+    "text": "Wikimedia Commons",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-commons mw-list-item"
+    }
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikipedia mw-list-item"
+    }
+  },
+  {
+    "node_index": 301,
+    "tag": "li",
+    "text": "Wikidata item",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-wikibase",
+      "class": "wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"
+    }
+  },
+  {
+    "node_index": 352,
+    "tag": "li",
+    "text": "related portals: American literature",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sisitem"
+    }
+  },
+  {
+    "node_index": 359,
+    "tag": "li",
+    "text": "sister projects: Wikipedia article, Commons category, Wikidata item",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sisitem"
+    }
+  },
+  {
+    "node_index": 369,
+    "tag": "p",
+    "text": "Originally published in 1915, but revised in the 1916 edition of Mountain Interval.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 380,
+    "tag": "li",
+    "text": "\"The Road Not Taken\", from Mountain Interval (1916, rev. 1920)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 384,
+    "tag": "li",
+    "text": "\"The Road Not Taken\", from Collected Poems of Robert Frost (1930)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 403,
+    "tag": "p",
+    "text": "This work is in the public domain in the United States because it was published before January 1, 1931.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 408,
+    "tag": "p",
+    "text": "The longest-living author of this work died in 1963, so this work is in the public domain in countries and areas where the copyright term is the author's life plus 62 years or less. This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 422,
+    "tag": "p",
+    "text": "Public domainPublic domainfalsefalse",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 434,
+    "tag": "th",
+    "text": "Authority control",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Authority_controlCategory:Main_pages_with_authority_control_data",
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 436,
+    "tag": "td",
+    "text": "VIAF: 2146030490435860840 GND: 1095690361 Open Library: OL240169W Freebase: /m/052c7k WorldCat Identities: viaf-2146030490435860840 Wikidata item: Q1933024 English Wikisource: 3687386",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 439,
+    "tag": "li",
+    "text": "VIAF: 2146030490435860840",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 443,
+    "tag": "li",
+    "text": "GND: 1095690361",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 447,
+    "tag": "li",
+    "text": "Open Library: OL240169W",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 451,
+    "tag": "li",
+    "text": "Freebase: /m/052c7k",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 455,
+    "tag": "li",
+    "text": "WorldCat Identities: viaf-2146030490435860840",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 459,
+    "tag": "li",
+    "text": "Wikidata item: Q1933024",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 463,
+    "tag": "li",
+    "text": "English Wikisource: 3687386",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 475,
+    "tag": "li",
+    "text": "Versions pages",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 477,
+    "tag": "li",
+    "text": "PD-old-60-US",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 479,
+    "tag": "li",
+    "text": "American poetry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 483,
+    "tag": "li",
+    "text": "Pages with noyear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 485,
+    "tag": "li",
+    "text": "Pages with noyearcat",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 487,
+    "tag": "li",
+    "text": "Headers applying DefaultSort key",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 489,
+    "tag": "li",
+    "text": "Main pages with authority control data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 491,
+    "tag": "li",
+    "text": "Pages using authority control with parameters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 496,
+    "tag": "li",
+    "text": "This page was last edited on 6 February 2026, at 20:49.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-lastmod"
+    }
+  },
+  {
+    "node_index": 497,
+    "tag": "li",
+    "text": "Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-copyright"
+    }
+  },
+  {
+    "node_index": 502,
+    "tag": "li",
+    "text": "Privacy policy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-privacy"
+    }
+  },
+  {
+    "node_index": 504,
+    "tag": "li",
+    "text": "About Wikisource",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-about"
+    }
+  },
+  {
+    "node_index": 506,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-disclaimers"
+    }
+  },
+  {
+    "node_index": 508,
+    "tag": "li",
+    "text": "Legal & safety contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-legal-safety-contacts"
+    }
+  },
+  {
+    "node_index": 510,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-wm-codeofconduct"
+    }
+  },
+  {
+    "node_index": 512,
+    "tag": "li",
+    "text": "Developers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-developers"
+    }
+  },
+  {
+    "node_index": 514,
+    "tag": "li",
+    "text": "Statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-statslink"
+    }
+  },
+  {
+    "node_index": 516,
+    "tag": "li",
+    "text": "Cookie statement",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-cookiestatement"
+    }
+  },
+  {
+    "node_index": 518,
+    "tag": "li",
+    "text": "Mobile view",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-mobileview"
+    }
+  }
+]

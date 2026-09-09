@@ -1,0 +1,1286 @@
+[
+  {
+    "node_index": 69,
+    "tag": "h3",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 72,
+    "tag": "li",
+    "text": "3. An Informal Introduction to Python 3.1. Using Python as a Calculator 3.1.1. Numbers 3.1.2. Text 3.1.3. Lists 3.2. First Steps Towards Programming",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "3.1. Using Python as a Calculator 3.1.1. Numbers 3.1.2. Text 3.1.3. Lists",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 78,
+    "tag": "li",
+    "text": "3.1.1. Numbers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 80,
+    "tag": "li",
+    "text": "3.1.2. Text",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "3.1.3. Lists",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "3.2. First Steps Towards Programming",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 88,
+    "tag": "p",
+    "text": "2. Using the Python Interpreter",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 93,
+    "tag": "p",
+    "text": "4. More Control Flow Tools",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "h3",
+    "text": "This page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 100,
+    "tag": "li",
+    "text": "Report a bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 102,
+    "tag": "li",
+    "text": "Improve this page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 104,
+    "tag": "li",
+    "text": "Show source",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 119,
+    "tag": "li",
+    "text": "Python »",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 125,
+    "tag": "li",
+    "text": "3.14.7 Documentation »",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cpython-language-and-version"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "The Python Tutorial »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-1"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "3. An Informal Introduction to Python",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "|",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "Theme Auto Light Dark |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 149,
+    "tag": "h1",
+    "text": "3. An Informal Introduction to Python¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "p",
+    "text": "In the following examples, input and output are distinguished by the presence or absence of prompts (>>> and …): to repeat the example, you must type everything after the prompt, when the prompt appears; lines that do not begin with a prompt are output from the interpreter. Note that a secondary prompt on a line by itself in an example means you must type a blank line; this is used to end a multi-line command.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 157,
+    "tag": "p",
+    "text": "You can use the “Copy” button (it appears in the upper-right corner when hovering over or tapping a code example), which strips prompts and omits output, to copy and paste the input lines into your interpreter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "p",
+    "text": "Many of the examples in this manual, even those entered at the interactive prompt, include comments. Comments in Python start with the hash character, #, and extend to the end of the physical line. A comment may appear at the start of a line or following whitespace or code, but not within a string literal. A hash character within a string literal is just a hash character. Since comments are to clarify code and are not interpreted by Python, they may be omitted when typing in examples.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "index-0"
+    }
+  },
+  {
+    "node_index": 161,
+    "tag": "p",
+    "text": "Some examples:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "pre",
+    "text": "# this is the first comment spam = 1 # and this is the second comment # ... and now a third! text = \"# This is not a comment because it's inside quotes.\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 177,
+    "tag": "h2",
+    "text": "3.1. Using Python as a Calculator¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 180,
+    "tag": "p",
+    "text": "Let’s try some simple Python commands. Start the interpreter and wait for the primary prompt, >>>. (It shouldn’t take long.)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 185,
+    "tag": "h3",
+    "text": "3.1.1. Numbers¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 188,
+    "tag": "p",
+    "text": "The interpreter acts as a simple calculator: you can type an expression into it and it will write the value. Expression syntax is straightforward: the operators +, -, * and / can be used to perform arithmetic; parentheses (()) can be used for grouping. For example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "pre",
+    "text": ">>> 2 + 2 4 >>> 50 - 5*6 20 >>> (50 - 5*6) / 4 5.0 >>> 8 / 5 # division always returns a floating-point number 1.6",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 232,
+    "tag": "p",
+    "text": "The integer numbers (e.g. 2, 4, 20) have type int, the ones with a fractional part (e.g. 5.0, 1.6) have type float. We will see more about numeric types later in the tutorial.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 249,
+    "tag": "p",
+    "text": "Division (/) always returns a float. To do floor division and get an integer result you can use the // operator; to calculate the remainder you can use %:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "pre",
+    "text": ">>> 17 / 3 # classic division returns a float 5.666666666666667 >>> >>> 17 // 3 # floor division discards the fractional part 5 >>> 17 % 3 # the % operator returns the remainder of the division 2 >>> 5 * 3 + 2 # floored quotient * divisor + remainder 17",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "p",
+    "text": "With Python, it is possible to use the ** operator to calculate powers [1]:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 297,
+    "tag": "pre",
+    "text": ">>> 5 ** 2 # 5 squared 25 >>> 2 ** 7 # 2 to the power of 7 128",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "p",
+    "text": "The equal sign (=) is used to assign a value to a variable. Afterwards, no result is displayed before the next interactive prompt:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 316,
+    "tag": "pre",
+    "text": ">>> width = 20 >>> height = 5 * 9 >>> width * height 900",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 333,
+    "tag": "p",
+    "text": "If a variable is not “defined” (assigned a value), trying to use it will give you an error:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 336,
+    "tag": "pre",
+    "text": ">>> n # try to access an undefined variable Traceback (most recent call last): File \"<stdin>\", line 1, in <module> NameError: name 'n' is not defined",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 347,
+    "tag": "p",
+    "text": "There is full support for floating point; operators with mixed type operands convert the integer operand to floating point:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "pre",
+    "text": ">>> 4 * 3.75 - 1 14.0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 359,
+    "tag": "p",
+    "text": "In interactive mode, the last printed expression is assigned to the variable _. This means that when you are using Python as a desk calculator, it is somewhat easier to continue calculations, for example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 364,
+    "tag": "pre",
+    "text": ">>> tax = 12.5 / 100 >>> price = 100.50 >>> price * tax 12.5625 >>> price + _ 113.0625 >>> round(_, 2) 113.06",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 394,
+    "tag": "p",
+    "text": "This variable should be treated as read-only by the user. Don’t explicitly assign a value to it — you would create an independent local variable with the same name masking the built-in variable with its magic behavior.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 395,
+    "tag": "p",
+    "text": "In addition to int and float, Python supports other types of numbers, such as Decimal and Fraction. Python also has built-in support for complex numbers, and uses the j or J suffix to indicate the imaginary part (e.g. 3+5j).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 418,
+    "tag": "h3",
+    "text": "3.1.2. Text¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 421,
+    "tag": "p",
+    "text": "Python can manipulate text (represented by type str, so-called “strings”) as well as numbers. This includes characters “!”, words “rabbit”, names “Paris”, sentences “Got your back.”, etc. “Yay! :)”. They can be enclosed in single quotes ('...') or double quotes (\"...\") with the same result [2].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 447,
+    "tag": "pre",
+    "text": ">>> 'spam eggs' # single quotes 'spam eggs' >>> \"Paris rabbit got your back :)! Yay!\" # double quotes 'Paris rabbit got your back :)! Yay!' >>> '1975' # digits and numerals enclosed in quotes are also strings '1975'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 461,
+    "tag": "p",
+    "text": "To quote a quote, we need to “escape” it, by preceding it with \\. Alternatively, we can use the other type of quotation marks:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 466,
+    "tag": "pre",
+    "text": ">>> 'doesn\\'t' # use \\' to escape the single quote... \"doesn't\" >>> \"doesn't\" # ...or use double quotes instead \"doesn't\" >>> '\"Yes,\" they said.' '\"Yes,\" they said.' >>> \"\\\"Yes,\\\" they said.\" '\"Yes,\" they said.' >>> '\"Isn\\'t,\" they said.' '\"Isn\\'t,\" they said.'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 493,
+    "tag": "p",
+    "text": "In the Python shell, the string definition and output string can look different. The print() function produces a more readable output, by omitting the enclosing quotes and by printing escaped and special characters:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 499,
+    "tag": "pre",
+    "text": ">>> s = 'First line.\\nSecond line.' # \\n means newline >>> s # without print(), special characters are included in the string 'First line.\\nSecond line.' >>> print(s) # with print(), special characters are interpreted, so \\n produces new line First line. Second line.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 520,
+    "tag": "p",
+    "text": "If you don’t want characters prefaced by \\ to be interpreted as special characters, you can use raw strings by adding an r before the first quote:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 528,
+    "tag": "pre",
+    "text": ">>> print('C:\\this\\name') # here \\t means tab, \\n means newline C: his ame >>> print(r'C:\\this\\name') # note the r before the quote C:\\this\\name",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 550,
+    "tag": "p",
+    "text": "There is one subtle aspect to raw strings: a raw string may not end in an odd number of \\ characters; see the FAQ entry for more information and workarounds.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 555,
+    "tag": "p",
+    "text": "String literals can span multiple lines. One way is using triple-quotes: \"\"\"...\"\"\" or '''...'''. End-of-line characters are automatically included in the string, but it’s possible to prevent this by adding a \\ at the end of the line. In the following example, the initial newline is not included:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 564,
+    "tag": "pre",
+    "text": ">>> print(\"\"\"\\ ... Usage: thingy [OPTIONS] ... -h Display this usage message ... -H hostname Hostname to connect to ... \"\"\") Usage: thingy [OPTIONS] -h Display this usage message -H hostname Hostname to connect to >>>",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 584,
+    "tag": "p",
+    "text": "Strings can be concatenated (glued together) with the + operator, and repeated with *:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 591,
+    "tag": "pre",
+    "text": ">>> # 3 times 'un', followed by 'ium' >>> 3 * 'un' + 'ium' 'unununium'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 602,
+    "tag": "p",
+    "text": "Two or more string literals (i.e. the ones enclosed between quotes) next to each other are automatically concatenated.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 606,
+    "tag": "pre",
+    "text": ">>> 'Py' 'thon' 'Python'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 612,
+    "tag": "p",
+    "text": "This feature is particularly useful when you want to break long strings:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 615,
+    "tag": "pre",
+    "text": ">>> text = ('Put several strings within parentheses ' ... 'to have them joined together.') >>> text 'Put several strings within parentheses to have them joined together.'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 628,
+    "tag": "p",
+    "text": "This only works with two literals though, not with variables or expressions:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 631,
+    "tag": "pre",
+    "text": ">>> prefix = 'Py' >>> prefix 'thon' # can't concatenate a variable and a string literal File \"<stdin>\", line 1 prefix 'thon' ^^^^^^ SyntaxError: invalid syntax >>> ('un' * 3) 'ium' File \"<stdin>\", line 1 ('un' * 3) 'ium' ^^^^^ SyntaxError: invalid syntax",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 670,
+    "tag": "p",
+    "text": "If you want to concatenate variables or a variable and a literal, use +:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 675,
+    "tag": "pre",
+    "text": ">>> prefix + 'thon' 'Python'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 682,
+    "tag": "p",
+    "text": "Strings can be indexed (subscripted), with the first character having index 0. There is no separate character type; a character is simply a string of size one:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 686,
+    "tag": "pre",
+    "text": ">>> word = 'Python' >>> word[0] # character in position 0 'P' >>> word[5] # character in position 5 'n'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 706,
+    "tag": "p",
+    "text": "Indices may also be negative numbers, to start counting from the right:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 709,
+    "tag": "pre",
+    "text": ">>> word[-1] # last character 'n' >>> word[-2] # second-last character 'o' >>> word[-6] 'P'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 734,
+    "tag": "p",
+    "text": "Note that since -0 is the same as 0, negative indices start from -1.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 735,
+    "tag": "p",
+    "text": "In addition to indexing, slicing is also supported. While indexing is used to obtain individual characters, slicing allows you to obtain a substring:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 740,
+    "tag": "pre",
+    "text": ">>> word[0:2] # characters from position 0 (included) to 2 (excluded) 'Py' >>> word[2:5] # characters from position 2 (included) to 5 (excluded) 'tho'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 760,
+    "tag": "p",
+    "text": "Slice indices have useful defaults; an omitted first index defaults to zero, an omitted second index defaults to the size of the string being sliced.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 763,
+    "tag": "pre",
+    "text": ">>> word[:2] # character from the beginning to position 2 (excluded) 'Py' >>> word[4:] # characters from position 4 (included) to the end 'on' >>> word[-2:] # characters from the second-last (included) to the end 'on'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 787,
+    "tag": "p",
+    "text": "Note how the start is always included, and the end always excluded. This makes sure that s[:i] + s[i:] is always equal to s:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 796,
+    "tag": "pre",
+    "text": ">>> word[:2] + word[2:] 'Python' >>> word[:4] + word[4:] 'Python'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 820,
+    "tag": "p",
+    "text": "One way to remember how slices work is to think of the indices as pointing between characters, with the left edge of the first character numbered 0. Then the right edge of the last character of a string of n characters has index n, for example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 826,
+    "tag": "pre",
+    "text": "+---+---+---+---+---+---+ | P | y | t | h | o | n | +---+---+---+---+---+---+ 0 1 2 3 4 5 6 -6 -5 -4 -3 -2 -1",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 862,
+    "tag": "p",
+    "text": "The first row of numbers gives the position of the indices 0…6 in the string; the second row gives the corresponding negative indices. The slice from i to j consists of all characters between the edges labeled i and j, respectively.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 867,
+    "tag": "p",
+    "text": "For non-negative indices, the length of a slice is the difference of the indices, if both are within bounds. For example, the length of word[1:3] is 2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 870,
+    "tag": "p",
+    "text": "Attempting to use an index that is too large will result in an error:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 873,
+    "tag": "pre",
+    "text": ">>> word[42] # the word only has 6 characters Traceback (most recent call last): File \"<stdin>\", line 1, in <module> IndexError: string index out of range",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 887,
+    "tag": "p",
+    "text": "However, out of range slice indexes are handled gracefully when used for slicing:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 890,
+    "tag": "pre",
+    "text": ">>> word[4:42] 'on' >>> word[42:] ''",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 906,
+    "tag": "p",
+    "text": "Python strings cannot be changed — they are immutable. Therefore, assigning to an indexed position in the string results in an error:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 911,
+    "tag": "pre",
+    "text": ">>> word[0] = 'J' Traceback (most recent call last): File \"<stdin>\", line 1, in <module> TypeError: 'str' object does not support item assignment >>> word[2:] = 'py' Traceback (most recent call last): File \"<stdin>\", line 1, in <module> TypeError: 'str' object does not support item assignment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 939,
+    "tag": "p",
+    "text": "If you need a different string, you should create a new one:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 942,
+    "tag": "pre",
+    "text": ">>> 'J' + word[1:] 'Jython' >>> word[:2] + 'py' 'Pypy'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 960,
+    "tag": "p",
+    "text": "The built-in function len() returns the length of a string:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 966,
+    "tag": "pre",
+    "text": ">>> s = 'supercalifragilisticexpialidocious' >>> len(s) 34",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 979,
+    "tag": "p",
+    "text": "See also",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 981,
+    "tag": "dt",
+    "text": "Text Sequence Type — str",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 984,
+    "tag": "dd",
+    "text": "Strings are examples of sequence types, and support the common operations supported by such types.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 985,
+    "tag": "p",
+    "text": "Strings are examples of sequence types, and support the common operations supported by such types.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 987,
+    "tag": "dt",
+    "text": "String Methods",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 990,
+    "tag": "dd",
+    "text": "Strings support a large number of methods for basic transformations and searching.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 991,
+    "tag": "p",
+    "text": "Strings support a large number of methods for basic transformations and searching.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 992,
+    "tag": "dt",
+    "text": "f-strings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 995,
+    "tag": "dd",
+    "text": "String literals that have embedded expressions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 996,
+    "tag": "p",
+    "text": "String literals that have embedded expressions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 997,
+    "tag": "dt",
+    "text": "Format string syntax",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1000,
+    "tag": "dd",
+    "text": "Information about string formatting with str.format().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1001,
+    "tag": "p",
+    "text": "Information about string formatting with str.format().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1005,
+    "tag": "dt",
+    "text": "printf-style String Formatting",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1008,
+    "tag": "dd",
+    "text": "The old formatting operations invoked when strings are the left operand of the % operator are described in more detail here.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1009,
+    "tag": "p",
+    "text": "The old formatting operations invoked when strings are the left operand of the % operator are described in more detail here.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1014,
+    "tag": "h3",
+    "text": "3.1.3. Lists¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1017,
+    "tag": "p",
+    "text": "Python knows a number of compound data types, used to group together other values. The most versatile is the list, which can be written as a list of comma-separated values (items) between square brackets. Lists might contain items of different types, but usually the items all have the same type.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1022,
+    "tag": "pre",
+    "text": ">>> squares = [1, 4, 9, 16, 25] >>> squares [1, 4, 9, 16, 25]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1041,
+    "tag": "p",
+    "text": "Like strings (and all other built-in sequence types), lists can be indexed and sliced:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1046,
+    "tag": "pre",
+    "text": ">>> squares[0] # indexing returns the item 1 >>> squares[-1] 25 >>> squares[-3:] # slicing returns a new list [9, 16, 25]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1070,
+    "tag": "p",
+    "text": "Lists also support operations like concatenation:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1073,
+    "tag": "pre",
+    "text": ">>> squares + [36, 49, 64, 81, 100] [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1090,
+    "tag": "p",
+    "text": "Unlike strings, which are immutable, lists are a mutable type, i.e. it is possible to change their content:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1097,
+    "tag": "pre",
+    "text": ">>> cubes = [1, 8, 27, 65, 125] # something's wrong here >>> 4 ** 3 # the cube of 4 is 64, not 65! 64 >>> cubes[3] = 64 # replace the wrong value >>> cubes [1, 8, 27, 64, 125]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1131,
+    "tag": "p",
+    "text": "You can also add new items at the end of the list, by using the list.append() method (we will see more about methods later):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1138,
+    "tag": "pre",
+    "text": ">>> cubes.append(216) # add the cube of 6 >>> cubes.append(7 ** 3) # and the cube of 7 >>> cubes [1, 8, 27, 64, 125, 216, 343]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1161,
+    "tag": "p",
+    "text": "Simple assignment in Python never copies data. When you assign a list to a variable, the variable refers to the existing list. Any changes you make to the list through one variable will be seen through all other variables that refer to it.:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1165,
+    "tag": "pre",
+    "text": ">>> rgb = [\"Red\", \"Green\", \"Blue\"] >>> rgba = rgb >>> id(rgb) == id(rgba) # they reference the same object True >>> rgba.append(\"Alph\") >>> rgb [\"Red\", \"Green\", \"Blue\", \"Alph\"]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1203,
+    "tag": "p",
+    "text": "All slice operations return a new list containing the requested elements. This means that the following slice returns a shallow copy of the list:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1208,
+    "tag": "pre",
+    "text": ">>> correct_rgba = rgba[:] >>> correct_rgba[-1] = \"Alpha\" >>> correct_rgba [\"Red\", \"Green\", \"Blue\", \"Alpha\"] >>> rgba [\"Red\", \"Green\", \"Blue\", \"Alph\"]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1229,
+    "tag": "p",
+    "text": "Assignment to slices is also possible, and this can even change the size of the list or clear it entirely:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1232,
+    "tag": "pre",
+    "text": ">>> letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g'] >>> letters ['a', 'b', 'c', 'd', 'e', 'f', 'g'] >>> # replace some values >>> letters[2:5] = ['C', 'D', 'E'] >>> letters ['a', 'b', 'C', 'D', 'E', 'f', 'g'] >>> # now remove them >>> letters[2:5] = [] >>> letters ['a', 'b', 'f', 'g'] >>> # clear the list by replacing all the elements with an empty list >>> letters[:] = [] >>> letters []",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1299,
+    "tag": "p",
+    "text": "The built-in function len() also applies to lists:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1305,
+    "tag": "pre",
+    "text": ">>> letters = ['a', 'b', 'c', 'd'] >>> len(letters) 4",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1325,
+    "tag": "p",
+    "text": "It is possible to nest lists (create lists containing other lists), for example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1328,
+    "tag": "pre",
+    "text": ">>> a = ['a', 'b', 'c'] >>> n = [1, 2, 3] >>> x = [a, n] >>> x [['a', 'b', 'c'], [1, 2, 3]] >>> x[0] ['a', 'b', 'c'] >>> x[0][1] 'b'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1377,
+    "tag": "h2",
+    "text": "3.2. First Steps Towards Programming¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1380,
+    "tag": "p",
+    "text": "Of course, we can use Python for more complicated tasks than adding two and two together. For instance, we can write an initial sub-sequence of the Fibonacci series as follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1384,
+    "tag": "pre",
+    "text": ">>> # Fibonacci series: >>> # the sum of two elements defines the next >>> a, b = 0, 1 >>> while a < 10: ... print(a) ... a, b = b, a+b ... 0 1 1 2 3 5 8",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1427,
+    "tag": "p",
+    "text": "This example introduces several new features.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1429,
+    "tag": "li",
+    "text": "The first line contains a multiple assignment: the variables a and b simultaneously get the new values 0 and 1. On the last line this is used again, demonstrating that the expressions on the right-hand side are all evaluated first before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1430,
+    "tag": "p",
+    "text": "The first line contains a multiple assignment: the variables a and b simultaneously get the new values 0 and 1. On the last line this is used again, demonstrating that the expressions on the right-hand side are all evaluated first before any of the assignments take place. The right-hand side expressions are evaluated from the left to the right.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1436,
+    "tag": "li",
+    "text": "The while loop executes as long as the condition (here: a < 10) remains true. In Python, like in C, any non-zero integer value is true; zero is false. The condition may also be a string or list value, in fact any sequence; anything with a non-zero length is true, empty sequences are false. The test used in the example is a simple comparison. The standard comparison operators are written the same as in C: < (less than), > (greater than), == (equal to), <= (less than or equal to), >= (greater than or equal to) and != (not equal to).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1437,
+    "tag": "p",
+    "text": "The while loop executes as long as the condition (here: a < 10) remains true. In Python, like in C, any non-zero integer value is true; zero is false. The condition may also be a string or list value, in fact any sequence; anything with a non-zero length is true, empty sequences are false. The test used in the example is a simple comparison. The standard comparison operators are written the same as in C: < (less than), > (greater than), == (equal to), <= (less than or equal to), >= (greater than or equal to) and != (not equal to).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1457,
+    "tag": "li",
+    "text": "The body of the loop is indented: indentation is Python’s way of grouping statements. At the interactive prompt, you have to type a tab or space(s) for each indented line. In practice you will prepare more complicated input for Python with a text editor; all decent text editors have an auto-indent facility. When a compound statement is entered interactively, it must be followed by a blank line to indicate completion (since the parser cannot guess when you have typed the last line). Note that each line within a basic block must be indented by the same amount.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1458,
+    "tag": "p",
+    "text": "The body of the loop is indented: indentation is Python’s way of grouping statements. At the interactive prompt, you have to type a tab or space(s) for each indented line. In practice you will prepare more complicated input for Python with a text editor; all decent text editors have an auto-indent facility. When a compound statement is entered interactively, it must be followed by a blank line to indicate completion (since the parser cannot guess when you have typed the last line). Note that each line within a basic block must be indented by the same amount.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1461,
+    "tag": "li",
+    "text": "The print() function writes the value of the argument(s) it is given. It differs from just writing the expression you want to write (as we did earlier in the calculator examples) in the way it handles multiple arguments, floating-point quantities, and strings. Strings are printed without quotes, and a space is inserted between items, so you can format things nicely, like this: >>> i = 256*256 >>> print('The value of i is', i) The value of i is 65536 The keyword argument end can be used to avoid the newline after the output, or end the output with a different string: >>> a, b = 0, 1 >>> while a < 1000: ... print(a, end=',') ... a, b = b, a+b ... 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1462,
+    "tag": "p",
+    "text": "The print() function writes the value of the argument(s) it is given. It differs from just writing the expression you want to write (as we did earlier in the calculator examples) in the way it handles multiple arguments, floating-point quantities, and strings. Strings are printed without quotes, and a space is inserted between items, so you can format things nicely, like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1468,
+    "tag": "pre",
+    "text": ">>> i = 256*256 >>> print('The value of i is', i) The value of i is 65536",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1484,
+    "tag": "p",
+    "text": "The keyword argument end can be used to avoid the newline after the output, or end the output with a different string:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1488,
+    "tag": "pre",
+    "text": ">>> a, b = 0, 1 >>> while a < 1000: ... print(a, end=',') ... a, b = b, a+b ... 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1525,
+    "tag": "p",
+    "text": "Footnotes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "rubric"
+    }
+  },
+  {
+    "node_index": 1532,
+    "tag": "p",
+    "text": "Since ** has higher precedence than -, -3**2 will be interpreted as -(3**2) and thus result in -9. To avoid this and get 9, you can use (-3)**2.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1552,
+    "tag": "p",
+    "text": "Unlike other languages, special characters such as \\n have the same meaning with both single ('...') and double (\"...\") quotes. The only difference between the two is that within single quotes you don’t need to escape \" (but you have to escape \\') and vice versa.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1567,
+    "tag": "h3",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1570,
+    "tag": "li",
+    "text": "3. An Informal Introduction to Python 3.1. Using Python as a Calculator 3.1.1. Numbers 3.1.2. Text 3.1.3. Lists 3.2. First Steps Towards Programming",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1573,
+    "tag": "li",
+    "text": "3.1. Using Python as a Calculator 3.1.1. Numbers 3.1.2. Text 3.1.3. Lists",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1576,
+    "tag": "li",
+    "text": "3.1.1. Numbers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1578,
+    "tag": "li",
+    "text": "3.1.2. Text",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1580,
+    "tag": "li",
+    "text": "3.1.3. Lists",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1582,
+    "tag": "li",
+    "text": "3.2. First Steps Towards Programming",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1586,
+    "tag": "p",
+    "text": "2. Using the Python Interpreter",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 1591,
+    "tag": "p",
+    "text": "4. More Control Flow Tools",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "topless"
+    }
+  },
+  {
+    "node_index": 1596,
+    "tag": "h3",
+    "text": "This page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1598,
+    "tag": "li",
+    "text": "Report a bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1600,
+    "tag": "li",
+    "text": "Improve this page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1602,
+    "tag": "li",
+    "text": "Show source",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1608,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1610,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 1612,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1614,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1616,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1620,
+    "tag": "li",
+    "text": "Python »",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1626,
+    "tag": "li",
+    "text": "3.14.7 Documentation »",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cpython-language-and-version"
+    }
+  },
+  {
+    "node_index": 1628,
+    "tag": "li",
+    "text": "The Python Tutorial »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-1"
+    }
+  },
+  {
+    "node_index": 1630,
+    "tag": "li",
+    "text": "3. An Informal Introduction to Python",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 1633,
+    "tag": "li",
+    "text": "|",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 1638,
+    "tag": "li",
+    "text": "Theme Auto Light Dark |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  }
+]

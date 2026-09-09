@@ -1,0 +1,1361 @@
+[
+  {
+    "node_index": 107,
+    "tag": "h2",
+    "text": "Main menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "element-invisible"
+    }
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Research Our Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-859 first research"
+    }
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "Veterans' Service Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-860 veterans"
+    }
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Educator Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-861 teachers"
+    }
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "Visit Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-862 locations"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "America's Founding Documents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-367 last shop"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "p",
+    "text": "America's Founding Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 130,
+    "tag": "h3",
+    "text": "America's Founding Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Main Page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 134,
+    "tag": "h3",
+    "text": "Explore the Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "Declaration of Independence",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "Constitution of the United States",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 140,
+    "tag": "li",
+    "text": "Bill of Rights",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 142,
+    "tag": "h3",
+    "text": "Special Features",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 144,
+    "tag": "li",
+    "text": "High Resolution Downloads",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Sign the Declaration or Constitution",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "The Faulkner Murals",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Meet the Framers of the Constitution",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "h3",
+    "text": "Other Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Visit the National Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "View Other Milestone Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Browse Teaching Resources for the Revolutionary Era",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Civics for All of US",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "Explore Online Exhibits",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Search the National Archives Catalog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "Discover the Founders Online",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "Shop the Archives Store",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 175,
+    "tag": "h1",
+    "text": "Declaration of Independence: A Transcription",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "p",
+    "text": "Note: The following text is a transcription of the Stone Engraving of the parchment Declaration of Independence (the document on display in the Rotunda at the National Archives Museum). The spelling and punctuation reflect the original.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 188,
+    "tag": "p",
+    "text": "In Congress, July 4, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "larger"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "p",
+    "text": "The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "p",
+    "text": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guar",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "p",
+    "text": "He has refused his Assent to Laws, the most wholesome and necessary for the public good.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 195,
+    "tag": "p",
+    "text": "He has forbidden his Governors to pass Laws of immediate and pressing importance, unless suspended in their operation till his Assent should be obtained; and when so suspended, he has utterly neglected to attend to them.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "p",
+    "text": "He has refused to pass other Laws for the accommodation of large districts of people, unless those people would relinquish the right of Representation in the Legislature, a right inestimable to them and formidable to tyrants only.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 197,
+    "tag": "p",
+    "text": "He has called together legislative bodies at places unusual, uncomfortable, and distant from the depository of their public Records, for the sole purpose of fatiguing them into compliance with his measures.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "p",
+    "text": "He has dissolved Representative Houses repeatedly, for opposing with manly firmness his invasions on the rights of the people.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 199,
+    "tag": "p",
+    "text": "He has refused for a long time, after such dissolutions, to cause others to be elected; whereby the Legislative powers, incapable of Annihilation, have returned to the People at large for their exercise; the State remaining in the mean time exposed to all the dangers of invasion from without, and convulsions within.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "p",
+    "text": "He has endeavoured to prevent the population of these States; for that purpose obstructing the Laws for Naturalization of Foreigners; refusing to pass others to encourage their migrations hither, and raising the conditions of new Appropriations of Lands.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "p",
+    "text": "He has obstructed the Administration of Justice, by refusing his Assent to Laws for establishing Judiciary powers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 202,
+    "tag": "p",
+    "text": "He has made Judges dependent on his Will alone, for the tenure of their offices, and the amount and payment of their salaries.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 203,
+    "tag": "p",
+    "text": "He has erected a multitude of New Offices, and sent hither swarms of Officers to harrass our people, and eat out their substance.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "p",
+    "text": "He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 205,
+    "tag": "p",
+    "text": "He has affected to render the Military independent of and superior to the Civil power.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 206,
+    "tag": "p",
+    "text": "He has combined with others to subject us to a jurisdiction foreign to our constitution, and unacknowledged by our laws; giving his Assent to their Acts of pretended Legislation:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 207,
+    "tag": "p",
+    "text": "For Quartering large bodies of armed troops among us:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "p",
+    "text": "For protecting them, by a mock Trial, from punishment for any Murders which they should commit on the Inhabitants of these States:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "p",
+    "text": "For cutting off our Trade with all parts of the world:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 210,
+    "tag": "p",
+    "text": "For imposing Taxes on us without our Consent:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "p",
+    "text": "For depriving us in many cases, of the benefits of Trial by Jury:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 212,
+    "tag": "p",
+    "text": "For transporting us beyond Seas to be tried for pretended offences:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 213,
+    "tag": "p",
+    "text": "For abolishing the free System of English Laws in a neighbouring Province, establishing therein an Arbitrary government, and enlarging its Boundaries so as to render it at once an example and fit instrument for introducing the same absolute rule into these Colonies:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "p",
+    "text": "For taking away our Charters, abolishing our most valuable Laws, and altering fundamentally the Forms of our Governments:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 215,
+    "tag": "p",
+    "text": "For suspending our own Legislatures, and declaring themselves invested with power to legislate for us in all cases whatsoever.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 216,
+    "tag": "p",
+    "text": "He has abdicated Government here, by declaring us out of his Protection and waging War against us.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 217,
+    "tag": "p",
+    "text": "He has plundered our seas, ravaged our Coasts, burnt our towns, and destroyed the lives of our people.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 218,
+    "tag": "p",
+    "text": "He is at this time transporting large Armies of foreign Mercenaries to compleat the works of death, desolation and tyranny, already begun with circumstances of Cruelty & perfidy scarcely paralleled in the most barbarous ages, and totally unworthy the Head of a civilized nation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 219,
+    "tag": "p",
+    "text": "He has constrained our fellow Citizens taken Captive on the high Seas to bear Arms against their Country, to become the executioners of their friends and Brethren, or to fall themselves by their Hands.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 220,
+    "tag": "p",
+    "text": "He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 221,
+    "tag": "p",
+    "text": "In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince, whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "p",
+    "text": "Nor have We been wanting in attentions to our Brittish brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "p",
+    "text": "We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "p",
+    "text": "Georgia",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "p",
+    "text": "Button Gwinnett",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "p",
+    "text": "Lyman Hall",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "p",
+    "text": "George Walton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "p",
+    "text": "North Carolina",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "p",
+    "text": "William Hooper",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 236,
+    "tag": "p",
+    "text": "Joseph Hewes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "p",
+    "text": "John Penn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 239,
+    "tag": "p",
+    "text": "South Carolina",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "p",
+    "text": "Edward Rutledge",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "p",
+    "text": "Thomas Heyward, Jr.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 243,
+    "tag": "p",
+    "text": "Thomas Lynch, Jr.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 244,
+    "tag": "p",
+    "text": "Arthur Middleton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "p",
+    "text": "Massachusetts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "p",
+    "text": "John Hancock",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "p",
+    "text": "Maryland",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "p",
+    "text": "Samuel Chase",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "p",
+    "text": "William Paca",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "p",
+    "text": "Thomas Stone",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 255,
+    "tag": "p",
+    "text": "Charles Carroll of Carrollton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "p",
+    "text": "Virginia",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "p",
+    "text": "George Wythe",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "p",
+    "text": "Richard Henry Lee",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "p",
+    "text": "Thomas Jefferson",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "p",
+    "text": "Benjamin Harrison",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "p",
+    "text": "Thomas Nelson, Jr.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "p",
+    "text": "Francis Lightfoot Lee",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 265,
+    "tag": "p",
+    "text": "Carter Braxton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 267,
+    "tag": "p",
+    "text": "Pennsylvania",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "p",
+    "text": "Robert Morris",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 270,
+    "tag": "p",
+    "text": "Benjamin Rush",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "p",
+    "text": "Benjamin Franklin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 272,
+    "tag": "p",
+    "text": "John Morton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "p",
+    "text": "George Clymer",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 274,
+    "tag": "p",
+    "text": "James Smith",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "p",
+    "text": "George Taylor",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "p",
+    "text": "James Wilson",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 277,
+    "tag": "p",
+    "text": "George Ross",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 279,
+    "tag": "p",
+    "text": "Delaware",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "p",
+    "text": "Caesar Rodney",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 282,
+    "tag": "p",
+    "text": "George Read",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 283,
+    "tag": "p",
+    "text": "Thomas McKean",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 285,
+    "tag": "p",
+    "text": "New York",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 287,
+    "tag": "p",
+    "text": "William Floyd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 288,
+    "tag": "p",
+    "text": "Philip Livingston",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "p",
+    "text": "Francis Lewis",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 290,
+    "tag": "p",
+    "text": "Lewis Morris",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 292,
+    "tag": "p",
+    "text": "New Jersey",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 294,
+    "tag": "p",
+    "text": "Richard Stockton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "p",
+    "text": "John Witherspoon",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "p",
+    "text": "Francis Hopkinson",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 297,
+    "tag": "p",
+    "text": "John Hart",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 298,
+    "tag": "p",
+    "text": "Abraham Clark",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 300,
+    "tag": "p",
+    "text": "New Hampshire",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 302,
+    "tag": "p",
+    "text": "Josiah Bartlett",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "p",
+    "text": "William Whipple",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "p",
+    "text": "Massachusetts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 308,
+    "tag": "p",
+    "text": "Samuel Adams",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "p",
+    "text": "John Adams",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "p",
+    "text": "Robert Treat Paine",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "p",
+    "text": "Elbridge Gerry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "p",
+    "text": "Rhode Island",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 315,
+    "tag": "p",
+    "text": "Stephen Hopkins",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 316,
+    "tag": "p",
+    "text": "William Ellery",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 318,
+    "tag": "p",
+    "text": "Connecticut",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 320,
+    "tag": "p",
+    "text": "Roger Sherman",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 321,
+    "tag": "p",
+    "text": "Samuel Huntington",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 322,
+    "tag": "p",
+    "text": "William Williams",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 323,
+    "tag": "p",
+    "text": "Oliver Wolcott",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 325,
+    "tag": "p",
+    "text": "New Hampshire",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 327,
+    "tag": "p",
+    "text": "Matthew Thornton",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 330,
+    "tag": "p",
+    "text": "Back to Main Declaration Page",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 339,
+    "tag": "h3",
+    "text": "About the Declaration",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 375,
+    "tag": "p",
+    "text": "The condition of the parchment Declaration of Independence is a sign of the place it has held in the hearts of many Americans. Years of public display have faded and worn this treasured document. Today it is maintained under the most exacting archival conditions possible.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 382,
+    "tag": "p",
+    "text": "Shop the National Archives Store",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 387,
+    "tag": "p",
+    "text": "This page was last reviewed on February 25, 2026. Contact us with questions or comments.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "last-update"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "h2",
+    "text": "Founding Documents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-title"
+    }
+  },
+  {
+    "node_index": 395,
+    "tag": "h2",
+    "text": "Explore the Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 398,
+    "tag": "li",
+    "text": "Declaration of Independence",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 400,
+    "tag": "li",
+    "text": "Constitution of the United States",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 402,
+    "tag": "li",
+    "text": "Bill of Rights",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "h2",
+    "text": "Special Features",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 410,
+    "tag": "li",
+    "text": "High Resolution Downloads",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 412,
+    "tag": "li",
+    "text": "Sign the Declaration",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 414,
+    "tag": "li",
+    "text": "The Faulkner Murals",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "li",
+    "text": "Meet the Framers of the Constitution",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 420,
+    "tag": "h2",
+    "text": "Other Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "li",
+    "text": "Plan Your Visit to the Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 426,
+    "tag": "li",
+    "text": "View Other Milestone Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 428,
+    "tag": "li",
+    "text": "Browse Revolutionary Era Classroom Activities",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 430,
+    "tag": "li",
+    "text": "Explore Online Exhibits",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 432,
+    "tag": "li",
+    "text": "Search the National Archives Catalog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "Shop the Archives Store",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 438,
+    "tag": "h2",
+    "text": "I Want To…",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 442,
+    "tag": "li",
+    "text": "Get My Military Record",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 444,
+    "tag": "li",
+    "text": "Plan a Research Visit",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 446,
+    "tag": "li",
+    "text": "Visit the Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 448,
+    "tag": "li",
+    "text": "View Online Exhibits",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 450,
+    "tag": "li",
+    "text": "Apply for a Grant",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 454,
+    "tag": "h2",
+    "text": "Participate",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 458,
+    "tag": "li",
+    "text": "Attend an Event",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "li",
+    "text": "Donate to the Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 462,
+    "tag": "li",
+    "text": "Work at the Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 464,
+    "tag": "li",
+    "text": "Volunteer at the Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 468,
+    "tag": "h2",
+    "text": "Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 472,
+    "tag": "li",
+    "text": "America's Founding Docs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 474,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 476,
+    "tag": "li",
+    "text": "En Español",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 478,
+    "tag": "li",
+    "text": "FAQs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 480,
+    "tag": "li",
+    "text": "Forms",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 484,
+    "tag": "h2",
+    "text": "Shop Online",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "li",
+    "text": "Visit the National Archives Store",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 490,
+    "tag": "li",
+    "text": "Buy Reproductions and Microfilm",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 495,
+    "tag": "h2",
+    "text": "Connect With Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 498,
+    "tag": "li",
+    "text": "Facebook",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "facebook",
+      "data-original-title": "Facebook",
+      "data-placement": "bottom",
+      "data-toggle": "tooltip",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 500,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "twitter",
+      "data-original-title": "X",
+      "data-placement": "bottom",
+      "data-toggle": "tooltip",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 502,
+    "tag": "li",
+    "text": "Instagram",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "instagram",
+      "data-original-title": "Instagram",
+      "data-placement": "bottom",
+      "data-toggle": "tooltip",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 504,
+    "tag": "li",
+    "text": "Tumblr",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tumblr",
+      "data-original-title": "Tumblr",
+      "data-placement": "bottom",
+      "data-toggle": "tooltip",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 506,
+    "tag": "li",
+    "text": "YouTube",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "youtube",
+      "data-original-title": "YouTube",
+      "data-placement": "bottom",
+      "data-toggle": "tooltip",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 508,
+    "tag": "li",
+    "text": "Blogs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "blogs",
+      "data-original-title": "Blogs",
+      "data-placement": "bottom",
+      "data-toggle": "tooltip",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 510,
+    "tag": "li",
+    "text": "Flickr",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "flickr",
+      "data-original-title": "Flickr",
+      "data-placement": "bottom",
+      "data-toggle": "tooltip",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 513,
+    "tag": "p",
+    "text": "Contact Us · Accessibility · Privacy Policy · Freedom of Information Act · No FEAR Act · USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-links"
+    }
+  },
+  {
+    "node_index": 520,
+    "tag": "p",
+    "text": "The U.S. National Archives and Records Administration 1-86-NARA-NARA or 1-866-272-6272",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-phone"
+    }
+  }
+]

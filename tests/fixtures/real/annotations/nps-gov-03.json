@@ -1,0 +1,830 @@
+[
+  {
+    "node_index": 51,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 52,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 60,
+    "tag": "p",
+    "text": "Official websites use .govA .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 67,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPSA lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Skip to global NPS navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Skip to this park navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "Skip to the main content",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Skip to this park information section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "Skip to the footer section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 123,
+    "tag": "h2",
+    "text": "Explore This Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--green",
+      "hidden": ""
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "h2",
+    "text": "Explore the National Park Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--blue"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "h2",
+    "text": "Exiting nps.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "modal-title visually-hidden",
+      "id": "exitModalLabel"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Alerts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Maps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Fees",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "h1",
+    "text": "Hydrothermal Systems",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "page-title"
+    }
+  },
+  {
+    "node_index": 210,
+    "tag": "td",
+    "text": "On This Page Navigation Grand Prismatic Spring is one of more than 10,000 thermal features in Yellowstone. Research on heat-resistant microbes in the park’s thermal areas has led to medical, forensic, and commercial uses. NPS/Jim Peaco Yellowstone was set aside as the world’s first national park because of its hydrothermal wonders. The park contains more than 10,000 thermal features, including the world’s greatest concentration of geysers as well as hot springs, mudpots, and steam vents. Research on heat-resistant microbes in the park’s thermal areas has led to medical, forensic, and commercial uses. Oil, gas, and groundwater development near the park, and drilling in “Known Geothermal Resources Areas” identified by the US Geological Survey in Island Park, Idaho, and Corwin Springs, Montana, could alter the functioning of hydrothermal systems in the park. So in 1994, the National Park Service and State of Montana established a waterrights compact and controlled-groundwater area to protect those areas from development. Hydrothermal areas in Yellowstone National Park. NPS Under the Surface The park’s hydrothermal system is the visible expression of the immense Yellowstone volcano; it",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cs_idCell2x1x1",
+      "class": "CS_Layout_TD"
+    }
+  },
+  {
+    "node_index": 222,
+    "tag": "figcaption",
+    "text": "Grand Prismatic Spring is one of more than 10,000 thermal features in Yellowstone. Research on heat-resistant microbes in the park’s thermal areas has led to medical, forensic, and commercial uses. NPS/Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "p",
+    "text": "NPS/Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 228,
+    "tag": "p",
+    "text": "Yellowstone was set aside as the world’s first national park because of its hydrothermal wonders. The park contains more than 10,000 thermal features, including the world’s greatest concentration of geysers as well as hot springs, mudpots, and steam vents. Research on heat-resistant microbes in the park’s thermal areas has led to medical, forensic, and commercial uses. Oil, gas, and groundwater development near the park, and drilling in “Known Geothermal Resources Areas” identified by the US Geological Survey in Island Park, Idaho, and Corwin Springs, Montana, could alter the functioning of hydrothermal systems in the park. So in 1994, the National Park Service and State of Montana established a waterrights compact and controlled-groundwater area to protect those areas from development.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "figcaption",
+    "text": "Hydrothermal areas in Yellowstone National Park. NPS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "p",
+    "text": "NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 239,
+    "tag": "h2",
+    "text": "Under the Surface",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "p",
+    "text": "The park’s hydrothermal system is the visible expression of the immense Yellowstone volcano; it would not exist without the underlying partially molten magma body that releases tremendous heat. The system also requires water, such as ground water from the mountains surrounding the Yellowstone Plateau. There, snow and rain slowly percolate through layers of permeable rock riddled with cracks. Some of this cold water meets hot brine directly heated by the shallow magma body. The water’s temperature rises well above the boiling point, but the water remains in a liquid state due to the great pressure and weight of the overlying water. The result is superheated water with temperatures exceeding 400°F.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "p",
+    "text": "The superheated water is less dense than the colder, heavier water sinking around it. This creates convection currents that allow the lighter, more buoyant, superheated water to begin its journey back to the surface following the cracks and weak areas through rhyolitic lava flows. This upward path is the natural “plumbing” system of the park’s hydrothermal features.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "p",
+    "text": "As hot water travels through this rock, it dissolves some silica in the rhyolite. This silica can precipitate in the cracks, increasing the system’s ability to withstand the great pressure needed to produce a geyser.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 244,
+    "tag": "p",
+    "text": "At the surface, silica precipitates to form siliceous sinter, creating the scalloped edges of hot springs and the seemingly barren landscape of hydrothermal basins. The siliceous sinter deposits, with bulbous or cauliflower-like surfaces, are known as geyserite.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 249,
+    "tag": "h2",
+    "text": "Explore Yellowstone's Hydrothermal Areas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "p",
+    "text": "Take a virtual tour around some of Yellowstone's more well-known hydrothermal areas.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "p",
+    "text": "Take a virtual trip around the hottest geyser basin in the park, then plan a visit in person.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 268,
+    "tag": "p",
+    "text": "Virtually wander around Mammoth Hot Springs, where the underlying limestone allow large terraces to form above ground.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 276,
+    "tag": "p",
+    "text": "Explore this popular thermal area where you can see the four major types of hydrothermal features.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 283,
+    "tag": "p",
+    "text": "Learn more about this geyser basin on the edge of Yellowstone Lake.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 288,
+    "tag": "h2",
+    "text": "Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 297,
+    "tag": "p",
+    "text": "Yellowstone’s volcanic geology provides the three components necessary for the existence of geysers and other hydrothermal features: heat, water, and a natural “plumbing” system. Magma beneath the surface provides the heat; ample rain and snowfall seep deep underground to supply the water; and underground cracks and fissures form the plumbing. Hot water rises through the plumbing to surface as hydrothermal features.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "p",
+    "text": "A geyser basin is a geographically distinct area containing a “cluster” of hydrothermal features that may include geysers, hot springs, mudpots, and fumaroles. These distinct areas often, but not always, occur in low places because hydrothermal features tend to be concentrated around the margins of lava flows and in areas of faulting.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 367,
+    "tag": "h2",
+    "text": "Hydrothermal Activity",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 368,
+    "tag": "p",
+    "text": "The park’s hydrothermal areas are dispersed across 3,472 square miles (8,991 km2) making it challenging to coordinate a systematic monitoring program. Therefore, park geologist use remote sensing, groundwater flow studies, measurements from individual features, and collaboration with many other researchers to gather reproducible data over many years. The variety and duration of monitoring helps to distinguish human influences from natural changes, and define the natural variability of the hydrothermal system. This distinction is essential for Yellowstone to successfully protect the integrity of the system as a whole.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 369,
+    "tag": "p",
+    "text": "Hydrothermal variability is easiest to see in individual features. On March 15, 2018 Steamboat Geyser began a period of more frequent eruptions after three and a half years of dormancy. The world’s tallest active geyser erupted 32 times in 2018, 48 in 2019 and 2020, 20 in 2021, 11 in 2022, 9 in 2023, and 6 in 2024. Eruption intervals ranged from three to 89 days. The Upper Geyser Basin also experienced increased activity around the Geyser Hill area in the fall of 2018. This includes new erupting vents splashing water on the boardwalks, surface fractures, and a rare eruption of Ear Spring on September 15, 2018. The eruption ejected a variety of foreign objects: coins and trash dating back to the 1930s. The Old Faithful eruption typical interval is 102 minutes (+/- 10 minutes) as of January 2025.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "p",
+    "text": "These highly visible changes receive public attention, but do not necessarily represent changes in the entire hydrothermal system. New research methods and technology, further enhances our understanding. Work continues to progress documenting the status of the hydrothermal system by measuring the total amount of thermal water and the total heat output for selected geyser basins. Thermal infrared images taken by aircraft are used to document changes in the hydrothermal areas. Research measuring the seismic activity in the Upper Geyser basin used the “harmonic tremors” preceding eruptions to create three-dimensional images of geyser reservoirs and plumbing systems. This project produced the first three-dimensional seismic images of the Old Faithful plumbing system.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 379,
+    "tag": "figcaption",
+    "text": "A section of boardwalk near the hydrothermal explosion at Biscuit Basin was destroyed. Although visitors were present at the time of the event, no injuries were reported.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 380,
+    "tag": "h3",
+    "text": "Hydrothermal Explosions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 381,
+    "tag": "p",
+    "text": "The rapid transition of water to steam in the subsurface is the phenomenon that drives both geyser eruptions and hydrothermal explosions. This rapid transition happens all the time in established geyser systems, like Old Faithful Geyser or Steamboat Geyser, where well-defined conduit systems allow that steam and hot water to rapidly escape to the surface and result in a geyser eruption.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 382,
+    "tag": "p",
+    "text": "When the energy released during the liquid to steam transition exceeds the confining force of the subsurface conduit and reservoir system, the pressure due to the expansion of steam bubbles overcomes the strength of the rock, and an explosion occurs. The explosion fragments the surrounding rock and creates jets of steam, water, and pieces of rock that vary from silt-sized particles to large boulders that can be strewn about hundreds of meters from the source vent.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 383,
+    "tag": "p",
+    "text": "On July 23, 2024, a hydrothermal explosion occurred when waters violently flashed to steam beneath Black Diamond Pool in Biscuit Basin. Multiple explosive jets sent steam and debris hundreds of feet into the air, destroyed the nearby boardwalk and ejected grapefruit-sized rocks tens to hundreds of feet from the source. Some blocks closest to the explosion site are about 3 feet (1 meter) wide and weigh hundreds of pounds. The explosion was largely directed to the northeast toward the Firehole River, and the largest blocks of debris fell in that direction. Geologists are collecting data from the explosion debris to better understand the exact conditions at the time of the event.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 384,
+    "tag": "p",
+    "text": "Similar, although smaller, hydrothermal explosions took place in 1989 at Porkchop Geyser in Norris Geyser Basin, and on April 15, 2024, from the Porcelain Terrace Area of Norris Geyser Basin. A small hydrothermal explosion occurred from Wall Pool, in Biscuit Basin, in 2009. Significant hydrothermal explosions, probably similar in size to that of July 23, 2024, occurred in the 1880s at Excelsior Geyser, in Midway Geyser Basin.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 385,
+    "tag": "p",
+    "text": "Hydrothermal explosions typically occur in the park one to a few times per year, but often in the backcountry where they may not be immediately detected.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 390,
+    "tag": "h2",
+    "text": "Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "p",
+    "text": "Bryan, T.S. 2008. The Geysers of Yellowstone. Boulder: Colorado Associated University Press. Fourth Edition.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 393,
+    "tag": "p",
+    "text": "Carr, B.B., C. Jaworowski, and H.P. Heasler. 2010. It’s not drying up, just changing: Mapping change at Mammoth Hot Springs using aerial photographs and visual observations Yellowstone Science. 18(3).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 395,
+    "tag": "p",
+    "text": "Cuhel, R.L., C. Aguilar, C.C. Remsen, J.S. Maki, D. Lovalvo, J.V. Klump, and R.W. Paddock. 2004. The Bridge Bay spires: Collection and preparation of a scientific specimen and museum piece Yellowstone Science. 12(4).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 397,
+    "tag": "p",
+    "text": "Cuhel, R.L., C. Aguilar, P.D. Anderson, J.S. Maki, R.W. Paddock, C.C. Remsen, J.V. Klump, and D. Lovalvo. 2002. Underwater dynamics in Yellowstone Lake hydrothermal vent geochemistry and bacterial chemosynthesis. In R.J. Anderson and D. Harmon, ed., Yellowstone Lake: Hotbed of chaos or reservoir of resilience?: Proceedings of the 6th Biennial Scientific Conference on the Greater Yellowstone Ecosystem, 27–53. Yellowstone National Park, WY: Yellowstone Center for Resources and The George Wright Society.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 399,
+    "tag": "p",
+    "text": "Evans, W.C., D. Bergfeld, J.P. McGeehin, J.C. King, and H. Heasler. 2010. Tree-ring 14C links seismic swarm to CO2 spike at Yellowstone, USA. Geology 38(12):1075–1078.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 401,
+    "tag": "p",
+    "text": "Farrell, J., F.G Lin, R. Smith and S.M Wu. 2016. Upper Geyser Basin Seismic Imaging Experiment: Geologic Hazards and the Yellowstone GeoEcosystem. In Abstracts of the 13th Biennial Scientific Conference on the Greater Yellowstone Ecosystem, p. 58.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 402,
+    "tag": "p",
+    "text": "Fouke, B.W. 2011. Hot-spring systems geobiology: abiotic and biotic influences on travertine formation at Mammoth Hot Springs, Yellowstone National Park, USA. Sedimentology 58:170–219.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 404,
+    "tag": "p",
+    "text": "Fournier, R.O. 1989. Geochemistry and dynamics of the Yellowstone National Park hydrothermal system. Ann. Rev. Earth Planet. Sci. 17:13–53.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 406,
+    "tag": "p",
+    "text": "Henson, J., R. Redman, R. Rodriguez, and R. Stout. 2005. Fungi in Yellowstone’s geothermal soils and plants Yellowstone Science. 13(4).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 408,
+    "tag": "p",
+    "text": "Ingebritsen, S.E. and S.A. Rojstaczer. 1993. Controls on geyser periodicity. Science. 262: 889–892.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 410,
+    "tag": "p",
+    "text": "Jaworowski, C., H.P. Heasler, C.C. Hardy, and L.P. Queen. 2006. Control of hydrothermal fluids by natural fractures at Norris Geyser Basin. Yellowstone Science 14(4).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 412,
+    "tag": "p",
+    "text": "Jaworowski, C., H.P. Heasler, C.M.U. Neale, and S. Sivarajan. 2010. Using thermal infrared imagery and LiDAR in Yellowstone geyser basins. Yellowstone Science. 18(1).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 414,
+    "tag": "p",
+    "text": "Kieffer, S. W., J. A. Westphal, and R. A. Hutchinson. 1995. A journey toward the center of the Earth: Video adventures in the Old Faithful Conduit Yellowstone Science. 3(3).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 416,
+    "tag": "p",
+    "text": "Klump, V., T. Remsen, D. Lovalvo, P. Anderson, R. Cuhel, M. Kaplinski, J. Kaster, J. Maki, and R. Paddock. 1995. 20,000 leagues under Yellowstone Lake: Strangeness and beauty in the hidden deeps. Yellowstone Science. 3(4).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 418,
+    "tag": "p",
+    "text": "Remsen, C.C., J.S. Maki, J.V. Klump, C. Aguilar, P.D. Anderson, L. Buchholz, R. L. Cuhel, D. Lovalvo, R.W. Paddock, J. Waples et al. 2002. Sublacustrine geothermal activity in Yellowstone Lake: Studies past and present. In R. J. Anderson and D. Harmon, ed., Yellowstone Lake: Hotbed of chaos or reservoir of resilience?: Proceedings of the 6th Biennial Scientific Conference on the Greater Yellowstone Ecosystem, 192–212. Yellowstone National Park, WY: Yellowstone Center for Resources and The George Wright Society.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 420,
+    "tag": "p",
+    "text": "Shean, D. 2006. Norris geyser basin’s dynamic hydrothermal features: Using historical aerial photographs to detect change. Yellowstone Science. 14(4).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 422,
+    "tag": "p",
+    "text": "Spear, J.R., J.J. Walker, and N.R. Pace. 2006. Microbial ecology and energetics in Yellowstone hot springs. Yellowstone Science. 14(1).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "Taylor, R. 1998. Gazing at Yellowstone’s geysers. Yellowstone Science. 6(4).",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 426,
+    "tag": "p",
+    "text": "Yellowstone Volcano Observatory. 2010. Protocols for geologic hazards response by the Yellowstone Volcano Observatory. US Geological Survey Circular 1351.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 445,
+    "tag": "p",
+    "text": "At the heart of Yellowstone is a large volcano.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 452,
+    "tag": "p",
+    "text": "More than 10,000 hydrothermal features are found here, of which more than 500 are geysers.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 459,
+    "tag": "p",
+    "text": "Discover a bit of what dynamic processes are going on below the lake's surface.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 467,
+    "tag": "p",
+    "text": "Yellowstone is one of the most seismically active areas in the United States.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 474,
+    "tag": "p",
+    "text": "Glaciers sculpted the volcanic landscape of Yellowstone.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 482,
+    "tag": "p",
+    "text": "The erosion of rock and the deposition of geologic material has created some stunning landscapes.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 489,
+    "tag": "p",
+    "text": "Fossil of plants, invertebrates, vertebrates, and trace fossils found within Yellowstone document 540 million years of life.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 496,
+    "tag": "p",
+    "text": "A volcano, geysers and other thermal features, earthquakes, and glaciers shape Yellowstone's landscape.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 502,
+    "tag": "p",
+    "text": "Last updated: April 18, 2025",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:right;"
+    }
+  },
+  {
+    "node_index": 504,
+    "tag": "h2",
+    "text": "Park footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 509,
+    "tag": "h3",
+    "text": "Contact Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 514,
+    "tag": "p",
+    "text": "PO Box 168 Yellowstone National Park, WY 82190-0168",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "adr"
+    }
+  },
+  {
+    "node_index": 521,
+    "tag": "p",
+    "text": "307-344-7381",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 529,
+    "tag": "h3",
+    "text": "Tools",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 531,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 534,
+    "tag": "li",
+    "text": "Site Index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 537,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 542,
+    "tag": "h3",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 556,
+    "tag": "li",
+    "text": "This Site",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 558,
+    "tag": "li",
+    "text": "All NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 566,
+    "tag": "p",
+    "text": "Download the NPS app to navigate the parks on the go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 602,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 604,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 606,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 608,
+    "tag": "li",
+    "text": "Notices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 610,
+    "tag": "li",
+    "text": "Contact The National Park Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 612,
+    "tag": "li",
+    "text": "NPS FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 614,
+    "tag": "li",
+    "text": "No Fear Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 616,
+    "tag": "li",
+    "text": "Disclaimer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 618,
+    "tag": "li",
+    "text": "Vulnerability Disclosure Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 620,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 622,
+    "tag": "li",
+    "text": "Office of Civil Rights",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  }
+]

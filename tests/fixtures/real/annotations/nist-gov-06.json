@@ -1,0 +1,1309 @@
+[
+  {
+    "node_index": 66,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 75,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 82,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "p",
+    "text": "https://www.nist.gov/news-events/news/2025/12/what-time-it-mars-nist-physicists-have-answer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-print-header__url"
+    }
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Publications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "What We Do All Topics Advanced communications Artificial intelligence Bioscience Buildings and construction Chemistry Cybersecurity and Privacy Electronics Energy Environment Fire Forensic science Health Information technology Infrastructure Manufacturing Materials Mathematics and statistics Metrology Nanotechnology Neutron research Performance excellence Physics Public safety Quantum information science Resilience Standards Transportation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "All Topics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "Advanced communications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "Artificial intelligence",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "Bioscience",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "Buildings and construction",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Chemistry",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "Cybersecurity and Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "Electronics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "Energy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 142,
+    "tag": "li",
+    "text": "Environment",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 144,
+    "tag": "li",
+    "text": "Fire",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Forensic science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Health",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Information technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Infrastructure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Manufacturing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Materials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Mathematics and statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "Metrology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Nanotechnology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "Neutron research",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "Performance excellence",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Physics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "Public safety",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Quantum information science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Resilience",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "Standards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "Transportation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 182,
+    "tag": "li",
+    "text": "Labs & Major Programs Laboratories Communications Technology Laboratory Engineering Laboratory Information Technology Laboratory Material Measurement Laboratory Physical Measurement Laboratory User Facilities NIST Center for Neutron Research CNST NanoFab Research Test Beds Research Projects Tools & Instruments Major Programs CHIPS for America Initiative Congressionally Identified Project Program (CIPP) Manufacturing Extension Partnership (MEP) Manufacturing USA Office of Advanced Manufacturing Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "Laboratories Communications Technology Laboratory Engineering Laboratory Information Technology Laboratory Material Measurement Laboratory Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Communications Technology Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "Engineering Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Information Technology Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Material Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "User Facilities NIST Center for Neutron Research CNST NanoFab",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 207,
+    "tag": "li",
+    "text": "NIST Center for Neutron Research",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "CNST NanoFab",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Research Test Beds",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Research Projects",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Tools & Instruments",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Major Programs CHIPS for America Initiative Congressionally Identified Project Program (CIPP) Manufacturing Extension Partnership (MEP) Manufacturing USA Office of Advanced Manufacturing Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "CHIPS for America Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Congressionally Identified Project Program (CIPP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 226,
+    "tag": "li",
+    "text": "Manufacturing Extension Partnership (MEP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Manufacturing USA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "Office of Advanced Manufacturing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "li",
+    "text": "Services & Resources Measurements and Standards Calibration Services Laboratory Accreditation (NVLAP) Quality System Standard Reference Materials (SRMs) Standard Reference Instruments (SRIs) Standards.gov Time Services Office of Weights and Measures Software Data Chemistry WebBook National Vulnerability Database Physical Reference Data Standard Reference Data (SRD) Storefront License & Patents Computer Security Resource Center (CSRC) NIST Research Library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "Measurements and Standards Calibration Services Laboratory Accreditation (NVLAP) Quality System Standard Reference Materials (SRMs) Standard Reference Instruments (SRIs) Standards.gov Time Services Office of Weights and Measures",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "Calibration Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Laboratory Accreditation (NVLAP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Quality System",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "Standard Reference Materials (SRMs)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "Standard Reference Instruments (SRIs)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "Standards.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "li",
+    "text": "Time Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "li",
+    "text": "Office of Weights and Measures",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "Software",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Data Chemistry WebBook National Vulnerability Database Physical Reference Data Standard Reference Data (SRD)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "Chemistry WebBook",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "National Vulnerability Database",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Physical Reference Data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Standard Reference Data (SRD)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "Storefront",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 277,
+    "tag": "li",
+    "text": "License & Patents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Computer Security Resource Center (CSRC)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 283,
+    "tag": "li",
+    "text": "NIST Research Library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "News & Events News Events Blogs NIST In Focus Feature Stories Awards Video Gallery Image Gallery Media Contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 294,
+    "tag": "li",
+    "text": "Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 296,
+    "tag": "li",
+    "text": "Blogs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "NIST In Focus",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 300,
+    "tag": "li",
+    "text": "Feature Stories",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Awards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 306,
+    "tag": "li",
+    "text": "Video Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 308,
+    "tag": "li",
+    "text": "Image Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Media Contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 312,
+    "tag": "li",
+    "text": "About NIST About Us Leadership Organization Structure Budget & Planning Contact Us Visit Careers Student programs Work with NIST History NIST Digital Archives NIST Museum NIST and the Nobel Educational Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "About Us Leadership Organization Structure Budget & Planning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 322,
+    "tag": "li",
+    "text": "Leadership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 324,
+    "tag": "li",
+    "text": "Organization Structure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 326,
+    "tag": "li",
+    "text": "Budget & Planning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 330,
+    "tag": "li",
+    "text": "Visit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Careers Student programs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "li",
+    "text": "Student programs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 339,
+    "tag": "li",
+    "text": "Work with NIST",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "History NIST Digital Archives NIST Museum NIST and the Nobel",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "NIST Digital Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 346,
+    "tag": "li",
+    "text": "NIST Museum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "NIST and the Nobel",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 362,
+    "tag": "h1",
+    "text": "What Time Is It on Mars? NIST Physicists Have the Answer.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-page__title"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "h2",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-social__title"
+    }
+  },
+  {
+    "node_index": 390,
+    "tag": "li",
+    "text": "NIST scientists have calculated that clocks on Mars will tick an average of 477 millionths of a second faster than clocks on Earth per day.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "li",
+    "text": "This calculation is necessary for future space navigation and communication networks.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 392,
+    "tag": "li",
+    "text": "Understanding how clocks tick on other planets also expands physicists’ knowledge of Einstein’s theories of relativity.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 398,
+    "tag": "figcaption",
+    "text": "This image from the Mars Global Surveyor Mars Orbiter Camera shows the region Ares Vallis and the Chryse Plains, where both early Mars missions, Mars Pathfinder and the Viking 1, landed in 1997 and 1976, respectively. As scientists plan for future Mars missions, they need to understand how time passes on Mars to better synchronize communications with rovers on the red planet. Credit: NASA/JPL/MSSS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-image__caption"
+    }
+  },
+  {
+    "node_index": 400,
+    "tag": "p",
+    "text": "This image from the Mars Global Surveyor Mars Orbiter Camera shows the region Ares Vallis and the Chryse Plains, where both early Mars missions, Mars Pathfinder and the Viking 1, landed in 1997 and 1976, respectively. As scientists plan for future Mars missions, they need to understand how time passes on Mars to better synchronize communications with rovers on the red planet.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 403,
+    "tag": "p",
+    "text": "Ask someone on Earth for the time and they can give you an exact answer, thanks to our planet’s intricate timekeeping system, built with atomic clocks, GPS satellites and high-speed telecommunications networks.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 404,
+    "tag": "p",
+    "text": "However, Einstein showed us that clocks don’t tick at the same rate across the universe. Clocks will run slightly faster or slower depending on the strength of gravity in their environment, making it tricky to synchronize our watches here on Earth, let alone across the vast solar system. If humans want to establish a long-term presence on the red planet, scientists need to know: What time is it on Mars?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 405,
+    "tag": "p",
+    "text": "Physicists at the National Institute of Standards and Technology (NIST) have calculated a precise answer for the first time. On average, clocks on Mars will tick 477 microseconds (millionths of a second) faster than on Earth per day. However, Mars’ eccentric orbit and the gravity from its celestial neighbors can increase or decrease this amount by as much as 226 microseconds a day over the course of the Martian year. These findings, just published in The Astronomical Journal, follow a 2024 paper in which NIST physicists developed a plan for precise timekeeping on the Moon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 410,
+    "tag": "p",
+    "text": "Knowing how clocks will tick on Mars is a steppingstone for future space missions, said NIST physicist Bijunath Patla. As NASA plans Mars exploration missions, understanding time on our planetary neighbor will help synchronize navigation and communication across our solar system.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 412,
+    "tag": "p",
+    "text": "“The time is just right for the Moon and Mars,” Patla said. “This is the closest we have been to realizing the science fiction vision of expanding across the solar system.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 413,
+    "tag": "h2",
+    "text": "Mars Time Zone",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 414,
+    "tag": "p",
+    "text": "Martian days and years are longer than those on Earth. The planet’s day, or full rotation on its axis, is 40 minutes longer than Earth’s, and it takes 687 days to complete its orbit around the Sun, compared with Earth’s 365 days. But scientists needed to know how fast or slow each second passes on Mars compared with Earth.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "If you were to land on the surface of Mars with an atomic clock, it would still tick the same way it would on Earth. But if you compare the Mars clock with one on Earth, they will be out of sync. The challenge is to determine how much Mars’ time is offset from Earth’s, almost like calculating a time-zone difference.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "p",
+    "text": "That was much trickier than NIST physicists had expected. Einstein’s theory of relativity states that the strength of gravity affects the passage of time. Clocks tick slower where gravity is stronger, and faster where gravity is weaker. The velocity of a planet’s orbit will also cause clocks to tick slower or faster.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 417,
+    "tag": "p",
+    "text": "NIST chose a point on the Martian surface to act as a reference, sort of like sea level at the equator on Earth. Thanks to years of data collected from Mars missions, Patla and fellow NIST physicist Neil Ashby could estimate gravity on the surface of the planet, which is five times weaker than Earth’s.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 418,
+    "tag": "p",
+    "text": "But they needed to figure in more than just Mars’ gravity. Our solar system has other massive bodies that pull on each other. The Sun alone accounts for more than 99% of the mass in our solar system. Mars’ position in the solar system — its distance from the Sun, its neighbors like Earth, the Moon, Jupiter and Saturn — pulls it into a more eccentric, elongated orbit. The Earth’s and Moon’s orbits are relatively constant; time on the Moon is consistently 56 microseconds faster than time on Earth.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 419,
+    "tag": "p",
+    "text": "“But for Mars, that’s not the case. Its distance from the Sun and its eccentric orbit make the variations in time larger. A three-body problem is extremely complicated. Now we’re dealing with four: the Sun, Earth, the Moon and Mars,” Patla explained. “The heavy lifting was more challenging than I initially thought.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 420,
+    "tag": "p",
+    "text": "After taking all these effects into consideration — Martian surface gravity, Mars’ eccentric orbit, the effect of the Sun, the Earth and the Moon on Mars — Patla and Ashby arrived at their answer.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 421,
+    "tag": "h2",
+    "text": "Paving the Way for Solar System Internet",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 422,
+    "tag": "p",
+    "text": "Maybe 477 millionths of a second doesn’t sound like a lot — it’s about a thousandth of the time it takes to blink. But accounting for tiny time differences is key to developing communications networks. 5G networks, for example, need to be accurate to within a tenth of a microsecond.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "p",
+    "text": "Right now, communications between Earth and Mars are delayed anywhere from four to 24 minutes (sometimes more). It’s almost like pre-telegram communications, Patla explained: People delivered handwritten letters to a ship, which crossed the ocean, and then waited weeks or months for another ship to deliver the reply.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "Having a framework for timing between planets paves the way toward creating synchronized networks across vast distances.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 426,
+    "tag": "p",
+    "text": "“The time is just right for the Moon and Mars. This is the closest we have been to realizing the science fiction vision of expanding across the solar system.” — Bijunath Patla, NIST physicist",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 428,
+    "tag": "p",
+    "text": "“If you get synchronization, it will be almost like real-time communication without any loss of information. You don’t have to wait to see what happens,” Patla said.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 429,
+    "tag": "p",
+    "text": "Those networks are a long way from reality; so are long-term human and robotic Mars missions, Ashby pointed out. Studying these issues helps scientists prepare for all the variables they will encounter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 430,
+    "tag": "p",
+    "text": "“It may be decades before the surface of Mars is covered by the tracks of wandering rovers, but it is useful now to study the issues involved in establishing navigation systems on other planets and moons,” Ashby said. “Like current global navigation systems like GPS, these systems will depend on accurate clocks, and the effects on clock rates can be analyzed with the help of Einstein’s general theory of relativity.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 431,
+    "tag": "p",
+    "text": "There is also scientific value to this knowledge, Patla added. Understanding how clocks will tick on far-flung planets is new information and builds on Einstein’s theories of special and general relativity.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 432,
+    "tag": "p",
+    "text": "“It's good to know for the first time what is happening on Mars timewise. Nobody knew that before. It improves our knowledge of the theory itself, the theory of how clocks tick and relativity,” he said. “The passage of time is fundamental to the theory of relativity: how you realize it, how you calculate it, and what influences it. These may seem like simple concepts, but they can be quite complicated to calculate.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 434,
+    "tag": "p",
+    "text": "Paper: Neil Ashby and Bijunath R. Patla. A Comparative Study of Time on Mars with Lunar and Terrestrial Clocks. The Astronomical Journal. Published online Dec. 1, 2025. DOI: 10.3847/1538-3881/ae0c16",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 447,
+    "tag": "h2",
+    "text": "Media Contact",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 451,
+    "tag": "li",
+    "text": "Rebecca Jacobson [email protected] (303) 497-4789",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "/people/rebecca-jacobson",
+      "class": "nist-contact__item"
+    }
+  },
+  {
+    "node_index": 459,
+    "tag": "h2",
+    "text": "NIST in your inbox",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 470,
+    "tag": "h2",
+    "text": "Related News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 476,
+    "tag": "h2",
+    "text": "Organizations",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-block__title"
+    }
+  },
+  {
+    "node_index": 482,
+    "tag": "li",
+    "text": "NIST Headquarters",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 484,
+    "tag": "li",
+    "text": "Laboratory ProgramsPhysical Measurement LaboratoryTime and Frequency DivisionTime Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 486,
+    "tag": "li",
+    "text": "Laboratory Programs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "li",
+    "text": "Physical Measurement LaboratoryTime and Frequency DivisionTime Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 490,
+    "tag": "li",
+    "text": "Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 492,
+    "tag": "li",
+    "text": "Time and Frequency DivisionTime Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 494,
+    "tag": "li",
+    "text": "Time and Frequency Division",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 496,
+    "tag": "li",
+    "text": "Time Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 498,
+    "tag": "li",
+    "text": "Time Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 519,
+    "tag": "h3",
+    "text": "HEADQUARTERS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__contact-heading"
+    }
+  },
+  {
+    "node_index": 524,
+    "tag": "p",
+    "text": "Webmaster | Contact Us | Our Other Offices",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 551,
+    "tag": "li",
+    "text": "Site Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 553,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 555,
+    "tag": "li",
+    "text": "Privacy Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 557,
+    "tag": "li",
+    "text": "Copyright & Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "li",
+    "text": "Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 561,
+    "tag": "li",
+    "text": "No Fear Act Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 563,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 565,
+    "tag": "li",
+    "text": "Environmental Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 567,
+    "tag": "li",
+    "text": "Scientific Integrity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 569,
+    "tag": "li",
+    "text": "Information Quality Standards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 571,
+    "tag": "li",
+    "text": "Commerce.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 573,
+    "tag": "li",
+    "text": "Science.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 575,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 577,
+    "tag": "li",
+    "text": "Vote.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  }
+]

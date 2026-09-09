@@ -1,0 +1,360 @@
+[
+  {
+    "node_index": 33,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 35,
+    "tag": "li",
+    "text": "About",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 37,
+    "tag": "li",
+    "text": "Download",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 39,
+    "tag": "li",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 41,
+    "tag": "li",
+    "text": "Community",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 43,
+    "tag": "li",
+    "text": "Developers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 45,
+    "tag": "li",
+    "text": "Support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 47,
+    "tag": "li",
+    "text": "Donate",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Your account",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item p-2"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "th",
+    "text": "2.4. Populating a Table With Rows",
+    "label": "unreviewed",
+    "formatting": {
+      "colspan": "5",
+      "align": "center"
+    }
+  },
+  {
+    "node_index": 119,
+    "tag": "td",
+    "text": "Prev",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "10%",
+      "align": "left"
+    }
+  },
+  {
+    "node_index": 121,
+    "tag": "td",
+    "text": "Up",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "10%",
+      "align": "left"
+    }
+  },
+  {
+    "node_index": 123,
+    "tag": "th",
+    "text": "Chapter 2. The SQL Language",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "60%",
+      "align": "center"
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "td",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "10%",
+      "align": "right"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "td",
+    "text": "Next",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "10%",
+      "align": "right"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "h2",
+    "text": "2.4. Populating a Table With Rows #",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "title",
+      "style": "clear: both"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "p",
+    "text": "The INSERT statement is used to populate a table with rows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "pre",
+    "text": "INSERT INTO weather VALUES ('San Francisco', 46, 50, 0.25, '1994-11-27');",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "programlisting"
+    }
+  },
+  {
+    "node_index": 140,
+    "tag": "p",
+    "text": "Note that all data types use rather obvious input formats. Constants that are not simple numeric values usually must be surrounded by single quotes ('), as in the example. The date type is actually quite flexible in what it accepts, but for this tutorial we will stick to the unambiguous format shown here.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 143,
+    "tag": "p",
+    "text": "The point type requires a coordinate pair as input, as shown here:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 145,
+    "tag": "pre",
+    "text": "INSERT INTO cities VALUES ('San Francisco', '(-194.0, 53.0)');",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "programlisting"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "p",
+    "text": "The syntax used so far requires you to remember the order of the columns. An alternative syntax allows you to list the columns explicitly:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "pre",
+    "text": "INSERT INTO weather (city, temp_lo, temp_hi, prcp, date) VALUES ('San Francisco', 43, 57, 0.0, '1994-11-29');",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "programlisting"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "p",
+    "text": "You can list the columns in a different order if you wish or even omit some columns, e.g., if the precipitation is unknown:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "pre",
+    "text": "INSERT INTO weather (date, city, temp_hi, temp_lo) VALUES ('1994-11-29', 'Hayward', 54, 37);",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "programlisting"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "p",
+    "text": "Many developers consider explicitly listing the columns better style than relying on the order implicitly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 151,
+    "tag": "p",
+    "text": "Please enter all the commands shown above so you have some data to work with in the following sections.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "p",
+    "text": "You could also have used COPY to load large amounts of data from flat-text files. This is usually faster because the COPY command is optimized for this application while allowing less flexibility than INSERT. An example would be:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 157,
+    "tag": "pre",
+    "text": "COPY weather FROM '/home/user/weather.txt';",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "programlisting"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "p",
+    "text": "where the file name for the source file must be available on the machine running the backend process, not the client, since the backend process reads the file directly. The data inserted above into the weather table could also be inserted from a file containing (values are separated by a tab character):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 159,
+    "tag": "pre",
+    "text": "San Francisco 46 50 0.25 1994-11-27 San Francisco 43 57 0.0 1994-11-29 Hayward 37 54 \\N 1994-11-29",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "programlisting"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "p",
+    "text": "You can read more about the COPY command in COPY.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "td",
+    "text": "Prev",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "40%",
+      "align": "left"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "td",
+    "text": "Up",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "20%",
+      "align": "center"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "td",
+    "text": "Next",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "40%",
+      "align": "right"
+    }
+  },
+  {
+    "node_index": 175,
+    "tag": "td",
+    "text": "2.3. Creating a New Table",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "40%",
+      "align": "left",
+      "valign": "top"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "td",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "20%",
+      "align": "center"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "td",
+    "text": "2.5. Querying a Table",
+    "label": "unreviewed",
+    "formatting": {
+      "width": "40%",
+      "align": "right",
+      "valign": "top"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "h2",
+    "text": "Submit correction",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "p",
+    "text": "If you see anything in the documentation that is not correct, does not match your experience with the particular feature or requires further clarification, please use this form to report a documentation issue.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 190,
+    "tag": "p",
+    "text": "Copyright © 1996-2026 The PostgreSQL Global Development Group",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

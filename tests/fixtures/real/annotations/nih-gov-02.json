@@ -1,0 +1,421 @@
+[
+  {
+    "node_index": 65,
+    "tag": "h1",
+    "text": "National Institute ofGeneral Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "p",
+    "text": "NIH is moving the launch of its new website to the fall to ensure the best possible experience for everyone who relies on our websites for health information, research, funding opportunities, and other resources.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "p",
+    "text": "Get the Latest Updates and FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-text"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "h1",
+    "text": "National Institute of General Medical SciencesBiomedical Beat Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "h1",
+    "text": "Genetics by the Numbers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "fbl-header node__title"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "p",
+    "text": "Even though scientists have been studying genetics since the mid-19th century, they continue to make new discoveries about genes and how they impact our health on a regular basis. NIGMS researchers study how genes are expressed and regulated, how gene variants with different “spellings” of their genetic code affect health, and much more. Get the drop on DNA and the gist of genes with these fast facts:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 128,
+    "tag": "h2",
+    "text": "3.2 Billion",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "figcaption",
+    "text": "A marbled lungfish has a genome over 40 times larger than humans. Credit: iStock.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "p",
+    "text": "That's how many base pairs—or sets of genetic \"letters\"—make up the human genome. If you were to sing the genetic code to the tune of the “ABCs,” you’d be singing nonstop for over 585 years! However, humans are by no means the species with the most base pairs. The marbled lungfish (Protopterus aethiopicus) has about 133 billion of them in its genome.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "h2",
+    "text": "20,000",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "figcaption",
+    "text": "DNA encodes RNA, which encodes protein. Credit: NIGMS.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 144,
+    "tag": "p",
+    "text": "That's the approximate number of genes in the human genome that provide cells with the information they need to make proteins. Genes are transcribed into RNA molecules, which are then translated into proteins. These protein-coding genes make up less than 2 percent of the entire genome. Other genes contain information about making RNA molecules that don’t directly code for a protein, which are sometimes called RNA genes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 151,
+    "tag": "h2",
+    "text": "99.9",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "figcaption",
+    "text": "DNA coils into the shape of a double helix, whose sides are complementary. Credit: NIGMS.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "p",
+    "text": "The DNA of any two people on Earth is 99.9 percent identical. But that 0.1 percent variation represents about 3.2 million base pairs, which can explain many of the differences between individuals, especially if the changes lie in key genes. Each gene has about 1-3 base pairs that differ from person to person. Some of these differences have no effect on how we look or feel, some of them lead to changes in how we look or grow, and some of these variants put us at risk for some diseases. Our environment also contributes to our individuality.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 159,
+    "tag": "h2",
+    "text": "98",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 161,
+    "tag": "p",
+    "text": "More than 98 percent of our genome is noncoding DNA—DNA that doesn't contain information to make proteins. Scientists have yet to identify functions for some of this noncoding DNA, but they’ve learned that other segments have specific jobs like regulating gene expression—when and where genes are turned on and off—or protecting the ends of chromosomes (long strings of DNA) from being degraded during copying.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "h2",
+    "text": "46",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "figcaption",
+    "text": "Pictures of the 46 human chromosomes. Credit: National Human Genome Research Institute.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "p",
+    "text": "That's the number of chromosomes most humans have in each of their cells. Occasionally, a variation in cell division results in a cell with too few or too many chromosomes. When this happens in egg or sperm cells, the child can have a different number of chromosomes in each of their cells. For example, people with Down syndrome have an extra copy of chromosome 21, one of the smallest chromosomes in the genome.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 172,
+    "tag": "h2",
+    "text": "37",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "figcaption",
+    "text": "Mitochondria, the cell's power plants, carry their own set of genes. Credit: Judith Stoffer.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 177,
+    "tag": "p",
+    "text": "That's the number of genes in our mitochondrial DNA. Mitochondria are organelles that fuel the cell by converting food and oxygen into ATP (adenosine triphosphate), and many of their genes are involved in production of cellular energy. You inherit mitochondria directly from your biological mother, so your mitochondrial DNA is identical to hers and can be used to trace maternal ancestry for generations!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "h2",
+    "text": "6",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 183,
+    "tag": "p",
+    "text": "That's how many feet long the DNA from one of your cells would be if you uncoiled each strand and placed them end to end. Do this for all the DNA in your body, and the resulting strand would be 42 billion miles long—that’s about as long as 88,000 round trips to the moon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 184,
+    "tag": "h2",
+    "text": "0.0003",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "figcaption",
+    "text": "Histone proteins loop together with double-stranded DNA to form a structure that resembles beads on a string. Credit: NIGMS.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "p",
+    "text": "That's the average length in inches across a cell's nucleus, which holds your DNA. If you sliced human hair into 15-20 pieces lengthwise, each slice would be about that big around. To keep the space tidy, DNA spools around a group of proteins called histones. The resulting taut package of wound-up DNA is called chromatin, which winds up even tighter to form your chromosomes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 193,
+    "tag": "h2",
+    "text": "1953",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 195,
+    "tag": "p",
+    "text": "That's the year when researchers uncovered the double-helical structure of DNA. Until then, scientists knew that traits were passed down to offspring in predictable ways, but they didn't understand how. That all changed when Francis Crick, Ph.D., Rosalind Franklin, Ph.D., and James Watson, Ph.D., showed that DNA is shaped like a spiral staircase that can be split, copied, and passed on to future generations.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "h2",
+    "text": "2003",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "figcaption",
+    "text": "On April 15, 2003, Francis Collins, Ph.D., spoke at a press conference for the completion of the Human Genome Project. Credit: Ernie Branson, National Institutes of Health.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-element-caption"
+    }
+  },
+  {
+    "node_index": 201,
+    "tag": "p",
+    "text": "In 2003, the Human Genome Project was completed. Scientists from all over the world came together to study the genomes of a select set of organisms. The project began in October 1990 and ended in April 2003 with the first sequence of the human genome. Knowing the human genome helps scientists better understand and improve human health.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "h2",
+    "text": "2023",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading has-black-color has-text-color has-link-color"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "p",
+    "text": "That’s the year that scientists fully sequenced the final human chromosome: the Y chromosome. Although they sequenced the human genome 20 years earlier, gaps in the sequences of each of the chromosomes still existed, including in the two human sex chromosomes X and Y. With the full sequencing of Y, scientists have sequenced all previous gaps and have identified important genetic features in Y.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "h2",
+    "text": "About the Author",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 232,
+    "tag": "h3",
+    "text": "Rachel Crowley",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "card-title"
+    }
+  },
+  {
+    "node_index": 257,
+    "tag": "p",
+    "text": "Connect With Us: Linkedin YouTube",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "h6 social my-2"
+    }
+  },
+  {
+    "node_index": 265,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Your Privacy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 277,
+    "tag": "li",
+    "text": "HHS Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 282,
+    "tag": "li",
+    "text": "U.S. Department of Health and Human Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 284,
+    "tag": "li",
+    "text": "National Institutes of Health: NIH...Turning Discovery Into Health®",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 286,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 288,
+    "tag": "li",
+    "text": "National Institute of General Medical Sciences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "li",
+    "text": "45 Center Drive MSC 6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 290,
+    "tag": "li",
+    "text": "Bethesda, MD 20892-6200",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 291,
+    "tag": "li",
+    "text": "301-496-7301",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "p",
+    "text": "Some content included on this platform includes historical information about programs or activities that have since been discontinued.",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

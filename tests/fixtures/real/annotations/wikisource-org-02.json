@@ -1,0 +1,547 @@
+[
+  {
+    "node_index": 52,
+    "tag": "li",
+    "text": "Main Page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-mainpage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Community portal",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-portal",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 58,
+    "tag": "li",
+    "text": "Central discussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-scriptorium",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Recent changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-recentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "li",
+    "text": "Subject index",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-subjectindex",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Authors",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-categoryauthors",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 70,
+    "tag": "li",
+    "text": "Random work",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomwork",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Random author",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomauthor",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "Random transcription",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomindex",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-help",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Special pages",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-specialpages",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Donate",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 147,
+    "tag": "li",
+    "text": "Donate",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "h1",
+    "text": "Ozymandias",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "firstHeading",
+      "class": "firstHeading mw-first-heading"
+    }
+  },
+  {
+    "node_index": 182,
+    "tag": "li",
+    "text": "Português",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pt mw-list-item"
+    }
+  },
+  {
+    "node_index": 195,
+    "tag": "li",
+    "text": "Page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-nstab-main",
+      "class": "selected mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Discussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-talk",
+      "class": "new mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view",
+      "class": "selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view-more",
+      "class": "selected mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 256,
+    "tag": "li",
+    "text": "What links here",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-whatlinkshere",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 259,
+    "tag": "li",
+    "text": "Related changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-recentchangeslinked",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "Permanent link",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-permalink",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 265,
+    "tag": "li",
+    "text": "Page information",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-info",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 268,
+    "tag": "li",
+    "text": "Cite this page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-cite",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Get shortened URL",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-urlshortener",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "Printable version",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-print",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Download EPUB",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-epub",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 284,
+    "tag": "li",
+    "text": "Download MOBI",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-mobi",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 287,
+    "tag": "li",
+    "text": "Download PDF",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-pdf",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 290,
+    "tag": "li",
+    "text": "Other formats",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "wikisource-download-choose",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 297,
+    "tag": "li",
+    "text": "Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikipedia mw-list-item"
+    }
+  },
+  {
+    "node_index": 300,
+    "tag": "li",
+    "text": "Wikidata item",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-wikibase",
+      "class": "wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "Search for titles containing or beginning with: \"Ozymandias\"",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dabitem"
+    }
+  },
+  {
+    "node_index": 349,
+    "tag": "li",
+    "text": "sister projects: Wikipedia article, Wikidata item",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sisitem"
+    }
+  },
+  {
+    "node_index": 358,
+    "tag": "p",
+    "text": "This is a disambiguation page. It lists works that share the same title. If an article link referred you here, please consider editing it to point directly to the intended page.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "font-style:italic"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "li",
+    "text": "Ozymandias, a poem by Percy Bysshe Shelley.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "Ozymandias, a poem by Horace Smith.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 380,
+    "tag": "li",
+    "text": "Mainspace disambiguation pages",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 385,
+    "tag": "li",
+    "text": "This page was last edited on 10 March 2009, at 13:52.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-lastmod"
+    }
+  },
+  {
+    "node_index": 386,
+    "tag": "li",
+    "text": "Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-copyright"
+    }
+  },
+  {
+    "node_index": 391,
+    "tag": "li",
+    "text": "Privacy policy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-privacy"
+    }
+  },
+  {
+    "node_index": 393,
+    "tag": "li",
+    "text": "About Wikisource",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-about"
+    }
+  },
+  {
+    "node_index": 395,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-disclaimers"
+    }
+  },
+  {
+    "node_index": 397,
+    "tag": "li",
+    "text": "Legal & safety contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-legal-safety-contacts"
+    }
+  },
+  {
+    "node_index": 399,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-wm-codeofconduct"
+    }
+  },
+  {
+    "node_index": 401,
+    "tag": "li",
+    "text": "Developers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-developers"
+    }
+  },
+  {
+    "node_index": 403,
+    "tag": "li",
+    "text": "Statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-statslink"
+    }
+  },
+  {
+    "node_index": 405,
+    "tag": "li",
+    "text": "Cookie statement",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-cookiestatement"
+    }
+  },
+  {
+    "node_index": 407,
+    "tag": "li",
+    "text": "Mobile view",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-mobileview"
+    }
+  }
+]

@@ -1,0 +1,1249 @@
+[
+  {
+    "node_index": 49,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 50,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 58,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS. A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Find Funding Funding Search Award Search NSF-wide Initiatives Research Experiences for Undergraduates Where to Start For Everyone For Early-Career Researchers For Postdoctoral Fellows For Graduate Students For Undergraduates For Industry For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "Funding Search Award Search NSF-wide Initiatives Research Experiences for Undergraduates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Funding Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 115,
+    "tag": "li",
+    "text": "Award Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "NSF-wide Initiatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 119,
+    "tag": "li",
+    "text": "Research Experiences for Undergraduates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 121,
+    "tag": "li",
+    "text": "Where to Start For Everyone For Early-Career Researchers For Postdoctoral Fellows For Graduate Students For Undergraduates For Industry For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "For Everyone",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "For Early-Career Researchers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "For Postdoctoral Fellows",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "For Graduate Students",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "For Undergraduates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "For Industry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "How to Apply Preparing Your Proposal Submitting Your Proposal Proposal & Award Policies & Procedures Guide (PAPPG) Additional Resources Research.gov Grants.gov How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 142,
+    "tag": "li",
+    "text": "Preparing Your Proposal Submitting Your Proposal Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 144,
+    "tag": "li",
+    "text": "Preparing Your Proposal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Submitting Your Proposal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Additional Resources Research.gov Grants.gov How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 155,
+    "tag": "li",
+    "text": "Grants.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 157,
+    "tag": "li",
+    "text": "How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 159,
+    "tag": "li",
+    "text": "Manage Your Award Getting Started Request a Change to Your Award Report Your Outcomes Proposal & Award Policies & Procedures Guide (PAPPG) Additional Resources Research.gov NSF Public Access Repository Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 163,
+    "tag": "li",
+    "text": "Getting Started Request a Change to Your Award Report Your Outcomes Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 165,
+    "tag": "li",
+    "text": "Getting Started",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Request a Change to Your Award",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "Report Your Outcomes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "Additional Resources Research.gov NSF Public Access Repository Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "NSF Public Access Repository",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 182,
+    "tag": "li",
+    "text": "Focus Areas Major Initiatives Artificial Intelligence Biotechnology Quantum STEM Workforce Focus Areas Explore All Focus Areas Arctic and Antarctic Astronomy and Space Biology Chemistry Computing Earth and Environment Education and Training Engineering Facilities and Infrastructure Materials Research Mathematics People and Society Physics Research Partnerships Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-33-66-text-large-small"
+    }
+  },
+  {
+    "node_index": 186,
+    "tag": "li",
+    "text": "Major Initiatives Artificial Intelligence Biotechnology Quantum STEM Workforce",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "Artificial Intelligence",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 191,
+    "tag": "li",
+    "text": "Biotechnology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "Quantum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 195,
+    "tag": "li",
+    "text": "STEM Workforce",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 197,
+    "tag": "li",
+    "text": "Focus Areas Explore All Focus Areas Arctic and Antarctic Astronomy and Space Biology Chemistry Computing Earth and Environment Education and Training Engineering Facilities and Infrastructure Materials Research Mathematics People and Society Physics Research Partnerships Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Explore All Focus Areas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Arctic and Antarctic",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "Astronomy and Space",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 206,
+    "tag": "li",
+    "text": "Biology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Chemistry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 210,
+    "tag": "li",
+    "text": "Computing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Earth and Environment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Education and Training",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "Engineering",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 218,
+    "tag": "li",
+    "text": "Facilities and Infrastructure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "Materials Research",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "Mathematics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "People and Society",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 226,
+    "tag": "li",
+    "text": "Physics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Research Partnerships",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "News & Events News & Announcements NSF Impacts Science Matters Blog For the Press Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-large"
+    }
+  },
+  {
+    "node_index": 236,
+    "tag": "li",
+    "text": "News & Announcements NSF Impacts Science Matters Blog For the Press",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "News & Announcements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "NSF Impacts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "For the Press",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "About About NSF Careers at NSF Updates on NSF Priorities Contact Us Our Directorates & Offices How NSF Is Organized Biological Sciences (BIO) Computer & Information Science & Engineering (CISE) Engineering (ENG) Geosciences (GEO) Integrative Activities (OIA) International Science & Engineering (OISE) Mathematical & Physical Sciences (MPS) Social, Behavioral & Economic Sciences (SBE) STEM Education (EDU) Technology, Innovation & Partnerships (TIP) National Center for Science & Engineering Statistics (NCSES) National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-33-66-text-large-small"
+    }
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "About NSF Careers at NSF Updates on NSF Priorities Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list "
+    }
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Careers at NSF",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "li",
+    "text": "Updates on NSF Priorities",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "li",
+    "text": "Our Directorates & Offices How NSF Is Organized Biological Sciences (BIO) Computer & Information Science & Engineering (CISE) Engineering (ENG) Geosciences (GEO) Integrative Activities (OIA) International Science & Engineering (OISE) Mathematical & Physical Sciences (MPS) Social, Behavioral & Economic Sciences (SBE) STEM Education (EDU) Technology, Innovation & Partnerships (TIP) National Center for Science & Engineering Statistics (NCSES) National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 266,
+    "tag": "li",
+    "text": "How NSF Is Organized",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 268,
+    "tag": "li",
+    "text": "Biological Sciences (BIO)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 270,
+    "tag": "li",
+    "text": "Computer & Information Science & Engineering (CISE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 272,
+    "tag": "li",
+    "text": "Engineering (ENG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 274,
+    "tag": "li",
+    "text": "Geosciences (GEO)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "Integrative Activities (OIA)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "International Science & Engineering (OISE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "Mathematical & Physical Sciences (MPS)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 282,
+    "tag": "li",
+    "text": "Social, Behavioral & Economic Sciences (SBE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 284,
+    "tag": "li",
+    "text": "STEM Education (EDU)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 286,
+    "tag": "li",
+    "text": "Technology, Innovation & Partnerships (TIP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 288,
+    "tag": "li",
+    "text": "National Center for Science & Engineering Statistics (NCSES)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 290,
+    "tag": "li",
+    "text": "National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 301,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 303,
+    "tag": "li",
+    "text": "Science Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 310,
+    "tag": "h1",
+    "text": "Science Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "page-title--top"
+    }
+  },
+  {
+    "node_index": 322,
+    "tag": "h3",
+    "text": "Science made clear. Impacts made real.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "h3",
+    "text": "Materials science: The stuff of the modern world",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 347,
+    "tag": "h3",
+    "text": "Advancing farming with cutting-edge technologies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 360,
+    "tag": "h3",
+    "text": "Quantum sensing: From the inner workings of cells to the outer limits of the universe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 373,
+    "tag": "h3",
+    "text": "Engineering materials for the quantum age",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 386,
+    "tag": "h3",
+    "text": "Robotics: Engineering the future of intelligent machines",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 399,
+    "tag": "h3",
+    "text": "Quantum networks: A new era of interconnectedness",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 412,
+    "tag": "h3",
+    "text": "Space weather: Protecting the planet",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 425,
+    "tag": "h3",
+    "text": "Supercomputers: Powering American discovery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 438,
+    "tag": "h3",
+    "text": "Digital twins: Virtual models with real-world impacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 451,
+    "tag": "h3",
+    "text": "Quantum computing: Expanding what's possible",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "teaser--title"
+    }
+  },
+  {
+    "node_index": 459,
+    "tag": "h3",
+    "text": "Pagination",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pagination-heading--2",
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 461,
+    "tag": "li",
+    "text": "Current page 1 Page 2 Page 3 … Last page 24",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item--number-wrapper"
+    }
+  },
+  {
+    "node_index": 463,
+    "tag": "li",
+    "text": "Current page 1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item is-active "
+    }
+  },
+  {
+    "node_index": 466,
+    "tag": "li",
+    "text": "Page 2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item "
+    }
+  },
+  {
+    "node_index": 469,
+    "tag": "li",
+    "text": "Page 3",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item "
+    }
+  },
+  {
+    "node_index": 472,
+    "tag": "li",
+    "text": "…",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item pager__item--ellipsis"
+    }
+  },
+  {
+    "node_index": 473,
+    "tag": "li",
+    "text": "Last page 24",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item pager__item--last"
+    }
+  },
+  {
+    "node_index": 477,
+    "tag": "li",
+    "text": "Next page Next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item pager__item--next"
+    }
+  },
+  {
+    "node_index": 482,
+    "tag": "h3",
+    "text": "Pagination",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mobile-pagination-heading--2",
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 484,
+    "tag": "li",
+    "text": "Current page. Page 1 of 24 1 24",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item pager__item--number pager__item--number-wrapper"
+    }
+  },
+  {
+    "node_index": 488,
+    "tag": "li",
+    "text": "Next page Next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pager__item pager__item--next"
+    }
+  },
+  {
+    "node_index": 499,
+    "tag": "li",
+    "text": "Publication date: January 16, 2026",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 502,
+    "tag": "li",
+    "text": "Last updated: January 16, 2026",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 519,
+    "tag": "p",
+    "text": "Randolph Building401 Dulany StreetAlexandria, VA 22314",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 526,
+    "tag": "p",
+    "text": "Sign up for email updates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 553,
+    "tag": "h2",
+    "text": "Footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden menu--footer__title",
+      "id": "block-footer-menu"
+    }
+  },
+  {
+    "node_index": 556,
+    "tag": "li",
+    "text": "About Us About NSF Careers Our Directorates & Offices National Science Board Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 557,
+    "tag": "h3",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 560,
+    "tag": "li",
+    "text": "About NSF",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 562,
+    "tag": "li",
+    "text": "Careers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 564,
+    "tag": "li",
+    "text": "Our Directorates & Offices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 566,
+    "tag": "li",
+    "text": "National Science Board",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 568,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 570,
+    "tag": "li",
+    "text": "What's New News & Announcements Events Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 571,
+    "tag": "h3",
+    "text": "What's New",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 574,
+    "tag": "li",
+    "text": "News & Announcements",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 576,
+    "tag": "li",
+    "text": "Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "li",
+    "text": "Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 580,
+    "tag": "li",
+    "text": "Information For Funding Seekers NSF Awardees Congress Media Educators Panelists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 581,
+    "tag": "h3",
+    "text": "Information For",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 584,
+    "tag": "li",
+    "text": "Funding Seekers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 586,
+    "tag": "li",
+    "text": "NSF Awardees",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 588,
+    "tag": "li",
+    "text": "Congress",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 590,
+    "tag": "li",
+    "text": "Media",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 592,
+    "tag": "li",
+    "text": "Educators",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 594,
+    "tag": "li",
+    "text": "Panelists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 596,
+    "tag": "li",
+    "text": "Resources Documents & Reports Budget, Performance & Financial Reporting Public Access Stopping Harassment Research Security Scientific Integrity Research.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 597,
+    "tag": "h3",
+    "text": "Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 600,
+    "tag": "li",
+    "text": "Documents & Reports",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 602,
+    "tag": "li",
+    "text": "Budget, Performance & Financial Reporting",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 604,
+    "tag": "li",
+    "text": "Public Access",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 606,
+    "tag": "li",
+    "text": "Stopping Harassment",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 608,
+    "tag": "li",
+    "text": "Research Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 610,
+    "tag": "li",
+    "text": "Scientific Integrity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 612,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 618,
+    "tag": "h2",
+    "text": "Required Policy Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden menu--required-policy-links__title",
+      "id": "block-requiredpolicylinks-menu"
+    }
+  },
+  {
+    "node_index": 621,
+    "tag": "li",
+    "text": "Vulnerability disclosure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 623,
+    "tag": "li",
+    "text": "Inspector General",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 625,
+    "tag": "li",
+    "text": "Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 627,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 629,
+    "tag": "li",
+    "text": "No FEAR Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 631,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 633,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 635,
+    "tag": "li",
+    "text": "Plain language",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  }
+]

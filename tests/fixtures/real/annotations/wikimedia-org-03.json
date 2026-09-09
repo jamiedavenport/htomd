@@ -1,0 +1,698 @@
+[
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Categories Equity & Inclusion Education & Open Access Technology Partnerships & Events Policy & Advocacy Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62390",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62390"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Equity & Inclusion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62395",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62395"
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "Education & Open Access",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62394",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62394 active "
+    }
+  },
+  {
+    "node_index": 86,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62392",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62392"
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "Partnerships & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62396",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62396"
+    }
+  },
+  {
+    "node_index": 90,
+    "tag": "li",
+    "text": "Policy & Advocacy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62393",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62393"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "li",
+    "text": "Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62397",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62397 active "
+    }
+  },
+  {
+    "node_index": 94,
+    "tag": "li",
+    "text": "About",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62512",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62512"
+    }
+  },
+  {
+    "node_index": 96,
+    "tag": "li",
+    "text": "Submit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62513",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62513"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-69330",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-69330"
+    }
+  },
+  {
+    "node_index": 116,
+    "tag": "h1",
+    "text": "Dagbani Wikimedians Take Wikipedia Awareness to Radio, Promote Language Diversity Conference 2026",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "entry-title"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "p",
+    "text": "The Dagbani Wikimedians User Group (DWUG) has stepped up its public awareness efforts to help more people understand Wikipedia, Wikimedia projects, and the role they can play in preserving and promoting Dagbani and other African languages online.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 133,
+    "tag": "p",
+    "text": "As part of this effort, members of the user group participated in radio discussions on Zaa Radio 99.3 FM on 22 August 2026 and Dagbon FM 102.5 on 5 September 2026.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 136,
+    "tag": "p",
+    "text": "Representing the Dagbani Wikimedians User Group during the radio engagements were Abdul-Rafiu Fuseini (Alhaji Darajaati), Hamidu Rukaya (Ruky Wunpini), Fuseini Mugisu Suhuyini (Sir Amugi), and Musah Fuseini (Musahfm).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 138,
+    "tag": "p",
+    "text": "The radio engagements provided an opportunity to speak directly to listeners about the work of Wikimedians, the importance of contributing knowledge to Wikimedia projects, and the growing presence of Dagbani in the digital space.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "h2",
+    "text": "Understanding Wikipedia and Wikimedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 140,
+    "tag": "p",
+    "text": "One of the main areas discussed during the interviews was the difference between Wikipedia, Wikimedia, and Wikimedians.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 141,
+    "tag": "p",
+    "text": "Wikipedia was explained as a free online encyclopedia that anyone can read and, in many cases, contribute to. It contains articles covering a wide range of subjects, with volunteers around the world contributing knowledge and improving existing content.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 142,
+    "tag": "p",
+    "text": "The discussions also helped listeners understand that Wikimedia refers to the broader movement and organization supporting free knowledge projects, while Wikimedians are the people who contribute to and participate in that movement.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 144,
+    "tag": "p",
+    "text": "The question of ownership was also addressed. The Wikimedia projects are not owned by an individual or a private company in the conventional sense. They are supported by the Wikimedia Foundation, a nonprofit organization, while the content is largely created, maintained, and improved by a global community of volunteers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 145,
+    "tag": "h2",
+    "text": "Introducing the Dagbani Wikimedians User Group",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "p",
+    "text": "The interviews also introduced listeners to the Dagbani Wikimedians User Group, a community of volunteers working to promote free knowledge and increase the representation of Dagbani and Dagbon’s cultural heritage on Wikimedia projects.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "p",
+    "text": "DWUG brings together people who are interested in Wikipedia, Wikidata, Wikimedia Commons, and other free knowledge projects. Members contribute articles, photographs, data, oral histories, and other forms of knowledge that help make Dagbani and local knowledge more visible and accessible online.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 148,
+    "tag": "p",
+    "text": "The radio discussions emphasized that contributing to Wikimedia projects is not limited to people with a particular professional background. Teachers, students, researchers, photographers, writers, language enthusiasts, and anyone with an interest in sharing reliable knowledge can participate.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "h2",
+    "text": "Why Join DWUG?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "p",
+    "text": "Listeners were encouraged to consider becoming part of the community because membership provides an opportunity to learn, contribute, and work with others who share an interest in Dagbani and free knowledge.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 151,
+    "tag": "p",
+    "text": "Through DWUG activities, members have opportunities to participate in training programs, editing campaigns, community projects, photography activities, and other initiatives aimed at improving the availability of local knowledge online.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "p",
+    "text": "For young people in particular, participation can also provide practical experience in digital skills, research, writing, photography, data management, and community engagement.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 157,
+    "tag": "h2",
+    "text": "Celebrating DWUG’s Achievements",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "p",
+    "text": "The radio engagements also provided an opportunity to highlight some of the achievements of the Dagbani Wikimedians community.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 159,
+    "tag": "p",
+    "text": "Over the years, DWUG and its members have organized and participated in a number of activities aimed at strengthening Dagbani’s presence on the internet. These include Wikipedia editing programs, photography campaigns, language-related projects, Wikimedia training sessions, community meetups, and collaborations with other language communities.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "p",
+    "text": "The community has also supported initiatives involving Wikidata, Wikimedia Commons, Wikivoyage and Dagbani Wikipedia, while working with partners and other Wikimedia communities to promote African languages and local knowledge.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 165,
+    "tag": "p",
+    "text": "These activities demonstrate what volunteers can accomplish when they come together around a common purpose.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 166,
+    "tag": "h2",
+    "text": "The Challenges",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 167,
+    "tag": "p",
+    "text": "Despite the progress made, the community continues to face challenges.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "p",
+    "text": "One major challenge is the limited availability of digital content in Dagbani. Many aspects of Dagbon’s history, culture, traditions, people, and places remain poorly represented online. There is therefore a need for more people to document and share reliable information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "p",
+    "text": "There are also challenges relating to digital literacy, access to resources, volunteer participation, and the technical work required to support a language in the digital environment.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 170,
+    "tag": "p",
+    "text": "The community believes that addressing these challenges requires cooperation among Wikimedians, educators, researchers, traditional authorities, language experts, institutions, and the wider public.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "h2",
+    "text": "How Can Someone Become a Member of DWUG?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "p",
+    "text": "The interviews made it clear that anyone interested in the mission of the community can get involved.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 173,
+    "tag": "p",
+    "text": "People who want to participate can connect with the Dagbani Wikimedians User Group through its official communication channels like Facebook, YouTube, Twitter (X), and LinkedIn, and take part in the community activities and training programs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 178,
+    "tag": "p",
+    "text": "New contributors do not need to be experienced editors. The community regularly organizes training and orientation activities to help beginners understand how Wikimedia projects work and how they can make meaningful contributions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 179,
+    "tag": "h2",
+    "text": "Promoting the Language Diversity Conference 2026",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "p",
+    "text": "Another important part of the radio engagements was the promotion of the Language Diversity Conference 2026, which will take place in Accra, Ghana, from 2 to 4 October 2026.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "p",
+    "text": "The conference is being held under the theme:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 184,
+    "tag": "p",
+    "text": "“Strengthening Language Communities in the Open Knowledge Movement.”",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 186,
+    "tag": "p",
+    "text": "The inaugural conference will bring together language activists, Wikimedia contributors, researchers, educators, policymakers, and other stakeholders interested in strengthening the presence of diverse and underrepresented languages in the digital world.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 187,
+    "tag": "p",
+    "text": "For the Dagbani Wikimedians User Group, the conference is an important opportunity to showcase the experience of the Dagbani community, learn from other language communities, and build partnerships that can contribute to the future of African languages online.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 188,
+    "tag": "p",
+    "text": "The conference will also provide space for discussions around the challenges faced by minoritized languages, technology and accessibility, ethical considerations, artificial intelligence, speech-to-text technologies, and partnerships for language development.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 193,
+    "tag": "h2",
+    "text": "Taking the Message Beyond the Wikimedia Community",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "p",
+    "text": "The radio engagements on Zaa Radio and Dagbon FM are part of a broader effort by DWUG to take the conversation about free knowledge beyond the existing Wikimedia community.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 195,
+    "tag": "p",
+    "text": "For many people, Wikipedia may simply be a website they visit when looking for information. The radio discussions provided an opportunity to explain the people and community behind the content and to show that everyone has a role to play in making reliable knowledge available.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "p",
+    "text": "The message from DWUG is simple: Dagbani and the knowledge of Dagbon deserve a strong presence on the internet, and building that presence requires the participation of the people themselves.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "p",
+    "text": "Through continued awareness, training, documentation, and collaboration, the Dagbani Wikimedians User Group hopes to encourage more people to become contributors and help ensure that the language, history, and cultural knowledge of Dagbon are represented for present and future generations.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "h3",
+    "text": "Share this:",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sd-title"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "Share on Mastodon (Opens in new window) Mastodon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "share-mastodon"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Share on Bluesky (Opens in new window) Bluesky",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "share-bluesky"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "h2",
+    "text": "Can you help us translate this article?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 218,
+    "tag": "p",
+    "text": "In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 221,
+    "tag": "h3",
+    "text": "Related",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "jp-relatedposts-headline"
+    }
+  },
+  {
+    "node_index": 275,
+    "tag": "h3",
+    "text": "Meta",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 285,
+    "tag": "h3",
+    "text": "Related",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "jp-relatedposts-headline"
+    }
+  },
+  {
+    "node_index": 299,
+    "tag": "h1",
+    "text": "Welcome to Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 300,
+    "tag": "p",
+    "text": "Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "h2",
+    "text": "Subscribe to Diff via Email",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "widgettitle"
+    }
+  },
+  {
+    "node_index": 310,
+    "tag": "p",
+    "text": "Enter your email address to subscribe to Diff and receive notifications of new posts by email.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "p",
+    "text": "Email Address",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-email"
+    }
+  },
+  {
+    "node_index": 314,
+    "tag": "p",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-submit"
+    }
+  },
+  {
+    "node_index": 325,
+    "tag": "h1",
+    "text": "Wikimedia News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 329,
+    "tag": "h3",
+    "text": "Wikimedia Foundation News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 331,
+    "tag": "li",
+    "text": "Wikimedia Foundation Statement on US staff unionization3 September 2026 by Wikimedia Foundation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 337,
+    "tag": "h3",
+    "text": "Down the Rabbit Hole",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 339,
+    "tag": "li",
+    "text": "The cost of ‘free’: How Wikimedia Enterprise protects Wikipedia in the AI era16 July 2026 by Wikimedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 347,
+    "tag": "h3",
+    "text": "Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 349,
+    "tag": "p",
+    "text": "This is Diff, a Wikimedia community blog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "p",
+    "text": "All participants are responsible for building a place that is welcoming and friendly to everyone. Learn more about Diff.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 352,
+    "tag": "p",
+    "text": "A Wikimedia Foundation Project",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 355,
+    "tag": "h3",
+    "text": "Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 358,
+    "tag": "li",
+    "text": "Join",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 360,
+    "tag": "li",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 362,
+    "tag": "li",
+    "text": "Guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 364,
+    "tag": "li",
+    "text": "Editorial guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 366,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 368,
+    "tag": "li",
+    "text": "Terms of Use",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 374,
+    "tag": "p",
+    "text": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted. Powered by WordPress.com VIP, Automattic Privacy Notice.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 395,
+    "tag": "td",
+    "text": "This comment is spam",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 400,
+    "tag": "td",
+    "text": "This comment is a violation of the Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 405,
+    "tag": "td",
+    "text": "Other",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

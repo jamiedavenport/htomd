@@ -1,0 +1,1464 @@
+[
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Main Page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-mainpage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 58,
+    "tag": "li",
+    "text": "Help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-help",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Browse",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Browse",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "li",
+    "text": "Cookbook",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Cookbook",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Wikijunior",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikijunior",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 70,
+    "tag": "li",
+    "text": "Featured books",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Featured-books",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Recent changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-recentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "Special pages",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-specialpages",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Random book",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomrootpage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Using Wikibooks",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Using-Wikibooks",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Reading room forum",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Reading-room-forum",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "li",
+    "text": "Community portal",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-portal",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Help out!",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-maintenance",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "Policies and guidelines",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Policies-and-guidelines",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Contact us",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-contact",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 145,
+    "tag": "li",
+    "text": "Donations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 163,
+    "tag": "li",
+    "text": "Donations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "h1",
+    "text": "Cookbook:Bread",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "firstHeading",
+      "class": "firstHeading mw-first-heading"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-es mw-list-item"
+    }
+  },
+  {
+    "node_index": 199,
+    "tag": "li",
+    "text": "Français",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fr mw-list-item"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "日本語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ja mw-list-item"
+    }
+  },
+  {
+    "node_index": 205,
+    "tag": "li",
+    "text": "Nederlands",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nl mw-list-item"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Română",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ro mw-list-item"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Русский",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ru mw-list-item"
+    }
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Recipe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-nstab-cookbook",
+      "class": "selected mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Discussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-talk",
+      "class": "mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view",
+      "class": "selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-ve-edit",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Edit source",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit",
+      "class": "collapsible mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 272,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view-more",
+      "class": "selected mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-ve-edit-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "Edit source",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit-more",
+      "class": "collapsible mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 284,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "What links here",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-whatlinkshere",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 295,
+    "tag": "li",
+    "text": "Related changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-recentchangeslinked",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "Upload file",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-upload",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 301,
+    "tag": "li",
+    "text": "Permanent link",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-permalink",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Page information",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-info",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 307,
+    "tag": "li",
+    "text": "Cite this page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-cite",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Get shortened URL",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-urlshortener",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 317,
+    "tag": "li",
+    "text": "Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikipedia",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 320,
+    "tag": "li",
+    "text": "Wikiversity",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikiversity",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 323,
+    "tag": "li",
+    "text": "Wiktionary",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wiktionary",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 326,
+    "tag": "li",
+    "text": "Wikiquote",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikiquote",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 329,
+    "tag": "li",
+    "text": "Wikisource",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikisource",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Wikinews",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikinews",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "li",
+    "text": "Wikivoyage",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikivoyage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "Commons",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Commons",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "Wikidata",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikidata",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "MediaWiki",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-MediaWiki",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 347,
+    "tag": "li",
+    "text": "Meta-Wiki",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Meta-Wiki",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 354,
+    "tag": "li",
+    "text": "Create a collection",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-create_a_book",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 357,
+    "tag": "li",
+    "text": "Download as PDF",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-download-as-rl",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 360,
+    "tag": "li",
+    "text": "Printable version",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-print",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 367,
+    "tag": "li",
+    "text": "Abstract Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-abstract mw-list-item"
+    }
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "Wikimedia Commons",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-commons mw-list-item"
+    }
+  },
+  {
+    "node_index": 373,
+    "tag": "li",
+    "text": "Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikipedia mw-list-item"
+    }
+  },
+  {
+    "node_index": 376,
+    "tag": "li",
+    "text": "Wikiquote",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikiquote mw-list-item"
+    }
+  },
+  {
+    "node_index": 379,
+    "tag": "li",
+    "text": "Wikidata item",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-wikibase",
+      "class": "wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"
+    }
+  },
+  {
+    "node_index": 406,
+    "tag": "th",
+    "text": "Bread",
+    "label": "unreviewed",
+    "formatting": {
+      "colspan": "2",
+      "class": "infobox-above",
+      "style": "background-color: #58E0D5;color:var:(--color-base-fixed,#202122);; font-size:medium; overflow-wrap: break-word; width:300px;"
+    }
+  },
+  {
+    "node_index": 413,
+    "tag": "th",
+    "text": "Category",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "infobox-label",
+      "style": "text-align: left;"
+    }
+  },
+  {
+    "node_index": 414,
+    "tag": "td",
+    "text": "Ingredients",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "infobox-data"
+    }
+  },
+  {
+    "node_index": 416,
+    "tag": "p",
+    "text": "Cookbook | Recipes | Ingredients | Equipment | Techniques | Cookbook Disambiguation Pages | Ingredients",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 425,
+    "tag": "p",
+    "text": "Bread is a type of cooked preparation made from a dough of flour and water, often with additional ingredients.[1][2]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 438,
+    "tag": "h2",
+    "text": "Varieties",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Varieties"
+    }
+  },
+  {
+    "node_index": 447,
+    "tag": "p",
+    "text": "There are many types of bread across the world, each with its own history, style, and taste. Typically, these can be described according to a couple characteristics.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 449,
+    "tag": "h3",
+    "text": "Leavened vs unleavened",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Leavened_vs_unleavened"
+    }
+  },
+  {
+    "node_index": 458,
+    "tag": "p",
+    "text": "Leavened breads include a component to lighten and expand the crumb, while unleavened breads do not.[3] As a result, unleavened bread is usually denser. Beyond the simple presence/absence of leavener, breads can also be classified as yeasted breads, which use yeast as the leavener, or quickbreads, which use a chemical leavener like baking powder or baking soda—either way, the resulting carbon dioxide gas is what leavens the bread.[3]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 475,
+    "tag": "h3",
+    "text": "Loaves vs flatbreads",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Loaves_vs_flatbreads"
+    }
+  },
+  {
+    "node_index": 487,
+    "tag": "figcaption",
+    "text": "Flatbread example",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "p",
+    "text": "Loaves are shaped to have several inches of height, with an outer crust and inner crumb that have different textures—they are almost always leavened and made with a significant proportion of wheat flour. On the other hand, flatbreads are thin and usually crustless, though they may be either leavened or unleavened. Because of their simplicity and non-reliance on leavening, flatbreads are the most basic and widespread type of bread worldwide,[4] and they can use a range of flours. Typically, flatbreads local to a culture will incorporate the grains or starches local to that area.[4]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 502,
+    "tag": "h3",
+    "text": "Lean vs enriched",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Lean_vs_enriched"
+    }
+  },
+  {
+    "node_index": 511,
+    "tag": "p",
+    "text": "Lean breads have little to no fat in them, while enriched breads contain fat, eggs, and or sugar, all of which impact the texture.[5] Typically, enriched breads have a much softer and more tender crumb as a result. Like cheese, bread is made from very simple ingredients, and it is the specific choices made during the multi-stage production process that create the wide array of options we see.[5]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 523,
+    "tag": "h2",
+    "text": "Production",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Production"
+    }
+  },
+  {
+    "node_index": 533,
+    "tag": "h3",
+    "text": "Mixing",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Mixing"
+    }
+  },
+  {
+    "node_index": 545,
+    "tag": "figcaption",
+    "text": "Kneading by hand",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 546,
+    "tag": "p",
+    "text": "The vast majority of breads begin by simply combining the ingredients into a dough, followed by a period of continuous kneading in gluten-based doughs. In the first or \"pickup\" step, all the ingredients are combined on a low speed to make a rough and shaggy dough.[6][7] If needed, adjustments can be made at this point.[8] The dough is then kneaded at a medium (not high)[6] speed for several minutes until all flour is incorporated, the dough is smooth and shiny, and the gluten is properly developed.[7][8][9] Add-ins like nuts or fruit may then be incorporated.[8] Kneading time depends on the type of dough being made, as well as the type of flour used—harder wheat flours require more kneading.[9] One good way to tell if a wheat dough is ready is through the \"windowpane test\". Here, a piece of the dough is gently stretched as thin as possible into a square—if the gluten network is strong enough, the dough will form a nearly translucent membrane through which you will be able to see light.[6][7][8] Conversely, if the dough is ropy and tears, the dough is not ready. Note that it is technically possible to over-knead dough, at which point the gluten network will start to break down and t",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 604,
+    "tag": "p",
+    "text": "Kneading serves several important purposes. As the dough is mixed, the water begins to hydrate both the starch and the proteins.[10] The continued agitation of the hydrated mixture detangles glutenin and gliadin proteins and encourages them to bond to each other, thus creating a strong and flexible gluten network that is necessary to trap gas bubbles, retain moisture, and provide structure to the bread.[3][7][9][10] Kneading also increases the dough's temperature via friction and distributes the yeast throughout.[7][8]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 633,
+    "tag": "p",
+    "text": "Serious bread bakers will often seek to carefully regulate the temperature of the dough as it comes out of the mixing stage, in order to get it off to a desirable start during fermentation. In order to do so, the baker will often take the temperature of the ingredients and the room, then use a formula to calculate the required temperature of the water to get the desired final dough temperature with the given parameters.[8] For example, ice-cold water may be used to counterbalance a hot environment or long mixing time, or to otherwise slow down fermentation.[6]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 652,
+    "tag": "p",
+    "text": "While all yeasted wheat doughs are mixed and kneaded, there are two primary methods used, which produces slightly different results. In the \"straight\" or \"direct\" mixing method for yeasted wheat doughs, the ingredients (flour, liquid, yeast, salt, and additions) are simply combined in one stage and mixed.[6][7][8] The yeast may or may not first be activated by mixing with sugar and warm water, depending on the variety. The dough then proceeds to the bulk fermentation stage.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 668,
+    "tag": "figcaption",
+    "text": "Poolish after a day's fermentation—note the bubbles",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 669,
+    "tag": "p",
+    "text": "On the other hand, the \"preferment\" or \"indirect\" mixing method builds the final dough in separate stages, with an intermediate fermentation stage between them.[6][8] Owing to the long fermentation time, this type of dough creation results in more complex flavor and improved texture,[8][7] especially in breads with a proportion of non-wheat flour like rye. There are several types of pre-ferment, which range in texture and fermentation style. A pâte fermentée is just a piece of bread dough from a day or two prior that has been kept in the fridge.[6] A sponge combines a recipe's yeast, liquid, and half the flour, allows this mixture to ferment for about an hour until doubled, and then mixes in the remaining flour and other ingredients.[6][8] A poolish is a thin mixture of approximately equal weights flour and water, with variable quantities of yeast depending on the desired fermentation time—less yeast and water means a longer fermentation. The poolish is then allowed to ferment a little past its peak rise (typically several hours) before incorporation into the final dough.[6][7] A biga is a stiff mixture of only 50% hydration and 1% yeast that is allowed to ferment for 16–18 hours b",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 749,
+    "tag": "h3",
+    "text": "First rise",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "First_rise"
+    }
+  },
+  {
+    "node_index": 761,
+    "tag": "figcaption",
+    "text": "Dough in the first rise",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 762,
+    "tag": "p",
+    "text": "After mixing, yeasted doughs must undergo a period of fermentation,[3] sometimes called the \"first rise\", \"bulk fermentation\", or \"proofing\".[6][7] In this stage, the entire dough is covered, greased, or placed in a humid environment to prevent a skin from forming, and the entire mass is allowed to rest and rise until doubled in volume.[6][7][9] The exact duration of this rising period will depend on the amount of yeast in the dough, the ambient temperature, and whether the dough is enriched—less yeast, cooler temperatures, and greater enrichment will all slow down the process.[7][8] You can tell whether the dough is ready by gently poking it with a finger or two—when ready, the dough should no longer spring back, instead leaving an impression.[8] Some recipes call for the dough to be gently folded over itself periodically during rising. This is said to help further develop the gluten and properly distribute the carbon dioxide.[6][10]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 808,
+    "tag": "p",
+    "text": "This rising period causes several key effects. First, the fermentation of the dough by the yeast and any bacteria generates various organic molecules such as alcohols and acids, which add a more complex flavor.[6][7][8] Many of these substances also have a conditioning effect on the dough by tenderizing the gluten network, thereby making them stretchier, with better structure and mouthfeel.[6][7][8][9] This gluten network also traps the carbon dioxide produced by the microbes in the dough, giving it a lighter crumb.[3][10]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 845,
+    "tag": "p",
+    "text": "Note that the temperature can be adjusted to regulate the dough and its qualities. The base temperature range that optimizes yeast growth is 24–27°C (75–80°F).[7][9] Below 21 °C (70 °F), the yeast's activity is slowed, and bacteria and their byproducts are favored[7][9]—deliberately fermenting the dough at cool temperatures (3–10°C/38–50°F) is called retardation, and it causes greater acidity and development of the dough's flavor.[6][7][8] Note that dough can still become over-proofed while refrigerated if left too long.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 874,
+    "tag": "p",
+    "text": "A good environment for rising bread is an oven; turning the oven on to a low setting for a few minutes prior to putting the dough in will encourage better leavening, but remember to turn the oven off for when the dough is in. Professionals will have dedicated proofing boxes, which ensure an optimum environment for bread to rise.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 876,
+    "tag": "h3",
+    "text": "Deflating",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Deflating"
+    }
+  },
+  {
+    "node_index": 885,
+    "tag": "p",
+    "text": "The next step after fermentation is to gently deflate the dough, which is sometimes confusingly called \"punching down\" or \"knocking down\", even though you should not actually be so rough with the dough.[10] This process involves gently folding and pressing down on the dough, which releases excess carbon dioxide and breaks large bubbles into smaller, finer ones.[13] It also evens out the temperature and relaxes the gluten network, which helps with shaping.[8][10]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 903,
+    "tag": "h3",
+    "text": "Shaping",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Shaping"
+    }
+  },
+  {
+    "node_index": 915,
+    "tag": "figcaption",
+    "text": "Braiding bread dough",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 919,
+    "tag": "figcaption",
+    "text": "Bread in a loaf pan",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 920,
+    "tag": "p",
+    "text": "Bread dough can be shaped into a multitude of shapes/styles, through various techniques like stretching, rolling out, rolling up into a spiral, folding, twisting, and molding.[6][9] Flatbreads are often patted or rolled out thin. Free-form loaves may be shaped using the hands, baskets, or thick cloths.[6][8] The dough may also be placed in a loaf pan or pot to give it a rigid form. In some cases, the dough may be slashed or scored with a sharp tool, either before or after the second rise, to help the bread rise properly in the oven and to give it an appealing design.[6][8]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 946,
+    "tag": "p",
+    "text": "Sometimes, a brief 10–20 minute rest period is enacted before the final shaping in order to let the gluten relax further.[6]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 952,
+    "tag": "h3",
+    "text": "Second rise",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Second_rise"
+    }
+  },
+  {
+    "node_index": 961,
+    "tag": "p",
+    "text": "Some yeasted breads—typically loaves—are given a second rising stage after shaping, and it is this rise that governs the final crumb in the oven.[7] Many of the same principles apply as with the first rise, and this rise is typically always done at warm room temperature.[7] However, unless making small items like rolls, the dough should not be allowed to rise to its maximum, or it may over-proof in the oven and collapse.[6][9]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 979,
+    "tag": "h3",
+    "text": "Garnishing",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Garnishing"
+    }
+  },
+  {
+    "node_index": 988,
+    "tag": "p",
+    "text": "Garnishes may be applied to the outsides of some breads before baking, providing added texture and flavor. These garnishes are as varied as those that can go into a loaf. Some common garnishes include sesame seeds, poppy seeds, herbs, cheese, coarse salt, and onion. Some garnishes will stick better if applied on top of an egg or milk wash.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 994,
+    "tag": "h3",
+    "text": "Cooking",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Cooking"
+    }
+  },
+  {
+    "node_index": 1003,
+    "tag": "p",
+    "text": "Breads are typically cooked by baking, steaming, or frying. Frying is the simplest method, achieved by placing a flatbread on a hot stone, pan, or metal sheet. Some breads can be steamed in a simple pot steamer setup to yield a soft bread with no significant crust.[3]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1011,
+    "tag": "p",
+    "text": "In baking, the bread is typically placed in a very hot oven, where it begins to cook from the outside in.[9] As the dough is warmed, the yeast gets a final rapid proofing stage and produces extra carbon dioxide before being killed by the heat.[9] The protein network also weakens slightly, allowing the gas bubbles in the dough to expand further.[7] This expansion of the dough in the oven is called \"oven spring\".[6] Around 60°C (140°F), the starch begins to gelatinize and set, and proteins denature and set around 71–74°C (160–165°F), contributing to the finished structure of the loaf.[7][9] Once the crust is fully set at around 90°C (194°F), the oven spring halts, as further expansion is no longer possible.[10] From this point on, the inner structure continues to set, water evaporates, and the crust dries out and browns.[9][10] Finally, the bread is cooked when it sounds hollow when tapped, usually around 82–88°C (180–190°F) for enriched breads and 88–99°C (190–210°F) for lean breads—instant-read thermometers are helpful here.[7][8]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1056,
+    "tag": "p",
+    "text": "It is usually very important to use a very hot oven when baking loaves, in order to cause a rapid expansion and setting, avoiding collapse.[9] This is especially important when baking free-form loaves.[7] In many cases, steam is added to the oven early in the baking process, which helps to form make a crisp and shiny crust by gelatinizing the starch and facilitating enzymatic reactions at the surface.[6][7][8][9] Note that this effect is only applicable in the early stages of baking; injecting steam into the oven at later stages would just re-moisten the bread.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1082,
+    "tag": "h3",
+    "text": "Cooling",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Cooling"
+    }
+  },
+  {
+    "node_index": 1091,
+    "tag": "p",
+    "text": "With loaves of bread, cooling is an important stage. They must be allowed to rest so the starch can cool and set properly.[8][10] You also want to make sure it is removed from any pans and cooled on a rack in order to prevent condensation and softening of the crust.[6][8]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1109,
+    "tag": "h2",
+    "text": "Characteristics",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Characteristics"
+    }
+  },
+  {
+    "node_index": 1118,
+    "tag": "p",
+    "text": "The specific properties of bread are governed by a variety of factors.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1120,
+    "tag": "h3",
+    "text": "Flour",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Flour"
+    }
+  },
+  {
+    "node_index": 1129,
+    "tag": "p",
+    "text": "Wheat flour is the most popular flour to use in loaves, because wheat has many qualities that contribute to a good loaf. White flour is used more frequently than unrefined whole wheat flour. Additionally, older, more oxidized flour will form a stronger gluten network.[10] Other flours used include those of rye, corn, oat, and barley. Using a mixture of different flours can make an interesting loaf of bread.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1140,
+    "tag": "h3",
+    "text": "Liquid",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Liquid"
+    }
+  },
+  {
+    "node_index": 1149,
+    "tag": "p",
+    "text": "Water, or some other liquid, is used to form the flour into a paste or dough. The volume of liquid required varies between recipes, but a ratio of 1 part liquid to 3 parts flour is common for yeast breads, while recipes that use steam as the primary leavening method may have a liquid content in excess of one part liquid to one part flour by volume. In addition to water, other types of liquids that may be used include dairy products, fruit juices, or beer. In addition to the water in each of these, they also contribute additional sweeteners, fats, and/or leavening components.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1151,
+    "tag": "h3",
+    "text": "Flavor",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Flavor"
+    }
+  },
+  {
+    "node_index": 1160,
+    "tag": "p",
+    "text": "In lean breads made mainly with wheat flour and water, the flavor comes primarily from the byproducts of fermentation and from Maillard/caramelization reactions at high heat.[3][10] In these breads, longer fermentation and interesting microbial cultures (e.g. sourdough) are typically the key to more developed flavors.[6] In enriched doughs, the fat contributes and carries additional flavor. Flavor can also be developed in breads by incorporating ingredients with distinctive flavors, such as non-wheat flours, flavorful liquids, spices and herbs, and dairy products.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1174,
+    "tag": "h3",
+    "text": "Texture",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Texture"
+    }
+  },
+  {
+    "node_index": 1183,
+    "tag": "p",
+    "text": "Texture in breads is generally governed by the flour, water, and fat in the dough. The flour is typically what contributes starch and protein, including gluten, to the bread.[6] High-gluten breads like those made from wheat have the ability to incorporate air bubbles and a light, elastic crumb.[9] Whole-grain flours make a denser and less soft bread.[3][7] Breads with higher hydration levels have a more open and chewy texture.[6][7]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1208,
+    "tag": "p",
+    "text": "Fats also play an interesting role in bread texture, generally contributing a tenderizing quality.[9] In gluten-containing doughs, a small amount (3% by weight) of fat will help reinforce the gluten network and increase the viscoelastic nature of the bread[9]—however, greater than that, the fat will interfere with the gluten network, producing a softer crumb and crust.[6][9][10] In all breads, fats will coat the starch granules, which helps delay staling by delaying the release of moisture from the bread.[9][10]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1237,
+    "tag": "p",
+    "text": "Salt tightens the gluten network, but it also helps inhibit enzymes that can digest and degrade the gluten network.[9]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1243,
+    "tag": "h3",
+    "text": "Add-ins",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Add-ins"
+    }
+  },
+  {
+    "node_index": 1252,
+    "tag": "p",
+    "text": "Once the basic ingredients have been considered, a lot of the experimentation comes in the extra additions to a loaf. Nuts and seeds can add both extra nutrition and variety in taste and texture. Some dried fruit, such as raisins, cranberries, or apricots, may be found enjoyable in a loaf, especially a sweeter one. Cheese in bread is popular, and it may be mixed in directly with the dough or rolled in during the final shaping stages. Adding different herbs and spices can change how a loaf is perceived dramatically.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1257,
+    "tag": "h2",
+    "text": "Selection and storage",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Selection_and_storage"
+    }
+  },
+  {
+    "node_index": 1266,
+    "tag": "p",
+    "text": "When selecting bread, decide what attributes you want.[5] Generic commercial \"sandwich\" bread and rolls are very soft, with minimal crust and flavor, but they are easy to eat with sandwiches. If you're looking for a more flavorful and textural bread, artisan-style breads with crisp crust and well-developed interior are better. Flatbreads are great for eating with the hands and/or containing foods, and gluten-free options are available.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1272,
+    "tag": "p",
+    "text": "Bread going stale is not just a matter of it losing moisture and drying out, although this is a part of the problem. The main reason for staling is the crystallisation of the starch molecules within bread, whereby the molecules lock together.[10] Moisture in bread sits between the starch molecules, inhibiting the crystallisation process. Evaporation of this moisture, which is accelerated by increased surface area, therefore contributes to a speedier staling. The crystallisation takes place over time, so the longer the bread sits out, the more it occurs and the harder the bread gets. Breads with high moisture and/or fat will stale more slowly. Breads that undergo a long fermentation period also stale more slowly.[6][7] Refrigerating bread accelerates the staling process, and freezing interrupts it.[10] As a result, bread is best stored at room temperature for up to a day or so, followed by freezing for longer-term storage.[8][9] With slightly stale bread, moistening and heating it can temporarily reverse the staling by interfering with the starch crystallization[9][10]—moistening and toasting slightly stale bread can help recover it for eating.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1306,
+    "tag": "h2",
+    "text": "Techniques",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Techniques"
+    }
+  },
+  {
+    "node_index": 1316,
+    "tag": "h3",
+    "text": "Autolyse",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Autolyse"
+    }
+  },
+  {
+    "node_index": 1325,
+    "tag": "p",
+    "text": "The autolyse is a special technique sometimes used when mixing lean wheat bread doughs. In this process, the flour and water are gently combined on low speed, then left to rest and hydrate for 10–30 minutes.[6][7] This rest period allows enzymes to break down the gluten proteins into smaller pieces that will align more quickly into a stronger network,[7][10] and it also helps high-fiber flour to better absorb water.[6] Ultimately, this shortens the kneading stage after the remaining ingredients are incorporated and makes the dough easier to handle.[6][7][10]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1359,
+    "tag": "h3",
+    "text": "Soakers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Soakers"
+    }
+  },
+  {
+    "node_index": 1368,
+    "tag": "p",
+    "text": "If incorporating grains and seeds into a bread dough, it's good practice to pre-soak them in liquid overnight before incorporating into the dough. This prevents them from pulling moisture out of the dough, which would negatively affect the bread's final texture.[6][7][14]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1382,
+    "tag": "h2",
+    "text": "Use",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Use"
+    }
+  },
+  {
+    "node_index": 1391,
+    "tag": "p",
+    "text": "Breads are nearly ubiquitous across the world, playing a range of roles in cuisine. Flatbreads like roti, naan, and more are often used to help pick up foods. Tortillas and sliced breads are used to enclose fillings for consumption. Breads of all kinds may also be served alongside dishes to soak up liquids and add bulk to a meal. Loaves of bread can even be hollowed out to make \"bread bowls\" that contain soups, soften, and take on additional flavor.[9] Breads soaked in egg or other rich liquids can be baked or fried, making a hearty breakfast or sweet dessert. Breads have also historically been used as thickeners for soups and sauces,[5][9] and they can be processed into croutons and breadcrumbs for incorporation into dishes.[5][9]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1414,
+    "tag": "h2",
+    "text": "Substitution",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Substitution"
+    }
+  },
+  {
+    "node_index": 1423,
+    "tag": "p",
+    "text": "Some breads can be substituted for each other if they have similar properties, especially if they are simply to be served alongside a dish or used as a vehicle for food. Crackers or crispbreads may also be substituted, depending on the function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1425,
+    "tag": "h2",
+    "text": "Recipes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Recipes"
+    }
+  },
+  {
+    "node_index": 1435,
+    "tag": "h3",
+    "text": "Recipes for bread",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Recipes_for_bread"
+    }
+  },
+  {
+    "node_index": 1997,
+    "tag": "h3",
+    "text": "Recipes using bread",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Recipes_using_bread"
+    }
+  },
+  {
+    "node_index": 2883,
+    "tag": "h2",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "References"
+    }
+  },
+  {
+    "node_index": 2893,
+    "tag": "li",
+    "text": "↑ Kipfer, Barbara Ann (2012-04-11). The Culinarian: A Kitchen Desk Reference. Houghton Mifflin Harcourt. ISBN 978-0-544-18603-3.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:22-1"
+    }
+  },
+  {
+    "node_index": 2905,
+    "tag": "li",
+    "text": "↑ Gibson, Mark (2018-01-04). Food Science and the Culinary Arts. Academic Press. ISBN 978-0-12-811817-7.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:12-2"
+    }
+  },
+  {
+    "node_index": 2917,
+    "tag": "li",
+    "text": "↑ a b c d e f g h i Zhou, Weibiao; Hui, Y. H. (2014-08-11). Bakery Products Science and Technology. John Wiley & Sons. ISBN 978-1-119-96715-6.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:32-3"
+    }
+  },
+  {
+    "node_index": 2964,
+    "tag": "li",
+    "text": "↑ a b Friberg, Bo (2016-09-13). The Professional Pastry Chef: Fundamentals of Baking and Pastry. Wiley. ISBN 978-0-470-46629-2.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:92-4"
+    }
+  },
+  {
+    "node_index": 2983,
+    "tag": "li",
+    "text": "↑ a b c d e Ruhlman, Michael (2008). The Elements of Cooking: Translating the Chef's Craft for Every Kitchen. Black Incorporated. ISBN 978-1-86395-143-2.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:102-5"
+    }
+  },
+  {
+    "node_index": 3014,
+    "tag": "li",
+    "text": "↑ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah ai aj The Culinary Institute of America (CIA) (2015-02-25). Baking and Pastry: Mastering the Art and Craft. John Wiley & Sons. ISBN 978-0-470-92865-3.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:72-6"
+    }
+  },
+  {
+    "node_index": 3169,
+    "tag": "li",
+    "text": "↑ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab ac ad ae af ag ah Amendola, Joseph; Rees, Nicole (2003-01-03). Understanding Baking: The Art and Science of Baking. Wiley. ISBN 978-0-471-44418-3.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:52-7"
+    }
+  },
+  {
+    "node_index": 3316,
+    "tag": "li",
+    "text": "↑ a b c d e f g h i j k l m n o p q r s t u v w Labensky, Sarah; Martel, Priscilla; Damme, Eddy Van (2015-01-06). On Baking: A Textbook of Baking and Pastry Fundamentals, Updated Edition. Pearson Education. ISBN 978-0-13-388675-7.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:62-8"
+    }
+  },
+  {
+    "node_index": 3419,
+    "tag": "li",
+    "text": "↑ a b c d e f g h i j k l m n o p q r s t u v w x y z Davidson, Alan (2014-01-01). Jaine, Tom (ed.). The Oxford Companion to Food. Oxford University Press. doi:10.1093/acref/9780199677337.001.0001. ISBN 978-0-19-967733-7.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:42-9"
+    }
+  },
+  {
+    "node_index": 3536,
+    "tag": "li",
+    "text": "↑ a b c d e f g h i j k l m n o p q r Provost, Joseph J.; Colabroy, Keri L.; Kelly, Brenda S.; Wallert, Mark A. (2016-05-02). The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking. John Wiley & Sons. ISBN 978-1-118-67420-8.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:82-10"
+    }
+  },
+  {
+    "node_index": 3619,
+    "tag": "li",
+    "text": "↑ \"Levain for sandwich bread | King Arthur Baking\". www.kingarthurbaking.com. Retrieved 2024-06-20.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-11"
+    }
+  },
+  {
+    "node_index": 3630,
+    "tag": "li",
+    "text": "↑ \"What is a Levain And How is it Different From a Starter? | The Perfect Loaf\". www.theperfectloaf.com. 2020-09-04. Retrieved 2024-06-20.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-12"
+    }
+  },
+  {
+    "node_index": 3641,
+    "tag": "li",
+    "text": "↑ Provost, Joseph J.; Colabroy, Keri L.; Kelly, Brenda S.; Wallert, Mark A. (2016-05-02). The Science of Cooking: Understanding the Biology and Chemistry Behind Food and Cooking. John Wiley & Sons. ISBN 978-1-118-67420-8.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-:822-13"
+    }
+  },
+  {
+    "node_index": 3653,
+    "tag": "li",
+    "text": "↑ \"3 ways to switch up your bread baking | King Arthur Baking\". www.kingarthurbaking.com. Retrieved 2024-06-21.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cite_note-14"
+    }
+  },
+  {
+    "node_index": 3672,
+    "tag": "li",
+    "text": "Ingredients",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3677,
+    "tag": "li",
+    "text": "This page was last edited on 23 July 2025, at 20:54.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-lastmod"
+    }
+  },
+  {
+    "node_index": 3678,
+    "tag": "li",
+    "text": "Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-copyright"
+    }
+  },
+  {
+    "node_index": 3683,
+    "tag": "li",
+    "text": "Privacy policy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-privacy"
+    }
+  },
+  {
+    "node_index": 3685,
+    "tag": "li",
+    "text": "About Wikibooks",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-about"
+    }
+  },
+  {
+    "node_index": 3687,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-disclaimers"
+    }
+  },
+  {
+    "node_index": 3689,
+    "tag": "li",
+    "text": "Legal & safety contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-legal-safety-contacts"
+    }
+  },
+  {
+    "node_index": 3691,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-wm-codeofconduct"
+    }
+  },
+  {
+    "node_index": 3693,
+    "tag": "li",
+    "text": "Developers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-developers"
+    }
+  },
+  {
+    "node_index": 3695,
+    "tag": "li",
+    "text": "Statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-statslink"
+    }
+  },
+  {
+    "node_index": 3697,
+    "tag": "li",
+    "text": "Cookie statement",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-cookiestatement"
+    }
+  },
+  {
+    "node_index": 3699,
+    "tag": "li",
+    "text": "Mobile view",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-mobileview"
+    }
+  }
+]

@@ -1,0 +1,1282 @@
+[
+  {
+    "node_index": 74,
+    "tag": "li",
+    "text": "Plot types",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "User guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 78,
+    "tag": "li",
+    "text": "Tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "li",
+    "text": "Examples",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "Contribute",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 86,
+    "tag": "li",
+    "text": "Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 104,
+    "tag": "li",
+    "text": "Gitter",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 108,
+    "tag": "li",
+    "text": "Discourse",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 112,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Plot types",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "User guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "Examples",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "Reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "Contribute",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 141,
+    "tag": "li",
+    "text": "Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Gitter",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Discourse",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "p",
+    "text": "Section Navigation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bd-links__title",
+      "role": "heading",
+      "aria-level": "1"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Quick start guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 177,
+    "tag": "li",
+    "text": "Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "Figures and backends Introduction to figures Output backends Matplotlib Application Interfaces (APIs) Interacting with figures Interactive figures and asynchronous programming Event handling Writing a backend -- the pyplot interface",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 current active has-children"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "li",
+    "text": "Introduction to figures",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2 current active"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "Output backends",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 191,
+    "tag": "li",
+    "text": "Matplotlib Application Interfaces (APIs)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "Interacting with figures",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 195,
+    "tag": "li",
+    "text": "Interactive figures and asynchronous programming",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 197,
+    "tag": "li",
+    "text": "Event handling",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 199,
+    "tag": "li",
+    "text": "Writing a backend -- the pyplot interface",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Axes and subplots Introduction to Axes (or Subplots) Arranging multiple Axes in a Figure Placing colorbars Axis autoscaling Axis scales Axis ticks Plotting dates and strings Legends Subplot mosaic Constrained layout guide Tight layout guide (mildly discouraged)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Introduction to Axes (or Subplots)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Arranging multiple Axes in a Figure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Placing colorbars",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Axis autoscaling",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "Axis scales",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Axis ticks",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Plotting dates and strings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Legends",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "Subplot mosaic",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Constrained layout guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Tight layout guide (mildly discouraged)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "Artists Introduction to Artists Automated color cycle Optimizing Artists for performance Paths Path effects guide Understanding the extent keyword argument of imshow Transformations Tutorial",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 239,
+    "tag": "li",
+    "text": "Introduction to Artists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "Automated color cycle",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Optimizing Artists for performance",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 245,
+    "tag": "li",
+    "text": "Paths",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "Path effects guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Understanding the extent keyword argument of imshow",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "Transformations Tutorial",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "Matplotlib configuration - rcParams",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Customizing Matplotlib with style sheets and rcParams",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 260,
+    "tag": "li",
+    "text": "Colors Customized Colorbars Tutorial Creating Colormaps in Matplotlib Colormap normalization Choosing Colormaps in Matplotlib Specifying colors",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "Customized Colorbars Tutorial",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Creating Colormaps in Matplotlib",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Colormap normalization",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Choosing Colormaps in Matplotlib",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "Specifying colors",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "Text Annotations Fonts in Matplotlib Writing mathematical expressions Text rendering with XeLaTeX/LuaLaTeX via the pgf backend Text in Matplotlib Text properties and layout Text rendering with LaTeX",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "Annotations",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 287,
+    "tag": "li",
+    "text": "Fonts in Matplotlib",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 289,
+    "tag": "li",
+    "text": "Writing mathematical expressions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 291,
+    "tag": "li",
+    "text": "Text rendering with XeLaTeX/LuaLaTeX via the pgf backend",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 295,
+    "tag": "li",
+    "text": "Text in Matplotlib",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 297,
+    "tag": "li",
+    "text": "Text properties and layout",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 299,
+    "tag": "li",
+    "text": "Text rendering with LaTeX",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 302,
+    "tag": "li",
+    "text": "Animations using Matplotlib Animations using Matplotlib Faster rendering by using blitting",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 309,
+    "tag": "li",
+    "text": "Animations using Matplotlib",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 311,
+    "tag": "li",
+    "text": "Faster rendering by using blitting",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 314,
+    "tag": "li",
+    "text": "User Toolkits The axisartist toolkit The axes_grid1 toolkit The mplot3d toolkit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 321,
+    "tag": "li",
+    "text": "The axisartist toolkit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 323,
+    "tag": "li",
+    "text": "The axes_grid1 toolkit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 325,
+    "tag": "li",
+    "text": "The mplot3d toolkit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 328,
+    "tag": "li",
+    "text": "Getting started",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 330,
+    "tag": "li",
+    "text": "Installation Environment variables Dependencies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 337,
+    "tag": "li",
+    "text": "Environment variables",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 339,
+    "tag": "li",
+    "text": "Dependencies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "Glossary",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 358,
+    "tag": "li",
+    "text": "Using Matplotlib",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 360,
+    "tag": "li",
+    "text": "Figures and backends",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 362,
+    "tag": "li",
+    "text": "Introduction to Figures",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item active",
+      "aria-current": "page"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "h1",
+    "text": "Introduction to Figures#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 372,
+    "tag": "pre",
+    "text": "fig = plt.figure(figsize=(2, 2), facecolor='lightskyblue', layout='constrained') fig.suptitle('Figure') ax = fig.add_subplot() ax.set_title('Axes', loc='left', fontstyle='oblique', fontsize='medium')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 425,
+    "tag": "p",
+    "text": "(Source code, 2x.png, png)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 439,
+    "tag": "p",
+    "text": "When looking at Matplotlib visualization, you are almost always looking at Artists placed on a Figure. In the example above, the figure is the blue region and add_subplot has added an Axes artist to the Figure (see Parts of a Figure). A more complicated visualization can add multiple Axes to the Figure, colorbars, legends, annotations, and the Axes themselves can have multiple Artists added to them (e.g. ax.plot or ax.imshow).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "li",
+    "text": "Viewing Figures Notebooks and IDEs Standalone scripts and interactive use",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 461,
+    "tag": "p",
+    "text": "Viewing Figures",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 464,
+    "tag": "li",
+    "text": "Notebooks and IDEs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 465,
+    "tag": "p",
+    "text": "Notebooks and IDEs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 467,
+    "tag": "li",
+    "text": "Standalone scripts and interactive use",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 468,
+    "tag": "p",
+    "text": "Standalone scripts and interactive use",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 470,
+    "tag": "li",
+    "text": "Creating Figures Figure options Adding Artists",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 471,
+    "tag": "p",
+    "text": "Creating Figures",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 474,
+    "tag": "li",
+    "text": "Figure options",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 475,
+    "tag": "p",
+    "text": "Figure options",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 477,
+    "tag": "li",
+    "text": "Adding Artists",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 478,
+    "tag": "p",
+    "text": "Adding Artists",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 480,
+    "tag": "li",
+    "text": "Saving Figures",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 481,
+    "tag": "p",
+    "text": "Saving Figures",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 485,
+    "tag": "h2",
+    "text": "Viewing Figures#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "p",
+    "text": "We will discuss how to create Figures in more detail below, but first it is helpful to understand how to view a Figure. This varies based on how you are using Matplotlib, and what Backend you are using.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 493,
+    "tag": "h3",
+    "text": "Notebooks and IDEs#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 499,
+    "tag": "figcaption",
+    "text": "Screenshot of a Jupyter Notebook, with a figure generated via the default inline backend.#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 500,
+    "tag": "p",
+    "text": "Screenshot of a Jupyter Notebook, with a figure generated via the default inline backend.#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 505,
+    "tag": "p",
+    "text": "If you are using a Notebook (e.g. Jupyter) or an IDE that renders Notebooks (PyCharm, VSCode, etc), then they have a backend that will render the Matplotlib Figure when a code cell is executed. The default Jupyter backend (%matplotlib inline) creates static plots that by default trim or expand the figure size to have a tight box around Artists added to the Figure (see Saving Figures, below). For interactive plots in Jupyter you will need to use an ipython \"magic\" like %matplotlib widget for the ipympl backend in jupyter lab or notebook>=7, or %matplotlib notebook for the Matplotlib notebook in notebook<7 or nbclassic.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 531,
+    "tag": "p",
+    "text": "Note",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 532,
+    "tag": "p",
+    "text": "The ipympl backend is in a separate package, see Installing ipympl.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 539,
+    "tag": "figcaption",
+    "text": "Screenshot of a Jupyter Notebook with an interactive figure generated via the %matplotlib notebook magic. Users should also try the similar widget backend if using JupyterLab.#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 540,
+    "tag": "p",
+    "text": "Screenshot of a Jupyter Notebook with an interactive figure generated via the %matplotlib notebook magic. Users should also try the similar widget backend if using JupyterLab.#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 549,
+    "tag": "p",
+    "text": "See also",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 550,
+    "tag": "p",
+    "text": "Interactive figures.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 555,
+    "tag": "h3",
+    "text": "Standalone scripts and interactive use#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 558,
+    "tag": "p",
+    "text": "If the user is on a client with a windowing system, there are a number of Backends that can be used to render the Figure to the screen, usually using a Python Qt, Tk, or Wx toolkit, or the native MacOS backend. These are typically chosen either in the user's matplotlibrc, or by calling, for example, matplotlib.use('QtAgg') at the beginning of a session or script.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 568,
+    "tag": "figcaption",
+    "text": "Screenshot of a Figure generated via a python script and shown using the QtAgg backend.#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 569,
+    "tag": "p",
+    "text": "Screenshot of a Figure generated via a python script and shown using the QtAgg backend.#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 572,
+    "tag": "p",
+    "text": "When run from a script, or interactively (e.g. from an IPython shell) the Figure will not be shown until we call plt.show(). The Figure will appear in a new GUI window, and usually will have a toolbar with Zoom, Pan, and other tools for interacting with the Figure. By default, plt.show() blocks further interaction from the script or shell until the Figure window is closed, though that can be toggled off for some purposes. For more details, please see Interactive mode.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 580,
+    "tag": "p",
+    "text": "Note that if you are on a client that does not have access to a windowing system, the Figure will fallback to being drawn using the \"Agg\" backend, and cannot be viewed, though it can be saved.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 584,
+    "tag": "p",
+    "text": "See also",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 585,
+    "tag": "p",
+    "text": "Interactive figures.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 590,
+    "tag": "h2",
+    "text": "Creating Figures#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 593,
+    "tag": "p",
+    "text": "By far the most common way to create a figure is using the pyplot interface. As noted in Matplotlib Application Interfaces (APIs), the pyplot interface serves two purposes. One is to spin up the Backend and keep track of GUI windows. The other is a global state for Axes and Artists that allow a short-form API to plotting methods. In the example above, we use pyplot for the first purpose, and create the Figure object, fig. As a side effect fig is also added to pyplot's global state, and can be accessed via gcf.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 605,
+    "tag": "p",
+    "text": "Users typically want an Axes or a grid of Axes when they create a Figure, so in addition to figure, there are convenience methods that return both a Figure and some Axes. A simple grid of Axes can be achieved with pyplot.subplots (which simply wraps Figure.subplots):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 617,
+    "tag": "pre",
+    "text": "fig, axs = plt.subplots(2, 2, figsize=(4, 3), layout='constrained')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 642,
+    "tag": "p",
+    "text": "(Source code, 2x.png, png)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 656,
+    "tag": "p",
+    "text": "More complex grids can be achieved with pyplot.subplot_mosaic (which wraps Figure.subplot_mosaic):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 665,
+    "tag": "pre",
+    "text": "fig, axs = plt.subplot_mosaic([['A', 'right'], ['B', 'right']], figsize=(4, 3), layout='constrained') for ax_name, ax in axs.items(): ax.text(0.5, 0.5, ax_name, ha='center', va='center')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 722,
+    "tag": "p",
+    "text": "(Source code, 2x.png, png)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 736,
+    "tag": "p",
+    "text": "Sometimes we want to have a nested layout in a Figure, with two or more sets of Axes that do not share the same subplot grid. We can use add_subfigure or subfigures to create virtual figures inside a parent Figure; see Figure subfigures for more details.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 747,
+    "tag": "pre",
+    "text": "fig = plt.figure(layout='constrained', facecolor='lightskyblue') fig.suptitle('Figure') figL, figR = fig.subfigures(1, 2) figL.set_facecolor('thistle') axL = figL.subplots(2, 1, sharex=True) axL[1].set_xlabel('x [m]') figL.suptitle('Left subfigure') figR.set_facecolor('paleturquoise') axR = figR.subplots(1, 2, sharey=True) axR[0].set_title('Axes 1') figR.suptitle('Right subfigure')",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 851,
+    "tag": "p",
+    "text": "(Source code, 2x.png, png)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 865,
+    "tag": "p",
+    "text": "It is possible to directly instantiate a Figure instance without using the pyplot interface. This is usually only necessary if you want to create your own GUI application or service that you do not want carrying the pyplot global state. See the embedding examples in Embedding Matplotlib in graphical user interfaces for examples of how to do this.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 872,
+    "tag": "h3",
+    "text": "Figure options#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 875,
+    "tag": "p",
+    "text": "There are a few options available when creating figures. The Figure size on the screen is set by figsize and dpi. figsize is the (width, height) of the Figure in inches (or, if preferred, units of 72 typographic points). dpi are how many pixels per inch the figure will be rendered at. To make your Figures appear on the screen at the physical size you requested, you should set dpi to the same dpi as your graphics system. Note that many graphics systems now use a \"dpi ratio\" to specify how many screen pixels are used to represent a graphics pixel. Matplotlib applies the dpi ratio to the dpi passed to the figure to make it have higher resolution, so you should pass the lower number to the figure.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 886,
+    "tag": "p",
+    "text": "The facecolor, edgecolor, linewidth, and frameon options all change the appearance of the figure in expected ways, with frameon making the figure transparent if set to False.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 893,
+    "tag": "p",
+    "text": "Finally, the user can specify a layout engine for the figure with the layout parameter. Currently Matplotlib supplies \"constrained\", \"compressed\" and \"tight\" layout engines. These rescale axes inside the Figure to prevent overlap of ticklabels, and try and align axes, and can save significant manual adjustment of artists on a Figure for many common cases.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 902,
+    "tag": "h3",
+    "text": "Adding Artists#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 905,
+    "tag": "p",
+    "text": "The Figure class has a number of methods for adding artists to a Figure or a SubFigure. By far the most common are to add Axes of various configurations (add_axes, add_subplot, subplots, subplot_mosaic) and subfigures (subfigures). Colorbars are added to Axes or group of Axes at the Figure level (colorbar). It is also possible to have a Figure-level legend (legend). Other Artists include figure-wide labels (suptitle, supxlabel, supylabel) and text (text). Finally, low-level Artists can be added directly using add_artist usually with care being taken to use the appropriate transform. Usually these include Figure.transFigure which ranges from 0 to 1 in each direction, and represents the fraction of the current Figure size, or Figure.dpi_scale_trans which will be in physical units of inches from the bottom left corner of the Figure (see Transformations Tutorial for more details).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 959,
+    "tag": "h2",
+    "text": "Saving Figures#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 962,
+    "tag": "p",
+    "text": "Finally, Figures can be saved to disk using the savefig method. fig.savefig('MyFigure.png', dpi=200) will save a PNG formatted figure to the file MyFigure.png in the current directory on disk with 200 dots-per-inch resolution. Note that the filename can include a relative or absolute path to any place on the file system.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 971,
+    "tag": "p",
+    "text": "Many types of output are supported, including raster formats like PNG, GIF, JPEG, TIFF and vector formats like PDF, EPS, and SVG.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 972,
+    "tag": "p",
+    "text": "By default, the size of the saved Figure is set by the Figure size (in inches) and, for the raster formats, the dpi. If dpi is not set, then the dpi of the Figure is used. Note that dpi still has meaning for vector formats like PDF if the Figure includes Artists that have been rasterized; the dpi specified will be the resolution of the rasterized objects.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 980,
+    "tag": "p",
+    "text": "It is possible to change the size of the Figure using the bbox_inches argument to savefig. This can be specified manually, again in inches. However, by far the most common use is bbox_inches='tight'. This option \"shrink-wraps\", trimming or expanding as needed, the size of the figure so that it is tight around all the artists in a figure, with a small pad that can be specified by pad_inches, which defaults to 0.1 inches. The dashed box in the plot below shows the portion of the figure that would be saved if bbox_inches='tight' were used in savefig.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 987,
+    "tag": "p",
+    "text": "(Source code, 2x.png, png)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1009,
+    "tag": "li",
+    "text": "Viewing Figures Notebooks and IDEs Standalone scripts and interactive use",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1012,
+    "tag": "li",
+    "text": "Notebooks and IDEs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1014,
+    "tag": "li",
+    "text": "Standalone scripts and interactive use",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1016,
+    "tag": "li",
+    "text": "Creating Figures Figure options Adding Artists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1019,
+    "tag": "li",
+    "text": "Figure options",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1021,
+    "tag": "li",
+    "text": "Adding Artists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1023,
+    "tag": "li",
+    "text": "Saving Figures",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1032,
+    "tag": "p",
+    "text": "© Copyright 2002–2012 John Hunter, Darren Dale, Eric Firing, Michael Droettboom and the Matplotlib development team; 2012–2026 The Matplotlib development team.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  },
+  {
+    "node_index": 1035,
+    "tag": "p",
+    "text": "Created using Sphinx 9.1.0.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sphinx-version"
+    }
+  },
+  {
+    "node_index": 1039,
+    "tag": "p",
+    "text": "Built from v3.11.1-2-ga40bde3209.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sphinx-version"
+    }
+  },
+  {
+    "node_index": 1043,
+    "tag": "p",
+    "text": "Built with the PyData Sphinx Theme 0.16.1.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "theme-version"
+    }
+  }
+]

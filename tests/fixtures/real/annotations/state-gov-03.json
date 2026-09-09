@@ -1,0 +1,551 @@
+[
+  {
+    "node_index": 36,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 39,
+    "tag": "li",
+    "text": "Historical Documents Foreign Relations of the United States About the Foreign Relations Series Status of the Foreign Relations Series History of the Foreign Relations Series Ebooks Initiative Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 43,
+    "tag": "li",
+    "text": "Foreign Relations of the United States",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 46,
+    "tag": "li",
+    "text": "About the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Status of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 52,
+    "tag": "li",
+    "text": "History of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Ebooks Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 57,
+    "tag": "li",
+    "text": "Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 59,
+    "tag": "li",
+    "text": "Department History Overview Biographies of the Secretaries of State Principal Officers and Chiefs of Mission Travels of the Secretary of State Travels of the President Visits by Foreign Heads of State World War I and the Department Buildings of the Department of State U.S. Diplomatic Couriers U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "index_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Biographies of the Secretaries of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Principal Officers and Chiefs of Mission",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Travels of the Secretary of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Travels of the President",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Visits by Foreign Heads of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "World War I and the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Buildings of the Department of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "U.S. Diplomatic Couriers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Guide to Countries Guide to Country Recognition and Relations World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "countries_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Guide to Country Recognition and Relations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "More Resources Browse Resources by Subject Tag Conferences Contact Us Developer Resources & APIs Educational Resources Frequently Asked Questions Key Milestones Open Government Initiative A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "resources_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Browse Resources by Subject Tag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Conferences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Developer Resources & APIs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Key Milestones",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Open Government Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "1776-1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Treaty of Paris, 1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "h2",
+    "text": "Milestones: 1776–1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-navigation-title",
+      "id": "navigation-title"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "h1",
+    "text": "Treaty of Paris, 1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-head7"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "p",
+    "text": "In 1782, Benjamin Franklin rejected informal peace overtures from Great Britain for a settlement that would provide the thirteen states with some measure of autonomy within the British Empire. Franklin insisted on British recognition of American independence and refused to consider a peace separate from France, America’s staunch ally. Franklin did agree, however, to negotiations with the British for an end to the war. Joined by peace commissioners John Adams and John Jay, Franklin engaged the British in formal negotiations beginning on September 27, 1782.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 159,
+    "tag": "p",
+    "text": "Although Franklin demanded the cessation of Canada to an independent America, he knew that the British Government of Lord Shelburne, opposed to American independence, was unprepared to accept that offer. Two months of hard bargaining resulted in a preliminary articles of peace in which the British accepted American independence and boundaries, resolved the difficult issues of fishing rights on the Newfoundland banks and prewar debts owed British creditors, promised restitution of property lost during the war by Americans loyal to the British cause, and provided for the evacuation of British forces from the thirteen states. The preliminary articles signed in Paris on November 30, 1782, were only effective when Britain and France signed a similar treaty, which French Foreign Minister Vergennes quickly negotiated. France signed preliminary articles of peace with Great Britain on January 20, 1783, followed by a formal peace of Paris signed on September 3, 1783.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "p",
+    "text": "The illustration above, a copy of a sketch by the studio of Benjamin West, shows the American negotiators of the Peace of Paris. The sketch remains incomplete because British negotiators chose not to sit for their half of the portrait: it serves as a powerful symbol of the division between Great Britain and its former American colonies.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 169,
+    "tag": "h2",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "1776–1783: Diplomacy and the American Revolution",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Continental Congress, 1774–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 177,
+    "tag": "li",
+    "text": "Secret Committee of Correspondence/ Committee for Foreign Affairs, 1775–1777",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "The Declaration of Independence, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 183,
+    "tag": "li",
+    "text": "The Model Treaty, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 186,
+    "tag": "li",
+    "text": "French Alliance, French Assistance, and European Diplomacy during the American Revolution, 1778–1782",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "Benjamin Franklin: First American Diplomat, 1776–1785",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Articles of Confederation, 1777–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 195,
+    "tag": "li",
+    "text": "Treaty of Paris, 1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 201,
+    "tag": "h2",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 203,
+    "tag": "li",
+    "text": "All",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "Historical Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "Department History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Countries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "li",
+    "text": "Accessibility Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 236,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "External Link Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Copyright Information",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Content Warning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "p",
+    "text": "history@state.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "p",
+    "text": "Report an issue on this page",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

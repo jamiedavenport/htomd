@@ -1,0 +1,1166 @@
+[
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Getting started",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Mastodon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Getting started",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Mastodon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "Installation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Package overview",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "Getting started tutorials What kind of data does pandas handle? How do I read and write tabular data? How do I select a subset of a DataFrame? How do I create plots in pandas? How to create new columns derived from existing columns How to calculate summary statistics How to reshape the layout of tables How to combine data from multiple tables How to handle time series data with ease How to manipulate textual data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 current active has-children"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "What kind of data does pandas handle?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 182,
+    "tag": "li",
+    "text": "How do I read and write tabular data?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 184,
+    "tag": "li",
+    "text": "How do I select a subset of a DataFrame?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2 current active"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "How do I create plots in pandas?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "How to create new columns derived from existing columns",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "How to calculate summary statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "How to reshape the layout of tables",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "How to combine data from multiple tables",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "How to handle time series data with ease",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "How to manipulate textual data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Comparison with other tools Comparison with R / R libraries Comparison with SQL Comparison with spreadsheets Comparison with SAS Comparison with Stata Comparison with SPSS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Comparison with R / R libraries",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Comparison with SQL",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Comparison with spreadsheets",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Comparison with SAS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "Comparison with Stata",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Comparison with SPSS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Community tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "Getting started",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Getting started tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "How do I select a subset of a DataFrame?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item active",
+      "aria-current": "page"
+    }
+  },
+  {
+    "node_index": 250,
+    "tag": "pre",
+    "text": "In [1]: import pandas as pd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Titanic data This tutorial uses the Titanic data set, stored as CSV. The data consists of the following data columns: PassengerId: Id of every passenger. Survived: Indication whether passenger survived. 0 for no and 1 for yes. Pclass: One out of the 3 ticket classes: Class 1, Class 2 and Class 3. Name: Name of passenger. Sex: Gender of passenger. Age: Age of passenger in years. SibSp: Number of siblings or spouses aboard. Parch: Number of parents or children aboard. Ticket: Ticket number of passenger. Fare: Indicating the fare. Cabin: Cabin number of passenger. Embarked: Port of embarkation. To raw data In [2]: titanic = pd.read_csv(\"data/titanic.csv\") In [3]: titanic.head() Out[3]: PassengerId Survived Pclass ... Fare Cabin Embarked 0 1 0 3 ... 7.2500 NaN S 1 2 1 1 ... 71.2833 C85 C 2 3 1 3 ... 7.9250 NaN S 3 4 1 1 ... 53.1000 C123 S 4 5 0 3 ... 8.0500 NaN S [5 rows x 12 columns]",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "list-group-item gs-data-list"
+    }
+  },
+  {
+    "node_index": 270,
+    "tag": "p",
+    "text": "This tutorial uses the Titanic data set, stored as CSV. The data consists of the following data columns:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 272,
+    "tag": "li",
+    "text": "PassengerId: Id of every passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "p",
+    "text": "PassengerId: Id of every passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 274,
+    "tag": "li",
+    "text": "Survived: Indication whether passenger survived. 0 for no and 1 for yes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "p",
+    "text": "Survived: Indication whether passenger survived. 0 for no and 1 for yes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "Pclass: One out of the 3 ticket classes: Class 1, Class 2 and Class 3.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "p",
+    "text": "Pclass: One out of the 3 ticket classes: Class 1, Class 2 and Class 3.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 288,
+    "tag": "li",
+    "text": "Name: Name of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "p",
+    "text": "Name: Name of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 290,
+    "tag": "li",
+    "text": "Sex: Gender of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 291,
+    "tag": "p",
+    "text": "Sex: Gender of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "Age: Age of passenger in years.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 293,
+    "tag": "p",
+    "text": "Age: Age of passenger in years.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 294,
+    "tag": "li",
+    "text": "SibSp: Number of siblings or spouses aboard.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "p",
+    "text": "SibSp: Number of siblings or spouses aboard.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "li",
+    "text": "Parch: Number of parents or children aboard.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 297,
+    "tag": "p",
+    "text": "Parch: Number of parents or children aboard.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "Ticket: Ticket number of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 299,
+    "tag": "p",
+    "text": "Ticket: Ticket number of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 300,
+    "tag": "li",
+    "text": "Fare: Indicating the fare.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 301,
+    "tag": "p",
+    "text": "Fare: Indicating the fare.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 302,
+    "tag": "li",
+    "text": "Cabin: Cabin number of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "p",
+    "text": "Cabin: Cabin number of passenger.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Embarked: Port of embarkation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 305,
+    "tag": "p",
+    "text": "Embarked: Port of embarkation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "pre",
+    "text": "In [2]: titanic = pd.read_csv(\"data/titanic.csv\") In [3]: titanic.head() Out[3]: PassengerId Survived Pclass ... Fare Cabin Embarked 0 1 0 3 ... 7.2500 NaN S 1 2 1 1 ... 71.2833 C85 C 2 3 1 3 ... 7.9250 NaN S 3 4 1 1 ... 53.1000 C123 S 4 5 0 3 ... 8.0500 NaN S [5 rows x 12 columns]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "h1",
+    "text": "How do I select a subset of a DataFrame?#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 339,
+    "tag": "h2",
+    "text": "How do I select specific columns from a DataFrame?#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 345,
+    "tag": "li",
+    "text": "I’m interested in the age of the Titanic passengers. In [4]: ages = titanic[\"Age\"] In [5]: ages.head() Out[5]: 0 22.0 1 38.0 2 26.0 3 35.0 4 35.0 Name: Age, dtype: float64 To select a single column, use square brackets [] with the column name of the column of interest. For more explanation, see Brackets in Python and pandas.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 346,
+    "tag": "p",
+    "text": "I’m interested in the age of the Titanic passengers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 349,
+    "tag": "pre",
+    "text": "In [4]: ages = titanic[\"Age\"] In [5]: ages.head() Out[5]: 0 22.0 1 38.0 2 26.0 3 35.0 4 35.0 Name: Age, dtype: float64",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "p",
+    "text": "To select a single column, use square brackets [] with the column name of the column of interest.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 373,
+    "tag": "p",
+    "text": "For more explanation, see Brackets in Python and pandas.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 375,
+    "tag": "p",
+    "text": "Each column in a DataFrame is a Series. As a single column is selected, the returned object is a pandas Series. We can verify this by checking the type of the output:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 387,
+    "tag": "pre",
+    "text": "In [6]: type(titanic[\"Age\"]) Out[6]: pandas.Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 398,
+    "tag": "p",
+    "text": "And have a look at the shape of the output:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 403,
+    "tag": "pre",
+    "text": "In [7]: titanic[\"Age\"].shape Out[7]: (891,)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 414,
+    "tag": "p",
+    "text": "DataFrame.shape is an attribute (remember tutorial on reading and writing, do not use parentheses for attributes) of a pandas Series and DataFrame containing the number of rows and columns: (nrows, ncolumns). A pandas Series is 1-dimensional and only the number of rows is returned.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 426,
+    "tag": "li",
+    "text": "I’m interested in the age and sex of the Titanic passengers. In [8]: age_sex = titanic[[\"Age\", \"Sex\"]] In [9]: age_sex.head() Out[9]: Age Sex 0 22.0 male 1 38.0 female 2 26.0 female 3 35.0 female 4 35.0 male To select multiple columns, use a list of column names within the selection brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 427,
+    "tag": "p",
+    "text": "I’m interested in the age and sex of the Titanic passengers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 430,
+    "tag": "pre",
+    "text": "In [8]: age_sex = titanic[[\"Age\", \"Sex\"]] In [9]: age_sex.head() Out[9]: Age Sex 0 22.0 male 1 38.0 female 2 26.0 female 3 35.0 female 4 35.0 male",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "p",
+    "text": "To select multiple columns, use a list of column names within the selection brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 457,
+    "tag": "p",
+    "text": "Note",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 458,
+    "tag": "p",
+    "text": "The inner square brackets define a Python list with column names, whereas the outer square brackets are used to select the data from a pandas DataFrame as seen in the previous example.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 463,
+    "tag": "p",
+    "text": "The returned data type is a pandas DataFrame:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 466,
+    "tag": "pre",
+    "text": "In [10]: type(titanic[[\"Age\", \"Sex\"]]) Out[10]: pandas.DataFrame",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 481,
+    "tag": "pre",
+    "text": "In [11]: titanic[[\"Age\", \"Sex\"]].shape Out[11]: (891, 2)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 494,
+    "tag": "p",
+    "text": "The selection returned a DataFrame with 891 rows and 2 columns. Remember, a DataFrame is 2-dimensional with both a row and column dimension.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 501,
+    "tag": "p",
+    "text": "For basic information on indexing, see the user guide section on indexing and selecting data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 505,
+    "tag": "h2",
+    "text": "How do I filter specific rows from a DataFrame?#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 511,
+    "tag": "li",
+    "text": "I’m interested in the passengers older than 35 years. In [12]: above_35 = titanic[titanic[\"Age\"] > 35] In [13]: above_35.head() Out[13]: PassengerId Survived Pclass ... Fare Cabin Embarked 1 2 1 1 ... 71.2833 C85 C 6 7 0 1 ... 51.8625 E46 S 11 12 1 1 ... 26.5500 C103 S 13 14 0 3 ... 31.2750 NaN S 15 16 1 2 ... 16.0000 NaN S [5 rows x 12 columns] To select rows based on a conditional expression, use a condition inside the selection brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 512,
+    "tag": "p",
+    "text": "I’m interested in the passengers older than 35 years.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 515,
+    "tag": "pre",
+    "text": "In [12]: above_35 = titanic[titanic[\"Age\"] > 35] In [13]: above_35.head() Out[13]: PassengerId Survived Pclass ... Fare Cabin Embarked 1 2 1 1 ... 71.2833 C85 C 6 7 0 1 ... 51.8625 E46 S 11 12 1 1 ... 26.5500 C103 S 13 14 0 3 ... 31.2750 NaN S 15 16 1 2 ... 16.0000 NaN S [5 rows x 12 columns]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 542,
+    "tag": "p",
+    "text": "To select rows based on a conditional expression, use a condition inside the selection brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 545,
+    "tag": "p",
+    "text": "The condition inside the selection brackets titanic[\"Age\"] > 35 checks for which rows the Age column has a value larger than 35:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 554,
+    "tag": "pre",
+    "text": "In [14]: titanic[\"Age\"] > 35 Out[14]: 0 False 1 True 2 False 3 False 4 False ... 886 False 887 False 888 False 889 False 890 False Name: Age, Length: 891, dtype: bool",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 576,
+    "tag": "p",
+    "text": "The output of the conditional expression (>, but also ==, !=, <, <=,… would work) is actually a pandas Series of boolean values (either True or False) with the same number of rows as the original DataFrame. Such a Series of boolean values can be used to filter the DataFrame by putting it in between the selection brackets []. Only rows for which the value is True will be selected.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 603,
+    "tag": "p",
+    "text": "We know from before that the original Titanic DataFrame consists of 891 rows. Let’s have a look at the number of rows which satisfy the condition by checking the shape attribute of the resulting DataFrame above_35:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 614,
+    "tag": "pre",
+    "text": "In [15]: above_35.shape Out[15]: (217, 12)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 623,
+    "tag": "li",
+    "text": "I’m interested in the Titanic passengers from cabin class 2 and 3. In [16]: class_23 = titanic[titanic[\"Pclass\"].isin([2, 3])] In [17]: class_23.head() Out[17]: PassengerId Survived Pclass ... Fare Cabin Embarked 0 1 0 3 ... 7.2500 NaN S 2 3 1 3 ... 7.9250 NaN S 4 5 0 3 ... 8.0500 NaN S 5 6 0 3 ... 8.4583 NaN Q 7 8 0 3 ... 21.0750 NaN S [5 rows x 12 columns] Similar to the conditional expression, the isin() conditional function returns a True for each row the values are in the provided list. To filter the rows based on such a function, use the conditional function inside the selection brackets []. In this case, the condition inside the selection brackets titanic[\"Pclass\"].isin([2, 3]) checks for which rows the Pclass column is either 2 or 3.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 624,
+    "tag": "p",
+    "text": "I’m interested in the Titanic passengers from cabin class 2 and 3.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 627,
+    "tag": "pre",
+    "text": "In [16]: class_23 = titanic[titanic[\"Pclass\"].isin([2, 3])] In [17]: class_23.head() Out[17]: PassengerId Survived Pclass ... Fare Cabin Embarked 0 1 0 3 ... 7.2500 NaN S 2 3 1 3 ... 7.9250 NaN S 4 5 0 3 ... 8.0500 NaN S 5 6 0 3 ... 8.4583 NaN Q 7 8 0 3 ... 21.0750 NaN S [5 rows x 12 columns]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 658,
+    "tag": "p",
+    "text": "Similar to the conditional expression, the isin() conditional function returns a True for each row the values are in the provided list. To filter the rows based on such a function, use the conditional function inside the selection brackets []. In this case, the condition inside the selection brackets titanic[\"Pclass\"].isin([2, 3]) checks for which rows the Pclass column is either 2 or 3.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 671,
+    "tag": "p",
+    "text": "The above is equivalent to filtering by rows for which the class is either 2 or 3 and combining the two statements with an | (or) operator:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 676,
+    "tag": "pre",
+    "text": "In [18]: class_23 = titanic[(titanic[\"Pclass\"] == 2) | (titanic[\"Pclass\"] == 3)] In [19]: class_23.head() Out[19]: PassengerId Survived Pclass ... Fare Cabin Embarked 0 1 0 3 ... 7.2500 NaN S 2 3 1 3 ... 7.9250 NaN S 4 5 0 3 ... 8.0500 NaN S 5 6 0 3 ... 8.4583 NaN Q 7 8 0 3 ... 21.0750 NaN S [5 rows x 12 columns]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 713,
+    "tag": "p",
+    "text": "Note",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 714,
+    "tag": "p",
+    "text": "When combining multiple conditional statements, each condition must be surrounded by parentheses (). Moreover, you can not use or/and but need to use the or operator | and the and operator &.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 731,
+    "tag": "p",
+    "text": "See the dedicated section in the user guide about boolean indexing or about the isin function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 737,
+    "tag": "li",
+    "text": "I want to work with passenger data for which the age is known. In [20]: age_no_na = titanic[titanic[\"Age\"].notna()] In [21]: age_no_na.head() Out[21]: PassengerId Survived Pclass ... Fare Cabin Embarked 0 1 0 3 ... 7.2500 NaN S 1 2 1 1 ... 71.2833 C85 C 2 3 1 3 ... 7.9250 NaN S 3 4 1 1 ... 53.1000 C123 S 4 5 0 3 ... 8.0500 NaN S [5 rows x 12 columns] The notna() conditional function returns a True for each row the values are not a Null value. As such, this can be combined with the selection brackets [] to filter the data table.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 738,
+    "tag": "p",
+    "text": "I want to work with passenger data for which the age is known.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 741,
+    "tag": "pre",
+    "text": "In [20]: age_no_na = titanic[titanic[\"Age\"].notna()] In [21]: age_no_na.head() Out[21]: PassengerId Survived Pclass ... Fare Cabin Embarked 0 1 0 3 ... 7.2500 NaN S 1 2 1 1 ... 71.2833 C85 C 2 3 1 3 ... 7.9250 NaN S 3 4 1 1 ... 53.1000 C123 S 4 5 0 3 ... 8.0500 NaN S [5 rows x 12 columns]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 768,
+    "tag": "p",
+    "text": "The notna() conditional function returns a True for each row the values are not a Null value. As such, this can be combined with the selection brackets [] to filter the data table.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 778,
+    "tag": "p",
+    "text": "You might wonder what actually changed, as the first 5 lines are still the same values. One way to verify is to check if the shape has changed:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 781,
+    "tag": "pre",
+    "text": "In [22]: age_no_na.shape Out[22]: (714, 12)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 791,
+    "tag": "p",
+    "text": "For more dedicated functions on missing values, see the user guide section about handling missing data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 796,
+    "tag": "h2",
+    "text": "How do I select specific rows and columns from a DataFrame?#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 802,
+    "tag": "li",
+    "text": "I’m interested in the names of the passengers older than 35 years. In [23]: adult_names = titanic.loc[titanic[\"Age\"] > 35, \"Name\"] In [24]: adult_names.head() Out[24]: 1 Cumings, Mrs. John Bradley (Florence Briggs Th... 6 McCarthy, Mr. Timothy J 11 Bonnell, Miss Elizabeth 13 Andersson, Mr. Anders Johan 15 Hewlett, Mrs. (Mary D Kingcome) Name: Name, dtype: str In this case, a subset of both rows and columns is made in one go and just using selection brackets [] is not sufficient anymore. The loc/iloc operators are required in front of the selection brackets []. When using loc/iloc, the part before the comma is the rows you want, and the part after the comma is the columns you want to select.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 803,
+    "tag": "p",
+    "text": "I’m interested in the names of the passengers older than 35 years.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 806,
+    "tag": "pre",
+    "text": "In [23]: adult_names = titanic.loc[titanic[\"Age\"] > 35, \"Name\"] In [24]: adult_names.head() Out[24]: 1 Cumings, Mrs. John Bradley (Florence Briggs Th... 6 McCarthy, Mr. Timothy J 11 Bonnell, Miss Elizabeth 13 Andersson, Mr. Anders Johan 15 Hewlett, Mrs. (Mary D Kingcome) Name: Name, dtype: str",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 836,
+    "tag": "p",
+    "text": "In this case, a subset of both rows and columns is made in one go and just using selection brackets [] is not sufficient anymore. The loc/iloc operators are required in front of the selection brackets []. When using loc/iloc, the part before the comma is the rows you want, and the part after the comma is the columns you want to select.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 849,
+    "tag": "p",
+    "text": "When using column names, row labels or a condition expression, use the loc operator in front of the selection brackets []. For both the part before and after the comma, you can use a single label, a list of labels, a slice of labels, a conditional expression or a colon. Using a colon specifies you want to select all rows or columns.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 855,
+    "tag": "li",
+    "text": "I’m interested in rows 10 till 25 and columns 3 to 5. In [25]: titanic.iloc[9:25, 2:5] Out[25]: Pclass Name Sex 9 2 Nasser, Mrs. Nicholas (Adele Achem) female 10 3 Sandstrom, Miss Marguerite Rut female 11 1 Bonnell, Miss Elizabeth female 12 3 Saundercock, Mr. William Henry male 13 3 Andersson, Mr. Anders Johan male .. ... ... ... 20 2 Fynney, Mr. Joseph J male 21 2 Beesley, Mr. Lawrence male 22 3 McGowan, Miss Anna \"Annie\" female 23 1 Sloper, Mr. William Thompson male 24 3 Palsson, Miss Torborg Danira female [16 rows x 3 columns] Again, a subset of both rows and columns is made in one go and just using selection brackets [] is not sufficient anymore. When specifically interested in certain rows and/or columns based on their position in the table, use the iloc operator in front of the selection brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 856,
+    "tag": "p",
+    "text": "I’m interested in rows 10 till 25 and columns 3 to 5.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 859,
+    "tag": "pre",
+    "text": "In [25]: titanic.iloc[9:25, 2:5] Out[25]: Pclass Name Sex 9 2 Nasser, Mrs. Nicholas (Adele Achem) female 10 3 Sandstrom, Miss Marguerite Rut female 11 1 Bonnell, Miss Elizabeth female 12 3 Saundercock, Mr. William Henry male 13 3 Andersson, Mr. Anders Johan male .. ... ... ... 20 2 Fynney, Mr. Joseph J male 21 2 Beesley, Mr. Lawrence male 22 3 McGowan, Miss Anna \"Annie\" female 23 1 Sloper, Mr. William Thompson male 24 3 Palsson, Miss Torborg Danira female [16 rows x 3 columns]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 888,
+    "tag": "p",
+    "text": "Again, a subset of both rows and columns is made in one go and just using selection brackets [] is not sufficient anymore. When specifically interested in certain rows and/or columns based on their position in the table, use the iloc operator in front of the selection brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 895,
+    "tag": "p",
+    "text": "When selecting specific rows and/or columns with loc or iloc, new values can be assigned to the selected data. For example, to assign the name anonymous to the first 3 elements of the fourth column:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 904,
+    "tag": "pre",
+    "text": "In [26]: titanic.iloc[0:3, 3] = \"anonymous\" In [27]: titanic.iloc[:5, 3] Out[27]: 0 anonymous 1 anonymous 2 anonymous 3 Futrelle, Mrs. Jacques Heath (Lily May Peel) 4 Allen, Mr. William Henry Name: Name, dtype: str",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 937,
+    "tag": "p",
+    "text": "See the user guide section on different choices for indexing to get more insight into the usage of loc and iloc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 947,
+    "tag": "li",
+    "text": "When selecting subsets of data, square brackets [] are used.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 948,
+    "tag": "p",
+    "text": "When selecting subsets of data, square brackets [] are used.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 951,
+    "tag": "li",
+    "text": "Inside these square brackets, you can use a single column/row label, a list of column/row labels, a slice of labels, a conditional expression or a colon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 952,
+    "tag": "p",
+    "text": "Inside these square brackets, you can use a single column/row label, a list of column/row labels, a slice of labels, a conditional expression or a colon.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 953,
+    "tag": "li",
+    "text": "Use loc for label-based selection (using row/column names).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 954,
+    "tag": "p",
+    "text": "Use loc for label-based selection (using row/column names).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 957,
+    "tag": "li",
+    "text": "Use iloc for position-based selection (using table positions).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 958,
+    "tag": "p",
+    "text": "Use iloc for position-based selection (using table positions).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 961,
+    "tag": "li",
+    "text": "You can assign new values to a selection based on loc/iloc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 962,
+    "tag": "p",
+    "text": "You can assign new values to a selection based on loc/iloc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 969,
+    "tag": "p",
+    "text": "A full overview of indexing is provided in the user guide pages on indexing and selecting data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 977,
+    "tag": "p",
+    "text": "previous",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 978,
+    "tag": "p",
+    "text": "How do I read and write tabular data?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 981,
+    "tag": "p",
+    "text": "next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 982,
+    "tag": "p",
+    "text": "How do I create plots in pandas?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 992,
+    "tag": "li",
+    "text": "How do I select specific columns from a DataFrame?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 996,
+    "tag": "li",
+    "text": "How do I filter specific rows from a DataFrame?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1000,
+    "tag": "li",
+    "text": "How do I select specific rows and columns from a DataFrame?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 1011,
+    "tag": "p",
+    "text": "© 2026, pandas via NumFOCUS, Inc. Hosted by OVHcloud.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  },
+  {
+    "node_index": 1015,
+    "tag": "p",
+    "text": "Created using Sphinx 9.0.4.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sphinx-version"
+    }
+  },
+  {
+    "node_index": 1020,
+    "tag": "p",
+    "text": "Built with the PyData Sphinx Theme 0.16.1.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "theme-version"
+    }
+  }
+]

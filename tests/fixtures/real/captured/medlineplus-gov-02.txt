@@ -1,0 +1,40 @@
+# What is a gene?
+
+A gene is the basic physical and functional unit of heredity. Genes are made up of DNA. Some genes act as [instructions](https://medlineplus.gov/genetics/understanding/howgeneswork/makingprotein/) to make molecules called proteins, which are needed for the body to function. However, many genes [do not code for proteins](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/), instead they help control other genes.
+
+The information in DNA is encoded in genetic building blocks called base pairs. In humans, genes vary in size from a few hundred DNA base pairs to more than 2 million base pairs. Between 1990 and 2003, an international research effort called the Human Genome Project worked to sequence all of the DNA in a human (known as the human genome). The project estimated that humans have between 20,000 and 25,000 genes that provide instructions for making proteins. Later studies sought to build on the work of the Human Genome Project and have provided additional details on the genome sequence. We now know that the human genome contains about 19,900 genes used to produce proteins.
+
+Typically, people have two copies of each gene, one inherited from each parent. Most genes are the same in all people, but a small number of genes (less than 1 percent of the total) are slightly different between people. Forms of the same gene with small differences in their sequence of DNA bases are called alleles. These small differences contribute to each person’s unique physical features.
+
+Scientists keep track of genes by giving them unique names. Because gene names can be long, genes are also assigned symbols, which are short combinations of letters (and sometimes numbers) that represent an abbreviated version of the gene name. For example, one of the genes on [chromosome 7](https://medlineplus.gov/genetics/chromosome/7/) is called the cystic fibrosis transmembrane conductance regulator because variants in this gene can cause [cystic fibrosis](https://medlineplus.gov/genetics/condition/cystic-fibrosis/). The symbol for this gene is [*CFTR*](https://medlineplus.gov/genetics/gene/cftr/).
+
+Genes are made up of DNA. Each chromosome contains many genes.
+
+![A gene is labeled along the length of a chromosome.](https://medlineplus.gov/images/PX00006G_PRESENTATION.jpeg)
+
+Credit: U.S. National Library of Medicine
+
+## For more information about genes:
+
+MedlinePlus Genetics provides [consumer-friendly gene summaries](https://medlineplus.gov/genetics/gene/) that include an explanation of each gene's normal function and how variants in the gene cause particular genetic conditions.![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+More information about [how genetic conditions and genes are named](https://medlineplus.gov/genetics/understanding/mutationsanddisorders/naming/) is also available from MedlinePlus Genetics.![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+The National Human Genome Research Institute (NHGRI) provides information about the [Human Genome Project](https://www.genome.gov/human-genome-project) and [Telomere 2 Telomere](https://www.genome.gov/about-genomics/telomere-to-telomere), two studies that were pivotal in providing a complete sequence of the human genome. NHGRI also includes general information about [genes and the genome](https://www.genome.gov/About-Genomics/Introduction-to-Genomics).![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+The Centers for Disease Control and Prevention (CDC) offers [basic information about genetics](https://www.cdc.gov/genomics-and-health/about/index.html).
+
+An article published in the journal *Science* in 2022, “[The complete sequence of a human genome](https://pubmed.ncbi.nlm.nih.gov/35357919/),” provides updated information on the human genome.
+
+## Topics in the Cells and DNA chapter
+
+- [What is a cell?](https://medlineplus.gov/genetics/understanding/basics/cell/)
+- [What is DNA?](https://medlineplus.gov/genetics/understanding/basics/dna/)
+- What is a gene?
+- [What is a chromosome?](https://medlineplus.gov/genetics/understanding/basics/chromosome/)
+- [How many chromosomes do people have?](https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/)
+- [What is noncoding DNA?](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)
+
+[Other chapters in Help Me Understand Genetics](https://medlineplus.gov/genetics/understanding/)
+
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.

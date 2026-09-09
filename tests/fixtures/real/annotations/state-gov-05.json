@@ -1,0 +1,596 @@
+[
+  {
+    "node_index": 36,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 39,
+    "tag": "li",
+    "text": "Historical Documents Foreign Relations of the United States About the Foreign Relations Series Status of the Foreign Relations Series History of the Foreign Relations Series Ebooks Initiative Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 43,
+    "tag": "li",
+    "text": "Foreign Relations of the United States",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 46,
+    "tag": "li",
+    "text": "About the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Status of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 52,
+    "tag": "li",
+    "text": "History of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Ebooks Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 57,
+    "tag": "li",
+    "text": "Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 59,
+    "tag": "li",
+    "text": "Department History Overview Biographies of the Secretaries of State Principal Officers and Chiefs of Mission Travels of the Secretary of State Travels of the President Visits by Foreign Heads of State World War I and the Department Buildings of the Department of State U.S. Diplomatic Couriers U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "index_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Biographies of the Secretaries of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Principal Officers and Chiefs of Mission",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Travels of the Secretary of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Travels of the President",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Visits by Foreign Heads of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "World War I and the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Buildings of the Department of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "U.S. Diplomatic Couriers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Guide to Countries Guide to Country Recognition and Relations World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "countries_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Guide to Country Recognition and Relations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "More Resources Browse Resources by Subject Tag Conferences Contact Us Developer Resources & APIs Educational Resources Frequently Asked Questions Key Milestones Open Government Initiative A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "resources_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Browse Resources by Subject Tag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Conferences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Developer Resources & APIs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Key Milestones",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Open Government Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "1776-1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Secret Committee of Correspondence/ Committee for Foreign Affairs, 1775–1777",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "h2",
+    "text": "Milestones: 1776–1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-navigation-title",
+      "id": "navigation-title"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "h1",
+    "text": "Secret Committee of Correspondence/ Committee for Foreign Affairs, 1775–1777",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-head7"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "p",
+    "text": "The Continental Congress established the Committee of Secret Correspondence to communicate with sympathetic Britons and other Europeans early in the American Revolution. The committee coordinated diplomatic functions for the Continental Congress and directed transatlantic communication and public relations.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 159,
+    "tag": "p",
+    "text": "Congress initially established the Committee of Correspondence on November 29, 1775, to communicate with colonial agents in Britain and “friends in ... other parts of the world.” On the committee were Benjamin Franklin, Benjamin Harrison, Thomas Johnson, John Dickinson, and John Jay. Robert Morris, revolutionary financier, soon joined them. Congress granted the committee extensive authority to conduct international diplomacy, including the negotiation of clandestine shipments of arms and other similar activities. Owing to the nature of the correspondence, the members began to add the word “secret” to the committee’s title, and soon it was known as the Committee of Secret Correspondence. The Committee's diplomatic duties grew, and Congress renamed it the Committee for Foreign Affairs on April 17, 1777.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "p",
+    "text": "Of the initial members of the committee, Benjamin Franklin was the most active. Drawing on his extensive European contacts, he began a campaign to rally international support of the American cause. On December 12, 1775, Franklin wrote to Don Gabriel de Bourbon, a prince of the Spanish royal family and one of Franklin's scholarly associates. In his letter, Franklin strongly hinted at the advantages of a Spanish alliance with the American revolutionaries. Franklin dispatched similar letters to American sympathizers in France. He sent these letters through associates whom he trusted to protect the communications from interception by the British.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 165,
+    "tag": "p",
+    "text": "Arthur Lee, a Virginian living in London, also aided the Committee. Congress would later officially appoint Lee as a commissioner for the Committee. Lee had come into contact with the French playwright Beaumarchais, who was then working as a secret French agent investigating British troubles in the colonies. Lee provided Beaumarchais with information about American successes that influenced the French Foreign Minister Charles Gravier, comte de Vergennes, to provide the colonies with clandestine shipments of gunpowder and war materiel.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 167,
+    "tag": "p",
+    "text": "The Committee of Correspondence also worked on American soil. In late 1775, a mysterious French traveler named Achard de Bonvouloir appeared in Philadelphia. He had been dispatched by the French Government to contact the Continental Congress, but publicly disavowed any such mission. The committee made contact with him, and Franklin convinced Bonvouloir that the colonies were seeking independence and were unlikely to reconcile with Britain. Franklin encouraged this representative of the French Government to report to his government that France should seek an alliance with the colonies once they declared their independence, and in the meantime provide the colonies with secret assistance.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "p",
+    "text": "Thereafter, the Committee continued to correspond with Lee in London, and, after Congress appointed them in the fall of 1776, also with the commissioners in France. As the British Navy tightened its blockade, however, communication became increasingly difficult, especially after British forces seized Philadelphia in 1777. Once France formally signed an alliance with the United States in 1778, communications improved. With the alliance also came more duties for the Committee and the appointment of French Minister to the United States, Conrad-Alexandre Gérard de Rayneval.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 169,
+    "tag": "p",
+    "text": "The Committee also facilitated decisions to solve infighting among the American commissioners in Europe who clashed on financial matters. Lee suspected the early colonial agent in France, Silas Deane, of financial malfeasance and began a campaign to bring about his recall. Thomas Paine, who had become secretary of the Committee, sympathized with Lee. Paine published anonymous pamphlets in which he claimed that Congress possessed documentation of secret French aid that would affirm Lee’s version of events. French Minister Gérard intervened, explaining to the committee that France could not formally admit to providing such aid without risking war with Britain, which it was not ready to do. Congress passed a resolution denying that there had been French aid on January 12, 1778.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "p",
+    "text": "The Committee continued to coordinate communication between Congress and diplomats in Europe, and sent more representatives to other European courts to encourage their assistance to the American cause. However, by 1780, an overworked Congress had many more duties, and members of the Committee for Foreign Affairs had begun to neglect their duties. Committee member James Lovell wrote to Arthur Lee and John Jay suggesting that Congress establish a Department of Foreign Affairs to handle the day-to-day business of foreign diplomacy. Congressman James Duane also agreed. The committee members brought the suggestion before Congress, and Congress ultimately decided to create a a committee for the establishment of executive departments. Congress finally agreed to establish departments on February 6, 1781, but it was not until August 10 that the new Confederation Congress elected Robert Livingston as Secretary for Foreign Affairs.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "h2",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "1776–1783: Diplomacy and the American Revolution",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 181,
+    "tag": "li",
+    "text": "Continental Congress, 1774–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 184,
+    "tag": "li",
+    "text": "Secret Committee of Correspondence/ Committee for Foreign Affairs, 1775–1777",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "li",
+    "text": "The Declaration of Independence, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "The Model Treaty, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "French Alliance, French Assistance, and European Diplomacy during the American Revolution, 1778–1782",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Benjamin Franklin: First American Diplomat, 1776–1785",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 199,
+    "tag": "li",
+    "text": "Articles of Confederation, 1777–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Treaty of Paris, 1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "h2",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 210,
+    "tag": "li",
+    "text": "All",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Historical Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Department History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "li",
+    "text": "Countries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "Accessibility Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 245,
+    "tag": "li",
+    "text": "External Link Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "Copyright Information",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Content Warning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "p",
+    "text": "history@state.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 263,
+    "tag": "p",
+    "text": "Report an issue on this page",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

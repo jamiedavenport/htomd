@@ -1,0 +1,1340 @@
+[
+  {
+    "node_index": 54,
+    "tag": "p",
+    "text": "The web framework for perfectionists with deadlines.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "meta"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Download",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Code",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Issues",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Community",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "Foundation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "♥ Sponsor",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 98,
+    "tag": "p",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 102,
+    "tag": "h2",
+    "text": "Until September 10, get PyCharm for 30% off!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Getting Help",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current-link"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "Language: en",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current"
+    }
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "zh-hans",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "sv",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "pt-br",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 126,
+    "tag": "li",
+    "text": "pl",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "li",
+    "text": "ko",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "ja",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 132,
+    "tag": "li",
+    "text": "it",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "id",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 136,
+    "tag": "li",
+    "text": "fr",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "es",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 140,
+    "tag": "li",
+    "text": "el",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Documentation version: 5.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "current "
+    }
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "dev",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "6.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "6.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "5.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "5.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "4.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "4.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "4.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "3.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "3.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "3.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "2.2",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "2.1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "2.0",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "1.11",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "1.10",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "1.9",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "1.8",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "other"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "h1",
+    "text": "Django at a glance¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 191,
+    "tag": "p",
+    "text": "Because Django was developed in a fast-paced newsroom environment, it was designed to make common web development tasks fast and easy. Here’s an informal overview of how to write a database-driven web app with Django.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "p",
+    "text": "The goal of this document is to give you enough technical specifics to understand how Django works, but this isn’t intended to be a tutorial or reference – but we’ve got both! When you’re ready to start a project, you can start with the tutorial or dive right into more detailed documentation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 199,
+    "tag": "h2",
+    "text": "Design your model¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 201,
+    "tag": "p",
+    "text": "Although you can use Django without a database, it comes with an object-relational mapper in which you describe your database layout in Python code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 203,
+    "tag": "p",
+    "text": "The data-model syntax offers many rich ways of representing your models – so far, it’s been solving many years’ worth of database-schema problems. Here’s a quick example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 214,
+    "tag": "pre",
+    "text": "from django.db import models class Reporter(models.Model): full_name = models.CharField(max_length=70) def __str__(self): return self.full_name class Article(models.Model): pub_date = models.DateField() headline = models.CharField(max_length=200) content = models.TextField() reporter = models.ForeignKey(Reporter, on_delete=models.CASCADE) def __str__(self): return self.headline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "h2",
+    "text": "Install it¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 308,
+    "tag": "p",
+    "text": "Next, run the Django command-line utilities to create the database tables automatically:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 317,
+    "tag": "pre",
+    "text": "$ python manage.py makemigrations $ python manage.py migrate",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 327,
+    "tag": "pre",
+    "text": "...\\> py manage.py makemigrations ...\\> py manage.py migrate",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 331,
+    "tag": "p",
+    "text": "The makemigrations command looks at all your available models and creates migrations for whichever tables don’t already exist. migrate runs the migrations and creates tables in your database, as well as optionally providing much richer schema control.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 342,
+    "tag": "h2",
+    "text": "Enjoy the free API¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 344,
+    "tag": "p",
+    "text": "With that, you’ve got a free, and rich, Python API to access your data. The API is created on the fly, no code generation necessary:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 349,
+    "tag": "pre",
+    "text": "# Import the models we created from our \"news\" app >>> from news.models import Article, Reporter # No reporters are in the system yet. >>> Reporter.objects.all() <QuerySet []> # Create a new Reporter. >>> r = Reporter(full_name=\"John Smith\") # Save the object into the database. You have to call save() explicitly. >>> r.save() # Now it has an ID. >>> r.id 1 # Now the new reporter is in the database. >>> Reporter.objects.all() <QuerySet [<Reporter: John Smith>]> # Fields are represented as attributes on the Python object. >>> r.full_name 'John Smith' # Django provides a rich database lookup API. >>> Reporter.objects.get(id=1) <Reporter: John Smith> >>> Reporter.objects.get(full_name__startswith=\"John\") <Reporter: John Smith> >>> Reporter.objects.get(full_name__contains=\"mith\") <Reporter: John Smith> >>> Reporter.objects.get(id=2) Traceback (most recent call last): ... DoesNotExist: Reporter matching query does not exist. # Create an article. >>> from datetime import date >>> a = Article( ... pub_date=date.today(), headline=\"Django is cool\", content=\"Yeah.\", reporter=r ... ) >>> a.save() # Now the article is in the database. >>> Article.objects.all() <QuerySet [<Article: Django is coo",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 563,
+    "tag": "h2",
+    "text": "A dynamic admin interface: it’s not just scaffolding – it’s the whole house¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 565,
+    "tag": "p",
+    "text": "Once your models are defined, Django can automatically create a professional, production ready administrative interface – a website that lets authenticated users add, change and delete objects. The only step required is to register your model in the admin site:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 576,
+    "tag": "pre",
+    "text": "from django.db import models class Article(models.Model): pub_date = models.DateField() headline = models.CharField(max_length=200) content = models.TextField() reporter = models.ForeignKey(Reporter, on_delete=models.CASCADE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 636,
+    "tag": "pre",
+    "text": "from django.contrib import admin from . import models admin.site.register(models.Article)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 660,
+    "tag": "p",
+    "text": "The philosophy here is that your site is edited by a staff, or a client, or maybe just you – and you don’t want to have to deal with creating backend interfaces only to manage content.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 661,
+    "tag": "p",
+    "text": "One typical workflow in creating Django apps is to create models and get the admin sites up and running as fast as possible, so your staff (or clients) can start populating data. Then, develop the way data is presented to the public.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 664,
+    "tag": "h2",
+    "text": "Design your URLs¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 666,
+    "tag": "p",
+    "text": "A clean, elegant URL scheme is an important detail in a high-quality web application. Django encourages beautiful URL design and doesn’t put any cruft in URLs, like .php or .asp.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 671,
+    "tag": "p",
+    "text": "To design URLs for an app, you create a Python module called a URLconf. A table of contents for your app, it contains a mapping between URL patterns and Python callback functions. URLconfs also serve to decouple URLs from Python code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 674,
+    "tag": "p",
+    "text": "Here’s what a URLconf might look like for the Reporter/Article example above:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 687,
+    "tag": "pre",
+    "text": "from django.urls import path from . import views urlpatterns = [ path(\"articles/<int:year>/\", views.year_archive), path(\"articles/<int:year>/<int:month>/\", views.month_archive), path(\"articles/<int:year>/<int:month>/<int:pk>/\", views.article_detail), ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 729,
+    "tag": "p",
+    "text": "The code above maps URL paths to Python callback functions (“views”). The path strings use parameter tags to “capture” values from the URLs. When a user requests a page, Django runs through each path, in order, and stops at the first one that matches the requested URL. (If none of them matches, Django calls a special-case 404 view.) This is blazingly fast, because the paths are compiled into regular expressions at load time.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 730,
+    "tag": "p",
+    "text": "Once one of the URL patterns matches, Django calls the given view, which is a Python function. Each view gets passed a request object – which contains request metadata – and the values captured in the pattern.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 731,
+    "tag": "p",
+    "text": "For example, if a user requested the URL “/articles/2005/05/39323/”, Django would call the function news.views.article_detail(request, year=2005, month=5, pk=39323).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 739,
+    "tag": "h2",
+    "text": "Write your views¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 741,
+    "tag": "p",
+    "text": "Each view is responsible for doing one of two things: Returning an HttpResponse object containing the content for the requested page, or raising an exception such as Http404. The rest is up to you.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 748,
+    "tag": "p",
+    "text": "Generally, a view retrieves data according to the parameters, loads a template and renders the template with the retrieved data. Here’s an example view for year_archive from above:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 759,
+    "tag": "pre",
+    "text": "from django.shortcuts import render from .models import Article def year_archive(request, year): a_list = Article.objects.filter(pub_date__year=year) context = {\"year\": year, \"article_list\": a_list} return render(request, \"news/year_archive.html\", context)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 813,
+    "tag": "p",
+    "text": "This example uses Django’s template system, which has several powerful features but strives to stay simple enough for non-programmers to use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 818,
+    "tag": "h2",
+    "text": "Design your templates¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 820,
+    "tag": "p",
+    "text": "The code above loads the news/year_archive.html template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 823,
+    "tag": "p",
+    "text": "Django has a template search path, which allows you to minimize redundancy among templates. In your Django settings, you specify a list of directories to check for templates with DIRS. If a template doesn’t exist in the first directory, it checks the second, and so on.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 827,
+    "tag": "p",
+    "text": "Let’s say the news/year_archive.html template was found. Here’s what that might look like:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 838,
+    "tag": "pre",
+    "text": "{% extends \"base.html\" %} {% block title %}Articles for {{ year }}{% endblock %} {% block content %} <h1>Articles for {{ year }}</h1> {% for article in article_list %} <p>{{ article.headline }}</p> <p>By {{ article.reporter.full_name }}</p> <p>Published {{ article.pub_date|date:\"F j, Y\" }}</p> {% endfor %} {% endblock %}",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 908,
+    "tag": "p",
+    "text": "Variables are surrounded by double-curly braces. {{ article.headline }} means “Output the value of the article’s headline attribute.” But dots aren’t used only for attribute lookup. They also can do dictionary-key lookup, index lookup and function calls.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 913,
+    "tag": "p",
+    "text": "Note {{ article.pub_date|date:\"F j, Y\" }} uses a Unix-style “pipe” (the “|” character). This is called a template filter, and it’s a way to filter the value of a variable. In this case, the date filter formats a Python datetime object in the given format (as found in PHP’s date function).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 920,
+    "tag": "p",
+    "text": "You can chain together as many filters as you’d like. You can write custom template filters. You can write custom template tags, which run custom Python code behind the scenes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 925,
+    "tag": "p",
+    "text": "Finally, Django uses the concept of “template inheritance”. That’s what the {% extends \"base.html\" %} does. It means “First load the template called ‘base’, which has defined a bunch of blocks, and fill the blocks with the following blocks.” In short, that lets you dramatically cut down on redundancy in templates: each template has to define only what’s unique to that template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 931,
+    "tag": "p",
+    "text": "Here’s what the “base.html” template, including the use of static files, might look like:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 942,
+    "tag": "pre",
+    "text": "{% load static %} <html lang=\"en\"> <head> <title>{% block title %}{% endblock %}</title> </head> <body> <img src=\"{% static 'images/sitelogo.png' %}\" alt=\"Logo\"> {% block content %}{% endblock %} </body> </html>",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1001,
+    "tag": "p",
+    "text": "Simplistically, it defines the look-and-feel of the site (with the site’s logo), and provides “holes” for child templates to fill. This means that a site redesign can be done by changing a single file – the base template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1002,
+    "tag": "p",
+    "text": "It also lets you create multiple versions of a site, with different base templates, while reusing child templates. Django’s creators have used this technique to create strikingly different mobile versions of sites by only creating a new base template.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1003,
+    "tag": "p",
+    "text": "Note that you don’t have to use Django’s template system if you prefer another system. While Django’s template system is particularly well-integrated with Django’s model layer, nothing forces you to use it. For that matter, you don’t have to use Django’s database API, either. You can use another database abstraction layer, you can read XML files, you can read files off disk, or anything you want. Each piece of Django – models, views, templates – is decoupled from the next.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1006,
+    "tag": "h2",
+    "text": "This is just the surface¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1008,
+    "tag": "p",
+    "text": "This has been only a quick overview of Django’s functionality. Some more useful features:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1010,
+    "tag": "li",
+    "text": "A caching framework that integrates with memcached or other backends.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1011,
+    "tag": "p",
+    "text": "A caching framework that integrates with memcached or other backends.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1014,
+    "tag": "li",
+    "text": "A syndication framework that lets you create RSS and Atom feeds by writing a small Python class.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1015,
+    "tag": "p",
+    "text": "A syndication framework that lets you create RSS and Atom feeds by writing a small Python class.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1018,
+    "tag": "li",
+    "text": "More attractive automatically-generated admin features – this overview barely scratched the surface.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1019,
+    "tag": "p",
+    "text": "More attractive automatically-generated admin features – this overview barely scratched the surface.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1020,
+    "tag": "p",
+    "text": "The next steps are for you to download Django, read the tutorial and join the community. Thanks for your interest!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1036,
+    "tag": "h2",
+    "text": "Additional Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visuallyhidden",
+      "id": "aside-header"
+    }
+  },
+  {
+    "node_index": 1038,
+    "tag": "h3",
+    "text": "Support Django!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1043,
+    "tag": "li",
+    "text": "王祥 donated to the Django Software Foundation to support Django development. Donate today!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1045,
+    "tag": "h3",
+    "text": "Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1047,
+    "tag": "li",
+    "text": "Django at a glance Design your model Install it Enjoy the free API A dynamic admin interface: it’s not just scaffolding – it’s the whole house Design your URLs Write your views Design your templates This is just the surface",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1050,
+    "tag": "li",
+    "text": "Design your model",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1052,
+    "tag": "li",
+    "text": "Install it",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1054,
+    "tag": "li",
+    "text": "Enjoy the free API",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1056,
+    "tag": "li",
+    "text": "A dynamic admin interface: it’s not just scaffolding – it’s the whole house",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1058,
+    "tag": "li",
+    "text": "Design your URLs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1060,
+    "tag": "li",
+    "text": "Write your views",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1062,
+    "tag": "li",
+    "text": "Design your templates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1064,
+    "tag": "li",
+    "text": "This is just the surface",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1067,
+    "tag": "h3",
+    "text": "Browse",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "browse-header"
+    }
+  },
+  {
+    "node_index": 1069,
+    "tag": "li",
+    "text": "Prev: Getting started",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1071,
+    "tag": "li",
+    "text": "Next: Quick install guide",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1073,
+    "tag": "li",
+    "text": "Table of contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1075,
+    "tag": "li",
+    "text": "General Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1077,
+    "tag": "li",
+    "text": "Python Module Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1080,
+    "tag": "h3",
+    "text": "You are here:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "breadcrumbs-header"
+    }
+  },
+  {
+    "node_index": 1082,
+    "tag": "li",
+    "text": "Django 5.2 documentation Getting started Django at a glance",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1085,
+    "tag": "li",
+    "text": "Getting started Django at a glance",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1088,
+    "tag": "li",
+    "text": "Django at a glance",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1090,
+    "tag": "h3",
+    "text": "Getting help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "getting-help-sidebar"
+    }
+  },
+  {
+    "node_index": 1092,
+    "tag": "dt",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1094,
+    "tag": "dd",
+    "text": "Try the FAQ — it's got answers to many common questions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1095,
+    "tag": "dt",
+    "text": "Index, Module Index, or Table of Contents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1099,
+    "tag": "dd",
+    "text": "Handy when looking for specific information.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1100,
+    "tag": "dt",
+    "text": "Django Discord Server",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1102,
+    "tag": "dd",
+    "text": "Join the Django Discord Community.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1103,
+    "tag": "dt",
+    "text": "Official Django Forum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1105,
+    "tag": "dd",
+    "text": "Join the community on the Django Forum.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1106,
+    "tag": "dt",
+    "text": "Ticket tracker",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1108,
+    "tag": "dd",
+    "text": "Report bugs with Django or Django documentation in our ticket tracker.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1110,
+    "tag": "h3",
+    "text": "Download:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "links-wrapper-header"
+    }
+  },
+  {
+    "node_index": 1111,
+    "tag": "p",
+    "text": "Offline (Django 5.2): HTML | PDF | ePub Provided by Read the Docs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1119,
+    "tag": "h3",
+    "text": "Sponsored Fellow, Diamond and Platinum Members",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1126,
+    "tag": "li",
+    "text": "Sentry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1128,
+    "tag": "li",
+    "text": "Monitor your Django Code Resolve performance bottlenecks and errors using monitoring, replays, logs and Seer an AI agent for debugging.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1136,
+    "tag": "li",
+    "text": "JetBrains",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1138,
+    "tag": "li",
+    "text": "JetBrains delivers intelligent software solutions that make developers more productive by simplifying their challenging tasks, automating the routine, and helping them adopt the best development practices. PyCharm is the Python IDE for Professional Developers by JetBrains providing a complete set of tools for productive Python, Web and scientific development.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1146,
+    "tag": "li",
+    "text": "Kraken Tech",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1148,
+    "tag": "li",
+    "text": "Kraken is the most-loved operating system for energy. Powered by our Utility-Grade AI™ and deep industry know-how, we help utilities transform their technology and operations so they can lead the energy transition. Delivering better outcomes from generation through distribution to supply, Kraken powers 70+ million accounts worldwide, and is on a mission to make a big, green dent in the universe.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1156,
+    "tag": "li",
+    "text": "PostHog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1158,
+    "tag": "li",
+    "text": "PostHog is an all-in-one developer platform for building successful products. We provide product analytics, web analytics, session replay, error tracking, feature flags, experiments, surveys, LLM observability, data warehouse, CDP, workflows, logs, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1163,
+    "tag": "h2",
+    "text": "Django Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visuallyhidden"
+    }
+  },
+  {
+    "node_index": 1166,
+    "tag": "h3",
+    "text": "Learn More",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1168,
+    "tag": "li",
+    "text": "About Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1170,
+    "tag": "li",
+    "text": "Getting Started with Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1172,
+    "tag": "li",
+    "text": "Team Organization",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1174,
+    "tag": "li",
+    "text": "Django Software Foundation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1176,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1178,
+    "tag": "li",
+    "text": "Diversity Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1181,
+    "tag": "h3",
+    "text": "Get Involved",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1183,
+    "tag": "li",
+    "text": "Join a Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1185,
+    "tag": "li",
+    "text": "Contribute to Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1187,
+    "tag": "li",
+    "text": "Submit a Bug",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1189,
+    "tag": "li",
+    "text": "Report a Security Issue",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1191,
+    "tag": "li",
+    "text": "Individual membership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1194,
+    "tag": "h3",
+    "text": "Get Help",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1196,
+    "tag": "li",
+    "text": "Getting Help FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1198,
+    "tag": "li",
+    "text": "Django Discord",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1200,
+    "tag": "li",
+    "text": "Official Django Forum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1203,
+    "tag": "h3",
+    "text": "Follow Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1205,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1207,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1209,
+    "tag": "li",
+    "text": "Fediverse (Mastodon)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1211,
+    "tag": "li",
+    "text": "Bluesky",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1213,
+    "tag": "li",
+    "text": "LinkedIn",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1215,
+    "tag": "li",
+    "text": "News RSS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1218,
+    "tag": "h3",
+    "text": "Support Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1220,
+    "tag": "li",
+    "text": "Sponsor Django",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1222,
+    "tag": "li",
+    "text": "Corporate membership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1224,
+    "tag": "li",
+    "text": "Official merchandise store",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1226,
+    "tag": "li",
+    "text": "Benevity Workplace Giving Program",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1233,
+    "tag": "li",
+    "text": "Hosting by In-kind donors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1236,
+    "tag": "li",
+    "text": "Design by Threespot & andrevv",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "design"
+    }
+  },
+  {
+    "node_index": 1241,
+    "tag": "p",
+    "text": "© 2005-2026 Django Software Foundation and individual contributors. Django is a registered trademark of the Django Software Foundation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  }
+]

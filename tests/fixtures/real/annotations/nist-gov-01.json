@@ -1,0 +1,1372 @@
+[
+  {
+    "node_index": 61,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 62,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 70,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 86,
+    "tag": "p",
+    "text": "https://www.nist.gov/pml/time-and-frequency-division/popular-links/time-frequency-z",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-print-header__url"
+    }
+  },
+  {
+    "node_index": 108,
+    "tag": "li",
+    "text": "Publications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 110,
+    "tag": "li",
+    "text": "What We Do All Topics Advanced communications Artificial intelligence Bioscience Buildings and construction Chemistry Cybersecurity and Privacy Electronics Energy Environment Fire Forensic science Health Information technology Infrastructure Manufacturing Materials Mathematics and statistics Metrology Nanotechnology Neutron research Performance excellence Physics Public safety Quantum information science Resilience Standards Transportation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "li",
+    "text": "All Topics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 119,
+    "tag": "li",
+    "text": "Advanced communications",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 121,
+    "tag": "li",
+    "text": "Artificial intelligence",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 123,
+    "tag": "li",
+    "text": "Bioscience",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "li",
+    "text": "Buildings and construction",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Chemistry",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Cybersecurity and Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "Electronics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Energy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "Environment",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "Fire",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 141,
+    "tag": "li",
+    "text": "Forensic science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Health",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 145,
+    "tag": "li",
+    "text": "Information technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 147,
+    "tag": "li",
+    "text": "Infrastructure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 149,
+    "tag": "li",
+    "text": "Manufacturing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "Materials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "li",
+    "text": "Mathematics and statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 157,
+    "tag": "li",
+    "text": "Metrology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 159,
+    "tag": "li",
+    "text": "Nanotechnology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 161,
+    "tag": "li",
+    "text": "Neutron research",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 163,
+    "tag": "li",
+    "text": "Performance excellence",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 165,
+    "tag": "li",
+    "text": "Physics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Public safety",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "Quantum information science",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Resilience",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "Standards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 175,
+    "tag": "li",
+    "text": "Transportation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 177,
+    "tag": "li",
+    "text": "Labs & Major Programs Laboratories Communications Technology Laboratory Engineering Laboratory Information Technology Laboratory Material Measurement Laboratory Physical Measurement Laboratory User Facilities NIST Center for Neutron Research CNST NanoFab Research Test Beds Research Projects Tools & Instruments Major Programs CHIPS for America Initiative Congressionally Identified Project Program (CIPP) Manufacturing Extension Partnership (MEP) Manufacturing USA Office of Advanced Manufacturing Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 184,
+    "tag": "li",
+    "text": "Laboratories Communications Technology Laboratory Engineering Laboratory Information Technology Laboratory Material Measurement Laboratory Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "li",
+    "text": "Communications Technology Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "Engineering Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 191,
+    "tag": "li",
+    "text": "Information Technology Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "Material Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 195,
+    "tag": "li",
+    "text": "Physical Measurement Laboratory",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 199,
+    "tag": "li",
+    "text": "User Facilities NIST Center for Neutron Research CNST NanoFab",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "NIST Center for Neutron Research",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "CNST NanoFab",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 206,
+    "tag": "li",
+    "text": "Research Test Beds",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Research Projects",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 210,
+    "tag": "li",
+    "text": "Tools & Instruments",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Major Programs CHIPS for America Initiative Congressionally Identified Project Program (CIPP) Manufacturing Extension Partnership (MEP) Manufacturing USA Office of Advanced Manufacturing Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "CHIPS for America Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Congressionally Identified Project Program (CIPP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Manufacturing Extension Partnership (MEP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Manufacturing USA",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "Office of Advanced Manufacturing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Technology Partnerships Office",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Services & Resources Measurements and Standards Calibration Services Laboratory Accreditation (NVLAP) Quality System Standard Reference Materials (SRMs) Standard Reference Instruments (SRIs) Standards.gov Time Services Office of Weights and Measures Software Data Chemistry WebBook National Vulnerability Database Physical Reference Data Standard Reference Data (SRD) Storefront License & Patents Computer Security Resource Center (CSRC) NIST Research Library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 236,
+    "tag": "li",
+    "text": "Measurements and Standards Calibration Services Laboratory Accreditation (NVLAP) Quality System Standard Reference Materials (SRMs) Standard Reference Instruments (SRIs) Standards.gov Time Services Office of Weights and Measures",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 239,
+    "tag": "li",
+    "text": "Calibration Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "Laboratory Accreditation (NVLAP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Quality System",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 245,
+    "tag": "li",
+    "text": "Standard Reference Materials (SRMs)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "Standard Reference Instruments (SRIs)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Standards.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "Time Services",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "li",
+    "text": "Office of Weights and Measures",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Software",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 259,
+    "tag": "li",
+    "text": "Data Chemistry WebBook National Vulnerability Database Physical Reference Data Standard Reference Data (SRD)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "Chemistry WebBook",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "National Vulnerability Database",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 266,
+    "tag": "li",
+    "text": "Physical Reference Data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 268,
+    "tag": "li",
+    "text": "Standard Reference Data (SRD)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 270,
+    "tag": "li",
+    "text": "Storefront",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 272,
+    "tag": "li",
+    "text": "License & Patents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "Computer Security Resource Center (CSRC)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "NIST Research Library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "News & Events News Events Blogs NIST In Focus Feature Stories Awards Video Gallery Image Gallery Media Contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 287,
+    "tag": "li",
+    "text": "News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 289,
+    "tag": "li",
+    "text": "Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 291,
+    "tag": "li",
+    "text": "Blogs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 293,
+    "tag": "li",
+    "text": "NIST In Focus",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 295,
+    "tag": "li",
+    "text": "Feature Stories",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 299,
+    "tag": "li",
+    "text": "Awards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 301,
+    "tag": "li",
+    "text": "Video Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 303,
+    "tag": "li",
+    "text": "Image Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 305,
+    "tag": "li",
+    "text": "Media Contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 307,
+    "tag": "li",
+    "text": "About NIST About Us Leadership Organization Structure Budget & Planning Contact Us Visit Careers Student programs Work with NIST History NIST Digital Archives NIST Museum NIST and the Nobel Educational Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__primary-item"
+    }
+  },
+  {
+    "node_index": 314,
+    "tag": "li",
+    "text": "About Us Leadership Organization Structure Budget & Planning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 317,
+    "tag": "li",
+    "text": "Leadership",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "Organization Structure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 321,
+    "tag": "li",
+    "text": "Budget & Planning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 323,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 325,
+    "tag": "li",
+    "text": "Visit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 327,
+    "tag": "li",
+    "text": "Careers Student programs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 330,
+    "tag": "li",
+    "text": "Student programs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "li",
+    "text": "Work with NIST",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 336,
+    "tag": "li",
+    "text": "History NIST Digital Archives NIST Museum NIST and the Nobel",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 339,
+    "tag": "li",
+    "text": "NIST Digital Archives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "NIST Museum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 343,
+    "tag": "li",
+    "text": "NIST and the Nobel",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 345,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item"
+    }
+  },
+  {
+    "node_index": 360,
+    "tag": "h2",
+    "text": "Time Realization and Distribution Group",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 367,
+    "tag": "h1",
+    "text": "Time and Frequency from A to Z",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "book-title-427386",
+      "class": "nist-booknav__title nist-page__title"
+    }
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "Menu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-booknav__toggle"
+    }
+  },
+  {
+    "node_index": 373,
+    "tag": "li",
+    "text": "Next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-booknav__item nist-booknav__item--next"
+    }
+  },
+  {
+    "node_index": 384,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, Am to B",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 386,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, C to Ce",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 388,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, Ch to Cy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 390,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, D",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, E",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 394,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, F",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 396,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, G",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 398,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, H",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 400,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, I",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 402,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, J to K",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 404,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, L",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 406,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, M",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 408,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, N to O",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 410,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, P",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 412,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, Q to Ra",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 414,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, Re to Ru",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 416,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, S to So",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 418,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, St to Sy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 420,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, T to Te",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 422,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, Ti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 424,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, To to Tw",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 426,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, U to W",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 428,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, X to Z",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 430,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, A to Z Index Expand or Collapse Time and Frequency from A to Z, A to Z Notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item usa-sidenav__item--parent"
+    }
+  },
+  {
+    "node_index": 435,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, A to Z Notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-sidenav__item"
+    }
+  },
+  {
+    "node_index": 443,
+    "tag": "p",
+    "text": "A440",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 446,
+    "tag": "p",
+    "text": "A440 (sometimes called A4) is the 440 Hz tone that serves as the internationally recognized standard for musical pitch. A440 is the musical note A above middle C. NIST has broadcast A440 from radio station WWV since 1936. The tones can currently be heard during minute 2 of each hour on WWV, and during minute 1 on WWVH.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 449,
+    "tag": "p",
+    "text": "Tuning a piano is an example of a simple frequency calibration that is done with the human ear. The piano tuner listens to a standard audio tone, compares it to the same note on the piano, and adjusts the piano until it agrees with the audio standard. The smallest frequency offset that a piano tuner can hear depends upon several factors, including the musical training of the listener. However, the just noticeable difference is often defined as 5 cents, where 1 cent is 1/100 of the ratio between two adjacent tones on the piano’s keyboard. Because there are 12 tones in a piano’s octave, the ratio for a frequency change of 1 cent is the 1200th root of 2. Therefore, raising a musical pitch by 1 cent requires multiplying by the 1200th root of 2, or 1.00057779. A 5 cent raise in pitch would require this to be done five times, and would equal 1.3 Hz when starting with a 440 Hz tone.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 450,
+    "tag": "p",
+    "text": "Accuracy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "p",
+    "text": "The degree of conformity of a measured or calculated value to its definition, related to the offset from an ideal value. In the time and frequency community, accuracy refers to the time offset or frequency offset of a device. For example, time offset is the difference between a measured on-time pulse and an ideal on-time pulse that coincides with UTC. Frequency offset is the difference between a measured frequency and a nominal frequency with zero uncertainty. The relationship between accuracy and stability is shown in the illustration.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 459,
+    "tag": "p",
+    "text": "The term uncertainty is usually preferred to accuracy when a quantitative measurement result is reported. Accuracy is often used in a qualitative sense. For example, we might say that an accurate time measurement was made with an uncertainty of 1 microsecond.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "p",
+    "text": "Active Frequency Standard",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 463,
+    "tag": "p",
+    "text": "An atomic oscillator, usually a hydrogen maser, whose output signal is derived from the radiation emitted by the atom. Most commercially available atomic oscillators are passive frequency standards.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 467,
+    "tag": "p",
+    "text": "Aging",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 470,
+    "tag": "p",
+    "text": "A change in frequency with time due to internal changes in an oscillator. Aging is usually a nearly linear change in the resonance frequency that can be either positive or negative, and occasionally, a reversal in direction of aging occurs. Aging occurs even when factors external to the oscillator, such as environment and power supply, are kept constant. Aging has many possible causes, including a buildup of foreign material on the crystal, changes in the oscillator circuitry, or changes in the quartz material or crystal structure. A high quality OCXO might age at a rate of < 5 × 10-9 per year, while a TCXO might age 100 times faster.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 472,
+    "tag": "p",
+    "text": "Allan Deviation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 475,
+    "tag": "p",
+    "text": "A non-classical statistic used to estimate stability. This statistic is sometimes called the Allan variance, but since it is the square root of the variance, its proper name is the Allan deviation. The equation for the Allan deviation (with non-overlapping samples) is",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 477,
+    "tag": "p",
+    "text": "$$\\sigma_y(\\tau)=\\sqrt{\\frac{1}{2(M-1)}{\\sum} ^{M-1}_{i=1}(\\overline{y}_{i+1}-\\overline{y}_{i})^2}$$",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 478,
+    "tag": "p",
+    "text": "where yi is a set of frequency offset measurements that consists of individual measurements, y1, y2, y3, and so on; M is the number of values in the yi series, and the data are equally spaced in segments τ seconds long. Or",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 485,
+    "tag": "p",
+    "text": "$$\\sigma_y(\\tau)=\\sqrt{\\frac{1}{2(N-2)\\tau^2}{\\sum} ^{N-2}_{i=1}(x_{i+2}-2x_{i+1} + x_i)^2}$$",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 486,
+    "tag": "p",
+    "text": "where xi is a series of phase measurements in time units that consists of individual measurements, x1, x2, x3, and so on, N is the number of values in the xi series, and the data are equally spaced in segments τ seconds long.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 493,
+    "tag": "p",
+    "text": "An Allan deviation graph is shown below. It shows the stability of the device improving as the averaging period gets longer, since some noise types can be removed by averaging. At some point, however, more averaging no longer improves the results. This point is called the noise floor, or the point where the remaining noise consists of nonstationary processes such as aging or random walk. The device in the graph has a noise floor of about 5 × 10-13 at τ = 1000 s.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 500,
+    "tag": "p",
+    "text": "The Allan deviation is also used to identify types of oscillator and measurement system noise. The slope of the Allan deviation line can identify the amount of averaging needed to remove these noise types, as shown in the graph below. Note that the Allan deviation does not distinguish between white phase noise and flicker phase noise.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 517,
+    "tag": "li",
+    "text": "Time and Frequency from A to Z, Am to B",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-booknav__item nist-booknav__item--next"
+    }
+  },
+  {
+    "node_index": 532,
+    "tag": "h3",
+    "text": "HEADQUARTERS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__contact-heading"
+    }
+  },
+  {
+    "node_index": 537,
+    "tag": "p",
+    "text": "Webmaster | Contact Us | Our Other Offices",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 564,
+    "tag": "li",
+    "text": "Site Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 566,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 568,
+    "tag": "li",
+    "text": "Privacy Program",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 570,
+    "tag": "li",
+    "text": "Copyright & Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 572,
+    "tag": "li",
+    "text": "Vulnerability Disclosure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 574,
+    "tag": "li",
+    "text": "No Fear Act Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 576,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "li",
+    "text": "Environmental Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 580,
+    "tag": "li",
+    "text": "Scientific Integrity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 582,
+    "tag": "li",
+    "text": "Information Quality Standards",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 584,
+    "tag": "li",
+    "text": "Commerce.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 586,
+    "tag": "li",
+    "text": "Science.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 588,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  },
+  {
+    "node_index": 590,
+    "tag": "li",
+    "text": "Vote.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nist-footer__menu-item"
+    }
+  }
+]

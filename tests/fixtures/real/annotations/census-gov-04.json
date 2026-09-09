@@ -1,0 +1,315 @@
+[
+  {
+    "node_index": 78,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 94,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "li",
+    "text": "Census.gov /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 312,
+    "tag": "li",
+    "text": "About the Bureau /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 315,
+    "tag": "li",
+    "text": "Our History /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 318,
+    "tag": "li",
+    "text": "Historical Censuses & Surveys",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 324,
+    "tag": "h1",
+    "text": "Historical Censuses & Surveys",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 331,
+    "tag": "li",
+    "text": "Facts by Decade",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 334,
+    "tag": "li",
+    "text": "Program References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 337,
+    "tag": "li",
+    "text": "Survey and Census History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 351,
+    "tag": "li",
+    "text": "Facts by Decade",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 355,
+    "tag": "li",
+    "text": "Program References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 359,
+    "tag": "li",
+    "text": "Survey and Census History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 369,
+    "tag": "h1",
+    "text": "Historical Censuses & Surveys",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 376,
+    "tag": "p",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-sub-heading-2 uscb-medium uscb-margin-TB-0 component-title"
+    }
+  },
+  {
+    "node_index": 402,
+    "tag": "p",
+    "text": "As the United States grew, the nation's interests became more complex. People and policy planners needed a more detailed idea of the economic and demographic characteristics of America so that they could make decisions and plan for the future. Because of this, the original census expanded over time from a simple population headcount in 1790 (which only classified Americans by age, sex, and race), to over 200 different surveys, censuses, and statistical and geographic programs today.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "li",
+    "text": "Facts by Decade Get a quick portrait of the U.S. by decade with pop culture milestones, population highlights, census details, and the 10 largest urban places.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 416,
+    "tag": "li",
+    "text": "Survey and Census History Learn the history of our different censuses, surveys, and statistical programs, from the Decennial Census and Economic Census to demographic and more.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 426,
+    "tag": "li",
+    "text": "Program References In this section we provide links to a variety of reference materials that may be useful in conducting historical and genealogical research.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 484,
+    "tag": "p",
+    "text": "Top",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-top-label uscb-text-align-center"
+    }
+  },
+  {
+    "node_index": 491,
+    "tag": "p",
+    "text": "Receive Updates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-title",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 492,
+    "tag": "p",
+    "text": "To sign up for updates please enter your email address.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-text uscb-margin-T-0 uscb-margin-B-30",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 505,
+    "tag": "p",
+    "text": "Stay Current",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 508,
+    "tag": "p",
+    "text": "America Counts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 510,
+    "tag": "p",
+    "text": "Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 512,
+    "tag": "p",
+    "text": "Deputy Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 514,
+    "tag": "p",
+    "text": "Random Samplings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 516,
+    "tag": "p",
+    "text": "Research Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 518,
+    "tag": "p",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 521,
+    "tag": "p",
+    "text": "Contact",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 523,
+    "tag": "p",
+    "text": "Support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 525,
+    "tag": "p",
+    "text": "Jobs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 527,
+    "tag": "p",
+    "text": "Follow",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "p",
+    "text": "Measuring America's People and Economy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-tag-line"
+    }
+  }
+]

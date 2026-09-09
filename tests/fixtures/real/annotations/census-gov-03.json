@@ -1,0 +1,498 @@
+[
+  {
+    "node_index": 80,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 81,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 89,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 96,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "li",
+    "text": "Census.gov /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 314,
+    "tag": "li",
+    "text": "About the Bureau /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 317,
+    "tag": "li",
+    "text": "Our History /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 320,
+    "tag": "li",
+    "text": "Census Records and Family History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 326,
+    "tag": "h1",
+    "text": "Census Records and Family History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 333,
+    "tag": "li",
+    "text": "Genealogical Research with Census Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 336,
+    "tag": "li",
+    "text": "Mortality Schedules",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 339,
+    "tag": "li",
+    "text": "Most Common U.S. Names",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 342,
+    "tag": "li",
+    "text": "Nonpopulation Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 345,
+    "tag": "li",
+    "text": "Public Census Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "Your Personal Census Record",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 362,
+    "tag": "li",
+    "text": "Genealogical Research with Census Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 366,
+    "tag": "li",
+    "text": "Mortality Schedules",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "Most Common U.S. Names",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 374,
+    "tag": "li",
+    "text": "Nonpopulation Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 378,
+    "tag": "li",
+    "text": "Public Census Records",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 382,
+    "tag": "li",
+    "text": "Your Personal Census Record",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 393,
+    "tag": "h1",
+    "text": "Census Records and Family History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 400,
+    "tag": "p",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-sub-heading-2 uscb-medium uscb-margin-TB-0 component-title"
+    }
+  },
+  {
+    "node_index": 428,
+    "tag": "p",
+    "text": "Individual census records from 1790 to 1950 are maintained by the National Archives and Records Administration, not the U.S. Census Bureau.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-h3 uscb-text-align-left uscb-w-100 uscb-margin-TB-0",
+      "style": "color: #000000"
+    }
+  },
+  {
+    "node_index": 431,
+    "tag": "p",
+    "text": "Historical census records from past decennial censuses of population are the most requested historical information produced BY the Census Bureau but are not available FROM the Census Bureau. Records from population censuses that occurred over 72 years ago are passed on to the National Archives and Records Administration (NARA) where they are made available to the public. Personal census records that haven’t been made public by NARA are available only to the individual or legal heirs via the Census Bureau’s Age Search service.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 432,
+    "tag": "p",
+    "text": "In this section you’ll find links to information about census records that will help you to:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "Find public historical census records that the Census Bureau has sent to NARA.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 435,
+    "tag": "li",
+    "text": "Explore specialized genealogical research guides and tools.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 436,
+    "tag": "li",
+    "text": "Order your own personal census record through our Age Search Service.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 440,
+    "tag": "li",
+    "text": "National Archives and Records Administration (NARA): 1950 Census",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-attachment__item cmp-list__item"
+    }
+  },
+  {
+    "node_index": 448,
+    "tag": "li",
+    "text": "National Archives and Records Administration (NARA): 1940 Census",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-attachment__item cmp-list__item"
+    }
+  },
+  {
+    "node_index": 456,
+    "tag": "li",
+    "text": "BC-600 Application For Search of Census Records [<1.0 MB]",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-attachment__item cmp-list__item"
+    }
+  },
+  {
+    "node_index": 464,
+    "tag": "li",
+    "text": "BC-600(SP) Solicitud Para Busqueda De Registros Censales (En Español) [<1.0 MB]",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-attachment__item cmp-list__item"
+    }
+  },
+  {
+    "node_index": 474,
+    "tag": "p",
+    "text": "Online subscription services are available to access the 1790–1950 census records. Many public libraries provide access to these services free of charge to their patrons. Contact your local library to inquire if it has subscribed to one of these services.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 483,
+    "tag": "p",
+    "text": "The United States has collected data about its population since 1790 and continues to collect data every 10 years. Currently, the National Archives has the 1790 to 1940 census records available to the public.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 484,
+    "tag": "p",
+    "text": "In addition to the censuses conducted by the federal government, many state censuses have been conducted. Some of these date to the colonial period. Although the National Archives may have some of these records, contact your state or local archives to inquire about their state census holdings.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "li",
+    "text": "Genealogical Research with Census Records Explore our specialized tools and guides to searching and using historical census population records for family history and other genealogical research.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 498,
+    "tag": "li",
+    "text": "Your Personal Census Record Learn how to use the Census Bureau’s Age Search Service to purchase an official copy of your personal, confidential census record before public release.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 508,
+    "tag": "li",
+    "text": "Public Census Records Learn how to access historical census records that have been sent to the National Archives and Records Administration for public release per the “72-year rule”.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 518,
+    "tag": "li",
+    "text": "Most Common U.S. Names Find the most common names from official US Census data, with frequencies & counts of surnames from 1990-2010 & first names also from 2020.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 528,
+    "tag": "li",
+    "text": "Nonpopulation Records Nonpopulation records, such as agriculture, mortality, social statistics, and manufacturing schedules, are available for some census years.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 538,
+    "tag": "li",
+    "text": "Mortality Schedules In 1850, 1860, 1870, 1880, and 1885, the census included inquiries about persons who had died in the year immediately preceding the enumeration.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "p",
+    "text": "Some content on this site is available in several different electronic formats. Some of the files may require a plug-in or additional software to view.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 601,
+    "tag": "p",
+    "text": "Top",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-top-label uscb-text-align-center"
+    }
+  },
+  {
+    "node_index": 608,
+    "tag": "p",
+    "text": "Receive Updates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-title",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 609,
+    "tag": "p",
+    "text": "To sign up for updates please enter your email address.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-text uscb-margin-T-0 uscb-margin-B-30",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 622,
+    "tag": "p",
+    "text": "Stay Current",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 625,
+    "tag": "p",
+    "text": "America Counts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 627,
+    "tag": "p",
+    "text": "Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 629,
+    "tag": "p",
+    "text": "Deputy Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 631,
+    "tag": "p",
+    "text": "Random Samplings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 633,
+    "tag": "p",
+    "text": "Research Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 635,
+    "tag": "p",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 638,
+    "tag": "p",
+    "text": "Contact",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 640,
+    "tag": "p",
+    "text": "Support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 642,
+    "tag": "p",
+    "text": "Jobs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 644,
+    "tag": "p",
+    "text": "Follow",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 676,
+    "tag": "p",
+    "text": "Measuring America's People and Economy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-tag-line"
+    }
+  }
+]

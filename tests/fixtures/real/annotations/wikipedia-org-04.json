@@ -1,0 +1,7365 @@
+[
+  {
+    "node_index": 57,
+    "tag": "li",
+    "text": "الصفحة الرئيسة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-mainpage-description",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 60,
+    "tag": "li",
+    "text": "الأحداث الجارية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-currentevents",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "أحدث التغييرات",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-recentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 66,
+    "tag": "li",
+    "text": "أحدث التغييرات الأساسية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-wrecentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "المواضيع",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-subjects",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "أبجدي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-index",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "بوابات",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-portals",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "مقالة عشوائية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randompage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "تصفح من غير إنترنت",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Kiwix",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "li",
+    "text": "تواصل مع ويكيبيديا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-contact",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "مساعدة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-help",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "الميدان",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-villagepump",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "صفحات خاصة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-specialpages",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 145,
+    "tag": "li",
+    "text": "تبرع",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "إنشاء حساب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "دخول",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 163,
+    "tag": "li",
+    "text": "تبرع",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "إنشاء حساب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "دخول",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "h2",
+    "text": "المحتويات",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "vector-pinnable-header-label"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "المقدمة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-mw-content-text",
+      "class": "vector-toc-list-item vector-toc-level-1"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "1 الأصل والتاريخ ثبِّت القسم الفرعي الأصل والتاريخ 1.1 الأصل النباتي 1.2 شرب الشاي مبكرًا 1.3 في أوروبا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-الأصل_والتاريخ",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 205,
+    "tag": "li",
+    "text": "1.1 الأصل النباتي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-الأصل_النباتي",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "1.2 شرب الشاي مبكرًا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-شرب_الشاي_مبكرًا",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "1.3 في أوروبا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-في_أوروبا",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "2 التركيب الكيميائي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-التركيب_الكيميائي",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "3 التأثيرات الصحية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-التأثيرات_الصحية",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 235,
+    "tag": "li",
+    "text": "4 التعبئة والتغليف ثبِّت القسم الفرعي التعبئة والتغليف 4.1 أكياس الشاي 4.2 الشاي السائب 4.3 الشاي المضغوط 4.4 الشاي الفوري 4.5 الشاي المعبأ في زجاجات وعلب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-التعبئة_والتغليف",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "4.1 أكياس الشاي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-أكياس_الشاي",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "4.2 الشاي السائب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-الشاي_السائب",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 256,
+    "tag": "li",
+    "text": "4.3 الشاي المضغوط",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-الشاي_المضغوط",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "4.4 الشاي الفوري",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-الشاي_الفوري",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 268,
+    "tag": "li",
+    "text": "4.5 الشاي المعبأ في زجاجات وعلب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-الشاي_المعبأ_في_زجاجات_وعلب",
+      "class": "vector-toc-list-item vector-toc-level-2"
+    }
+  },
+  {
+    "node_index": 274,
+    "tag": "li",
+    "text": "5 الإنتاج",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-الإنتاج",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "6 معرض الصور",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-معرض_الصور",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 286,
+    "tag": "li",
+    "text": "7 اقرأ أيضًا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-اقرأ_أيضًا",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "8 المراجع",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "toc-المراجع",
+      "class": "vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded"
+    }
+  },
+  {
+    "node_index": 309,
+    "tag": "h1",
+    "text": "شاي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "firstHeading",
+      "class": "firstHeading mw-first-heading"
+    }
+  },
+  {
+    "node_index": 320,
+    "tag": "li",
+    "text": "Acèh",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ace mw-list-item"
+    }
+  },
+  {
+    "node_index": 323,
+    "tag": "li",
+    "text": "Afrikaans",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-af mw-list-item"
+    }
+  },
+  {
+    "node_index": 326,
+    "tag": "li",
+    "text": "Alemannisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-als mw-list-item"
+    }
+  },
+  {
+    "node_index": 329,
+    "tag": "li",
+    "text": "አማርኛ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-am mw-list-item"
+    }
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Aragonés",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-an mw-list-item"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "li",
+    "text": "Ænglisc",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ang mw-list-item"
+    }
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "अंगिका",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-anp mw-list-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "الدارجة",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ary mw-list-item"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "مصرى",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-arz mw-list-item"
+    }
+  },
+  {
+    "node_index": 347,
+    "tag": "li",
+    "text": "অসমীয়া",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-as mw-list-item"
+    }
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "Asturianu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ast mw-list-item"
+    }
+  },
+  {
+    "node_index": 353,
+    "tag": "li",
+    "text": "Atikamekw",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-atj mw-list-item"
+    }
+  },
+  {
+    "node_index": 356,
+    "tag": "li",
+    "text": "अवधी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-awa mw-list-item"
+    }
+  },
+  {
+    "node_index": 359,
+    "tag": "li",
+    "text": "Aymar aru",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ay mw-list-item"
+    }
+  },
+  {
+    "node_index": 362,
+    "tag": "li",
+    "text": "Azərbaycanca",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-az mw-list-item"
+    }
+  },
+  {
+    "node_index": 365,
+    "tag": "li",
+    "text": "تۆرکجه",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-azb mw-list-item"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "li",
+    "text": "Башҡортса",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ba mw-list-item"
+    }
+  },
+  {
+    "node_index": 371,
+    "tag": "li",
+    "text": "Basa Bali",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ban mw-list-item"
+    }
+  },
+  {
+    "node_index": 374,
+    "tag": "li",
+    "text": "Boarisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bar mw-list-item"
+    }
+  },
+  {
+    "node_index": 377,
+    "tag": "li",
+    "text": "Žemaitėška",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bat-smg mw-list-item"
+    }
+  },
+  {
+    "node_index": 380,
+    "tag": "li",
+    "text": "Bikol Central",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bcl mw-list-item"
+    }
+  },
+  {
+    "node_index": 383,
+    "tag": "li",
+    "text": "Беларуская (тарашкевіца)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-be-x-old mw-list-item"
+    }
+  },
+  {
+    "node_index": 386,
+    "tag": "li",
+    "text": "Беларуская",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-be mw-list-item"
+    }
+  },
+  {
+    "node_index": 389,
+    "tag": "li",
+    "text": "Betawi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bew mw-list-item"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "li",
+    "text": "Български",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bg mw-list-item"
+    }
+  },
+  {
+    "node_index": 395,
+    "tag": "li",
+    "text": "भोजपुरी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bh mw-list-item"
+    }
+  },
+  {
+    "node_index": 398,
+    "tag": "li",
+    "text": "Banjar",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bjn mw-list-item"
+    }
+  },
+  {
+    "node_index": 401,
+    "tag": "li",
+    "text": "বাংলা",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bn mw-list-item"
+    }
+  },
+  {
+    "node_index": 404,
+    "tag": "li",
+    "text": "བོད་ཡིག",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bo mw-list-item"
+    }
+  },
+  {
+    "node_index": 407,
+    "tag": "li",
+    "text": "Brezhoneg",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-br mw-list-item"
+    }
+  },
+  {
+    "node_index": 410,
+    "tag": "li",
+    "text": "Bosanski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bs mw-list-item"
+    }
+  },
+  {
+    "node_index": 413,
+    "tag": "li",
+    "text": "Буряад",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-bxr mw-list-item"
+    }
+  },
+  {
+    "node_index": 416,
+    "tag": "li",
+    "text": "Català",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ca mw-list-item"
+    }
+  },
+  {
+    "node_index": 419,
+    "tag": "li",
+    "text": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cdo mw-list-item"
+    }
+  },
+  {
+    "node_index": 422,
+    "tag": "li",
+    "text": "Нохчийн",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ce mw-list-item"
+    }
+  },
+  {
+    "node_index": 425,
+    "tag": "li",
+    "text": "ᏣᎳᎩ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-chr mw-list-item"
+    }
+  },
+  {
+    "node_index": 428,
+    "tag": "li",
+    "text": "Tsetsêhestâhese",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-chy mw-list-item"
+    }
+  },
+  {
+    "node_index": 431,
+    "tag": "li",
+    "text": "کوردی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ckb mw-list-item"
+    }
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "Čeština",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cs mw-list-item"
+    }
+  },
+  {
+    "node_index": 437,
+    "tag": "li",
+    "text": "Чӑвашла",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cv mw-list-item"
+    }
+  },
+  {
+    "node_index": 440,
+    "tag": "li",
+    "text": "Cymraeg",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-cy mw-list-item"
+    }
+  },
+  {
+    "node_index": 443,
+    "tag": "li",
+    "text": "Dansk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-da mw-list-item"
+    }
+  },
+  {
+    "node_index": 446,
+    "tag": "li",
+    "text": "Deutsch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle mw-list-item",
+      "title": "مقالة جيدة"
+    }
+  },
+  {
+    "node_index": 449,
+    "tag": "li",
+    "text": "Zazaki",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-diq mw-list-item"
+    }
+  },
+  {
+    "node_index": 452,
+    "tag": "li",
+    "text": "डोटेली",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-dty mw-list-item"
+    }
+  },
+  {
+    "node_index": 455,
+    "tag": "li",
+    "text": "ދިވެހިބަސް",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-dv mw-list-item"
+    }
+  },
+  {
+    "node_index": 458,
+    "tag": "li",
+    "text": "ཇོང་ཁ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-dz mw-list-item"
+    }
+  },
+  {
+    "node_index": 461,
+    "tag": "li",
+    "text": "Ελληνικά",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-el mw-list-item"
+    }
+  },
+  {
+    "node_index": 464,
+    "tag": "li",
+    "text": "English",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-en mw-list-item"
+    }
+  },
+  {
+    "node_index": 467,
+    "tag": "li",
+    "text": "Esperanto",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-eo mw-list-item"
+    }
+  },
+  {
+    "node_index": 470,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-es mw-list-item"
+    }
+  },
+  {
+    "node_index": 473,
+    "tag": "li",
+    "text": "Eesti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-et mw-list-item"
+    }
+  },
+  {
+    "node_index": 476,
+    "tag": "li",
+    "text": "Euskara",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-eu mw-list-item"
+    }
+  },
+  {
+    "node_index": 479,
+    "tag": "li",
+    "text": "Estremeñu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ext mw-list-item"
+    }
+  },
+  {
+    "node_index": 482,
+    "tag": "li",
+    "text": "فارسی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fa mw-list-item"
+    }
+  },
+  {
+    "node_index": 485,
+    "tag": "li",
+    "text": "Suomi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fi mw-list-item"
+    }
+  },
+  {
+    "node_index": 488,
+    "tag": "li",
+    "text": "Võro",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fiu-vro mw-list-item"
+    }
+  },
+  {
+    "node_index": 491,
+    "tag": "li",
+    "text": "Føroyskt",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fo mw-list-item"
+    }
+  },
+  {
+    "node_index": 494,
+    "tag": "li",
+    "text": "Français",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fr mw-list-item"
+    }
+  },
+  {
+    "node_index": 497,
+    "tag": "li",
+    "text": "Nordfriisk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-frr mw-list-item"
+    }
+  },
+  {
+    "node_index": 500,
+    "tag": "li",
+    "text": "Furlan",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fur mw-list-item"
+    }
+  },
+  {
+    "node_index": 503,
+    "tag": "li",
+    "text": "Gaeilge",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ga mw-list-item"
+    }
+  },
+  {
+    "node_index": 506,
+    "tag": "li",
+    "text": "贛語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gan mw-list-item"
+    }
+  },
+  {
+    "node_index": 509,
+    "tag": "li",
+    "text": "Kriyòl gwiyannen",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gcr mw-list-item"
+    }
+  },
+  {
+    "node_index": 512,
+    "tag": "li",
+    "text": "Gàidhlig",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gd mw-list-item"
+    }
+  },
+  {
+    "node_index": 515,
+    "tag": "li",
+    "text": "Galego",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gl mw-list-item"
+    }
+  },
+  {
+    "node_index": 518,
+    "tag": "li",
+    "text": "گیلکی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-glk mw-list-item"
+    }
+  },
+  {
+    "node_index": 521,
+    "tag": "li",
+    "text": "Avañe'ẽ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gn mw-list-item"
+    }
+  },
+  {
+    "node_index": 524,
+    "tag": "li",
+    "text": "𐌲𐌿𐍄𐌹𐍃𐌺",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-got mw-list-item"
+    }
+  },
+  {
+    "node_index": 527,
+    "tag": "li",
+    "text": "ગુજરાતી",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-gu mw-list-item"
+    }
+  },
+  {
+    "node_index": 530,
+    "tag": "li",
+    "text": "客家語 / Hak-kâ-ngî",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hak mw-list-item"
+    }
+  },
+  {
+    "node_index": 533,
+    "tag": "li",
+    "text": "עברית",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-he mw-list-item"
+    }
+  },
+  {
+    "node_index": 536,
+    "tag": "li",
+    "text": "हिन्दी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hi mw-list-item"
+    }
+  },
+  {
+    "node_index": 539,
+    "tag": "li",
+    "text": "Fiji Hindi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hif mw-list-item"
+    }
+  },
+  {
+    "node_index": 542,
+    "tag": "li",
+    "text": "Hrvatski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hr mw-list-item"
+    }
+  },
+  {
+    "node_index": 545,
+    "tag": "li",
+    "text": "Magyar",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hu mw-list-item"
+    }
+  },
+  {
+    "node_index": 548,
+    "tag": "li",
+    "text": "Հայերեն",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hy mw-list-item"
+    }
+  },
+  {
+    "node_index": 551,
+    "tag": "li",
+    "text": "Արեւմտահայերէն",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-hyw mw-list-item"
+    }
+  },
+  {
+    "node_index": 554,
+    "tag": "li",
+    "text": "Interlingua",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ia mw-list-item"
+    }
+  },
+  {
+    "node_index": 557,
+    "tag": "li",
+    "text": "Jaku Iban",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-iba mw-list-item"
+    }
+  },
+  {
+    "node_index": 560,
+    "tag": "li",
+    "text": "Bahasa Indonesia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-id mw-list-item"
+    }
+  },
+  {
+    "node_index": 563,
+    "tag": "li",
+    "text": "Interlingue",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ie mw-list-item"
+    }
+  },
+  {
+    "node_index": 566,
+    "tag": "li",
+    "text": "Iñupiatun",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ik mw-list-item"
+    }
+  },
+  {
+    "node_index": 569,
+    "tag": "li",
+    "text": "Ilokano",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ilo mw-list-item"
+    }
+  },
+  {
+    "node_index": 572,
+    "tag": "li",
+    "text": "Ido",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-io mw-list-item"
+    }
+  },
+  {
+    "node_index": 575,
+    "tag": "li",
+    "text": "Íslenska",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-is mw-list-item"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "li",
+    "text": "Medžuslovjansky",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-isv mw-list-item"
+    }
+  },
+  {
+    "node_index": 581,
+    "tag": "li",
+    "text": "Italiano",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-it mw-list-item"
+    }
+  },
+  {
+    "node_index": 584,
+    "tag": "li",
+    "text": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-iu mw-list-item"
+    }
+  },
+  {
+    "node_index": 587,
+    "tag": "li",
+    "text": "日本語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ja mw-list-item"
+    }
+  },
+  {
+    "node_index": 590,
+    "tag": "li",
+    "text": "Patois",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-jam mw-list-item"
+    }
+  },
+  {
+    "node_index": 593,
+    "tag": "li",
+    "text": "La .lojban.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-jbo mw-list-item"
+    }
+  },
+  {
+    "node_index": 596,
+    "tag": "li",
+    "text": "Jawa",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-jv mw-list-item"
+    }
+  },
+  {
+    "node_index": 599,
+    "tag": "li",
+    "text": "ქართული",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ka mw-list-item"
+    }
+  },
+  {
+    "node_index": 602,
+    "tag": "li",
+    "text": "Qaraqalpaqsha",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kaa mw-list-item"
+    }
+  },
+  {
+    "node_index": 605,
+    "tag": "li",
+    "text": "Kabɩyɛ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kbp mw-list-item"
+    }
+  },
+  {
+    "node_index": 608,
+    "tag": "li",
+    "text": "Kumoring",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kge mw-list-item"
+    }
+  },
+  {
+    "node_index": 611,
+    "tag": "li",
+    "text": "Қазақша",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kk mw-list-item"
+    }
+  },
+  {
+    "node_index": 614,
+    "tag": "li",
+    "text": "ភាសាខ្មែរ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-km mw-list-item"
+    }
+  },
+  {
+    "node_index": 617,
+    "tag": "li",
+    "text": "ಕನ್ನಡ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kn mw-list-item"
+    }
+  },
+  {
+    "node_index": 620,
+    "tag": "li",
+    "text": "한국어",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ko mw-list-item"
+    }
+  },
+  {
+    "node_index": 623,
+    "tag": "li",
+    "text": "Къарачай-малкъар",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-krc mw-list-item"
+    }
+  },
+  {
+    "node_index": 626,
+    "tag": "li",
+    "text": "کٲشُر",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ks mw-list-item"
+    }
+  },
+  {
+    "node_index": 629,
+    "tag": "li",
+    "text": "Ripoarisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ksh mw-list-item"
+    }
+  },
+  {
+    "node_index": 632,
+    "tag": "li",
+    "text": "Kurdî",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ku mw-list-item"
+    }
+  },
+  {
+    "node_index": 635,
+    "tag": "li",
+    "text": "Kernowek",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-kw mw-list-item"
+    }
+  },
+  {
+    "node_index": 638,
+    "tag": "li",
+    "text": "Кыргызча",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ky mw-list-item"
+    }
+  },
+  {
+    "node_index": 641,
+    "tag": "li",
+    "text": "Latina",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-la mw-list-item"
+    }
+  },
+  {
+    "node_index": 644,
+    "tag": "li",
+    "text": "Ladino",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lad mw-list-item"
+    }
+  },
+  {
+    "node_index": 647,
+    "tag": "li",
+    "text": "Lëtzebuergesch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lb mw-list-item"
+    }
+  },
+  {
+    "node_index": 650,
+    "tag": "li",
+    "text": "Лакку",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lbe mw-list-item"
+    }
+  },
+  {
+    "node_index": 653,
+    "tag": "li",
+    "text": "Лезги",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lez mw-list-item"
+    }
+  },
+  {
+    "node_index": 656,
+    "tag": "li",
+    "text": "Lingua Franca Nova",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lfn mw-list-item"
+    }
+  },
+  {
+    "node_index": 659,
+    "tag": "li",
+    "text": "Limburgs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-li mw-list-item"
+    }
+  },
+  {
+    "node_index": 662,
+    "tag": "li",
+    "text": "Ligure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lij mw-list-item"
+    }
+  },
+  {
+    "node_index": 665,
+    "tag": "li",
+    "text": "Lombard",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lmo mw-list-item"
+    }
+  },
+  {
+    "node_index": 668,
+    "tag": "li",
+    "text": "ລາວ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lo mw-list-item"
+    }
+  },
+  {
+    "node_index": 671,
+    "tag": "li",
+    "text": "Lietuvių",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lt badge-Q17437798 badge-goodarticle mw-list-item",
+      "title": "مقالة جيدة"
+    }
+  },
+  {
+    "node_index": 674,
+    "tag": "li",
+    "text": "Latviešu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-lv mw-list-item"
+    }
+  },
+  {
+    "node_index": 677,
+    "tag": "li",
+    "text": "Madhurâ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mad mw-list-item"
+    }
+  },
+  {
+    "node_index": 680,
+    "tag": "li",
+    "text": "मगही",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mag mw-list-item"
+    }
+  },
+  {
+    "node_index": 683,
+    "tag": "li",
+    "text": "मैथिली",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mai mw-list-item"
+    }
+  },
+  {
+    "node_index": 686,
+    "tag": "li",
+    "text": "Malagasy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mg mw-list-item"
+    }
+  },
+  {
+    "node_index": 689,
+    "tag": "li",
+    "text": "Олык марий",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mhr mw-list-item"
+    }
+  },
+  {
+    "node_index": 692,
+    "tag": "li",
+    "text": "Minangkabau",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-min mw-list-item"
+    }
+  },
+  {
+    "node_index": 695,
+    "tag": "li",
+    "text": "Македонски",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mk badge-Q17437796 badge-featuredarticle mw-list-item",
+      "title": "مقالة مختارة"
+    }
+  },
+  {
+    "node_index": 698,
+    "tag": "li",
+    "text": "മലയാളം",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ml mw-list-item"
+    }
+  },
+  {
+    "node_index": 701,
+    "tag": "li",
+    "text": "Монгол",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mn mw-list-item"
+    }
+  },
+  {
+    "node_index": 704,
+    "tag": "li",
+    "text": "ꯃꯤꯇꯩ ꯂꯣꯟ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mni mw-list-item"
+    }
+  },
+  {
+    "node_index": 707,
+    "tag": "li",
+    "text": "मराठी",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mr mw-list-item"
+    }
+  },
+  {
+    "node_index": 710,
+    "tag": "li",
+    "text": "Bahasa Melayu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ms mw-list-item"
+    }
+  },
+  {
+    "node_index": 713,
+    "tag": "li",
+    "text": "Mirandés",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mwl mw-list-item"
+    }
+  },
+  {
+    "node_index": 716,
+    "tag": "li",
+    "text": "မြန်မာဘာသာ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-my mw-list-item"
+    }
+  },
+  {
+    "node_index": 719,
+    "tag": "li",
+    "text": "مازِرونی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-mzn mw-list-item"
+    }
+  },
+  {
+    "node_index": 722,
+    "tag": "li",
+    "text": "Nedersaksies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nds-nl mw-list-item"
+    }
+  },
+  {
+    "node_index": 725,
+    "tag": "li",
+    "text": "Plattdüütsch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nds mw-list-item"
+    }
+  },
+  {
+    "node_index": 728,
+    "tag": "li",
+    "text": "नेपाली",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ne mw-list-item"
+    }
+  },
+  {
+    "node_index": 731,
+    "tag": "li",
+    "text": "Li Niha",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nia mw-list-item"
+    }
+  },
+  {
+    "node_index": 734,
+    "tag": "li",
+    "text": "Nederlands",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nl mw-list-item"
+    }
+  },
+  {
+    "node_index": 737,
+    "tag": "li",
+    "text": "Norsk nynorsk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nn mw-list-item"
+    }
+  },
+  {
+    "node_index": 740,
+    "tag": "li",
+    "text": "Norsk bokmål",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-no mw-list-item"
+    }
+  },
+  {
+    "node_index": 743,
+    "tag": "li",
+    "text": "Nouormand",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nrm mw-list-item"
+    }
+  },
+  {
+    "node_index": 746,
+    "tag": "li",
+    "text": "Diné bizaad",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nv mw-list-item"
+    }
+  },
+  {
+    "node_index": 749,
+    "tag": "li",
+    "text": "Occitan",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-oc mw-list-item"
+    }
+  },
+  {
+    "node_index": 752,
+    "tag": "li",
+    "text": "Livvinkarjala",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-olo mw-list-item"
+    }
+  },
+  {
+    "node_index": 755,
+    "tag": "li",
+    "text": "ଓଡ଼ିଆ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-or mw-list-item"
+    }
+  },
+  {
+    "node_index": 758,
+    "tag": "li",
+    "text": "Ирон",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-os mw-list-item"
+    }
+  },
+  {
+    "node_index": 761,
+    "tag": "li",
+    "text": "ਪੰਜਾਬੀ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pa mw-list-item"
+    }
+  },
+  {
+    "node_index": 764,
+    "tag": "li",
+    "text": "Pälzisch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pfl mw-list-item"
+    }
+  },
+  {
+    "node_index": 767,
+    "tag": "li",
+    "text": "Polski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pl mw-list-item"
+    }
+  },
+  {
+    "node_index": 770,
+    "tag": "li",
+    "text": "Piemontèis",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pms mw-list-item"
+    }
+  },
+  {
+    "node_index": 773,
+    "tag": "li",
+    "text": "پنجابی",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pnb mw-list-item"
+    }
+  },
+  {
+    "node_index": 776,
+    "tag": "li",
+    "text": "پښتو",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ps mw-list-item"
+    }
+  },
+  {
+    "node_index": 779,
+    "tag": "li",
+    "text": "Português",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-pt mw-list-item"
+    }
+  },
+  {
+    "node_index": 782,
+    "tag": "li",
+    "text": "Runa Simi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-qu mw-list-item"
+    }
+  },
+  {
+    "node_index": 785,
+    "tag": "li",
+    "text": "Română",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ro mw-list-item"
+    }
+  },
+  {
+    "node_index": 788,
+    "tag": "li",
+    "text": "Armãneashti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-roa-rup mw-list-item"
+    }
+  },
+  {
+    "node_index": 791,
+    "tag": "li",
+    "text": "Русский",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ru mw-list-item"
+    }
+  },
+  {
+    "node_index": 794,
+    "tag": "li",
+    "text": "Русиньскый",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-rue mw-list-item"
+    }
+  },
+  {
+    "node_index": 797,
+    "tag": "li",
+    "text": "Ikinyarwanda",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-rw mw-list-item"
+    }
+  },
+  {
+    "node_index": 800,
+    "tag": "li",
+    "text": "संस्कृतम्",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sa mw-list-item"
+    }
+  },
+  {
+    "node_index": 803,
+    "tag": "li",
+    "text": "Саха тыла",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sah mw-list-item"
+    }
+  },
+  {
+    "node_index": 806,
+    "tag": "li",
+    "text": "ᱥᱟᱱᱛᱟᱲᱤ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sat mw-list-item"
+    }
+  },
+  {
+    "node_index": 809,
+    "tag": "li",
+    "text": "Sicilianu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-scn mw-list-item"
+    }
+  },
+  {
+    "node_index": 812,
+    "tag": "li",
+    "text": "Scots",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sco mw-list-item"
+    }
+  },
+  {
+    "node_index": 815,
+    "tag": "li",
+    "text": "سنڌي",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sd mw-list-item"
+    }
+  },
+  {
+    "node_index": 818,
+    "tag": "li",
+    "text": "Srpskohrvatski / српскохрватски",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sh mw-list-item"
+    }
+  },
+  {
+    "node_index": 821,
+    "tag": "li",
+    "text": "Taclḥit",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-shi mw-list-item"
+    }
+  },
+  {
+    "node_index": 824,
+    "tag": "li",
+    "text": "တႆး",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-shn mw-list-item"
+    }
+  },
+  {
+    "node_index": 827,
+    "tag": "li",
+    "text": "සිංහල",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-si mw-list-item"
+    }
+  },
+  {
+    "node_index": 830,
+    "tag": "li",
+    "text": "Simple English",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-simple mw-list-item"
+    }
+  },
+  {
+    "node_index": 833,
+    "tag": "li",
+    "text": "Slovenčina",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sk mw-list-item"
+    }
+  },
+  {
+    "node_index": 836,
+    "tag": "li",
+    "text": "Slovenščina",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sl mw-list-item"
+    }
+  },
+  {
+    "node_index": 839,
+    "tag": "li",
+    "text": "ChiShona",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sn mw-list-item"
+    }
+  },
+  {
+    "node_index": 842,
+    "tag": "li",
+    "text": "Soomaaliga",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-so mw-list-item"
+    }
+  },
+  {
+    "node_index": 845,
+    "tag": "li",
+    "text": "Shqip",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sq mw-list-item"
+    }
+  },
+  {
+    "node_index": 848,
+    "tag": "li",
+    "text": "Српски / srpski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sr mw-list-item"
+    }
+  },
+  {
+    "node_index": 851,
+    "tag": "li",
+    "text": "Sranantongo",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-srn mw-list-item"
+    }
+  },
+  {
+    "node_index": 854,
+    "tag": "li",
+    "text": "Sunda",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-su mw-list-item"
+    }
+  },
+  {
+    "node_index": 857,
+    "tag": "li",
+    "text": "Svenska",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sv mw-list-item"
+    }
+  },
+  {
+    "node_index": 860,
+    "tag": "li",
+    "text": "Kiswahili",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-sw mw-list-item"
+    }
+  },
+  {
+    "node_index": 863,
+    "tag": "li",
+    "text": "ꠍꠤꠟꠐꠤ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-syl mw-list-item"
+    }
+  },
+  {
+    "node_index": 866,
+    "tag": "li",
+    "text": "Ślůnski",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-szl mw-list-item"
+    }
+  },
+  {
+    "node_index": 869,
+    "tag": "li",
+    "text": "Sakizaya",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-szy mw-list-item"
+    }
+  },
+  {
+    "node_index": 872,
+    "tag": "li",
+    "text": "தமிழ்",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ta mw-list-item"
+    }
+  },
+  {
+    "node_index": 875,
+    "tag": "li",
+    "text": "తెలుగు",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-te mw-list-item"
+    }
+  },
+  {
+    "node_index": 878,
+    "tag": "li",
+    "text": "Тоҷикӣ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tg mw-list-item"
+    }
+  },
+  {
+    "node_index": 881,
+    "tag": "li",
+    "text": "ไทย",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-th mw-list-item"
+    }
+  },
+  {
+    "node_index": 884,
+    "tag": "li",
+    "text": "Türkmençe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tk mw-list-item"
+    }
+  },
+  {
+    "node_index": 887,
+    "tag": "li",
+    "text": "Tagalog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tl mw-list-item"
+    }
+  },
+  {
+    "node_index": 890,
+    "tag": "li",
+    "text": "Tolışi",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tly mw-list-item"
+    }
+  },
+  {
+    "node_index": 893,
+    "tag": "li",
+    "text": "Toki pona",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tok mw-list-item"
+    }
+  },
+  {
+    "node_index": 896,
+    "tag": "li",
+    "text": "Tok Pisin",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tpi mw-list-item"
+    }
+  },
+  {
+    "node_index": 899,
+    "tag": "li",
+    "text": "Türkçe",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tr mw-list-item"
+    }
+  },
+  {
+    "node_index": 902,
+    "tag": "li",
+    "text": "Татарча / tatarça",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tt mw-list-item"
+    }
+  },
+  {
+    "node_index": 905,
+    "tag": "li",
+    "text": "Тыва дыл",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-tyv mw-list-item"
+    }
+  },
+  {
+    "node_index": 908,
+    "tag": "li",
+    "text": "ئۇيغۇرچە / Uyghurche",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ug mw-list-item"
+    }
+  },
+  {
+    "node_index": 911,
+    "tag": "li",
+    "text": "Українська",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-uk badge-Q17437798 badge-goodarticle mw-list-item",
+      "title": "مقالة جيدة"
+    }
+  },
+  {
+    "node_index": 914,
+    "tag": "li",
+    "text": "اردو",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ur mw-list-item"
+    }
+  },
+  {
+    "node_index": 917,
+    "tag": "li",
+    "text": "Oʻzbekcha / ўзбекча",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-uz mw-list-item"
+    }
+  },
+  {
+    "node_index": 920,
+    "tag": "li",
+    "text": "Vèneto",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vec mw-list-item"
+    }
+  },
+  {
+    "node_index": 923,
+    "tag": "li",
+    "text": "Vepsän kel’",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vep mw-list-item"
+    }
+  },
+  {
+    "node_index": 926,
+    "tag": "li",
+    "text": "Tiếng Việt",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vi mw-list-item"
+    }
+  },
+  {
+    "node_index": 929,
+    "tag": "li",
+    "text": "Walon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-wa mw-list-item"
+    }
+  },
+  {
+    "node_index": 932,
+    "tag": "li",
+    "text": "Winaray",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-war mw-list-item"
+    }
+  },
+  {
+    "node_index": 935,
+    "tag": "li",
+    "text": "吴语",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-wuu mw-list-item"
+    }
+  },
+  {
+    "node_index": 938,
+    "tag": "li",
+    "text": "მარგალური",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-xmf mw-list-item"
+    }
+  },
+  {
+    "node_index": 941,
+    "tag": "li",
+    "text": "ייִדיש",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-yi mw-list-item"
+    }
+  },
+  {
+    "node_index": 944,
+    "tag": "li",
+    "text": "Vahcuengh",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-za mw-list-item"
+    }
+  },
+  {
+    "node_index": 947,
+    "tag": "li",
+    "text": "Zeêuws",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zea mw-list-item"
+    }
+  },
+  {
+    "node_index": 950,
+    "tag": "li",
+    "text": "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zgh mw-list-item"
+    }
+  },
+  {
+    "node_index": 953,
+    "tag": "li",
+    "text": "文言",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh-classical mw-list-item"
+    }
+  },
+  {
+    "node_index": 956,
+    "tag": "li",
+    "text": "閩南語 / Bân-lâm-gí",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh-min-nan mw-list-item"
+    }
+  },
+  {
+    "node_index": 959,
+    "tag": "li",
+    "text": "粵語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh-yue mw-list-item"
+    }
+  },
+  {
+    "node_index": 962,
+    "tag": "li",
+    "text": "中文",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zh mw-list-item"
+    }
+  },
+  {
+    "node_index": 965,
+    "tag": "li",
+    "text": "IsiZulu",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-zu mw-list-item"
+    }
+  },
+  {
+    "node_index": 978,
+    "tag": "li",
+    "text": "مقالة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-nstab-main",
+      "class": "selected mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 981,
+    "tag": "li",
+    "text": "نقاش",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-talk",
+      "class": "mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 997,
+    "tag": "li",
+    "text": "اقرأ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view",
+      "class": "selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1000,
+    "tag": "li",
+    "text": "عدّل",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1003,
+    "tag": "li",
+    "text": "تاريخ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 1023,
+    "tag": "li",
+    "text": "اقرأ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view-more",
+      "class": "selected mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1027,
+    "tag": "li",
+    "text": "عدّل",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1031,
+    "tag": "li",
+    "text": "تاريخ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 1039,
+    "tag": "li",
+    "text": "ماذا يصل هنا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-whatlinkshere",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1042,
+    "tag": "li",
+    "text": "تغييرات ذات علاقة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-recentchangeslinked",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1045,
+    "tag": "li",
+    "text": "رفع ملف",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-upload",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1048,
+    "tag": "li",
+    "text": "وصلة دائمة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-permalink",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1051,
+    "tag": "li",
+    "text": "معلومات الصفحة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-info",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1054,
+    "tag": "li",
+    "text": "استشهد بهذه الصفحة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-cite",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1057,
+    "tag": "li",
+    "text": "احصل على مسار مختصر",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-urlshortener",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1060,
+    "tag": "li",
+    "text": "التبديل إلى المحلل القديم",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1067,
+    "tag": "li",
+    "text": "إنشاء كتاب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-create_a_book",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1070,
+    "tag": "li",
+    "text": "تحميل بصيغة PDF",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-download-as-rl",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1073,
+    "tag": "li",
+    "text": "نسخة للطباعة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-print",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 1080,
+    "tag": "li",
+    "text": "ويكيبيديا المجردة",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-abstract mw-list-item"
+    }
+  },
+  {
+    "node_index": 1083,
+    "tag": "li",
+    "text": "ويكيميديا كومنز",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-commons mw-list-item"
+    }
+  },
+  {
+    "node_index": 1086,
+    "tag": "li",
+    "text": "عنصر ويكي بيانات",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-wikibase",
+      "class": "wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"
+    }
+  },
+  {
+    "node_index": 1134,
+    "tag": "th",
+    "text": "شاي",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "col",
+      "colspan": "2",
+      "class": "entete map",
+      "style": "line-height:1.5em; background-color:#FFCC66;color:#000000"
+    }
+  },
+  {
+    "node_index": 1146,
+    "tag": "th",
+    "text": "اسم آخر",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_th",
+      "style": "text-align: right; background-color:#F3F3F3; ",
+      "scope": "row"
+    }
+  },
+  {
+    "node_index": 1147,
+    "tag": "td",
+    "text": "شَاهِيّ (في الخليج العربي)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_td",
+      "style": " "
+    }
+  },
+  {
+    "node_index": 1150,
+    "tag": "th",
+    "text": "ينتج من",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_th",
+      "style": "text-align: right; background-color:#F3F3F3; ",
+      "scope": "row"
+    }
+  },
+  {
+    "node_index": 1151,
+    "tag": "td",
+    "text": "كاميليا صينية",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_td",
+      "style": " "
+    }
+  },
+  {
+    "node_index": 1161,
+    "tag": "th",
+    "text": "النوع",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_th",
+      "style": "text-align: right; background-color:#F3F3F3; ",
+      "scope": "row"
+    }
+  },
+  {
+    "node_index": 1162,
+    "tag": "td",
+    "text": "نقع، ومشروب ساخن [لغات أخرى]‏، وطعام منشط [لغات أخرى]‏، وشاي [لغات أخرى]‏، وشراب غير كحولي [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_td",
+      "style": " "
+    }
+  },
+  {
+    "node_index": 1203,
+    "tag": "th",
+    "text": "المكونات الرئيسية",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_th",
+      "style": "text-align: right; background-color:#F3F3F3; ",
+      "scope": "row"
+    }
+  },
+  {
+    "node_index": 1204,
+    "tag": "td",
+    "text": "عفص، وماء، وكافيين",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sm_td",
+      "style": " "
+    }
+  },
+  {
+    "node_index": 1216,
+    "tag": "td",
+    "text": "تعديل مصدري - تعديل",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navigation-only",
+      "colspan": "2",
+      "style": "border-top: 2px #FFCC66 dotted; font-size: 80%; background:inherit; text-align: left;"
+    }
+  },
+  {
+    "node_index": 1229,
+    "tag": "figcaption",
+    "text": "نبتة الشاي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwCg"
+    }
+  },
+  {
+    "node_index": 1234,
+    "tag": "figcaption",
+    "text": "كأس الشاي الأحمر",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwDw"
+    }
+  },
+  {
+    "node_index": 1235,
+    "tag": "p",
+    "text": "الشَّاي في الصين أو الشَّاهِيّ في دول الخليج العربي هو اسم يطلق على شجرة أو شجيرة وعلى أوراقها وعلى المشروب الذي يصنع من الأوراق، ونباته دائم الخضرة. ينسب إلى نبتة الكاميليا الصينية، وموطنه الأصلي شرقي آسيا. والتي ربما نشأت في المناطق الحدودية في جنوب غرب الصين وشمال ميانمار.[1][2]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwEA"
+    }
+  },
+  {
+    "node_index": 1254,
+    "tag": "p",
+    "text": "ينمو الشاي في موطنه إلى ارتفاع 9 أمتار، ولكنه في المزارع يقلم شجيرات صغيرة طولها 90- 150 سم. أوراقه رمحيه الشكل خضراء داكنة، والأزهار عطرة بيضاء مصفرّة. ذُكر الشاي في المصنفات الصينية في القرن الثالث بديلاً للأنبذة القوية، وزرع في القرن الثامن على نطاق تجاري. استوردته شركة الهند الشرقية الهولندية إلى أوروبا، ح 1600 واستعمل في إنجلترا (ح 1660). احتكرت شركة الهند الشرقية البريطانية توريده لبريطانيا حتى 1834. وصل إلى المستعمرات الأمريكية 1680 وكان المشروب المفضل حتى استبدلت به القهوة. والشاي يُعتبر أكثر المشروبات استهلاكاً بعد الماء على مستوى العالم[3]، وأهم الدول المنتجة للشاي: الهند، الصين، سيلان، إندونيسيا، اليابان، فرموزا.[4] وأهم الدول المستوردة بريطانيا، والولايات المتحدة الأمريكية. أستراليا، روسيا، كندا، هولندا.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwIQ"
+    }
+  },
+  {
+    "node_index": 1287,
+    "tag": "p",
+    "text": "تحتاج زراعته إلى تربة خصبة خفيفة، وطقس حار، وهواء رطب، ومطر غزير الشجيرات الصغيرة المستنبتة من البذور تصلح للجني بعد حوالي ثلاث سنوات، وقد تظل هذه الشجيرات تنتج لمدة 50 عاماً. وتقطف الأوراق باليد وهي يانعة وأفضلها الأوراق الرقيقة القريبة من القمة. تترك الأوراق حتى تذبل، ثم تبرم وتسخن، وفي الشاي الأخضر تسخن الأوراق فور قطعها، وفي الشاي الأسود (الأحمر) تخمر الأوراق أولاً حوالي 24 ساعة، اما في شاي التنين الأسود (الأحمر) وهو نوع من الشاي يشربه أهل الصين، تخمر الأوراق جزئياً وهو وسط في النكهة واللون. يصنف الشاي حسب حجم الورقة ابتداء من أصغرها. ونكهة الشاي سببها زيت طيار، وخاصيته المنبهة سببها الكافيين[5]، وخاصيته القابضة سببها التانين الذي يتناقص في الشاي الأسود (الأحمر) من جراء التخمير. وأحياناً يضاف زهر الياسمين أو غيره من النباتات العطرة إلى بعض أنواع الشاي لتطييبه.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwQA"
+    }
+  },
+  {
+    "node_index": 1295,
+    "tag": "p",
+    "text": "يعود تاريخ تناول الشاي بوصفه مشروبًا، على ما يبدو، إلى القرن الثالث الميلادي، وذلك وفقًا للنص الطبي الذي كتبه الطبيب والجراح الصيني هوا تو.[6] وانتشر الشاي بوصفه مشروبًا ترفيهيًا خلال عهد أسرة تانغ الصينية، وانتقلت ثقافة شرب الشاي في وقت لاحق إلى دول شرق آسيا الأخرى، وقد جلبه الكهنة والتجار البرتغاليين إلى أوروبا خلال القرن السادس عشر.[7] وخلال القرن السابع عشر أصبح شرب الشاي رائجًا عند الإنجليز، والذين شرعوا في زراعته على نطاق واسع في الراج البريطاني (الهند البريطانية).",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwRw"
+    }
+  },
+  {
+    "node_index": 1311,
+    "tag": "h2",
+    "text": "الأصل والتاريخ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "الأصل_والتاريخ"
+    }
+  },
+  {
+    "node_index": 1324,
+    "tag": "figcaption",
+    "text": "نبتة كاميليا سينينسِس التي يصنع منها الشاي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwVw"
+    }
+  },
+  {
+    "node_index": 1325,
+    "tag": "p",
+    "text": "يُعرَّف الشاي بأنه مشروب يُحضَّر من أوراق نبات ويُعد من أكثر المشروبات انتشارًا عالميًا، مع اختلاف طرق استهلاكه وتحضيره بين الثقافات والمناطق وتشير الأدلة الجينية والأثرية إلى أن الأصل المرجح لنبات الشاي يعود إلى مناطق جنوب غرب الصين، خصوصًا مقاطعات يونان وقويتشو وسيتشوان، حيث يُسجَّل تنوع وراثي مرتفع للنبات ووجود أنواع برية مرتبطة به.[8]وتشير الدراسات الوراثية إلى أن عملية تدجين الشاي لم تكن حدثًا واحدًا، بل عملية تدريجية طويلة ومعقدة، جرت عبر مناطق متعددة داخل الصين وعلى مراحل زمنية ممتدة، مما أدى إلى تنوع سلالاته المزروعة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwWA"
+    }
+  },
+  {
+    "node_index": 1333,
+    "tag": "p",
+    "text": "وتختلف المصادر حول بدايات استخدام الشاي، إذ تشير بعض الدراسات إلى أنه استُخدم في مراحله الأولى لأغراض طبية أو ضمن خلطات نباتية، قبل أن يتحول تدريجيًا إلى مشروب مستقل.[9]وخلال فترة أسرة تانغ (618–907 م)، توسع استهلاك الشاي داخل الصين بشكل واضح، وأصبح جزءًا من الحياة اليومية والثقافة الاجتماعية، مع تطور طرق تحضيره وتداوله.ومع توسع شبكات التجارة الإقليمية والدولية في الفترات اللاحقة، انتقل الشاي تدريجيًا إلى مناطق أخرى في آسيا، ثم إلى أوروبا، حيث أصبح سلعة تجارية ذات أهمية اقتصادية، مع اختلاف أنماط استهلاكه بحسب السياقات الثقافية المختلفة.[10]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwXw"
+    }
+  },
+  {
+    "node_index": 1347,
+    "tag": "h3",
+    "text": "الأصل النباتي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "الأصل_النباتي"
+    }
+  },
+  {
+    "node_index": 1357,
+    "tag": "p",
+    "text": "تنمو نباتات الشاي في شرق آسيا، ومن المحتمل أن يكون مركز نشأة الشاي بالقرب من منبع نهرايراوادي بميانمار، حيث انتشر على شكل مروحة إلى جنوب شرق الصين، والهند الصينية وآسام. وعليه فإن الموطن الطبيعي لنبات الشاي يعد ضمن المنطقة الصغيرة نسبيًا على شكل مروحة بين ناجالاند ومانيبور وميزورام على طول حدود بورما في الغرب، عبر الصين حتى مقاطعة تشجيانغ في الشرق، ومن هذا الخط جنوبًا عبر التلال إلى بورما وتايلاند إلى فيتنام. يبلغ طول المحور الغربي الشرقي المشار إليه بأعلى حوالي 2400كم، ويمتد من خط الطول 95 درجة إلى 120درجة شرقًا، أما المحور الشمالي الجنوبي فيغطي حوالي 1920كم بداية من الجزء الشمالي من بورما، خط عرض 29 درجة شمالًا، مرورًا بيونان وتونغكين وتايلاند ولاوس حتى أنان، ليصل إلى خط عرض 11 درجة شمالاً.[11]يمثل هذا النطاق الجغرافي منطقة انتقال بيئي بين شرق آسيا وجنوب شرق آسيا، حيث تتداخل البيئات الجبلية الرطبة مع البيئات شبه المدارية، وهو ما يفسر ارتفاع التنوع النباتي فيه.[12]ويُعد الإقليم جزءًا من “مراكز التنوع النباتي” في آسيا، حيث تتمركز أنواع نباتية قريبة وراثيًا ضمن نطاقات جغرافية محدودة لكنها عالية التباين الوراثي.وترتبط مناطق انتشار الشاي البري بظروف مناخية تشمل الأمطار الموسمية المرتفعة ودرجات الحرارة المعتدلة، إضافة إلى التربة الحمضية الغنية بالمواد العضوية.وتُظهر التحليلات الجينية أ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwag"
+    }
+  },
+  {
+    "node_index": 1392,
+    "tag": "h3",
+    "text": "شرب الشاي مبكرًا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "شرب_الشاي_مبكرًا"
+    }
+  },
+  {
+    "node_index": 1402,
+    "tag": "p",
+    "text": "استخدم الناس في شرق آسيا القديمة الشاي لقرون عديدة، وربما لآلاف السنين، فقبل أن يستهلكوا الشاي بوصفه مشروبًا، كانوا يتناولون أوراقه نيئة ، ويضيفونها إلى الحساء والخضار، أو يخمرونها ويمضغونها كما تمضغ جوز الأريكا.[13] وربما بدأ شرب الشاي في منطقة يونان، حيث كان يستخدم لأغراض طبية، يعتقد أنه بدأ في سيشوان، وقد بدأ الناس في غلي أوراق الشاي للاستهلاك في سائل مركز دون أية إضافات، وبالتالي استخدم الشاي بوصفه مشروب مرير، منشط، وليس بوصفه خليطًا طبيًا.[1]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwiQ"
+    }
+  },
+  {
+    "node_index": 1416,
+    "tag": "h3",
+    "text": "في أوروبا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "في_أوروبا"
+    }
+  },
+  {
+    "node_index": 1426,
+    "tag": "p",
+    "text": "أول من أدخل الشاي إلى أوروبا هم الهولنديون، حيث رأوا استعمال الصينيين له، ثم انتشر شيئًا فشيئًا، فبدأ بهولندا، وإنجلترا، وشمال أوروبا، ثم فرنسا، ثم باقي القارة.[14]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwlA"
+    }
+  },
+  {
+    "node_index": 1440,
+    "tag": "h2",
+    "text": "التركيب الكيميائي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "التركيب_الكيميائي"
+    }
+  },
+  {
+    "node_index": 1450,
+    "tag": "p",
+    "text": "يتمتع الشاي، فيزيائيًا، بخصائص المحلول والمعلق، فهو عبارة عن محلول من المركبات القابلة للذوبان في الماء، والمستخرجة من أوراق الشاي مثل البوليفينول والأحماض الأمينية، ويعد مشروب الشاي من بين المشروبات الأكثر استهلاكًا على مستوى العالم.[15] ويشكل الكافيين حوالي 3% من وزن الشاي، وهو ما يعادل ما بين 30 إلى 90 مليجرام لكل 250 مليلتر، ويختلف ذلك باختلاف نوع الشاي، وعلامته التجارية[7]، وطريقة تخميره.[16] وقد وجدت إحدى الدراسات أن مستوى الكافيين في جرام واحد من الشاي الأسود يتراوح ما بين 22 إلى 28 مليجرام، بينمت يتراوح محتوى الكافيين في جرام واحد من الشاي الأخضرمن 11 إلى 20 مليجرام، مما يعكس فرقًا كبيرًا بين نوعي الشاي في محتوى الكافيين.[17] بالإضافة إلى الكافيين يحتوي الشاي على كميات قليلة من الثيوبرومين، والثيوفيلين، وهما زانثينات ومنبهات تشبه الكافيين.[18]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwoA"
+    }
+  },
+  {
+    "node_index": 1482,
+    "tag": "p",
+    "text": "يمكن أن تُعزى قابضية الشاي إلى وجود البوليفينول. وهذه المركبات هي الأكثر وفرة في أوراق الشاي، وتشكل من 30 إلى 40% من تركيبها.[19] وتشمل البوليفينولات الموجودة في الشاي الفلافونويدات وأبيجالوكاتشن جالات وغيرها[20][21]، وعلى الرغم من وجود أبحاث سريرية أولية حول ما إذا كان الشاي الأخضر أو الأسود قد يحمي من أمراض بشرية مختلفة، فليس ثمة دليل على أن بوليفينولات الشاي لها أي تأثير على الصحة أو خفض خطر الإصابة بالأمراض.[22][23]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwuw"
+    }
+  },
+  {
+    "node_index": 1512,
+    "tag": "h2",
+    "text": "التأثيرات الصحية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "التأثيرات_الصحية"
+    }
+  },
+  {
+    "node_index": 1522,
+    "tag": "p",
+    "text": "على الرغم من افتراض الفوائد الصحية طوال تاريخ استهلاك الشاي، إلا أنه لا يوجد دليل قوي يظهر أن تناول الشاي يعطي فوائد كبيرة، بخلاف زيادة اليقظة المحتملة، وهي التأثير الناتج عن الكافيين الموجود في أوراق الشاي[22][24]، وفي الأبحاث السريرية التي أُجريت في القرن الواحد والعشرين، تم الوصول إلى أنه لا يوجد دليل علمي يشير إلى أن استهلاك الشاي يؤثر على أي مرض أو يحسن الصحة.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw0w"
+    }
+  },
+  {
+    "node_index": 1534,
+    "tag": "p",
+    "text": "الشاي الأسود أو الأخضر لا يحتوي على أية مغذيات أساسية بكميات كبيرة، باستثناء معدن المنجنيز الغذائي، بنسبة 0.5 مجم لكل كوب. يوجد الفلورايد أحيانًا في الشاي، حيث تحتوي أنواع الشاي المصنوع من الأوراق والسيقان القديمة على أعلى مستويات تواجد الفلورايد[25]، وهو ما يكفي لوجود مخاطر صحية إذا ما تم شرب هذا النوع من الشاي بكميات كبيرة، وربما يعود ذلك إلى ارتفاع مستوى الفلورايد في التربة، والتربة الحمضية، والتخمير الطويل.[26]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw3Q"
+    }
+  },
+  {
+    "node_index": 1549,
+    "tag": "h2",
+    "text": "التعبئة والتغليف",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "التعبئة_والتغليف"
+    }
+  },
+  {
+    "node_index": 1561,
+    "tag": "h3",
+    "text": "أكياس الشاي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "أكياس_الشاي"
+    }
+  },
+  {
+    "node_index": 1571,
+    "tag": "p",
+    "text": "بدأ تاجر الشاي الأمريكي توماس سوليفان توزيع عينات من الشاي الخاص به في أكياس صغيرة من الحرير مزوّدة بخيط شدّ في عام 1907. لاحظ المستهلكون أنهم يستطيعون ببساطة ترك الشاي داخل الكيس وإعادة استخدامه مع شاي طازج، ولكن لم تتحقق الإمكانات الكاملة لهذه الطريقة في التوزيع والتعبئة إلا لاحقًا. كان الشاي يُوزَّع بنظام التقنين في المملكة المتحدة خلال الحرب العالمية الثانية، ولكن شركة تيتلي المصنعة للشاي في يوركشاير أطلقت كيس الشاي في المملكة المتحدة في عام 1953، بعد انتهاء نظام التقنين في بريطانيا، وحقق ذلك نجاحًا فوريًا.[27]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw6g"
+    }
+  },
+  {
+    "node_index": 1578,
+    "tag": "p",
+    "text": "قُدِّمَ «كيس الشاي الهرمي» (أو الكيس الشبكي) من قِبل ليبتون وبي جي تيبس/سكوتش بليند في عام 1996، في محاولة لمعالجة أحد اعتراضات خبراء الشاي على أكياس الشاي الورقية، وذلك من خلال شكله الثلاثي الأبعاد على هيئة رباعي وجوه، والذي يوفر مساحة أكبر لأوراق الشاي كي تتمدد أثناء النقع. تعرّضت بعض أنواع أكياس الشاي الهرمية للانتقاد باعتبارها غير صديقة للبيئة، إذ إن المواد الصناعية المصنوعة منها ليست قابلة للتحلل البيولوجي مثل أوراق الشاي السائبة أو أكياس الشاي الورقية.[28]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw8A"
+    }
+  },
+  {
+    "node_index": 1586,
+    "tag": "h3",
+    "text": "الشاي السائب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "الشاي_السائب"
+    }
+  },
+  {
+    "node_index": 1596,
+    "tag": "p",
+    "text": "تُعبَّأ أوراق الشاي سائبة داخل علبة معدنية أو كيس ورقي أو أي وعاء آخر مثل صندوق الشاي. تُفرَغ بعض أنواع الشاي الكاملة، مثل أوراق شاي الجنباودر الملفوفة التي تقاوم التفتت، في عبوات مفرغة من الهواء داخل تغليف مُبطَّن بالألمنيوم للحفاظ على نضارتها أثناء التخزين والبيع. يُوزن الشاي السائب يدويًا عند الاستخدام، مما يوفر مرونة وتحكمًا أكبر في النكهة على حساب سهولة التحضير. تُستخدم مصافي الشاي، أو الكرات المعدنية، أو مكابس الشاي، أو الأباريق المزودة بمرشحات، أو أكياس النقع لمنع الأوراق السائبة من الطفو في الشاي أو الإفراط في استخلاصها؛ ومن الطرق التقليدية في ذلك استخدام كوب شاي ذي غطاء مكوَّن من ثلاث قطع يُسمّى غاي وان، حيث يُميل الغطاء لصبّ الشاي في كوب آخر للشرب.[29]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw9g"
+    }
+  },
+  {
+    "node_index": 1606,
+    "tag": "h3",
+    "text": "الشاي المضغوط",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "الشاي_المضغوط"
+    }
+  },
+  {
+    "node_index": 1616,
+    "tag": "p",
+    "text": "يُنتَج الشاي المضغوط لتسهيل نقله وتخزينه وتقديمه بعد التعتيق، ويمكن عادةً تخزينه لفترات أطول دون أن يفسد مقارنةً بالشاي السائب. يُحضَّر الشاي المضغوط بفكّ الأوراق من القالب باستخدام سكين صغيرة ثم نقع الأجزاء المستخرَجة في الماء. قال لو يو إن الشاي المضغوط كان يُطحن إلى مسحوق ويُخلط بالماء الساخن ثم يُغرف في أوعية خلال عهد سلالة تانغ، مما ينتج عنه مزيج «رغوي». أما في عهد أسرة سونغ، فكان مسحوق الشاي يُخفق مع الماء الساخن مباشرةً في الوعاء، وعلى الرغم من أن طريقة الخفق هذه لم تعد مستخدمة في الصين اليوم، إلا أن رهبان الزِن البوذيون نقلوها إلى اليابان، وما تزال تُستخدم هناك في إعداد شاي الماتشا ضمن مراسم الشاي اليابانية. يُباع شاي بوير الصيني غالًا بهذا الشكل، ويمكن أن تُباع أنواع أخرى من الشاي أحيانًا بهذه الطريقة.[30]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mw_g"
+    }
+  },
+  {
+    "node_index": 1624,
+    "tag": "p",
+    "text": "كان الشاي المضغوط هو الشكل الأكثر شيوعًا للشاي في الصين خلال عهد سلالة تانغ، ولكن الشاي السائب حلّ محلّه مع بداية عهد أسرة مينغ. ما يزال الشاي المضغوط يحظى بشعبية في بلدان الهيمالايا وسهوب منغوليا حيث كان استخدامه واسع الانتشار لدرجة أنه استُخدم كشكل من أشكال العملة. يستهلك شعوب الهيمالايا الشاي المضغوط بخلطه مع زبدة الياك والملح لإعداد الشاي بالزبدة.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAQU"
+    }
+  },
+  {
+    "node_index": 1627,
+    "tag": "h3",
+    "text": "الشاي الفوري",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "الشاي_الفوري"
+    }
+  },
+  {
+    "node_index": 1637,
+    "tag": "p",
+    "text": "يُعد الشاي الفوري، المشابه للقهوة الفورية المجففة بالتجميد، بديلًا للشاي المُخمّر ويمكن تناوله ساخنًا أو باردًا. طوِّرَ الشاي الفوري في ثلاثينات القرن الماضي، وقدّمت شركة نستله أول منتج تجاري منه في عام 1946، بينما طرحت شركة ريدي-تي شايًا مثلجًا فوريًا لأول مرة في عام 1953. تُعد الإضافات مثل شاي الكرك، أو الفانيليا، أو العسل، أو الفاكهة من الإضافات الشائعة، وكذلك الحليب المجفف.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAQc"
+    }
+  },
+  {
+    "node_index": 1640,
+    "tag": "p",
+    "text": "كان الجنود البريطانيون والكنديون يتلقّون شايًا فوريًا ضمن حصصهم التموينية المجمّعة (كومبو) خلال الحرب العالمية الثانية. كانت هذه المكعبات تحتوي على شاي فوري وحليب مجفف وسكر، ولكنها لم تكن دائمًا تلقى استحسان الجنود. قال جندي المدفعية الملكية الكندية، جورج سي بلاكبيرن:",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAQo"
+    }
+  },
+  {
+    "node_index": 1642,
+    "tag": "p",
+    "text": "ولكن، ومن دون شك، فإن الميزة التي كُتب لها أن تُحفر في الذاكرة من حصص كومبو التموينية هي شاي كومبو… تُشير التعليمات إلى «رشّ المسحوق على ماء ساخن ثم غليه مع التحريك الجيد، بمعدل ثلاث ملاعق صغيرة مملوءة لكل نصف لتر تقريبًا من الماء». جُرِّبَ كل احتمال ممكن لتحضير هذا الشاي، ولكن كانت النتيجة دائمًا واحدة، فعندما يكون ما يزال ساخنًا جدًا للشرب، يبدو كوبًا جميلًا من الشاي القوي، وحتى عندما يبرد قليلًا ويصبح بالإمكان رشفه بحذر، يظل طعمه جيدًا إذا كنت تحب الشاي قويًا وحلوًا، ولكن دعْه يبرد بالقدر الكافي لتحتسيه وتستمتع به، ستجد شفتيك وقد غطّاهما غشاء لزج يتكوّن على السطح، وإذا تُرك لوقت كافي فسيتحوّل إلى طبقة جلدية يمكن لفّها حول إصبعك ثم نزعها بعيدًا…[31]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAQw"
+    }
+  },
+  {
+    "node_index": 1650,
+    "tag": "h3",
+    "text": "الشاي المعبأ في زجاجات وعلب",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "الشاي_المعبأ_في_زجاجات_وعلب"
+    }
+  },
+  {
+    "node_index": 1660,
+    "tag": "p",
+    "text": "يُباع الشاي المعلّب مُحضَّرًا وجاهزًا للشرب، إذ قُدِّم لأول مرة في اليابان عام 1981. أما أول شاي معبأ في زجاجات فقد قدّمته شركة الشاي الإندونيسية بّي تي. سينار سوسرو في عام 1969 تحت اسم العلامة التجارية تيه بوتول سوسرو (أو شاي سوسرو المعبأ). كانت شركة بيشوفتزل السويسرية للطعام هي أول من عبّأ الشاي المثلّج على نطاق صناعي في عام 1983.[32]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwARI"
+    }
+  },
+  {
+    "node_index": 1668,
+    "tag": "h2",
+    "text": "الإنتاج",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "الإنتاج"
+    }
+  },
+  {
+    "node_index": 1682,
+    "tag": "th",
+    "text": "الدولة",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "background:#ddf;",
+      "id": "mwARw"
+    }
+  },
+  {
+    "node_index": 1683,
+    "tag": "th",
+    "text": "مليون طن",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "background:#ddf;",
+      "id": "mwAR0"
+    }
+  },
+  {
+    "node_index": 1685,
+    "tag": "td",
+    "text": "الصين",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAR8"
+    }
+  },
+  {
+    "node_index": 1692,
+    "tag": "td",
+    "text": "14.53",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASI"
+    }
+  },
+  {
+    "node_index": 1695,
+    "tag": "td",
+    "text": "الهند",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASU"
+    }
+  },
+  {
+    "node_index": 1702,
+    "tag": "td",
+    "text": "5.97",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASg"
+    }
+  },
+  {
+    "node_index": 1705,
+    "tag": "td",
+    "text": "كينيا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwASs"
+    }
+  },
+  {
+    "node_index": 1711,
+    "tag": "td",
+    "text": "2.33",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAS4"
+    }
+  },
+  {
+    "node_index": 1714,
+    "tag": "td",
+    "text": "سريلانكا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATE"
+    }
+  },
+  {
+    "node_index": 1720,
+    "tag": "td",
+    "text": "1.40",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATQ"
+    }
+  },
+  {
+    "node_index": 1723,
+    "tag": "td",
+    "text": "تركيا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATc"
+    }
+  },
+  {
+    "node_index": 1730,
+    "tag": "td",
+    "text": "1.30",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwATo"
+    }
+  },
+  {
+    "node_index": 1733,
+    "tag": "td",
+    "text": "فيتنام",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAT0"
+    }
+  },
+  {
+    "node_index": 1740,
+    "tag": "td",
+    "text": "1.12",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUA"
+    }
+  },
+  {
+    "node_index": 1743,
+    "tag": "td",
+    "text": "إندونيسيا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUM"
+    }
+  },
+  {
+    "node_index": 1750,
+    "tag": "td",
+    "text": "0.60",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUY"
+    }
+  },
+  {
+    "node_index": 1753,
+    "tag": "td",
+    "text": "بنغلاديش",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUk"
+    }
+  },
+  {
+    "node_index": 1760,
+    "tag": "td",
+    "text": "0.44",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAUw"
+    }
+  },
+  {
+    "node_index": 1763,
+    "tag": "td",
+    "text": "الأرجنتين",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAU8"
+    }
+  },
+  {
+    "node_index": 1770,
+    "tag": "td",
+    "text": "0.36",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVI"
+    }
+  },
+  {
+    "node_index": 1773,
+    "tag": "td",
+    "text": "أوغندا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVU"
+    }
+  },
+  {
+    "node_index": 1780,
+    "tag": "td",
+    "text": "0.33",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVg"
+    }
+  },
+  {
+    "node_index": 1783,
+    "tag": "td",
+    "text": "العالم",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAVs"
+    }
+  },
+  {
+    "node_index": 1785,
+    "tag": "td",
+    "text": "29.76",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:right;",
+      "id": "mwAV0"
+    }
+  },
+  {
+    "node_index": 1788,
+    "tag": "td",
+    "text": "المصدر: (منظمة الأغذية والزراعة)[33]",
+    "label": "unreviewed",
+    "formatting": {
+      "colspan": "2",
+      "id": "mwAWA"
+    }
+  },
+  {
+    "node_index": 1796,
+    "tag": "p",
+    "text": "يزرع الشاي بشكل أساسي في آسيا وإفريقيا، ومناطق قليلة في أمريكا الجنوبية وحول البحر الأسود،وبحر قزوين. أكبر أربع دول منتجة للشاي هي: الصين، والهند، وكينيا، وسريلانكا، حيث يمثل مجموع إنتاجهم معًا حوالي 81% من الإنتاج العالمي للشاي. وتشمل مراكز الإنتاج الأصغر مناطق مثل: جزيرة ساو ميغيل، وجزر الأزور في البرتغال، وغوريا في جورجيا. بلغ الإنتاج العالمي للشاي في عام 2022م حوالي 29.8 مليون طن، كانت حصة الصين منه، والتي حلت في المركز الأول في الإنتاج، حوالي 49% (14.5 مليون طن)، أي أن الصين بمفردها تنتج ما يقارب من نصف كمية الإنتاج العالمي. وتأتي من بعدها الهند في المرتبة الثانية من ناحية الإنتاج، وبنسبة تقدر بحوالي 20% من الانتاج العالمي. في حين تأتي كل من: كينيا، وسريلانكا، وتركيا وفيتنام في مراكز ثانوية من حيث إنتاج الشاي.[34]",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAWc"
+    }
+  },
+  {
+    "node_index": 1818,
+    "tag": "h2",
+    "text": "معرض الصور",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "معرض_الصور"
+    }
+  },
+  {
+    "node_index": 1897,
+    "tag": "h2",
+    "text": "اقرأ أيضًا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "اقرأ_أيضًا"
+    }
+  },
+  {
+    "node_index": 1908,
+    "tag": "li",
+    "text": "شاي إرل غري",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAcA"
+    }
+  },
+  {
+    "node_index": 1910,
+    "tag": "li",
+    "text": "أتاي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAcI"
+    }
+  },
+  {
+    "node_index": 1912,
+    "tag": "li",
+    "text": "الشاي الأخضر",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAcQ"
+    }
+  },
+  {
+    "node_index": 1914,
+    "tag": "li",
+    "text": "شاي أحمر",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAcY"
+    }
+  },
+  {
+    "node_index": 1916,
+    "tag": "li",
+    "text": "تويننجز",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAcg"
+    }
+  },
+  {
+    "node_index": 1918,
+    "tag": "li",
+    "text": "قهوة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAco"
+    }
+  },
+  {
+    "node_index": 1920,
+    "tag": "li",
+    "text": "شاي عدني",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAcw"
+    }
+  },
+  {
+    "node_index": 1922,
+    "tag": "li",
+    "text": "شاي كرك",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAc4"
+    }
+  },
+  {
+    "node_index": 1924,
+    "tag": "li",
+    "text": "شاي ليدي غراي",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "mwAdA"
+    }
+  },
+  {
+    "node_index": 1928,
+    "tag": "h2",
+    "text": "المراجع",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "المراجع"
+    }
+  },
+  {
+    "node_index": 1944,
+    "tag": "li",
+    "text": "1 2 Heiss، Mary Lou؛ Heiss، Robert J. (2007). The story of tea: a cultural history and drinking guide. Berkeley, Calif: Ten Speed Press. ISBN:978-1-58008-745-2. OCLC:84903908.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-مولد_تلقائيا1-1",
+      "id": "cite_note-مولد_تلقائيا1-1",
+      "data-mw-footnote-number": "1"
+    }
+  },
+  {
+    "node_index": 1962,
+    "tag": "li",
+    "text": "↑ Yamamoto، Takehiko، المحرر (1997). Chemistry and applications of green tea. Boca Raton: CRC Press. ISBN:978-0-8493-4006-2.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-2",
+      "id": "cite_note-2",
+      "data-mw-footnote-number": "2"
+    }
+  },
+  {
+    "node_index": 1975,
+    "tag": "li",
+    "text": "↑ Alan Macfarlane (2004). The empire of tea. Internet Archive. Overlook Press. ISBN:978-1-58567-493-0.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-3",
+      "id": "cite_note-3",
+      "data-mw-footnote-number": "3"
+    }
+  },
+  {
+    "node_index": 1988,
+    "tag": "li",
+    "text": "↑ ماهر، سعد عبد القادر (23 يناير 2025). عناية صحية: الجزء الثالث - الأعشاب الطبية. Saad Abdulqader Mahir. مؤرشف من الأصل في 2025-05-04.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-4",
+      "id": "cite_note-4",
+      "data-mw-footnote-number": "4"
+    }
+  },
+  {
+    "node_index": 1999,
+    "tag": "li",
+    "text": "↑ Cappelletti, Simone; Daria, Piacentino; Sani, Gabriele; Aromatario, Mariarosaria (13 Apr 2015). \"Caffeine: Cognitive and Physical Performance Enhancer or Psychoactive Drug?\". Current Neuropharmacology (بالإنجليزية). 13 (1): 71–88. DOI:10.2174/1570159X13666141210215655. ISSN:1570-159X. Archived from the original on 2025-01-02.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-5",
+      "id": "cite_note-5",
+      "data-mw-footnote-number": "5"
+    }
+  },
+  {
+    "node_index": 2017,
+    "tag": "li",
+    "text": "↑ Martin، Laura (2011). Tea: The Drink that Changed the World. New York: Tuttle Publishing. ISBN:978-0-8048-3724-8.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-6",
+      "id": "cite_note-6",
+      "data-mw-footnote-number": "6"
+    }
+  },
+  {
+    "node_index": 2030,
+    "tag": "li",
+    "text": "1 2 Weinberg، Bennett Alan؛ Bealer، Bonnie K. (2001). The world of caffeine: the science and culture of the world's most popular drug. New York: Routledge. ISBN:978-0-415-92722-2.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-مولد_تلقائيا2-7",
+      "id": "cite_note-مولد_تلقائيا2-7",
+      "data-mw-footnote-number": "7"
+    }
+  },
+  {
+    "node_index": 2045,
+    "tag": "li",
+    "text": "↑ Meegahakumbura, Muditha K.; Wambulwa, Moses C.; Li, Miao-Miao; Thapa, Kishore K.; Sun, Yong-Shuai; Möller, Michael; Xu, Jian-Chu; Yang, Jun-Bo; Liu, Jie (25 Jan 2018). \"Domestication Origin and Breeding History of the Tea Plant (Camellia sinensis) in China and India Based on Nuclear Microsatellites and cpDNA Sequence Data\". Frontiers in Plant Science (بالإنجليزية). 8. DOI:10.3389/fpls.2017.02270. ISSN:1664-462X. Archived from the original on 2026-03-07.{{استشهاد بدورية محكمة}}: صيانة الاستشهاد: دوي مجاني غير معلم (link)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-8",
+      "id": "cite_note-8",
+      "data-mw-footnote-number": "8"
+    }
+  },
+  {
+    "node_index": 2067,
+    "tag": "li",
+    "text": "1 2 Wambulwa, Moses C.; Meegahakumbura, Muditha K.; Kamunya, Samson; Wachira, Francis N. (6 Aug 2021). \"From the Wild to the Cup: Tracking Footprints of the Tea Species in Time and Space\". Frontiers in Nutrition (بالإنجليزية). 8. DOI:10.3389/fnut.2021.706770. ISSN:2296-861X. Archived from the original on 2026-07-03.{{استشهاد بدورية محكمة}}: صيانة الاستشهاد: دوي مجاني غير معلم (link)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-مولد_تلقائيا4-9",
+      "id": "cite_note-مولد_تلقائيا4-9",
+      "data-mw-footnote-number": "9"
+    }
+  },
+  {
+    "node_index": 2091,
+    "tag": "li",
+    "text": "↑ Meegahakumbura, M. K.; Wambulwa, M. C.; Thapa, K. K.; Li, M. M.; Möller, M.; Xu, J. C.; Yang, J. B.; Liu, B. Y.; Ranjitkar, S. (٢٤/٠٥/٢٠١٦). \"Indications for Three Independent Domestication Events for the Tea Plant (Camellia sinensis (L.) O. Kuntze) and New Insights into the Origin of Tea Germplasm in China and India Revealed by Nuclear Microsatellites\". PLOS ONE (بالإنجليزية). 11 (5): e0155369. DOI:10.1371/journal.pone.0155369. ISSN:1932-6203. PMC:4878758. PMID:27218820. Archived from the original on 2026-04-16. {{استشهاد بدورية محكمة}}: تحقق من التاريخ في: |تاريخ= (help)صيانة الاستشهاد: دوي مجاني غير معلم (link) صيانة الاستشهاد: رقم المقال على أنه رقم صفحة (link)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-10",
+      "id": "cite_note-10",
+      "data-mw-footnote-number": "10"
+    }
+  },
+  {
+    "node_index": 2127,
+    "tag": "li",
+    "text": "↑ \"Origin And Distribution Of The Tea Plant\". TEAORB (بالإنجليزية). Archived from the original on 2023-08-15. Retrieved 2025-01-04.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-11",
+      "id": "cite_note-11",
+      "data-mw-footnote-number": "11"
+    }
+  },
+  {
+    "node_index": 2141,
+    "tag": "li",
+    "text": "↑ Myers, Norman; Mittermeier, Russell A.; Mittermeier, Cristina G.; da Fonseca, Gustavo A. B.; Kent, Jennifer (2000-02). \"Biodiversity hotspots for conservation priorities\". Nature (بالإنجليزية). 403 (6772): 853–858. DOI:10.1038/35002501. ISSN:1476-4687. Archived from the original on 2026-03-17. {{استشهاد بدورية محكمة}}: تحقق من التاريخ في: |تاريخ= (help)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-12",
+      "id": "cite_note-12",
+      "data-mw-footnote-number": "12"
+    }
+  },
+  {
+    "node_index": 2168,
+    "tag": "li",
+    "text": "↑ Driem، George van (2019). The tale of tea: a comprehensive history of tea from prehistoric times to the present day. Leiden Boston: Brill. ISBN:978-90-04-38625-9.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-13",
+      "id": "cite_note-13",
+      "data-mw-footnote-number": "13"
+    }
+  },
+  {
+    "node_index": 2180,
+    "tag": "li",
+    "text": "↑ جمال الدين القاسمي الدمشقي (1904)، رسالة في الشاي والقهوة والدخان، دمشق: د.ن.، ص. 3-4، OCLC:11613487، QID:Q136645143",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-14",
+      "id": "cite_note-14",
+      "data-mw-footnote-number": "14"
+    }
+  },
+  {
+    "node_index": 2197,
+    "tag": "li",
+    "text": "↑ Yang، Ziyin؛ Baldermann، Susanne؛ Watanabe، Naoharu (1 أكتوبر 2013). \"Recent studies of the volatile compounds in tea\". Food Research International. Tea – from bushes to mugs: composition, stability and health aspects. ج. 53 ع. 2: 585–599. DOI:10.1016/j.foodres.2013.02.011. ISSN:0963-9969. مؤرشف من الأصل في 2023-08-16.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-15",
+      "id": "cite_note-15",
+      "data-mw-footnote-number": "15"
+    }
+  },
+  {
+    "node_index": 2215,
+    "tag": "li",
+    "text": "↑ Hicks، Monique B.؛ Hsieh، Y-H. Peggy؛ Bell، Leonard N. (1 أبريل 1996). \"Tea preparation and its influence on methylxanthine concentration\". Food Research International. ج. 29 ع. 3: 325–330. DOI:10.1016/0963-9969(96)00038-5. ISSN:0963-9969.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-16",
+      "id": "cite_note-16",
+      "data-mw-footnote-number": "16"
+    }
+  },
+  {
+    "node_index": 2233,
+    "tag": "li",
+    "text": "↑ Chatterjee, Anirban; Saluja, Mini; Agarwal, Gunjan; Alam, Mahtab (2012-06). \"Green tea: A boon for periodontal and general health\". Journal of Indian Society of Periodontology (بالإنجليزية الأمريكية). 16 (2): 161. DOI:10.4103/0972-124X.99256. ISSN:0972-124X. Archived from the original on 2024-06-06. {{استشهاد بدورية محكمة}}: تحقق من التاريخ في: |تاريخ= (help)صيانة الاستشهاد: دوي مجاني غير معلم (link)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-17",
+      "id": "cite_note-17",
+      "data-mw-footnote-number": "17"
+    }
+  },
+  {
+    "node_index": 2262,
+    "tag": "li",
+    "text": "↑ Graham، Harold N. (1 مايو 1992). \"Green tea composition, consumption, and polyphenol chemistry\". Preventive Medicine. ج. 21 ع. 3: 334–350. DOI:10.1016/0091-7435(92)90041-F. ISSN:0091-7435. مؤرشف من الأصل في 2022-01-31.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-18",
+      "id": "cite_note-18",
+      "data-mw-footnote-number": "18"
+    }
+  },
+  {
+    "node_index": 2280,
+    "tag": "li",
+    "text": "↑ Harbowy، Matthew E.؛ Balentine، Douglas A.؛ Davies، Alan P.؛ Cai، Ya (1 يناير 1997). \"Tea Chemistry: Critical Reviews in Plant Sciences: Vol 16, No 5\". DOI:10.1080/07352689709701956. ISSN:0735-2689. مؤرشف من الأصل في 2022-06-10. اطلع عليه بتاريخ 2025-01-05. {{استشهاد بدورية محكمة}}: الاستشهاد بدورية محكمة يطلب |دورية محكمة= (مساعدة)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-19",
+      "id": "cite_note-19",
+      "data-mw-footnote-number": "19"
+    }
+  },
+  {
+    "node_index": 2305,
+    "tag": "li",
+    "text": "↑ Ferruzzi، Mario G. (26 أبريل 2010). \"The influence of beverage composition on delivery of phenolic compounds from coffee and tea\". Physiology & Behavior. Beverages and Health. ج. 100 ع. 1: 33–41. DOI:10.1016/j.physbeh.2010.01.035. ISSN:0031-9384.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-20",
+      "id": "cite_note-20",
+      "data-mw-footnote-number": "20"
+    }
+  },
+  {
+    "node_index": 2323,
+    "tag": "li",
+    "text": "↑ Williamson, Gary; Dionisi, Fabiola; Renouf, Mathieu (2011). \"Flavanols from green tea and phenolic acids from coffee: Critical quantitative evaluation of the pharmacokinetic data in humans after consumption of single doses of beverages\". Molecular Nutrition & Food Research (بالإنجليزية). 55 (6): 864–873. DOI:10.1002/mnfr.201000631. ISSN:1613-4133. Archived from the original on 2024-11-12.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-21",
+      "id": "cite_note-21",
+      "data-mw-footnote-number": "21"
+    }
+  },
+  {
+    "node_index": 2341,
+    "tag": "li",
+    "text": "1 2 \"Green Tea: Usefulness and Safety\". NCCIH (بالإنجليزية). Archived from the original on 2025-06-13. Retrieved 2025-01-05.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-مولد_تلقائيا3-22",
+      "id": "cite_note-مولد_تلقائيا3-22",
+      "data-mw-footnote-number": "22"
+    }
+  },
+  {
+    "node_index": 2357,
+    "tag": "li",
+    "text": "↑ \"Summary of Qualified Health Claims Subject to Enforcement Discretion\". web.archive.org. 15 أكتوبر 2014. مؤرشف من الأصل في . اطلع عليه بتاريخ 2025-01-05.{{استشهاد بويب}}: صيانة الاستشهاد: BOT: original URL status unknown (link)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-23",
+      "id": "cite_note-23",
+      "data-mw-footnote-number": "23"
+    }
+  },
+  {
+    "node_index": 2374,
+    "tag": "li",
+    "text": "↑ \"Black Tea: MedlinePlus Supplements\". medlineplus.gov (بالإنجليزية). Archived from the original on 2025-05-22. Retrieved 2025-01-05.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-24",
+      "id": "cite_note-24",
+      "data-mw-footnote-number": "24"
+    }
+  },
+  {
+    "node_index": 2388,
+    "tag": "li",
+    "text": "↑ \"Nutrition Facts and Analysis for Tea, brewed, prepared with tap water [black tea]\". web.archive.org. 26 أكتوبر 2014. مؤرشف من الأصل في . اطلع عليه بتاريخ 2025-01-05.{{استشهاد بويب}}: صيانة الاستشهاد: BOT: original URL status unknown (link)",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-25",
+      "id": "cite_note-25",
+      "data-mw-footnote-number": "25"
+    }
+  },
+  {
+    "node_index": 2407,
+    "tag": "li",
+    "text": "↑ Fung، K. F؛ Zhang، Z. Q؛ Wong، J. W. C؛ Wong، M. H (1 فبراير 1999). \"Fluoride contents in tea and soil from tea plantations and the release of fluoride into tea liquor during infusion\". Environmental Pollution. ج. 104 ع. 2: 197–205. DOI:10.1016/S0269-7491(98)00187-0. ISSN:0269-7491.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-26",
+      "id": "cite_note-26",
+      "data-mw-footnote-number": "26"
+    }
+  },
+  {
+    "node_index": 2425,
+    "tag": "li",
+    "text": "↑ \"PG Tips – About Us\". pgtips.co.uk. مؤرشف من الأصل في 2007-01-20. اطلع عليه بتاريخ 2009-02-17.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-27",
+      "id": "cite_note-27",
+      "data-mw-footnote-number": "27"
+    }
+  },
+  {
+    "node_index": 2438,
+    "tag": "li",
+    "text": "↑ Smithers، Rebecca (2 يوليو 2010). \"Most UK teabags not fully biodegradeable [كذا], research reveals\". The Guardian. مؤرشف من الأصل في 2013-12-04. اطلع عليه بتاريخ 2012-05-04.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-28",
+      "id": "cite_note-28",
+      "data-mw-footnote-number": "28"
+    }
+  },
+  {
+    "node_index": 2454,
+    "tag": "li",
+    "text": "↑ Mair & Hoh 2009، صفحة 62.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-FOOTNOTEMairHoh200962-29",
+      "id": "cite_note-FOOTNOTEMairHoh200962-29",
+      "data-mw-footnote-number": "29"
+    }
+  },
+  {
+    "node_index": 2462,
+    "tag": "li",
+    "text": "↑ Mair & Hoh 2009، صفحات 124–36.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-FOOTNOTEMairHoh2009124–36-30",
+      "id": "cite_note-FOOTNOTEMairHoh2009124–36-30",
+      "data-mw-footnote-number": "30"
+    }
+  },
+  {
+    "node_index": 2470,
+    "tag": "li",
+    "text": "↑ \"PT. Sinar Sosro\". مؤرشف من الأصل في 2016-03-04. اطلع عليه بتاريخ 2016-01-29.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-31",
+      "id": "cite_note-31",
+      "data-mw-footnote-number": "31"
+    }
+  },
+  {
+    "node_index": 2482,
+    "tag": "li",
+    "text": "↑ \"Bischofszell Food Ltd\". Bina.ch. مؤرشف من الأصل في 2013-01-17. اطلع عليه بتاريخ 2012-11-25.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-32",
+      "id": "cite_note-32",
+      "data-mw-footnote-number": "32"
+    }
+  },
+  {
+    "node_index": 2494,
+    "tag": "li",
+    "text": "↑ \"Tea leaves production in 2022, Crops/Regions/World list/Production Quantity/Year (pick lists)\". UN Food and Agriculture Organization, Corporate Statistical Database (FAOSTAT). 2024. مؤرشف من الأصل في 2025-06-20. اطلع عليه بتاريخ 2024-06-10.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-faostat2024-33",
+      "id": "cite_note-faostat2024-33",
+      "data-mw-footnote-number": "33"
+    }
+  },
+  {
+    "node_index": 2506,
+    "tag": "li",
+    "text": "↑ \"FAOSTAT\". www.fao.org. مؤرشف من الأصل في 2025-06-20. اطلع عليه بتاريخ 2025-01-05.",
+    "label": "unreviewed",
+    "formatting": {
+      "about": "#cite_note-34",
+      "id": "cite_note-34",
+      "data-mw-footnote-number": "34"
+    }
+  },
+  {
+    "node_index": 2541,
+    "tag": "th",
+    "text": "عنتالشاي",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "col",
+      "class": "navbox-title",
+      "colspan": "2"
+    }
+  },
+  {
+    "node_index": 2546,
+    "tag": "li",
+    "text": "ع",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-اعرض"
+    }
+  },
+  {
+    "node_index": 2549,
+    "tag": "li",
+    "text": "ن",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-ناقش"
+    }
+  },
+  {
+    "node_index": 2552,
+    "tag": "li",
+    "text": "ت",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-عدل"
+    }
+  },
+  {
+    "node_index": 2558,
+    "tag": "th",
+    "text": "الشاي الأحمر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2560,
+    "tag": "td",
+    "text": "شاي أسام شاي وويي شاي سيلون شاي دارجيلينغ شاي ديانهونغ كيمون لابسانج سوتشونج شاي كرك نيباليس نيلجيري أورانج بيكو تيبيتي الشاي التركي ينج دي هونج",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2563,
+    "tag": "li",
+    "text": "شاي أسام",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2565,
+    "tag": "li",
+    "text": "شاي وويي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2567,
+    "tag": "li",
+    "text": "شاي سيلون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2569,
+    "tag": "li",
+    "text": "شاي دارجيلينغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2571,
+    "tag": "li",
+    "text": "شاي ديانهونغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2573,
+    "tag": "li",
+    "text": "كيمون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2575,
+    "tag": "li",
+    "text": "لابسانج سوتشونج",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2577,
+    "tag": "li",
+    "text": "شاي كرك",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2579,
+    "tag": "li",
+    "text": "نيباليس",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2581,
+    "tag": "li",
+    "text": "نيلجيري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2583,
+    "tag": "li",
+    "text": "أورانج بيكو",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2585,
+    "tag": "li",
+    "text": "تيبيتي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2587,
+    "tag": "li",
+    "text": "الشاي التركي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2589,
+    "tag": "li",
+    "text": "ينج دي هونج",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2592,
+    "tag": "th",
+    "text": "شاي التنين بالسواد",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2594,
+    "tag": "td",
+    "text": "شاي باي جي قوان [لغات أخرى]‏ دا هونغ باو شاي دارجيلنغ شاي دونق دينق [لغات أخرى]‏ (تونج- تينج) شاي دونغ فانغ رن مى [لغات أخرى]‏ شاي هونين جوي (جولدن أوسمانثاس) شاي كوي لان شاي بوتشونج شاي رو جوي شاي شوي جين غوي [لغات أخرى]‏ شاي شوى شيان [لغات أخرى]‏ (شاي شوي زيان) شاي تاي لوهان شاي تايجوانين (شاي أيرون بودها)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2597,
+    "tag": "li",
+    "text": "شاي باي جي قوان [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2605,
+    "tag": "li",
+    "text": "دا هونغ باو",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2607,
+    "tag": "li",
+    "text": "شاي دارجيلنغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2609,
+    "tag": "li",
+    "text": "شاي دونق دينق [لغات أخرى]‏ (تونج- تينج)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2617,
+    "tag": "li",
+    "text": "شاي دونغ فانغ رن مى [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2625,
+    "tag": "li",
+    "text": "شاي هونين جوي (جولدن أوسمانثاس)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2627,
+    "tag": "li",
+    "text": "شاي كوي لان",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2629,
+    "tag": "li",
+    "text": "شاي بوتشونج",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2631,
+    "tag": "li",
+    "text": "شاي رو جوي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2633,
+    "tag": "li",
+    "text": "شاي شوي جين غوي [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2641,
+    "tag": "li",
+    "text": "شاي شوى شيان [لغات أخرى]‏ (شاي شوي زيان)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2649,
+    "tag": "li",
+    "text": "شاي تاي لوهان",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2651,
+    "tag": "li",
+    "text": "شاي تايجوانين (شاي أيرون بودها)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2654,
+    "tag": "th",
+    "text": "الشاي الأخضر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2656,
+    "tag": "td",
+    "text": "شاي أراتشا شاي بانتشا شاي الباي لو تشون [لغات أخرى]‏ شاي التشان مي شاي الدافانج [لغات أخرى]‏ شاي الجينمايكا شاي الجوبيان [لغات أخرى]‏ شاي جانباودر [لغات أخرى]‏ شاي جيوكورو شاي هوجيتشا شاي الهو كوي [لغات أخرى]‏ شاي هانج شان ماو فينج [لغات أخرى]‏ شاي الكابوستشا شاي كامايريتشا [لغات أخرى]‏ شاي الكوناتشا [لغات أخرى]‏ شاي كوكيتشا شاي لونجين شاي الماتشا شاي ماو جيان [لغات أخرى]‏ شاي المتشا [لغات أخرى]‏ شاي المنج دينج جان لو [لغات أخرى]‏ شاي سنتشا شاي تماريويوتشا",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2659,
+    "tag": "li",
+    "text": "شاي أراتشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2661,
+    "tag": "li",
+    "text": "شاي بانتشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2663,
+    "tag": "li",
+    "text": "شاي الباي لو تشون [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2671,
+    "tag": "li",
+    "text": "شاي التشان مي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2673,
+    "tag": "li",
+    "text": "شاي الدافانج [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2681,
+    "tag": "li",
+    "text": "شاي الجينمايكا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2683,
+    "tag": "li",
+    "text": "شاي الجوبيان [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2691,
+    "tag": "li",
+    "text": "شاي جانباودر [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2699,
+    "tag": "li",
+    "text": "شاي جيوكورو",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2701,
+    "tag": "li",
+    "text": "شاي هوجيتشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2703,
+    "tag": "li",
+    "text": "شاي الهو كوي [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2711,
+    "tag": "li",
+    "text": "شاي هانج شان ماو فينج [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2719,
+    "tag": "li",
+    "text": "شاي الكابوستشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2721,
+    "tag": "li",
+    "text": "شاي كامايريتشا [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2729,
+    "tag": "li",
+    "text": "شاي الكوناتشا [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2737,
+    "tag": "li",
+    "text": "شاي كوكيتشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2739,
+    "tag": "li",
+    "text": "شاي لونجين",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2741,
+    "tag": "li",
+    "text": "شاي الماتشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2743,
+    "tag": "li",
+    "text": "شاي ماو جيان [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2751,
+    "tag": "li",
+    "text": "شاي المتشا [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2759,
+    "tag": "li",
+    "text": "شاي المنج دينج جان لو [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2767,
+    "tag": "li",
+    "text": "شاي سنتشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2769,
+    "tag": "li",
+    "text": "شاي تماريويوتشا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2772,
+    "tag": "th",
+    "text": "الشاي الأبيض",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2774,
+    "tag": "td",
+    "text": "شاي باو هاو ينزهين [لغات أخرى]‏ شاي باي مو دان [لغات أخرى]‏ شاي دارجيلنغ شاي شو مي [لغات أخرى]‏ شاي وايت مونكي باو",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2777,
+    "tag": "li",
+    "text": "شاي باو هاو ينزهين [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2785,
+    "tag": "li",
+    "text": "شاي باي مو دان [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2793,
+    "tag": "li",
+    "text": "شاي دارجيلنغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2795,
+    "tag": "li",
+    "text": "شاي شو مي [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2803,
+    "tag": "li",
+    "text": "شاي وايت مونكي باو",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2806,
+    "tag": "th",
+    "text": "الشاي الأصفر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2808,
+    "tag": "td",
+    "text": "شاي جنشان يينزهين [لغات أخرى]‏ شاي هوشان هونجيا [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2811,
+    "tag": "li",
+    "text": "شاي جنشان يينزهين [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2819,
+    "tag": "li",
+    "text": "شاي هوشان هونجيا [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2828,
+    "tag": "th",
+    "text": "الشاي المخمر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2830,
+    "tag": "td",
+    "text": "شاي البيو-إيره",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2834,
+    "tag": "th",
+    "text": "الشاي المخلوط بنكهات [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2842,
+    "tag": "td",
+    "text": "شاي إيرل غراي شاي الإفطار الإنجليزي شاي الإفطار الأيرلاندي [لغات أخرى]‏ شاي الياسمين شاي القافلة الروسية",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2845,
+    "tag": "li",
+    "text": "شاي إيرل غراي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2847,
+    "tag": "li",
+    "text": "شاي الإفطار الإنجليزي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2849,
+    "tag": "li",
+    "text": "شاي الإفطار الأيرلاندي [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2857,
+    "tag": "li",
+    "text": "شاي الياسمين",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2859,
+    "tag": "li",
+    "text": "شاي القافلة الروسية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2862,
+    "tag": "th",
+    "text": "الشاي تبعا للثقافة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2864,
+    "tag": "td",
+    "text": "الأمريكي الإنجليزي الصيني الهونغ كونغي [لغات أخرى]‏ الهندي الياباني الكوري المغربي النيبالي الروسي التايواني السريلانكي التركي الفيتنامي",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2867,
+    "tag": "li",
+    "text": "الأمريكي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2869,
+    "tag": "li",
+    "text": "الإنجليزي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2871,
+    "tag": "li",
+    "text": "الصيني",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2873,
+    "tag": "li",
+    "text": "الهونغ كونغي [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2881,
+    "tag": "li",
+    "text": "الهندي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2883,
+    "tag": "li",
+    "text": "الياباني",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2885,
+    "tag": "li",
+    "text": "الكوري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2887,
+    "tag": "li",
+    "text": "المغربي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2889,
+    "tag": "li",
+    "text": "النيبالي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2891,
+    "tag": "li",
+    "text": "الروسي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2893,
+    "tag": "li",
+    "text": "التايواني",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2895,
+    "tag": "li",
+    "text": "السريلانكي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2897,
+    "tag": "li",
+    "text": "التركي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2899,
+    "tag": "li",
+    "text": "الفيتنامي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2902,
+    "tag": "th",
+    "text": "مشروبات الشاي",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2903,
+    "tag": "td",
+    "text": "شاي الفقاعات Builder's tea شاي الحليب البورمي الشاي بالزبدة Chifir Doodh pati chai شاي بالحليب على طريقة هونغ كونغ شاي مثلج Arnold Palmer Jagertee Kahwah Lei cha شاي بحليب شاي النون Seven-color tea شاي بالحليب [لغات أخرى]‏ Suutei tsai Sweet tea تيتاريك شاي تايلاندي Yuenyeung",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2906,
+    "tag": "li",
+    "text": "شاي الفقاعات",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2908,
+    "tag": "li",
+    "text": "Builder's tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2910,
+    "tag": "li",
+    "text": "شاي الحليب البورمي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2912,
+    "tag": "li",
+    "text": "الشاي بالزبدة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2914,
+    "tag": "li",
+    "text": "Chifir",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2916,
+    "tag": "li",
+    "text": "Doodh pati chai",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2918,
+    "tag": "li",
+    "text": "شاي بالحليب على طريقة هونغ كونغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2920,
+    "tag": "li",
+    "text": "شاي مثلج Arnold Palmer",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2923,
+    "tag": "li",
+    "text": "Arnold Palmer",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2925,
+    "tag": "li",
+    "text": "Jagertee",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2927,
+    "tag": "li",
+    "text": "Kahwah",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2929,
+    "tag": "li",
+    "text": "Lei cha",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2931,
+    "tag": "li",
+    "text": "شاي بحليب",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2933,
+    "tag": "li",
+    "text": "شاي النون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2935,
+    "tag": "li",
+    "text": "Seven-color tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2937,
+    "tag": "li",
+    "text": "شاي بالحليب [لغات أخرى]‏",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2945,
+    "tag": "li",
+    "text": "Suutei tsai",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2947,
+    "tag": "li",
+    "text": "Sweet tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2949,
+    "tag": "li",
+    "text": "تيتاريك",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2951,
+    "tag": "li",
+    "text": "شاي تايلاندي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2953,
+    "tag": "li",
+    "text": "Yuenyeung",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2956,
+    "tag": "th",
+    "text": "أخرى",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 2957,
+    "tag": "td",
+    "text": "طقم الشاي كاميليا صينية (نبتة الشاي) كيس الشاي إبريق الشاي تناول الشاي أكواب تقديم الشاي الآثار الصحية تجهيز الشاي السماور الشاي الطوب زراعة الشاي أماكن تقديم الشاي طعم الشاي غلاية الشاي حفلة شاي فنجان شاي بيالة سكرية ملقطة سكر شاي ياوبون شاي مضغوط",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 2960,
+    "tag": "li",
+    "text": "طقم الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2962,
+    "tag": "li",
+    "text": "كاميليا صينية (نبتة الشاي)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2964,
+    "tag": "li",
+    "text": "كيس الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2966,
+    "tag": "li",
+    "text": "إبريق الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2968,
+    "tag": "li",
+    "text": "تناول الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2970,
+    "tag": "li",
+    "text": "أكواب تقديم الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2972,
+    "tag": "li",
+    "text": "الآثار الصحية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2974,
+    "tag": "li",
+    "text": "تجهيز الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2980,
+    "tag": "li",
+    "text": "السماور",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2982,
+    "tag": "li",
+    "text": "الشاي الطوب",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2984,
+    "tag": "li",
+    "text": "زراعة الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2986,
+    "tag": "li",
+    "text": "أماكن تقديم الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2988,
+    "tag": "li",
+    "text": "طعم الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2990,
+    "tag": "li",
+    "text": "غلاية الشاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2992,
+    "tag": "li",
+    "text": "حفلة شاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2994,
+    "tag": "li",
+    "text": "فنجان شاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2996,
+    "tag": "li",
+    "text": "بيالة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2998,
+    "tag": "li",
+    "text": "سكرية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3000,
+    "tag": "li",
+    "text": "ملقطة سكر",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3002,
+    "tag": "li",
+    "text": "شاي ياوبون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3004,
+    "tag": "li",
+    "text": "شاي مضغوط",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3007,
+    "tag": "td",
+    "text": "تصنيف:شاي بوابة:مشروبات",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-abovebelow",
+      "colspan": "2"
+    }
+  },
+  {
+    "node_index": 3010,
+    "tag": "li",
+    "text": "تصنيف:شاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3015,
+    "tag": "li",
+    "text": "بوابة:مشروبات",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3028,
+    "tag": "th",
+    "text": "عنتقوائم الدول حسب ترتيب أكبر إنتاج للسلع الزراعية",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "col",
+      "class": "navbox-title",
+      "colspan": "2"
+    }
+  },
+  {
+    "node_index": 3033,
+    "tag": "li",
+    "text": "ع",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-اعرض"
+    }
+  },
+  {
+    "node_index": 3036,
+    "tag": "li",
+    "text": "ن",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-ناقش"
+    }
+  },
+  {
+    "node_index": 3039,
+    "tag": "li",
+    "text": "ت",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-عدل"
+    }
+  },
+  {
+    "node_index": 3046,
+    "tag": "th",
+    "text": "حبوب",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3048,
+    "tag": "td",
+    "text": "شعير حنطة سوداء ذرة (الصادرات) دخن شوفان أرز شيلم مزروع سورغم تجاري شيقم قمح (الصادرات)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3051,
+    "tag": "li",
+    "text": "شعير",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3053,
+    "tag": "li",
+    "text": "حنطة سوداء",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3055,
+    "tag": "li",
+    "text": "ذرة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3057,
+    "tag": "li",
+    "text": "(الصادرات)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3059,
+    "tag": "li",
+    "text": "دخن",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3061,
+    "tag": "li",
+    "text": "شوفان",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3063,
+    "tag": "li",
+    "text": "أرز",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3065,
+    "tag": "li",
+    "text": "شيلم مزروع",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3067,
+    "tag": "li",
+    "text": "سورغم تجاري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3069,
+    "tag": "li",
+    "text": "شيقم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3071,
+    "tag": "li",
+    "text": "قمح",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3073,
+    "tag": "li",
+    "text": "(الصادرات)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3076,
+    "tag": "th",
+    "text": "ثمار",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3078,
+    "tag": "td",
+    "text": "تفاح مشمش موز كرز حمضيات برتقال خوخ كمثرى عنب منجا طماطم",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3081,
+    "tag": "li",
+    "text": "تفاح",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3083,
+    "tag": "li",
+    "text": "مشمش",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3085,
+    "tag": "li",
+    "text": "موز",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3087,
+    "tag": "li",
+    "text": "كرز",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3089,
+    "tag": "li",
+    "text": "حمضيات برتقال",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3092,
+    "tag": "li",
+    "text": "برتقال",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3094,
+    "tag": "li",
+    "text": "خوخ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3096,
+    "tag": "li",
+    "text": "كمثرى",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3098,
+    "tag": "li",
+    "text": "عنب",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3100,
+    "tag": "li",
+    "text": "منجا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3102,
+    "tag": "li",
+    "text": "طماطم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3105,
+    "tag": "th",
+    "text": "خضروات",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3107,
+    "tag": "td",
+    "text": "خرشوف بصل بطاطس سلجم فول الصويا خيار",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3110,
+    "tag": "li",
+    "text": "خرشوف",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3112,
+    "tag": "li",
+    "text": "بصل",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3114,
+    "tag": "li",
+    "text": "بطاطس",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3116,
+    "tag": "li",
+    "text": "سلجم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3118,
+    "tag": "li",
+    "text": "فول الصويا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3120,
+    "tag": "li",
+    "text": "خيار",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3123,
+    "tag": "th",
+    "text": "أخرى",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3124,
+    "tag": "td",
+    "text": "كاكاو بفرة قهوة قطن سمك ثوم حليب شمندر سكري قصب السكر حب الشمس شاي تبغ نبيذ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3127,
+    "tag": "li",
+    "text": "كاكاو",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3129,
+    "tag": "li",
+    "text": "بفرة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3131,
+    "tag": "li",
+    "text": "قهوة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3133,
+    "tag": "li",
+    "text": "قطن",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3135,
+    "tag": "li",
+    "text": "سمك",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3137,
+    "tag": "li",
+    "text": "ثوم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3139,
+    "tag": "li",
+    "text": "حليب",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3141,
+    "tag": "li",
+    "text": "شمندر سكري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3143,
+    "tag": "li",
+    "text": "قصب السكر",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3145,
+    "tag": "li",
+    "text": "حب الشمس",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3147,
+    "tag": "li",
+    "text": "شاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3149,
+    "tag": "li",
+    "text": "تبغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3151,
+    "tag": "li",
+    "text": "نبيذ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3154,
+    "tag": "th",
+    "text": "ذات صلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3155,
+    "tag": "td",
+    "text": "قائمة الدول حسب مساحة الأراضي المروية إحصاءات استخدام الأراضي حسب البلد",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3158,
+    "tag": "li",
+    "text": "قائمة الدول حسب مساحة الأراضي المروية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3160,
+    "tag": "li",
+    "text": "إحصاءات استخدام الأراضي حسب البلد",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3163,
+    "tag": "td",
+    "text": "قائمة التصنيفات الدولية قوائم حسب البلد",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-abovebelow",
+      "colspan": "2"
+    }
+  },
+  {
+    "node_index": 3167,
+    "tag": "li",
+    "text": "قائمة التصنيفات الدولية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3169,
+    "tag": "li",
+    "text": "قوائم حسب البلد",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3179,
+    "tag": "th",
+    "text": "التصنيفات الطبية",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:12%"
+    }
+  },
+  {
+    "node_index": 3180,
+    "tag": "td",
+    "text": "نظام فهرسة المواضيع الطبية (MeSH): D013662",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0;text-align:right;"
+    }
+  },
+  {
+    "node_index": 3183,
+    "tag": "li",
+    "text": "نظام فهرسة المواضيع الطبية (MeSH): D013662",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3188,
+    "tag": "th",
+    "text": "المعرفات الخارجية",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:12%"
+    }
+  },
+  {
+    "node_index": 3189,
+    "tag": "td",
+    "text": "مكنز المعهد القومي للسرطان (NCI): C178191 نظام اللغة الطبية الموحدة (UMLS CUI): C0452440 المكتبة المركزية القومية في فلورنسا (BNCF): 19198 جستور (JSTOR): tea",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0;text-align:right;"
+    }
+  },
+  {
+    "node_index": 3192,
+    "tag": "li",
+    "text": "مكنز المعهد القومي للسرطان (NCI): C178191",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3194,
+    "tag": "li",
+    "text": "نظام اللغة الطبية الموحدة (UMLS CUI): C0452440",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3197,
+    "tag": "li",
+    "text": "المكتبة المركزية القومية في فلورنسا (BNCF): 19198",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3199,
+    "tag": "li",
+    "text": "جستور (JSTOR): tea",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3210,
+    "tag": "th",
+    "text": "ضبط استنادي",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "col",
+      "class": "navbox-title",
+      "colspan": "2"
+    }
+  },
+  {
+    "node_index": 3217,
+    "tag": "th",
+    "text": "وطنية",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:12%"
+    }
+  },
+  {
+    "node_index": 3218,
+    "tag": "td",
+    "text": "الملف الاستنادي المتكامِل (GND)مكتبة الكونغرس (LCNAF)مكتبة البرلمان القومي الياباني (NDL)قاعدة البيانات الوطنية التشيكية (NLCR AUT)المكتبة القومية الإسرائيلية (J9U)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3221,
+    "tag": "li",
+    "text": "الملف الاستنادي المتكامِل (GND)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3224,
+    "tag": "li",
+    "text": "مكتبة الكونغرس (LCNAF)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3227,
+    "tag": "li",
+    "text": "مكتبة البرلمان القومي الياباني (NDL)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3230,
+    "tag": "li",
+    "text": "قاعدة البيانات الوطنية التشيكية (NLCR AUT)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3234,
+    "tag": "li",
+    "text": "المكتبة القومية الإسرائيلية (J9U)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3238,
+    "tag": "th",
+    "text": "أخرى",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:12%"
+    }
+  },
+  {
+    "node_index": 3239,
+    "tag": "td",
+    "text": "الأراشيف القومية في الولايات المُتحدة (NAID)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3242,
+    "tag": "li",
+    "text": "الأراشيف القومية في الولايات المُتحدة (NAID)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3253,
+    "tag": "th",
+    "text": "عنتمطبخ إنجليزي",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "col",
+      "class": "navbox-title",
+      "colspan": "2"
+    }
+  },
+  {
+    "node_index": 3258,
+    "tag": "li",
+    "text": "ع",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-اعرض"
+    }
+  },
+  {
+    "node_index": 3261,
+    "tag": "li",
+    "text": "ن",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-ناقش"
+    }
+  },
+  {
+    "node_index": 3264,
+    "tag": "li",
+    "text": "ت",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nv-عدل"
+    }
+  },
+  {
+    "node_index": 3270,
+    "tag": "th",
+    "text": "العصر الروماني",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3272,
+    "tag": "td",
+    "text": "أطباق نقانق",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3277,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "أطباق37",
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3278,
+    "tag": "td",
+    "text": "نقانق",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3281,
+    "tag": "li",
+    "text": "نقانق",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3285,
+    "tag": "th",
+    "text": "القرون الوسطىإلى القرن الخامس عشر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3288,
+    "tag": "td",
+    "text": "أمثلة أوتيليس كوكيناريو (ق. 1300) شكل الطبخ (حوالي 1390) أطباق فطيرة التفاح قديد الخنزير كعكة بنبري كعكة الجبن كسترد فطيرة اللعبة كعكة زنجبيل سمك الرنجة فطيرة اللحم المفروم مورتيس فطائر اللحم بودينغ البازلاء فطيرة العصيدة السميكة",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3293,
+    "tag": "th",
+    "text": "أمثلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3294,
+    "tag": "td",
+    "text": "أوتيليس كوكيناريو (ق. 1300) شكل الطبخ (حوالي 1390)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3297,
+    "tag": "li",
+    "text": "أوتيليس كوكيناريو (ق. 1300)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3302,
+    "tag": "li",
+    "text": "شكل الطبخ (حوالي 1390)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3306,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3307,
+    "tag": "td",
+    "text": "فطيرة التفاح قديد الخنزير كعكة بنبري كعكة الجبن كسترد فطيرة اللعبة كعكة زنجبيل سمك الرنجة فطيرة اللحم المفروم مورتيس فطائر اللحم بودينغ البازلاء فطيرة العصيدة السميكة",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3310,
+    "tag": "li",
+    "text": "فطيرة التفاح",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3312,
+    "tag": "li",
+    "text": "قديد الخنزير",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3314,
+    "tag": "li",
+    "text": "كعكة بنبري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3316,
+    "tag": "li",
+    "text": "كعكة الجبن",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3318,
+    "tag": "li",
+    "text": "كسترد",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3320,
+    "tag": "li",
+    "text": "فطيرة اللعبة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3322,
+    "tag": "li",
+    "text": "كعكة زنجبيل",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3324,
+    "tag": "li",
+    "text": "سمك الرنجة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3326,
+    "tag": "li",
+    "text": "فطيرة اللحم المفروم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3328,
+    "tag": "li",
+    "text": "مورتيس",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3330,
+    "tag": "li",
+    "text": "فطائر اللحم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3332,
+    "tag": "li",
+    "text": "بودينغ البازلاء",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3334,
+    "tag": "li",
+    "text": "فطيرة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3336,
+    "tag": "li",
+    "text": "العصيدة السميكة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3340,
+    "tag": "th",
+    "text": "القرن السادس عشر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3341,
+    "tag": "td",
+    "text": "أمثلة ريتشارد بينسون (كتاب الطبخ، 1500) توماس داوسون [لغات أخرى]‏ (جوهرة ربة البيت الصالحة، 1585) أطباق بودينغ أسود فول فطيرة محلاة قريصة سيلابوب ترايفل (بدون جيلي)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3346,
+    "tag": "th",
+    "text": "أمثلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3347,
+    "tag": "td",
+    "text": "ريتشارد بينسون (كتاب الطبخ، 1500) توماس داوسون [لغات أخرى]‏ (جوهرة ربة البيت الصالحة، 1585)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3350,
+    "tag": "li",
+    "text": "ريتشارد بينسون (كتاب الطبخ، 1500)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3354,
+    "tag": "li",
+    "text": "توماس داوسون [لغات أخرى]‏ (جوهرة ربة البيت الصالحة، 1585)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3365,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3366,
+    "tag": "td",
+    "text": "بودينغ أسود فول فطيرة محلاة قريصة سيلابوب ترايفل (بدون جيلي)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3369,
+    "tag": "li",
+    "text": "بودينغ أسود",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3371,
+    "tag": "li",
+    "text": "فول",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3373,
+    "tag": "li",
+    "text": "فطيرة محلاة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3375,
+    "tag": "li",
+    "text": "قريصة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3377,
+    "tag": "li",
+    "text": "سيلابوب",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3379,
+    "tag": "li",
+    "text": "ترايفل (بدون جيلي)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3383,
+    "tag": "th",
+    "text": "القرن السابع عشر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3384,
+    "tag": "td",
+    "text": "أمثلة إلينور فيتيبليس (كتاب الوصفات، 1604) جيرفاس ماركهام (ربة البيت الإنجليزية، 1615) روبرت ماي (الطباخ الماهر، 1660) هانا وولي (الخزانة الملكية أو الخزانة الغنية 1670) جون إيفلين (أسيتاريا: مقال في السلطات 1699) كينيلم ديجبي (الخزانة المفتوحة 1699) أطباق فطيرة باتاليا كعكة الكشمش ملكة البودينغ كعكة إسفنجية بودينغ بركة ساسكس حلو وحامض شاي",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3389,
+    "tag": "th",
+    "text": "أمثلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3390,
+    "tag": "td",
+    "text": "إلينور فيتيبليس (كتاب الوصفات، 1604) جيرفاس ماركهام (ربة البيت الإنجليزية، 1615) روبرت ماي (الطباخ الماهر، 1660) هانا وولي (الخزانة الملكية أو الخزانة الغنية 1670) جون إيفلين (أسيتاريا: مقال في السلطات 1699) كينيلم ديجبي (الخزانة المفتوحة 1699)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3393,
+    "tag": "li",
+    "text": "إلينور فيتيبليس (كتاب الوصفات، 1604)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3397,
+    "tag": "li",
+    "text": "جيرفاس ماركهام (ربة البيت الإنجليزية، 1615)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3401,
+    "tag": "li",
+    "text": "روبرت ماي (الطباخ الماهر، 1660)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3405,
+    "tag": "li",
+    "text": "هانا وولي (الخزانة الملكية أو الخزانة الغنية 1670)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3409,
+    "tag": "li",
+    "text": "جون إيفلين (أسيتاريا: مقال في السلطات 1699)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3413,
+    "tag": "li",
+    "text": "كينيلم ديجبي (الخزانة المفتوحة 1699)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3418,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3419,
+    "tag": "td",
+    "text": "فطيرة باتاليا كعكة الكشمش ملكة البودينغ كعكة إسفنجية بودينغ بركة ساسكس حلو وحامض شاي",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3422,
+    "tag": "li",
+    "text": "فطيرة باتاليا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3424,
+    "tag": "li",
+    "text": "كعكة الكشمش",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3426,
+    "tag": "li",
+    "text": "ملكة البودينغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3428,
+    "tag": "li",
+    "text": "كعكة إسفنجية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3430,
+    "tag": "li",
+    "text": "بودينغ بركة ساسكس",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3432,
+    "tag": "li",
+    "text": "حلو وحامض",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3434,
+    "tag": "li",
+    "text": "شاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3438,
+    "tag": "th",
+    "text": "القرن الثامن عشر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3439,
+    "tag": "td",
+    "text": "أمثلة ماري كيتلبي (مجموعة من أكثر من ثلاثمائة وصفة في الطبخ والطب والجراحة 1714) ماري إيلز (وصفات السيدة ماري إيلز 1718) جون نوت (قاموس الطباخين وصناع الحلويات، 1723) إليزا سميث (ربة البيت الكاملة 1727) هانا غلاس (فن الطبخ بطريقة واضحة وسهلة 1747) آن كوك (الطبخ المهني، 1754) مارثا برادلي (ربة البيت البريطانية 1758) الطبخ البدائي (1767) إليزابيث رافالد (مدبرة البيت الإنجليزية المتمرسة 1769) ريتشارد بريغس (فن الطبخ الإنجليزي 1788) ويليام أوغستوس هيندرسون (مرشد مدبرة البيت 1791) أطباق بودينغ الخبز والزبدة بودينغ عيد الميلاد كتنية كاري في المملكة المتحدة فطيرة الكوخ أو الراعي رام نيكي كمبرلاند كعكة إيكلز ثعابين البحر المهلمة الأرنب المطبوخ في إناء كتشب مرملاد باركين بيكاليلي فطيرة لحم الخنزير لحم البقر المشوي شطيرة سكوز بودينغ الشحم الضفدع في الحفرة ترايفل (مع الجيلي) ريربيت الويلزية بودينج يوركشاير",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3444,
+    "tag": "th",
+    "text": "أمثلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3445,
+    "tag": "td",
+    "text": "ماري كيتلبي (مجموعة من أكثر من ثلاثمائة وصفة في الطبخ والطب والجراحة 1714) ماري إيلز (وصفات السيدة ماري إيلز 1718) جون نوت (قاموس الطباخين وصناع الحلويات، 1723) إليزا سميث (ربة البيت الكاملة 1727) هانا غلاس (فن الطبخ بطريقة واضحة وسهلة 1747) آن كوك (الطبخ المهني، 1754) مارثا برادلي (ربة البيت البريطانية 1758) الطبخ البدائي (1767) إليزابيث رافالد (مدبرة البيت الإنجليزية المتمرسة 1769) ريتشارد بريغس (فن الطبخ الإنجليزي 1788) ويليام أوغستوس هيندرسون (مرشد مدبرة البيت 1791)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3448,
+    "tag": "li",
+    "text": "ماري كيتلبي (مجموعة من أكثر من ثلاثمائة وصفة في الطبخ والطب والجراحة 1714)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3451,
+    "tag": "li",
+    "text": "ماري إيلز (وصفات السيدة ماري إيلز 1718)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3455,
+    "tag": "li",
+    "text": "جون نوت (قاموس الطباخين وصناع الحلويات، 1723)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3458,
+    "tag": "li",
+    "text": "إليزا سميث (ربة البيت الكاملة 1727)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3462,
+    "tag": "li",
+    "text": "هانا غلاس (فن الطبخ بطريقة واضحة وسهلة 1747)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3466,
+    "tag": "li",
+    "text": "آن كوك (الطبخ المهني، 1754)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3469,
+    "tag": "li",
+    "text": "مارثا برادلي (ربة البيت البريطانية 1758)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3473,
+    "tag": "li",
+    "text": "الطبخ البدائي (1767)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3476,
+    "tag": "li",
+    "text": "إليزابيث رافالد (مدبرة البيت الإنجليزية المتمرسة 1769)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3480,
+    "tag": "li",
+    "text": "ريتشارد بريغس (فن الطبخ الإنجليزي 1788)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3483,
+    "tag": "li",
+    "text": "ويليام أوغستوس هيندرسون (مرشد مدبرة البيت 1791)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3487,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3488,
+    "tag": "td",
+    "text": "بودينغ الخبز والزبدة بودينغ عيد الميلاد كتنية كاري في المملكة المتحدة فطيرة الكوخ أو الراعي رام نيكي كمبرلاند كعكة إيكلز ثعابين البحر المهلمة الأرنب المطبوخ في إناء كتشب مرملاد باركين بيكاليلي فطيرة لحم الخنزير لحم البقر المشوي شطيرة سكوز بودينغ الشحم الضفدع في الحفرة ترايفل (مع الجيلي) ريربيت الويلزية بودينج يوركشاير",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3491,
+    "tag": "li",
+    "text": "بودينغ الخبز والزبدة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3493,
+    "tag": "li",
+    "text": "بودينغ عيد الميلاد",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3495,
+    "tag": "li",
+    "text": "كتنية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3497,
+    "tag": "li",
+    "text": "كاري في المملكة المتحدة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3500,
+    "tag": "li",
+    "text": "في المملكة المتحدة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3502,
+    "tag": "li",
+    "text": "فطيرة الكوخ أو الراعي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3504,
+    "tag": "li",
+    "text": "رام نيكي كمبرلاند",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3506,
+    "tag": "li",
+    "text": "كعكة إيكلز",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3508,
+    "tag": "li",
+    "text": "ثعابين البحر المهلمة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3510,
+    "tag": "li",
+    "text": "الأرنب المطبوخ في إناء",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3512,
+    "tag": "li",
+    "text": "كتشب",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3514,
+    "tag": "li",
+    "text": "مرملاد",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3516,
+    "tag": "li",
+    "text": "باركين",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3518,
+    "tag": "li",
+    "text": "بيكاليلي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3520,
+    "tag": "li",
+    "text": "فطيرة لحم الخنزير",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3522,
+    "tag": "li",
+    "text": "لحم البقر المشوي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3524,
+    "tag": "li",
+    "text": "شطيرة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3526,
+    "tag": "li",
+    "text": "سكوز",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3528,
+    "tag": "li",
+    "text": "بودينغ الشحم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3530,
+    "tag": "li",
+    "text": "الضفدع في الحفرة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3532,
+    "tag": "li",
+    "text": "ترايفل (مع الجيلي)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3534,
+    "tag": "li",
+    "text": "ريربيت الويلزية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3536,
+    "tag": "li",
+    "text": "بودينج يوركشاير",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3540,
+    "tag": "th",
+    "text": "القرن التاسع عشر",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3541,
+    "tag": "td",
+    "text": "أمثلة ماريا راندل (نظام جديد للطبخ المنزلي 1806) مارثا بروذرتون (طبخ الخضار 1812) إيليزا أكتون (الطبخ الحديث للأسر الخاصة 1845) تشارلز إلمي فرانكاتيلي (الطبخ الحديث 1846) إيزابيلا بيتون (كتاب السيدة بيتون لإدارة المنزل 1861) أطباق بطاطا وكرنب قرنبيط بالجبنة كوبلر كلى ديفلد فاجوت سمك ورقائق بطاطا الإفطار الإنجليزي الكامل صلصة إتش بي كوز مثلجات قدر لانكشاير الساخن الجمبري المقدم بالوعاء لفائف السجق بودينغ اللحم والكلى كعكة بتنبرغ فوضى إيتون بودينغ حواء لفافة المربى كعكة دهن الخنزير كعكة مديرة بودينغ الصيف شوربة وندسور صلصة ورشستر",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3546,
+    "tag": "th",
+    "text": "أمثلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3547,
+    "tag": "td",
+    "text": "ماريا راندل (نظام جديد للطبخ المنزلي 1806) مارثا بروذرتون (طبخ الخضار 1812) إيليزا أكتون (الطبخ الحديث للأسر الخاصة 1845) تشارلز إلمي فرانكاتيلي (الطبخ الحديث 1846) إيزابيلا بيتون (كتاب السيدة بيتون لإدارة المنزل 1861)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3550,
+    "tag": "li",
+    "text": "ماريا راندل (نظام جديد للطبخ المنزلي 1806)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3554,
+    "tag": "li",
+    "text": "مارثا بروذرتون (طبخ الخضار 1812)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3558,
+    "tag": "li",
+    "text": "إيليزا أكتون (الطبخ الحديث للأسر الخاصة 1845)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3562,
+    "tag": "li",
+    "text": "تشارلز إلمي فرانكاتيلي (الطبخ الحديث 1846)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3566,
+    "tag": "li",
+    "text": "إيزابيلا بيتون (كتاب السيدة بيتون لإدارة المنزل 1861)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3571,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3572,
+    "tag": "td",
+    "text": "بطاطا وكرنب قرنبيط بالجبنة كوبلر كلى ديفلد فاجوت سمك ورقائق بطاطا الإفطار الإنجليزي الكامل صلصة إتش بي كوز مثلجات قدر لانكشاير الساخن الجمبري المقدم بالوعاء لفائف السجق بودينغ اللحم والكلى كعكة بتنبرغ فوضى إيتون بودينغ حواء لفافة المربى كعكة دهن الخنزير كعكة مديرة بودينغ الصيف شوربة وندسور صلصة ورشستر",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3575,
+    "tag": "li",
+    "text": "بطاطا وكرنب",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3577,
+    "tag": "li",
+    "text": "قرنبيط بالجبنة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3579,
+    "tag": "li",
+    "text": "كوبلر",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3581,
+    "tag": "li",
+    "text": "كلى ديفلد",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3583,
+    "tag": "li",
+    "text": "فاجوت",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3585,
+    "tag": "li",
+    "text": "سمك ورقائق بطاطا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3587,
+    "tag": "li",
+    "text": "الإفطار الإنجليزي الكامل",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3589,
+    "tag": "li",
+    "text": "صلصة إتش بي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3591,
+    "tag": "li",
+    "text": "كوز مثلجات",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3593,
+    "tag": "li",
+    "text": "قدر لانكشاير الساخن",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3595,
+    "tag": "li",
+    "text": "الجمبري المقدم بالوعاء",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3597,
+    "tag": "li",
+    "text": "لفائف السجق",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3599,
+    "tag": "li",
+    "text": "بودينغ اللحم والكلى",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3601,
+    "tag": "li",
+    "text": "كعكة بتنبرغ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3603,
+    "tag": "li",
+    "text": "فوضى إيتون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3605,
+    "tag": "li",
+    "text": "بودينغ حواء",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3607,
+    "tag": "li",
+    "text": "لفافة المربى",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3609,
+    "tag": "li",
+    "text": "كعكة دهن الخنزير",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3611,
+    "tag": "li",
+    "text": "كعكة مديرة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3613,
+    "tag": "li",
+    "text": "بودينغ الصيف",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3615,
+    "tag": "li",
+    "text": "شوربة وندسور",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3617,
+    "tag": "li",
+    "text": "صلصة ورشستر",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3621,
+    "tag": "th",
+    "text": "القرن العشرون",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3622,
+    "tag": "td",
+    "text": "أمثلة فلورنس بيتي إليزابيث ديفيد (كتاب طعام البحر المتوسط 1950) دوروثي هارتلي (الطعام في إنجلترا 1954) كونستانس سبري فاني كرادوك مارغريت باتن جين جريجسون ديليا سميث ريك شتاين نايجل سلاتر كيث فلويد ماركو بيير وايت نايجيلا لاوسون جيمي أوليفر فيرغوس هندرسون (الوحش الكامل 1999) غوردون رامزي غاري رودس ماري بيري أطباق تارت بيكويل لحم البقر ويلينغتون كعكة الجزرة دجاج تكة مصالحة دجاج التتويج كرامبل مجد نيكربوكر غداء الحارث كريمة السلطة بودينغ التوفي اللزج",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3627,
+    "tag": "th",
+    "text": "أمثلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3628,
+    "tag": "td",
+    "text": "فلورنس بيتي إليزابيث ديفيد (كتاب طعام البحر المتوسط 1950) دوروثي هارتلي (الطعام في إنجلترا 1954) كونستانس سبري فاني كرادوك مارغريت باتن جين جريجسون ديليا سميث ريك شتاين نايجل سلاتر كيث فلويد ماركو بيير وايت نايجيلا لاوسون جيمي أوليفر فيرغوس هندرسون (الوحش الكامل 1999) غوردون رامزي غاري رودس ماري بيري",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3631,
+    "tag": "li",
+    "text": "فلورنس بيتي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3633,
+    "tag": "li",
+    "text": "إليزابيث ديفيد (كتاب طعام البحر المتوسط 1950)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3637,
+    "tag": "li",
+    "text": "دوروثي هارتلي (الطعام في إنجلترا 1954)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3641,
+    "tag": "li",
+    "text": "كونستانس سبري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3643,
+    "tag": "li",
+    "text": "فاني كرادوك",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3645,
+    "tag": "li",
+    "text": "مارغريت باتن",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3647,
+    "tag": "li",
+    "text": "جين جريجسون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3649,
+    "tag": "li",
+    "text": "ديليا سميث",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3651,
+    "tag": "li",
+    "text": "ريك شتاين",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3653,
+    "tag": "li",
+    "text": "نايجل سلاتر",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3655,
+    "tag": "li",
+    "text": "كيث فلويد",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3657,
+    "tag": "li",
+    "text": "ماركو بيير وايت",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3659,
+    "tag": "li",
+    "text": "نايجيلا لاوسون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3661,
+    "tag": "li",
+    "text": "جيمي أوليفر",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3663,
+    "tag": "li",
+    "text": "فيرغوس هندرسون (الوحش الكامل 1999)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3667,
+    "tag": "li",
+    "text": "غوردون رامزي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3669,
+    "tag": "li",
+    "text": "غاري رودس",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3671,
+    "tag": "li",
+    "text": "ماري بيري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3674,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3675,
+    "tag": "td",
+    "text": "تارت بيكويل لحم البقر ويلينغتون كعكة الجزرة دجاج تكة مصالحة دجاج التتويج كرامبل مجد نيكربوكر غداء الحارث كريمة السلطة بودينغ التوفي اللزج",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3678,
+    "tag": "li",
+    "text": "تارت بيكويل",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3680,
+    "tag": "li",
+    "text": "لحم البقر ويلينغتون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3682,
+    "tag": "li",
+    "text": "كعكة الجزرة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3684,
+    "tag": "li",
+    "text": "دجاج تكة مصالحة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3686,
+    "tag": "li",
+    "text": "دجاج التتويج",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3688,
+    "tag": "li",
+    "text": "كرامبل",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3690,
+    "tag": "li",
+    "text": "مجد نيكربوكر",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3692,
+    "tag": "li",
+    "text": "غداء الحارث",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3694,
+    "tag": "li",
+    "text": "كريمة السلطة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3696,
+    "tag": "li",
+    "text": "بودينغ التوفي اللزج",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3700,
+    "tag": "th",
+    "text": "القرن الحادي والعشرون",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3701,
+    "tag": "td",
+    "text": "أمثلة هيستون بلومنتال (البطة السمينة) ليزي كولينغهام هيو فيرنلي-ويتنغستول (كوخ النهر) راشيل كو ميشيل رو الابن (لو غافروش) أنتوني وورال تومسون كلاريسا ديكسون رايت (تاريخ الطعام الإنجليزي 2011) أطباق كيش التتويج بودينغ البلاتين",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3706,
+    "tag": "th",
+    "text": "أمثلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3707,
+    "tag": "td",
+    "text": "هيستون بلومنتال (البطة السمينة) ليزي كولينغهام هيو فيرنلي-ويتنغستول (كوخ النهر) راشيل كو ميشيل رو الابن (لو غافروش) أنتوني وورال تومسون كلاريسا ديكسون رايت (تاريخ الطعام الإنجليزي 2011)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3710,
+    "tag": "li",
+    "text": "هيستون بلومنتال (البطة السمينة)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3713,
+    "tag": "li",
+    "text": "ليزي كولينغهام",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3715,
+    "tag": "li",
+    "text": "هيو فيرنلي-ويتنغستول (كوخ النهر)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3718,
+    "tag": "li",
+    "text": "راشيل كو",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3720,
+    "tag": "li",
+    "text": "ميشيل رو الابن (لو غافروش)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3723,
+    "tag": "li",
+    "text": "أنتوني وورال تومسون",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3725,
+    "tag": "li",
+    "text": "كلاريسا ديكسون رايت (تاريخ الطعام الإنجليزي 2011)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3730,
+    "tag": "th",
+    "text": "أطباق",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:6em"
+    }
+  },
+  {
+    "node_index": 3731,
+    "tag": "td",
+    "text": "كيش التتويج بودينغ البلاتين",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-odd",
+      "style": "padding:0"
+    }
+  },
+  {
+    "node_index": 3734,
+    "tag": "li",
+    "text": "كيش التتويج",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3736,
+    "tag": "li",
+    "text": "بودينغ البلاتين",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3740,
+    "tag": "th",
+    "text": "ذات صلة",
+    "label": "unreviewed",
+    "formatting": {
+      "scope": "row",
+      "class": "navbox-group",
+      "style": "width:1%"
+    }
+  },
+  {
+    "node_index": 3741,
+    "tag": "td",
+    "text": "قائمة الأطباق الإنجليزية قائمة الأجبان الإنجليزية قائمة البودينغ المالح قائمة البودينغ الحلو التقنين في المملكة المتحدة",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "navbox-list-with-group navbox-list navbox-even hlist",
+      "style": "width:100%;padding:0"
+    }
+  },
+  {
+    "node_index": 3744,
+    "tag": "li",
+    "text": "قائمة الأطباق الإنجليزية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3746,
+    "tag": "li",
+    "text": "قائمة الأجبان الإنجليزية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3748,
+    "tag": "li",
+    "text": "قائمة البودينغ المالح",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3750,
+    "tag": "li",
+    "text": "قائمة البودينغ الحلو",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3752,
+    "tag": "li",
+    "text": "التقنين في المملكة المتحدة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3760,
+    "tag": "li",
+    "text": "بوابة آسيا",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bandeau-portail-element"
+    }
+  },
+  {
+    "node_index": 3767,
+    "tag": "li",
+    "text": "بوابة الصين",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bandeau-portail-element"
+    }
+  },
+  {
+    "node_index": 3774,
+    "tag": "li",
+    "text": "بوابة علم النبات",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bandeau-portail-element"
+    }
+  },
+  {
+    "node_index": 3781,
+    "tag": "li",
+    "text": "بوابة مشروبات",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bandeau-portail-element"
+    }
+  },
+  {
+    "node_index": 3809,
+    "tag": "li",
+    "text": "شاي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3811,
+    "tag": "li",
+    "text": "اكتشافات صينية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3813,
+    "tag": "li",
+    "text": "جنوب شرق آسيا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3815,
+    "tag": "li",
+    "text": "دخيل صيني",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3817,
+    "tag": "li",
+    "text": "دخيل فارسي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3819,
+    "tag": "li",
+    "text": "شرق آسيا",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3821,
+    "tag": "li",
+    "text": "محاصيل زراعية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3823,
+    "tag": "li",
+    "text": "مطبخ صيني",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3825,
+    "tag": "li",
+    "text": "مطبخ فكتوري",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3827,
+    "tag": "li",
+    "text": "مطبخ هندي",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3829,
+    "tag": "li",
+    "text": "مطبخ ياباني",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3831,
+    "tag": "li",
+    "text": "منبهات",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3833,
+    "tag": "li",
+    "text": "منبهات فطرية وعشبية",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3837,
+    "tag": "li",
+    "text": "مقالات تستعمل قوالب معلومات",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3839,
+    "tag": "li",
+    "text": "صفحات تستخدم خاصية P18",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3841,
+    "tag": "li",
+    "text": "صفحات بها بيانات ويكي بيانات",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3843,
+    "tag": "li",
+    "text": "صفحات تستخدم خاصية P1582",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3845,
+    "tag": "li",
+    "text": "صفحات بها وصلات إنترويكي 2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3847,
+    "tag": "li",
+    "text": "صفحات تستخدم خاصية P279",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3849,
+    "tag": "li",
+    "text": "صفحات تستخدم خاصية P527",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3851,
+    "tag": "li",
+    "text": "صيانة الاستشهاد: استشهادات بمسارات غير مؤرشفة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3853,
+    "tag": "li",
+    "text": "الاستشهاد بمصادر باللغة الإنجليزية (en)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3855,
+    "tag": "li",
+    "text": "صيانة الاستشهاد: دوي مجاني غير معلم",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3857,
+    "tag": "li",
+    "text": "أخطاء الاستشهاد: التاريخ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3859,
+    "tag": "li",
+    "text": "صيانة الاستشهاد: رقم المقال على أنه رقم صفحة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3861,
+    "tag": "li",
+    "text": "الاستشهاد بمصادر باللغة الإنجليزية الأمريكية (en-us)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3863,
+    "tag": "li",
+    "text": "أخطاء الاستشهاد: دورية مفقودة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3865,
+    "tag": "li",
+    "text": "صيانة الاستشهاد: BOT: original URL status unknown",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3867,
+    "tag": "li",
+    "text": "مصادر طبية من ويكي بيانات",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3869,
+    "tag": "li",
+    "text": "بوابة آسيا/مقالات متعلقة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3871,
+    "tag": "li",
+    "text": "بوابة الصين/مقالات متعلقة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3873,
+    "tag": "li",
+    "text": "بوابة علم النبات/مقالات متعلقة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3875,
+    "tag": "li",
+    "text": "بوابة مشروبات/مقالات متعلقة",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 3880,
+    "tag": "li",
+    "text": "آخر تعديل لهذه الصفحة كان يوم 24 يوليو 2026، الساعة 00:49.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-lastmod"
+    }
+  },
+  {
+    "node_index": 3881,
+    "tag": "li",
+    "text": "تمت معالجة الصفحة باستخدام Parsoid.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-renderedwith"
+    }
+  },
+  {
+    "node_index": 3883,
+    "tag": "li",
+    "text": "النصوص متاحة تحت رخصة المشاع الإبداعي الملزمة بنسبة العمل لمؤلفه وبترخيص الأعمال المشتقة بالمثل 4.0؛ قد تُطبّق شروط إضافية. استخدامُك هذا الموقع هو موافقةٌ على شروط الاستخدام وسياسة الخصوصية. ويكيبيديا ® هي علامة تجارية مسجلة لمؤسسة ويكيميديا، وهي منظمة غير ربحية.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-copyright"
+    }
+  },
+  {
+    "node_index": 3889,
+    "tag": "li",
+    "text": "سياسة الخصوصية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-privacy"
+    }
+  },
+  {
+    "node_index": 3891,
+    "tag": "li",
+    "text": "حول ويكيبيديا",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-about"
+    }
+  },
+  {
+    "node_index": 3893,
+    "tag": "li",
+    "text": "إخلاء مسؤولية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-disclaimers"
+    }
+  },
+  {
+    "node_index": 3895,
+    "tag": "li",
+    "text": "جهات الاتصال المخصصة للأغراض القانونية وللسلامة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-legal-safety-contacts"
+    }
+  },
+  {
+    "node_index": 3897,
+    "tag": "li",
+    "text": "القواعد السلوكية",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-wm-codeofconduct"
+    }
+  },
+  {
+    "node_index": 3899,
+    "tag": "li",
+    "text": "المطورون",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-developers"
+    }
+  },
+  {
+    "node_index": 3901,
+    "tag": "li",
+    "text": "إحصائيات",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-statslink"
+    }
+  },
+  {
+    "node_index": 3903,
+    "tag": "li",
+    "text": "بيان تعريف الارتباطات",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-cookiestatement"
+    }
+  },
+  {
+    "node_index": 3905,
+    "tag": "li",
+    "text": "نسخة للأجهزة المحمولة",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-mobileview"
+    }
+  }
+]

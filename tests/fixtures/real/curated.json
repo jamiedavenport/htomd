@@ -1,0 +1,224 @@
+[
+  {
+    "id": "energy-gov-01",
+    "title": "DOE Explains...Quantum Mechanics",
+    "include": [
+      "# DOE Explains...Quantum Mechanics",
+      "quantum"
+    ],
+    "exclude": [
+      "Committed to Restoring America",
+      "Follow Us Link"
+    ]
+  },
+  {
+    "id": "energy-gov-02",
+    "title": "DOE Explains...Particle Accelerators",
+    "include": [
+      "# DOE Explains...Particle Accelerators",
+      "accelerators"
+    ],
+    "exclude": [
+      "Committed to Restoring America"
+    ]
+  },
+  {
+    "id": "energy-gov-03",
+    "title": "DOE Explains...Quantum Computing",
+    "include": [
+      "# DOE Explains...Quantum Computing",
+      "quantum"
+    ],
+    "exclude": [
+      "Committed to Restoring America"
+    ]
+  },
+  {
+    "id": "energy-gov-04",
+    "title": "DOE Explains...Nuclei",
+    "include": [
+      "# DOE Explains...Nuclei",
+      "nuclei"
+    ],
+    "exclude": [
+      "Committed to Restoring America"
+    ]
+  },
+  {
+    "id": "energy-gov-05",
+    "title": "DOE Explains...Neutrons",
+    "include": [
+      "# DOE Explains...Neutrons",
+      "neutrons"
+    ],
+    "exclude": [
+      "Committed to Restoring America"
+    ]
+  },
+  {
+    "id": "medlineplus-gov-01",
+    "title": "What is DNA?",
+    "include": [
+      "# What is DNA?",
+      "hereditary material"
+    ],
+    "exclude": [
+      "Subscribe to RSS Connect with NLM"
+    ]
+  },
+  {
+    "id": "medlineplus-gov-02",
+    "title": "What is a gene?",
+    "include": [
+      "# What is a gene?",
+      "heredity"
+    ],
+    "exclude": [
+      "Subscribe to RSS Connect with NLM"
+    ]
+  },
+  {
+    "id": "medlineplus-gov-03",
+    "title": "What is a chromosome?",
+    "include": [
+      "# What is a chromosome?",
+      "nucleus"
+    ],
+    "exclude": [
+      "Subscribe to RSS Connect with NLM"
+    ]
+  },
+  {
+    "id": "medlineplus-gov-04",
+    "title": "What is a cell?",
+    "include": [
+      "# What is a cell?",
+      "building blocks"
+    ],
+    "exclude": [
+      "Subscribe to RSS Connect with NLM"
+    ]
+  },
+  {
+    "id": "medlineplus-gov-05",
+    "title": "How many chromosomes do people have?",
+    "include": [
+      "# How many chromosomes do people have?",
+      "23 pairs"
+    ],
+    "exclude": [
+      "Subscribe to RSS Connect with NLM"
+    ]
+  },
+  {
+    "id": "python-org-01",
+    "title": "3. An Informal Introduction to Python",
+    "include": [
+      "An Informal Introduction to Python",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "python-org-02",
+    "title": "html.parser — Simple HTML and XHTML parser",
+    "include": [
+      "HTML and XHTML parser",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "python-org-03",
+    "title": "urllib.parse — Parse URLs into components",
+    "include": [
+      "Parse URLs into components",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "djangoproject-com-01",
+    "title": "Django at a glance",
+    "include": [
+      "# Django at a glance",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "djangoproject-com-02",
+    "title": "URL dispatcher",
+    "include": [
+      "# URL dispatcher",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "djangoproject-com-03",
+    "title": "Templates",
+    "include": [
+      "# Templates",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "palletsprojects-com-01",
+    "title": "Quickstart",
+    "include": [
+      "# Quickstart",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "palletsprojects-com-02",
+    "title": "Project Layout",
+    "include": [
+      "# Project Layout",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "palletsprojects-com-03",
+    "title": "Uploading Files",
+    "include": [
+      "# Uploading Files",
+      "```"
+    ],
+    "exclude": [
+      "[¶]"
+    ]
+  },
+  {
+    "id": "nps-gov-01",
+    "title": "Hot Springs",
+    "include": [
+      "# Hot Springs",
+      "hot springs"
+    ],
+    "exclude": [
+      "Official websites use .gov",
+      "### Stay Connected"
+    ]
+  }
+]

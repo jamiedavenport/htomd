@@ -1,0 +1,2016 @@
+[
+  {
+    "node_index": 72,
+    "tag": "p",
+    "text": "SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "title logo__title"
+    }
+  },
+  {
+    "node_index": 78,
+    "tag": "li",
+    "text": "Installing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "Building from source",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 86,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "System Settings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 106,
+    "tag": "li",
+    "text": "Light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Dark",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 118,
+    "tag": "li",
+    "text": "Scientific Python Forum",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Installing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "Building from source",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 141,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "System Settings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 161,
+    "tag": "li",
+    "text": "Light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Dark",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "Scientific Python Forum",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "p",
+    "text": "Section Navigation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bd-links__title",
+      "role": "heading",
+      "aria-level": "1"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "p",
+    "text": "User guide",
+    "label": "unreviewed",
+    "formatting": {
+      "aria-level": "2",
+      "class": "caption",
+      "role": "heading"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Discrete Fourier Transforms (scipy.fft)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Integration (scipy.integrate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Interpolation (scipy.interpolate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 current active"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "File IO (scipy.io)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Linear Algebra (scipy.linalg)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Multidimensional Image Processing (scipy.ndimage)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "Optimization (scipy.optimize)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "Signal Processing (scipy.signal)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Sparse Arrays (scipy.sparse)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Spatial Data Structures and Algorithms (scipy.spatial)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "Special Functions (scipy.special)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 236,
+    "tag": "li",
+    "text": "Statistics (scipy.stats)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Sparse eigenvalue problems with ARPACK",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Compressed Sparse Graph Routines (scipy.sparse.csgraph)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Parallel execution support in SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "Thread Safety in SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "SciPy User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Interpolation (scipy.interpolate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item active",
+      "aria-current": "page"
+    }
+  },
+  {
+    "node_index": 277,
+    "tag": "h1",
+    "text": "Interpolation (scipy.interpolate)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 282,
+    "tag": "p",
+    "text": "There are several general facilities available in SciPy for interpolation and smoothing for data in 1, 2, and higher dimensions. The choice of a specific interpolation routine depends on the data: whether it is one-dimensional, is given on a structured grid, or is unstructured. One other factor is the desired smoothness of the interpolator. In short, routines recommended for interpolation can be summarized as follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "th",
+    "text": "kind",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 290,
+    "tag": "p",
+    "text": "kind",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 292,
+    "tag": "th",
+    "text": "routine",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 293,
+    "tag": "p",
+    "text": "routine",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "th",
+    "text": "continuity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 296,
+    "tag": "p",
+    "text": "continuity",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 298,
+    "tag": "th",
+    "text": "comment",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "head"
+    }
+  },
+  {
+    "node_index": 299,
+    "tag": "p",
+    "text": "comment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "td",
+    "text": "1D",
+    "label": "unreviewed",
+    "formatting": {
+      "rowspan": "5"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "p",
+    "text": "1D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 305,
+    "tag": "td",
+    "text": "linear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 306,
+    "tag": "p",
+    "text": "linear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 307,
+    "tag": "td",
+    "text": "numpy.interp",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 308,
+    "tag": "p",
+    "text": "numpy.interp",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 312,
+    "tag": "td",
+    "text": "piecewise continuous",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "p",
+    "text": "piecewise continuous",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 314,
+    "tag": "td",
+    "text": "Alternatively, make_interp_spline(..., k=1)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 315,
+    "tag": "p",
+    "text": "Alternatively, make_interp_spline(..., k=1)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 320,
+    "tag": "td",
+    "text": "cubic spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 321,
+    "tag": "p",
+    "text": "cubic spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 322,
+    "tag": "td",
+    "text": "CubicSpline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 323,
+    "tag": "p",
+    "text": "CubicSpline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 327,
+    "tag": "td",
+    "text": "2nd derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 328,
+    "tag": "p",
+    "text": "2nd derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 331,
+    "tag": "td",
+    "text": "monotone cubic spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 332,
+    "tag": "p",
+    "text": "monotone cubic spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 333,
+    "tag": "td",
+    "text": "PchipInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 334,
+    "tag": "p",
+    "text": "PchipInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 338,
+    "tag": "td",
+    "text": "1st derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 339,
+    "tag": "p",
+    "text": "1st derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 340,
+    "tag": "td",
+    "text": "non-overshooting",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 341,
+    "tag": "p",
+    "text": "non-overshooting",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 343,
+    "tag": "td",
+    "text": "non-cubic spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 344,
+    "tag": "p",
+    "text": "non-cubic spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 345,
+    "tag": "td",
+    "text": "make_interp_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 346,
+    "tag": "p",
+    "text": "make_interp_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "td",
+    "text": "(k-1)th derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 351,
+    "tag": "p",
+    "text": "(k-1)th derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 352,
+    "tag": "td",
+    "text": "k=3 is equivalent to CubicSpline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 353,
+    "tag": "p",
+    "text": "k=3 is equivalent to CubicSpline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 360,
+    "tag": "td",
+    "text": "nearest",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 361,
+    "tag": "p",
+    "text": "nearest",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 362,
+    "tag": "td",
+    "text": "interp1d",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 363,
+    "tag": "p",
+    "text": "interp1d",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 368,
+    "tag": "td",
+    "text": "kind=’nearest’, ‘previous’, ‘next’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 369,
+    "tag": "p",
+    "text": "kind=’nearest’, ‘previous’, ‘next’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 371,
+    "tag": "td",
+    "text": "N-D curve",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 372,
+    "tag": "p",
+    "text": "N-D curve",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 373,
+    "tag": "td",
+    "text": "nearest, linear, spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 374,
+    "tag": "p",
+    "text": "nearest, linear, spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 375,
+    "tag": "td",
+    "text": "make_interp_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 376,
+    "tag": "p",
+    "text": "make_interp_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 380,
+    "tag": "td",
+    "text": "(k-1)th derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 381,
+    "tag": "p",
+    "text": "(k-1)th derivative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 382,
+    "tag": "td",
+    "text": "use N-dim y array",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 383,
+    "tag": "p",
+    "text": "use N-dim y array",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 386,
+    "tag": "td",
+    "text": "N-D regular (rectilinear) grid",
+    "label": "unreviewed",
+    "formatting": {
+      "rowspan": "4"
+    }
+  },
+  {
+    "node_index": 387,
+    "tag": "p",
+    "text": "N-D regular (rectilinear) grid",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 389,
+    "tag": "td",
+    "text": "nearest",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 390,
+    "tag": "p",
+    "text": "nearest",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "td",
+    "text": "RegularGridInterpolator",
+    "label": "unreviewed",
+    "formatting": {
+      "rowspan": "4"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "p",
+    "text": "RegularGridInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "td",
+    "text": "method=’nearest’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 398,
+    "tag": "p",
+    "text": "method=’nearest’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 400,
+    "tag": "td",
+    "text": "linear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 401,
+    "tag": "p",
+    "text": "linear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 402,
+    "tag": "td",
+    "text": "method=’linear’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 403,
+    "tag": "p",
+    "text": "method=’linear’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 405,
+    "tag": "td",
+    "text": "splines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "p",
+    "text": "splines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "td",
+    "text": "2nd derivatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 408,
+    "tag": "p",
+    "text": "2nd derivatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 409,
+    "tag": "td",
+    "text": "method=’cubic’, ‘quintic’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 410,
+    "tag": "p",
+    "text": "method=’cubic’, ‘quintic’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 412,
+    "tag": "td",
+    "text": "monotone splines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 413,
+    "tag": "p",
+    "text": "monotone splines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 414,
+    "tag": "td",
+    "text": "1st derivatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "1st derivatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "td",
+    "text": "method=’pchip’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 417,
+    "tag": "p",
+    "text": "method=’pchip’",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 419,
+    "tag": "td",
+    "text": "N-D scattered",
+    "label": "unreviewed",
+    "formatting": {
+      "rowspan": "4"
+    }
+  },
+  {
+    "node_index": 420,
+    "tag": "p",
+    "text": "N-D scattered",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 421,
+    "tag": "td",
+    "text": "nearest",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 422,
+    "tag": "p",
+    "text": "nearest",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 423,
+    "tag": "td",
+    "text": "NearestNDInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "NearestNDInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 429,
+    "tag": "td",
+    "text": "alias: griddata",
+    "label": "unreviewed",
+    "formatting": {
+      "rowspan": "3"
+    }
+  },
+  {
+    "node_index": 430,
+    "tag": "p",
+    "text": "alias: griddata",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 435,
+    "tag": "td",
+    "text": "linear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 436,
+    "tag": "p",
+    "text": "linear",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 437,
+    "tag": "td",
+    "text": "LinearNDInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 438,
+    "tag": "p",
+    "text": "LinearNDInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 443,
+    "tag": "td",
+    "text": "cubic (2D only)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 444,
+    "tag": "p",
+    "text": "cubic (2D only)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 445,
+    "tag": "td",
+    "text": "CloughTocher2DInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 446,
+    "tag": "p",
+    "text": "CloughTocher2DInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 450,
+    "tag": "td",
+    "text": "1st derivatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 451,
+    "tag": "p",
+    "text": "1st derivatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "td",
+    "text": "radial basis function",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 454,
+    "tag": "p",
+    "text": "radial basis function",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 455,
+    "tag": "td",
+    "text": "RBFInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 456,
+    "tag": "p",
+    "text": "RBFInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 463,
+    "tag": "h2",
+    "text": "Smoothing and approximation of data#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 469,
+    "tag": "td",
+    "text": "1D spline functions",
+    "label": "unreviewed",
+    "formatting": {
+      "rowspan": "2"
+    }
+  },
+  {
+    "node_index": 470,
+    "tag": "p",
+    "text": "1D spline functions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 471,
+    "tag": "td",
+    "text": "make_smoothing_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 472,
+    "tag": "p",
+    "text": "make_smoothing_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 476,
+    "tag": "td",
+    "text": "classic smoothing splines, GCV penalty",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 477,
+    "tag": "p",
+    "text": "classic smoothing splines, GCV penalty",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 479,
+    "tag": "td",
+    "text": "make_splrep",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 480,
+    "tag": "p",
+    "text": "make_splrep",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 484,
+    "tag": "td",
+    "text": "automated/semi-automated knot selection",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 485,
+    "tag": "p",
+    "text": "automated/semi-automated knot selection",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 487,
+    "tag": "td",
+    "text": "spine curves in N-D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "p",
+    "text": "spine curves in N-D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 489,
+    "tag": "td",
+    "text": "make_splprep",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 490,
+    "tag": "p",
+    "text": "make_splprep",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 496,
+    "tag": "td",
+    "text": "unconstrained least squares spline fit",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 497,
+    "tag": "p",
+    "text": "unconstrained least squares spline fit",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 498,
+    "tag": "td",
+    "text": "make_lsq_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 499,
+    "tag": "p",
+    "text": "make_lsq_spline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 505,
+    "tag": "td",
+    "text": "2D smoothing surfaces",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 506,
+    "tag": "p",
+    "text": "2D smoothing surfaces",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 507,
+    "tag": "td",
+    "text": "bisplrep",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 508,
+    "tag": "p",
+    "text": "bisplrep",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 512,
+    "tag": "td",
+    "text": "scattered data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 513,
+    "tag": "p",
+    "text": "scattered data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 516,
+    "tag": "td",
+    "text": "RectBivariateSpline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 517,
+    "tag": "p",
+    "text": "RectBivariateSpline",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 521,
+    "tag": "td",
+    "text": "gridded data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 522,
+    "tag": "p",
+    "text": "gridded data",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 524,
+    "tag": "td",
+    "text": "Radial basis functions in N-D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 525,
+    "tag": "p",
+    "text": "Radial basis functions in N-D",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 526,
+    "tag": "td",
+    "text": "RBFInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 527,
+    "tag": "p",
+    "text": "RBFInterpolator",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 532,
+    "tag": "p",
+    "text": "Further details are given in the links below",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 536,
+    "tag": "li",
+    "text": "1-D interpolation Piecewise linear interpolation Cubic splines Monotone interpolants Interpolation with B-splines Non-cubic splines Batches of y Parametric spline curves Missing data Out-of-bounds behavior The bc_type parameter The extrapolate constructor argument Overriding extrapolate per call Legacy interface for 1-D interpolation (interp1d) Recommended replacements for interp1d modes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 539,
+    "tag": "li",
+    "text": "Piecewise linear interpolation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 541,
+    "tag": "li",
+    "text": "Cubic splines",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 543,
+    "tag": "li",
+    "text": "Monotone interpolants",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 545,
+    "tag": "li",
+    "text": "Interpolation with B-splines Non-cubic splines",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 548,
+    "tag": "li",
+    "text": "Non-cubic splines",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 550,
+    "tag": "li",
+    "text": "Batches of y",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 554,
+    "tag": "li",
+    "text": "Parametric spline curves",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 556,
+    "tag": "li",
+    "text": "Missing data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 558,
+    "tag": "li",
+    "text": "Out-of-bounds behavior The bc_type parameter The extrapolate constructor argument Overriding extrapolate per call",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 561,
+    "tag": "li",
+    "text": "The bc_type parameter",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 565,
+    "tag": "li",
+    "text": "The extrapolate constructor argument",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 569,
+    "tag": "li",
+    "text": "Overriding extrapolate per call",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 573,
+    "tag": "li",
+    "text": "Legacy interface for 1-D interpolation (interp1d) Recommended replacements for interp1d modes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "li",
+    "text": "Recommended replacements for interp1d modes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 582,
+    "tag": "li",
+    "text": "Piecewise polynomials and splines Manipulating PPoly objects B-splines: knots and coefficients B-spline basis elements Design matrices in the B-spline basis Bernstein polynomials, BPoly Conversion between bases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 585,
+    "tag": "li",
+    "text": "Manipulating PPoly objects",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 589,
+    "tag": "li",
+    "text": "B-splines: knots and coefficients B-spline basis elements Design matrices in the B-spline basis",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 592,
+    "tag": "li",
+    "text": "B-spline basis elements",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 594,
+    "tag": "li",
+    "text": "Design matrices in the B-spline basis",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 596,
+    "tag": "li",
+    "text": "Bernstein polynomials, BPoly",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 600,
+    "tag": "li",
+    "text": "Conversion between bases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 602,
+    "tag": "li",
+    "text": "Smoothing splines Spline smoothing in 1D “Classic” smoothing splines and generalized cross-validation (GCV) criterion Smoothing splines with automatic knot selection Smoothing spline curves in \\(d>1\\) Batching of y arrays Legacy routines for spline smoothing in 1-D 2-D smoothing splines Bivariate spline fitting of scattered data Bivariate spline fitting of data on a grid Bivariate spline fitting of data in spherical coordinates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 605,
+    "tag": "li",
+    "text": "Spline smoothing in 1D “Classic” smoothing splines and generalized cross-validation (GCV) criterion Smoothing splines with automatic knot selection Smoothing spline curves in \\(d>1\\) Batching of y arrays Legacy routines for spline smoothing in 1-D",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 608,
+    "tag": "li",
+    "text": "“Classic” smoothing splines and generalized cross-validation (GCV) criterion",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 610,
+    "tag": "li",
+    "text": "Smoothing splines with automatic knot selection",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 612,
+    "tag": "li",
+    "text": "Smoothing spline curves in \\(d>1\\)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 615,
+    "tag": "li",
+    "text": "Batching of y arrays",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 619,
+    "tag": "li",
+    "text": "Legacy routines for spline smoothing in 1-D",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 621,
+    "tag": "li",
+    "text": "2-D smoothing splines Bivariate spline fitting of scattered data Bivariate spline fitting of data on a grid Bivariate spline fitting of data in spherical coordinates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 624,
+    "tag": "li",
+    "text": "Bivariate spline fitting of scattered data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 626,
+    "tag": "li",
+    "text": "Bivariate spline fitting of data on a grid",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 628,
+    "tag": "li",
+    "text": "Bivariate spline fitting of data in spherical coordinates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 630,
+    "tag": "li",
+    "text": "Multivariate data interpolation on a regular grid (RegularGridInterpolator) Batch dimensions of values Uniformly spaced data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 635,
+    "tag": "li",
+    "text": "Batch dimensions of values",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 639,
+    "tag": "li",
+    "text": "Uniformly spaced data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 641,
+    "tag": "li",
+    "text": "Scattered data interpolation (griddata)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 645,
+    "tag": "li",
+    "text": "Using radial basis functions for smoothing/interpolation 1-D Example 2-D Example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 648,
+    "tag": "li",
+    "text": "1-D Example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 650,
+    "tag": "li",
+    "text": "2-D Example",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 652,
+    "tag": "li",
+    "text": "Extrapolation tips and tricks Replicate numpy.interp left and right fill values CubicSpline extend the boundary conditions Manually implement the asymptotics The setup Use the known asymptotics Extrapolation in D > 1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 655,
+    "tag": "li",
+    "text": "Replicate numpy.interp left and right fill values",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 659,
+    "tag": "li",
+    "text": "CubicSpline extend the boundary conditions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 661,
+    "tag": "li",
+    "text": "Manually implement the asymptotics The setup Use the known asymptotics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 664,
+    "tag": "li",
+    "text": "The setup",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 666,
+    "tag": "li",
+    "text": "Use the known asymptotics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 668,
+    "tag": "li",
+    "text": "Extrapolation in D > 1",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 674,
+    "tag": "li",
+    "text": "interp2d transition guide 1. How to transition away from using interp2d 1.1 interp2d on a regular grid 1.2. interp2d with full coordinates of points (scattered interpolation) 2. Alternative to interp2d: regular grid 3. Scattered 2D linear interpolation: prefer LinearNDInterpolator to SmoothBivariateSpline or bisplrep",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 679,
+    "tag": "li",
+    "text": "1. How to transition away from using interp2d 1.1 interp2d on a regular grid 1.2. interp2d with full coordinates of points (scattered interpolation)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 684,
+    "tag": "li",
+    "text": "1.1 interp2d on a regular grid",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 688,
+    "tag": "li",
+    "text": "1.2. interp2d with full coordinates of points (scattered interpolation)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 692,
+    "tag": "li",
+    "text": "2. Alternative to interp2d: regular grid",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 696,
+    "tag": "li",
+    "text": "3. Scattered 2D linear interpolation: prefer LinearNDInterpolator to SmoothBivariateSpline or bisplrep",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 704,
+    "tag": "li",
+    "text": "Filling an image from a border Analytic solutions Simple unstructured interpolators Simplex tolerance Radial basis functions Multi-linear regression Unconstrained polynomials Restricted polynomials Other packages Closing notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 707,
+    "tag": "li",
+    "text": "Analytic solutions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 709,
+    "tag": "li",
+    "text": "Simple unstructured interpolators Simplex tolerance",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 712,
+    "tag": "li",
+    "text": "Simplex tolerance",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 714,
+    "tag": "li",
+    "text": "Radial basis functions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 716,
+    "tag": "li",
+    "text": "Multi-linear regression Unconstrained polynomials Restricted polynomials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 719,
+    "tag": "li",
+    "text": "Unconstrained polynomials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 721,
+    "tag": "li",
+    "text": "Restricted polynomials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l3"
+    }
+  },
+  {
+    "node_index": 723,
+    "tag": "li",
+    "text": "Other packages",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 725,
+    "tag": "li",
+    "text": "Closing notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 732,
+    "tag": "p",
+    "text": "previous",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 733,
+    "tag": "p",
+    "text": "Integration (scipy.integrate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 738,
+    "tag": "p",
+    "text": "next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 739,
+    "tag": "p",
+    "text": "1-D interpolation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 749,
+    "tag": "li",
+    "text": "Smoothing and approximation of data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 758,
+    "tag": "p",
+    "text": "© Copyright 2008, The SciPy community.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  },
+  {
+    "node_index": 761,
+    "tag": "p",
+    "text": "Created using Sphinx 8.1.3.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sphinx-version"
+    }
+  },
+  {
+    "node_index": 766,
+    "tag": "p",
+    "text": "Built with the PyData Sphinx Theme 0.19.0.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "theme-version"
+    }
+  }
+]

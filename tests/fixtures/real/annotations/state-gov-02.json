@@ -1,0 +1,605 @@
+[
+  {
+    "node_index": 36,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 39,
+    "tag": "li",
+    "text": "Historical Documents Foreign Relations of the United States About the Foreign Relations Series Status of the Foreign Relations Series History of the Foreign Relations Series Ebooks Initiative Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 43,
+    "tag": "li",
+    "text": "Foreign Relations of the United States",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 46,
+    "tag": "li",
+    "text": "About the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Status of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 52,
+    "tag": "li",
+    "text": "History of the Foreign Relations Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Ebooks Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 57,
+    "tag": "li",
+    "text": "Quarterly Releases",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 59,
+    "tag": "li",
+    "text": "Department History Overview Biographies of the Secretaries of State Principal Officers and Chiefs of Mission Travels of the Secretary of State Travels of the President Visits by Foreign Heads of State World War I and the Department Buildings of the Department of State U.S. Diplomatic Couriers U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "index_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 63,
+    "tag": "li",
+    "text": "Overview",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Biographies of the Secretaries of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Principal Officers and Chiefs of Mission",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Travels of the Secretary of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "Travels of the President",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Visits by Foreign Heads of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "World War I and the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Buildings of the Department of State",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "U.S. Diplomatic Couriers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "U.S. Marine Corps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Guide to Countries Guide to Country Recognition and Relations World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "countries_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Guide to Country Recognition and Relations",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "World Wide Diplomatic Archives Index",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "More Resources Browse Resources by Subject Tag Conferences Contact Us Developer Resources & APIs Educational Resources Frequently Asked Questions Key Milestones Open Government Initiative A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "resources_nav",
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Browse Resources by Subject Tag",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Conferences",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Developer Resources & APIs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Educational Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 105,
+    "tag": "li",
+    "text": "Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Key Milestones",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Open Government Initiative",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "A Short History of the Department",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "dropdown"
+    }
+  },
+  {
+    "node_index": 124,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 130,
+    "tag": "li",
+    "text": "1776-1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Articles of Confederation, 1777–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-breadcrumb__list-item",
+      "property": "itemListElement",
+      "typeof": "ListItem"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "h2",
+    "text": "Milestones: 1776–1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-navigation-title",
+      "id": "navigation-title"
+    }
+  },
+  {
+    "node_index": 153,
+    "tag": "h1",
+    "text": "Articles of Confederation, 1777–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-head7"
+    }
+  },
+  {
+    "node_index": 155,
+    "tag": "p",
+    "text": "The Articles of Confederation served as the written document that established the functions of the national government of the United States after it declared independence from Great Britain. It established a weak central government that mostly, but not entirely, prevented the individual states from conducting their own foreign diplomacy.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 159,
+    "tag": "p",
+    "text": "The Albany Plan an earlier, pre-independence attempt at joining the colonies into a larger union, had failed in part because the individual colonies were concerned about losing power to another central insitution. As the American Revolution gained momentum, however, many political leaders saw the advantages of a centralized government that could coordinate the Revolutionary War. In June of 1775, the New York provincial Congress sent a plan of union to the Continental Congress, which, like the Albany Plan, continued to recognize the authority of the British Crown.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 161,
+    "tag": "p",
+    "text": "Some Continental Congress delegates had also informally discussed plans for a more permanent union than the Continental Congress, whose status was temporary. Benjamin Franklin had drawn up a plan for “Articles of Confederation and Perpetual Union.” While some delegates, such as Thomas Jefferson, supported Franklin’s proposal, many others were strongly opposed. Franklin introduced his plan before Congress on July 21, but stated that it should be viewed as a draft for when Congress was interested in reaching a more formal proposal. Congress tabled the plan.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "p",
+    "text": "Following the Declaration of Independence, the members of the Continental Congress realized it would be necessary to set up a national government. Congress began to discuss the form this government would take on July 22, disagreeing on a number of issues, including whether representation and voting would be proportional or state-by-state. The disagreements delayed final discussions of confederation until October of 1777. By then, the British capture of Philadelphia had made the issue more urgent. Delegates finally formulated the Articles of Confederation, in which they agreed to state-by-state voting and proportional state tax burdens based on land values, though they left the issue of state claims to western lands unresolved. Congress sent the Articles to the states for ratification at the end of November. Most delegates realized that the Articles were a flawed compromise, but believed that it was better than an absence of formal national government.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 163,
+    "tag": "p",
+    "text": "On December 16, 1777, Virginia was the first state to ratify. Other states ratified during the early months of 1778. When Congress reconvened in June of 1778, the delegates learned that Maryland, Delaware and New Jersey refused to ratify the Articles. The Articles required unanimous approval from the states. These smaller states wanted other states to relinquish their western land claims before they would ratify the Articles. New Jersey and Delaware eventually agreed to the conditions of the Articles, with New Jersey ratifying on Nov 20, 1778, and Delaware on Feb 1, 1779. This left Maryland as the last remaining holdout.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "p",
+    "text": "Irked by Maryland’s recalcitrance, several other state governments passed resolutions endorsing the formation of a national government without the state of Maryland, but other politicians such as Congressman Thomas Burke of North Carolina persuaded their governments to refrain from doing so, arguing that without unanimous approval of the new Confederation, the new country would remain weak, divided, and open to future foreign intervention and manipulation.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "p",
+    "text": "Meanwhile, in 1780, British forces began to conduct raids on Maryland communities in the Chesapeake Bay. Alarmed, the state government wrote to the French minister Anne-César De la Luzerne asking for French naval assistance. Luzerne wrote back, urging the government of Maryland to ratify the Articles of Confederation. Marylanders were given further incentive to ratify when Virginia agreed to relinquish its western land claims, and so the Maryland legislature ratified the Articles of Confederation on March 1, 1781.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "p",
+    "text": "The Continental Congress voted on Jan 10, 1781, to establish a Department of Foreign Affairs; on Aug 10 of that year, it elected Robert R. Livingston as Secretary of Foreign Affairs. The Secretary’s duties involved corresponding with U.S. representatives abroad and with ministers of foreign powers. The Secretary was also charged with transmitting Congress’ instructions to U.S. agents abroad and was authorized to attend sessions of Congress. A further Act of Feb 22, 1782, allowed the Secretary to ask and respond to questions during sessions of the Continental Congress.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "p",
+    "text": "The Articles created a sovereign, national government, and, as such, limited the rights of the states to conduct their own diplomacy and foreign policy. However, this proved difficult to enforce, as the national government could not prevent the state of Georgia from pursuing its own independent policy regarding Spanish Florida, attempting to occupy disputed territories and threatening war if Spanish officials did not work to curb Indian attacks or refrain from harboring escaped slaves. Nor could the Confederation government prevent the landing of convicts that the British Government continued to export to its former colonies. In addition, the Articles did not allow Congress sufficient authority to enforce provisions of the 1783 Treaty of Paris that allowed British creditors to sue debtors for pre-Revolutionary debts, an unpopular clause that many state governments chose to ignore. Consequently, British forces continued to occupy forts in the Great Lakes region. These problems, combined with the Confederation government’s ineffectual response to Shays’ Rebellion in Massachusetts, convinced national leaders that a more powerful central government was necessary. This led to the Consti",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tei-p3"
+    }
+  },
+  {
+    "node_index": 179,
+    "tag": "h2",
+    "text": "Table of Contents",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 181,
+    "tag": "li",
+    "text": "1776–1783: Diplomacy and the American Revolution",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 184,
+    "tag": "li",
+    "text": "Continental Congress, 1774–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "li",
+    "text": "Secret Committee of Correspondence/ Committee for Foreign Affairs, 1775–1777",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "The Declaration of Independence, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "The Model Treaty, 1776",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "French Alliance, French Assistance, and European Diplomacy during the American Revolution, 1778–1782",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 199,
+    "tag": "li",
+    "text": "Benjamin Franklin: First American Diplomat, 1776–1785",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Articles of Confederation, 1777–1781",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 205,
+    "tag": "li",
+    "text": "Treaty of Paris, 1783",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "h2",
+    "text": "Milestones",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-sidebar-title"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "All",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "hsg-list-group-item"
+    }
+  },
+  {
+    "node_index": 222,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 226,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "Historical Documents",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "Department History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "li",
+    "text": "Countries",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "Accessibility Statement",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "External Link Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "Copyright Information",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "Content Warning",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "p",
+    "text": "history@state.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 266,
+    "tag": "p",
+    "text": "Report an issue on this page",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

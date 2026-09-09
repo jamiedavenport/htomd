@@ -1,0 +1,840 @@
+[
+  {
+    "node_index": 36,
+    "tag": "li",
+    "text": "Why Go arrow_drop_down Press Enter to activate/deactivate dropdown Case Studies Common problems companies solve with Go Use Cases Stories about how and why companies use Go Security How Go can help keep you secure by default",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 41,
+    "tag": "li",
+    "text": "Case Studies Common problems companies solve with Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 44,
+    "tag": "p",
+    "text": "Common problems companies solve with Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 45,
+    "tag": "li",
+    "text": "Use Cases Stories about how and why companies use Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 48,
+    "tag": "p",
+    "text": "Stories about how and why companies use Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 49,
+    "tag": "li",
+    "text": "Security How Go can help keep you secure by default",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 52,
+    "tag": "p",
+    "text": "How Go can help keep you secure by default",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 53,
+    "tag": "li",
+    "text": "Learn Press Enter to activate/deactivate dropdown",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 56,
+    "tag": "li",
+    "text": "Docs arrow_drop_down Press Enter to activate/deactivate dropdown Go Spec The official Go language specification Go User Manual A complete introduction to building software with Go Standard library Reference documentation for Go's standard library Release Notes Learn what's new in each Go release Effective Go Tips for writing clear, performant, and idiomatic Go code",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem  Header-menuItem--active"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Go Spec The official Go language specification",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "p",
+    "text": "The official Go language specification",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 65,
+    "tag": "li",
+    "text": "Go User Manual A complete introduction to building software with Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 68,
+    "tag": "p",
+    "text": "A complete introduction to building software with Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Standard library Reference documentation for Go's standard library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 72,
+    "tag": "p",
+    "text": "Reference documentation for Go's standard library",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Release Notes Learn what's new in each Go release",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "p",
+    "text": "Learn what's new in each Go release",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Effective Go Tips for writing clear, performant, and idiomatic Go code",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "p",
+    "text": "Tips for writing clear, performant, and idiomatic Go code",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "Packages Press Enter to activate/deactivate dropdown",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "Community arrow_drop_down Press Enter to activate/deactivate dropdown Recorded Talks Videos from prior events Meetups open_in_new Meet other local Go developers Conferences open_in_new Learn and network with Go developers from around the world Go blog The Go project's official blog. Go project Get help and stay informed from Go Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-menuItem "
+    }
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Recorded Talks Videos from prior events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "p",
+    "text": "Videos from prior events",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 93,
+    "tag": "li",
+    "text": "Meetups open_in_new Meet other local Go developers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 97,
+    "tag": "p",
+    "text": "Meet other local Go developers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "Conferences open_in_new Learn and network with Go developers from around the world",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 102,
+    "tag": "p",
+    "text": "Learn and network with Go developers from around the world",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "Go blog The Go project's official blog.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 106,
+    "tag": "p",
+    "text": "The Go project's official blog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Go project Get help and stay informed from Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 110,
+    "tag": "p",
+    "text": "Get help and stay informed from Go",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Header-submenuItem"
+    }
+  },
+  {
+    "node_index": 138,
+    "tag": "li",
+    "text": "Why Go navigate_next navigate_beforeWhy Go Case Studies Use Cases Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem js-mobile-subnav-trigger  NavigationDrawer-hasSubnav"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Case Studies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "Use Cases",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Learn",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem "
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Docs navigate_next navigate_beforeDocs Go Spec Go User Manual Standard library Release Notes Effective Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem js-mobile-subnav-trigger  NavigationDrawer-listItem--active NavigationDrawer-hasSubnav"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "Go Spec",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "Go User Manual",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Standard library",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "Release Notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Effective Go",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Packages",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem "
+    }
+  },
+  {
+    "node_index": 178,
+    "tag": "li",
+    "text": "Community navigate_next navigate_beforeCommunity Recorded Talks Meetups open_in_new Conferences open_in_new Go blog Go project Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem js-mobile-subnav-trigger  NavigationDrawer-hasSubnav"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "Recorded Talks",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "Meetups open_in_new",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 193,
+    "tag": "li",
+    "text": "Conferences open_in_new",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Go blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Go project",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Get connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "NavigationDrawer-listItem"
+    }
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Documentation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "BreadcrumbNav-li "
+    }
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "Tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "BreadcrumbNav-li "
+    }
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Tutorial: Create a Go module",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "BreadcrumbNav-li active"
+    }
+  },
+  {
+    "node_index": 229,
+    "tag": "h1",
+    "text": "Tutorial: Create a Go module",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "p",
+    "text": "This is the first part of a tutorial that introduces a few fundamental features of the Go language. If you're just getting started with Go, be sure to take a look at Tutorial: Get started with Go, which introduces the go command, Go modules, and very simple Go code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 234,
+    "tag": "p",
+    "text": "In this tutorial you'll create two modules. The first is a library which is intended to be imported by other libraries or applications. The second is a caller application which will use the first.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "p",
+    "text": "This tutorial's sequence includes seven brief topics that each illustrate a different part of the language.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "Create a module -- Write a small module with functions you can call from another module.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "Call your code from another module -- Import and use your new module.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Return and handle an error -- Add simple error handling.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Return a random greeting -- Handle data in slices (Go's dynamically-sized arrays).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 244,
+    "tag": "li",
+    "text": "Return greetings for multiple people -- Store key/value pairs in a map.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Add a test -- Use Go's built-in unit testing features to test your code.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Compile and install the application -- Compile and install your code locally.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 253,
+    "tag": "h2",
+    "text": "Prerequisites",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "prerequisites"
+    }
+  },
+  {
+    "node_index": 255,
+    "tag": "li",
+    "text": "Some programming experience. The code here is pretty simple, but it helps to know something about functions, loops, and arrays.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Go. We recommend using the latest version of Go to follow this tutorial. For installation instructions, see Installing Go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "li",
+    "text": "A tool to edit your code. Any text editor you have will work fine. Most text editors have good support for Go. The most popular are VSCode (free), GoLand (paid), and Vim (free).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "A command terminal. Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "h2",
+    "text": "Start a module that others can use",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "start"
+    }
+  },
+  {
+    "node_index": 265,
+    "tag": "p",
+    "text": "Start by creating a Go module. In a module, you collect one or more related packages for a discrete and useful set of functions. For example, you might create a module with packages that have functions for doing financial analysis so that others writing financial applications can use your work. For more about developing modules, see Developing and publishing modules.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 267,
+    "tag": "p",
+    "text": "Go code is grouped into packages, and packages are grouped into modules. Your module specifies dependencies needed to run your code, including the Go version and the set of other modules it requires.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 268,
+    "tag": "p",
+    "text": "As you add or improve functionality in your module, you publish new versions of the module. Developers writing code that calls functions in your module can import the module's updated packages and test with the new version before putting it into production use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 270,
+    "tag": "li",
+    "text": "Open a command prompt and cd to your home directory. On Linux or Mac: cd On Windows: cd %HOMEPATH%",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 272,
+    "tag": "p",
+    "text": "On Linux or Mac:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "pre",
+    "text": "cd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 274,
+    "tag": "p",
+    "text": "On Windows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "pre",
+    "text": "cd %HOMEPATH%",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "li",
+    "text": "Create a greetings directory for your Go module source code. For example, from your home directory use the following commands: mkdir greetings cd greetings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 278,
+    "tag": "p",
+    "text": "For example, from your home directory use the following commands:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 279,
+    "tag": "pre",
+    "text": "mkdir greetings cd greetings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "li",
+    "text": "Start your module using the go mod init command. Run the go mod init command, giving it your module path -- here, use example.com/greetings. If you publish a module, this must be a path from which your module can be downloaded by Go tools. That would be your code's repository. For more on naming your module with a module path, see Managing dependencies. $ go mod init example.com/greetings go: creating new go.mod: module example.com/greetings The go mod init command creates a go.mod file to track your code's dependencies. So far, the file includes only the name of your module and the Go version your code supports. But as you add dependencies, the go.mod file will list the versions your code depends on. This keeps builds reproducible and gives you direct control over which module versions to use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 283,
+    "tag": "p",
+    "text": "Run the go mod init command, giving it your module path -- here, use example.com/greetings. If you publish a module, this must be a path from which your module can be downloaded by Go tools. That would be your code's repository.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 287,
+    "tag": "p",
+    "text": "For more on naming your module with a module path, see Managing dependencies.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "pre",
+    "text": "$ go mod init example.com/greetings go: creating new go.mod: module example.com/greetings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 290,
+    "tag": "p",
+    "text": "The go mod init command creates a go.mod file to track your code's dependencies. So far, the file includes only the name of your module and the Go version your code supports. But as you add dependencies, the go.mod file will list the versions your code depends on. This keeps builds reproducible and gives you direct control over which module versions to use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 292,
+    "tag": "li",
+    "text": "In your text editor, create a file in which to write your code and call it greetings.go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 293,
+    "tag": "li",
+    "text": "Paste the following code into your greetings.go file and save the file. package greetings import \"fmt\" // Hello returns a greeting for the named person. func Hello(name string) string { // Return a greeting that embeds the name in a message. message := fmt.Sprintf(\"Hi, %v. Welcome!\", name) return message } This is the first code for your module. It returns a greeting to any caller that asks for one. You'll write code that calls this function in the next step. In this code, you: Declare a greetings package to collect related functions. Implement a Hello function to return the greeting. This function takes a name parameter whose type is string. The function also returns a string. In Go, a function whose name starts with a capital letter can be called by a function not in the same package. This is known in Go as an exported name. For more about exported names, see Exported names in the Go tour. Declare a message variable to hold your greeting. In Go, the := operator is a shortcut for declaring and initializing a variable in one line (Go uses the value on the right to determine the variable's type). Taking the long way, you might have written this as: var message string message = fmt.S",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 294,
+    "tag": "pre",
+    "text": "package greetings import \"fmt\" // Hello returns a greeting for the named person. func Hello(name string) string { // Return a greeting that embeds the name in a message. message := fmt.Sprintf(\"Hi, %v. Welcome!\", name) return message }",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 295,
+    "tag": "p",
+    "text": "This is the first code for your module. It returns a greeting to any caller that asks for one. You'll write code that calls this function in the next step.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "p",
+    "text": "In this code, you:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "Declare a greetings package to collect related functions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 300,
+    "tag": "li",
+    "text": "Implement a Hello function to return the greeting. This function takes a name parameter whose type is string. The function also returns a string. In Go, a function whose name starts with a capital letter can be called by a function not in the same package. This is known in Go as an exported name. For more about exported names, see Exported names in the Go tour.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 302,
+    "tag": "p",
+    "text": "This function takes a name parameter whose type is string. The function also returns a string. In Go, a function whose name starts with a capital letter can be called by a function not in the same package. This is known in Go as an exported name. For more about exported names, see Exported names in the Go tour.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 308,
+    "tag": "li",
+    "text": "Declare a message variable to hold your greeting. In Go, the := operator is a shortcut for declaring and initializing a variable in one line (Go uses the value on the right to determine the variable's type). Taking the long way, you might have written this as: var message string message = fmt.Sprintf(\"Hi, %v. Welcome!\", name)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "p",
+    "text": "In Go, the := operator is a shortcut for declaring and initializing a variable in one line (Go uses the value on the right to determine the variable's type). Taking the long way, you might have written this as:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 312,
+    "tag": "pre",
+    "text": "var message string message = fmt.Sprintf(\"Hi, %v. Welcome!\", name)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "Use the fmt package's Sprintf function to create a greeting message. The first argument is a format string, and Sprintf substitutes the name parameter's value for the %v format verb. Inserting the value of the name parameter completes the greeting text.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 321,
+    "tag": "li",
+    "text": "Return the formatted greeting text to the caller.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 322,
+    "tag": "p",
+    "text": "In the next step, you'll call this function from another module.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 323,
+    "tag": "p",
+    "text": "Call your code from another module >",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Navigation"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "li",
+    "text": "Copyright",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "Terms of Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  },
+  {
+    "node_index": 372,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  },
+  {
+    "node_index": 374,
+    "tag": "li",
+    "text": "Report an Issue",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Footer-listItem"
+    }
+  }
+]

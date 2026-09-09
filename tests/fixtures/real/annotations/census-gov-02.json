@@ -1,0 +1,414 @@
+[
+  {
+    "node_index": 79,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "p",
+    "text": "Here’s how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action",
+      "aria-hidden": "true"
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS A lock ( ) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Census.gov /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "About the Bureau /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 316,
+    "tag": "li",
+    "text": "Our History /",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "Bureau History",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 325,
+    "tag": "h1",
+    "text": "U.S. Census Bureau History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Agency History and Timeline",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "li",
+    "text": "Census Bureau Facilities",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "Census Bureau Innovations",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "Our People",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-bold-hover"
+    }
+  },
+  {
+    "node_index": 358,
+    "tag": "li",
+    "text": "Agency History and Timeline",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 362,
+    "tag": "li",
+    "text": "Census Bureau Facilities",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 366,
+    "tag": "li",
+    "text": "Census Bureau Innovations",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 370,
+    "tag": "li",
+    "text": "FAQs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 374,
+    "tag": "li",
+    "text": "Our People",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-filter-parent uscb-border-0 uscb-padding-0 uscb-padding-L-15"
+    }
+  },
+  {
+    "node_index": 385,
+    "tag": "h1",
+    "text": "U.S. Census Bureau History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "cmp-title__text"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "p",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-sub-heading-2 uscb-medium uscb-margin-TB-0 component-title"
+    }
+  },
+  {
+    "node_index": 418,
+    "tag": "p",
+    "text": "While the U.S. Constitution requires only a population count every ten years via a decennial census, the ever-increasing need for more useful information about the United States' people, governments, businesses, and the economy drove the U.S. Census Bureau to evolve into the premier statistical agency of the federal government. Learn more about U.S. Census Bureau history and timeline, and the people, innovations and places that shaped it into what it is today.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "li",
+    "text": "Agency History and Timeline In 1903, the Census Office was moved to the newly created Department of Commerce and Labor.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "Our People This section showcases notable alumni of the U.S. Census Bureau, as well as past and present directors.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 444,
+    "tag": "li",
+    "text": "Census Bureau Innovations Learn about ways the U.S. Census Bureau revolutionized how we collect data.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 454,
+    "tag": "li",
+    "text": "Census Bureau Facilities This section tells the story of Suitland, from the area's transformation into a bustling Washington suburb, to the opening of the new Census Bureau headquarters.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 464,
+    "tag": "li",
+    "text": "Agency History FAQs These questions are some of the most frequently asked about the Census Bureau's history and the people who have worked here.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-list-visual__item cmp-list__item uscb-grid-gutter-L"
+    }
+  },
+  {
+    "node_index": 478,
+    "tag": "h3",
+    "text": "You May Be Interested In Decennial Census of Population and Housing by Decades Learn about all the decennials from 1790 to present. Find key population stats, data, questionnaires, maps, mapping files, technical documents, news and more. Visualization A Timeline of Census History A historical snapshot of the Census Bureau",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-h3 uscb-contextnav-heading"
+    }
+  },
+  {
+    "node_index": 484,
+    "tag": "p",
+    "text": "Decennial Census of Population and Housing by Decades",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-title-3 uscb-color-primary uscb-line-height-26"
+    }
+  },
+  {
+    "node_index": 485,
+    "tag": "p",
+    "text": "Learn about all the decennials from 1790 to present. Find key population stats, data, questionnaires, maps, mapping files, technical documents, news and more.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-sub-heading-2 uscb-color-secondary-1 uscb-line-height-20-18"
+    }
+  },
+  {
+    "node_index": 490,
+    "tag": "p",
+    "text": "A Timeline of Census History",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-title-3 uscb-color-primary uscb-line-height-26"
+    }
+  },
+  {
+    "node_index": 491,
+    "tag": "p",
+    "text": "A historical snapshot of the Census Bureau",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-sub-heading-2 uscb-color-secondary-1 uscb-line-height-20-18"
+    }
+  },
+  {
+    "node_index": 539,
+    "tag": "p",
+    "text": "Top",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-top-label uscb-text-align-center"
+    }
+  },
+  {
+    "node_index": 546,
+    "tag": "p",
+    "text": "Receive Updates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-title",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 547,
+    "tag": "p",
+    "text": "To sign up for updates please enter your email address.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-email-subscription-text uscb-margin-T-0 uscb-margin-B-30",
+      "contenteditable": "false"
+    }
+  },
+  {
+    "node_index": 560,
+    "tag": "p",
+    "text": "Stay Current",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 563,
+    "tag": "p",
+    "text": "America Counts",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 565,
+    "tag": "p",
+    "text": "Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 567,
+    "tag": "p",
+    "text": "Deputy Director’s Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 569,
+    "tag": "p",
+    "text": "Random Samplings",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 571,
+    "tag": "p",
+    "text": "Research Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 573,
+    "tag": "p",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 576,
+    "tag": "p",
+    "text": "Contact",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "p",
+    "text": "Support",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 580,
+    "tag": "p",
+    "text": "Jobs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text"
+    }
+  },
+  {
+    "node_index": 582,
+    "tag": "p",
+    "text": "Follow",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-text-title"
+    }
+  },
+  {
+    "node_index": 614,
+    "tag": "p",
+    "text": "Measuring America's People and Economy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "uscb-footer-tag-line"
+    }
+  }
+]

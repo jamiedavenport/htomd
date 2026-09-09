@@ -1,0 +1,472 @@
+[
+  {
+    "node_index": 80,
+    "tag": "li",
+    "text": "Categories Equity & Inclusion Education & Open Access Technology Partnerships & Events Policy & Advocacy Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62390",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-62390"
+    }
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Equity & Inclusion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62395",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62395"
+    }
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "Education & Open Access",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62394",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62394"
+    }
+  },
+  {
+    "node_index": 87,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62392",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-62392 active "
+    }
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Partnerships & Events",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62396",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62396"
+    }
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "Policy & Advocacy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62393",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62393"
+    }
+  },
+  {
+    "node_index": 93,
+    "tag": "li",
+    "text": "Movement Strategy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62397",
+      "class": "menu-item menu-item-type-taxonomy menu-item-object-category menu-item-62397"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "About",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62512",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62512"
+    }
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Submit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-62513",
+      "class": "menu-item menu-item-type-post_type menu-item-object-page menu-item-62513"
+    }
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "menu-item-69330",
+      "class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-69330"
+    }
+  },
+  {
+    "node_index": 117,
+    "tag": "h1",
+    "text": "Tech News 2026 – Issue 37",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "entry-title"
+    }
+  },
+  {
+    "node_index": 128,
+    "tag": "p",
+    "text": "Latest tech news from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. Translations are available.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 132,
+    "tag": "p",
+    "text": "Updates for editors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "Add a Link has been upgraded for English Wikipedia users with improved detection of links that have different capitalization. This will help reduce ambiguous suggestions caused by differences in capitalization in article titles, including articles about cultural goods. A second phase of improvements is planned, which will also prepare the feature for release in other languages. [1] [2]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "The Article guidance feature will be enabled by default for junior editors on Simple English and Turkish Wikipedia starting 10 September 2026 following an experiment. Junior editors with 0 to 99 edits will automatically see the feature when they click a red link or use the “Madde oluşturto” option on Turkish Wikipedia to create a new article. The change is intended to help junior editors create higher-quality articles that meet each Wikipedia’s standards. Additional improvements will continue based on the experiment results and community feedback.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 144,
+    "tag": "li",
+    "text": "The Pageviews Analysis tool which allows users to compare pageviews across multiple pages, turns 10 years old this year and several new features have been added. They include WikiNav which provides insights into how readers of Wikipedia explore the content, editing stats in Siteviews, the ability to lookup articles belonging to a WikiProject, and support for dark mode. [3]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 150,
+    "tag": "li",
+    "text": "A visually simplified Minerva navigation bar is being tested for logged-out readers using mobile web on the Bengali, Czech, English, Farsi, and Polish Wikipedias. The experiment aims to determine whether simplifying the navigation improves reader retention. The test will run from August 31 to September 28, and no action is required from users.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "WMDE Technical Wishes is working on improving auto-generated reference names in VisualEditor. Editors will only notice a slight change starting this week. When adding automatic reference names the numbering will start at :1 instead of :0. Read more on the project page. [4]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 159,
+    "tag": "li",
+    "text": "All wikis will be read-only for a few minutes on September 23. This is planned at 14:00 UTC. More information will be published in Tech News and will also be posted on individual wikis in the coming weeks. [5]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "View all 25 community-submitted tasks that were resolved last week. For example, an issue where Parsoid could mishandle nested nowiki tags, causing content to be lost and displaying unwanted text has now been fixed. [6]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 167,
+    "tag": "p",
+    "text": "Updates for technical contributors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Interface administrators can configure gadgets from MediaWiki:Gadgets-definition. The definition format has been updated and no longer requires the ResourceLoader option, as gadgets are always loaded through ResourceLoader. This simplifies gadget configuration by removing an option that is no longer necessary, making gadget definitions easier for administrators. [7]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 175,
+    "tag": "li",
+    "text": "Detailed code updates later this week: MediaWiki",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 178,
+    "tag": "p",
+    "text": "Tech news prepared by Tech News writers and posted by bot • Contribute • Translate • Get help • Give feedback • Subscribe or unsubscribe.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 191,
+    "tag": "h3",
+    "text": "Share this:",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sd-title"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "Share on Mastodon (Opens in new window) Mastodon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "share-mastodon"
+    }
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Share on Bluesky (Opens in new window) Bluesky",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "share-bluesky"
+    }
+  },
+  {
+    "node_index": 207,
+    "tag": "h2",
+    "text": "Can you help us translate this article?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "p",
+    "text": "In order for this article to reach as many people as possible we would like your help. Can you translate this article to get the message out?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "h3",
+    "text": "Related",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "jp-relatedposts-headline"
+    }
+  },
+  {
+    "node_index": 265,
+    "tag": "h3",
+    "text": "Meta",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "h3",
+    "text": "Related",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "jp-relatedposts-headline"
+    }
+  },
+  {
+    "node_index": 287,
+    "tag": "h1",
+    "text": "Welcome to Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 288,
+    "tag": "p",
+    "text": "Welcome to Diff, a community blog by – and for – the Wikimedia movement. Join Diff today to share stories from your community and comment on articles. We want to hear your voice!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 294,
+    "tag": "h2",
+    "text": "Subscribe to Diff via Email",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "widgettitle"
+    }
+  },
+  {
+    "node_index": 298,
+    "tag": "p",
+    "text": "Enter your email address to subscribe to Diff and receive notifications of new posts by email.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 299,
+    "tag": "p",
+    "text": "Email Address",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-email"
+    }
+  },
+  {
+    "node_index": 302,
+    "tag": "p",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "subscribe-submit"
+    }
+  },
+  {
+    "node_index": 313,
+    "tag": "h1",
+    "text": "Wikimedia News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 317,
+    "tag": "h3",
+    "text": "Wikimedia Foundation News",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "Wikimedia Foundation Statement on US staff unionization3 September 2026 by Wikimedia Foundation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 325,
+    "tag": "h3",
+    "text": "Down the Rabbit Hole",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-heading"
+    }
+  },
+  {
+    "node_index": 327,
+    "tag": "li",
+    "text": "The cost of ‘free’: How Wikimedia Enterprise protects Wikipedia in the AI era16 July 2026 by Wikimedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wp-block-rss__item"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "h3",
+    "text": "Diff",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 337,
+    "tag": "p",
+    "text": "This is Diff, a Wikimedia community blog.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 338,
+    "tag": "p",
+    "text": "All participants are responsible for building a place that is welcoming and friendly to everyone. Learn more about Diff.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 340,
+    "tag": "p",
+    "text": "A Wikimedia Foundation Project",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 343,
+    "tag": "h3",
+    "text": "Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "footer-widget-title"
+    }
+  },
+  {
+    "node_index": 346,
+    "tag": "li",
+    "text": "Join",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 348,
+    "tag": "li",
+    "text": "Subscribe",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "Guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 352,
+    "tag": "li",
+    "text": "Editorial guidelines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 354,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 356,
+    "tag": "li",
+    "text": "Terms of Use",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 362,
+    "tag": "p",
+    "text": "Content licensed under Creative Commons Attribution-ShareAlike 4.0 (CC-BY-SA) unless otherwise noted. Powered by WordPress.com VIP, Automattic Privacy Notice.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 383,
+    "tag": "td",
+    "text": "This comment is spam",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 388,
+    "tag": "td",
+    "text": "This comment is a violation of the Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 393,
+    "tag": "td",
+    "text": "Other",
+    "label": "unreviewed",
+    "formatting": {}
+  }
+]

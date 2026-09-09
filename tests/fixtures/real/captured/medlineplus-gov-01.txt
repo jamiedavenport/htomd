@@ -1,0 +1,38 @@
+# What is DNA?
+
+DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms. Nearly every cell in a person’s body has the same DNA. Most DNA is located in the cell nucleus (where it is called nuclear DNA), but a small amount of DNA can also be found in the mitochondria (where it is called [mitochondrial DNA](https://medlineplus.gov/genetics/chromosome/mitochondrial-dna/) or mtDNA). [Mitochondria](https://medlineplus.gov/images/PX00004O_PRESENTATION.jpeg) are structures within cells that convert the energy from food into a form that cells can use.
+
+The information in DNA is stored as a code made up of four chemical bases: adenine (A), guanine (G), cytosine (C), and thymine (T). Human DNA consists of about 3 billion bases, and more than 99 percent of those bases are the same in all people. The order, or sequence, of these bases determines the information available for building and maintaining an organism, similar to the way in which letters of the alphabet appear in a certain order to form words and sentences.
+
+DNA bases pair up with each other, A with T and C with G, to form units called base pairs. Each base is also attached to a sugar molecule and a phosphate molecule. Together, a base, sugar, and phosphate are called a nucleotide. Nucleotides are arranged in two long strands that form a spiral called a double helix. The structure of the double helix is somewhat like a ladder, with the base pairs forming the ladder’s rungs and the sugar and phosphate molecules forming the vertical sidepieces of the ladder.
+
+An important property of DNA is that it can replicate, or make copies of itself. Each strand of DNA in the double helix can serve as a pattern for duplicating the sequence of bases. This is critical when cells divide because each new cell needs to have an exact copy of the DNA present in the old cell.
+
+DNA is a double helix formed by base pairs attached to a sugar-phosphate backbone.
+
+![DNA is made up of base pairs and a sugar phosphate backbone.](https://medlineplus.gov/images/PX000098_PRESENTATION.jpeg)
+
+Credit: U.S. National Library of Medicine
+
+## For more information about DNA:
+
+The National Human Genome Research Institute (NHGRI) provides a fact sheet on [Deoxyribonucleic Acid (DNA)](https://www.genome.gov/about-genomics/fact-sheets/Deoxyribonucleic-Acid-Fact-Sheet).![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+The NHGRI Talking Glossary of Genomic and Genetic Terms offers information on [DNA](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid-DNA)and [mitochondrial DNA](https://www.genome.gov/genetics-glossary/Mitochondrial-DNA).![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+StatedClearly offers a video[: What is DNA and How Does it Work?](https://www.statedclearly.com/videos/what-is-dna/)
+
+[A basic explanation and illustration of DNA](https://askabiologist.asu.edu/dna-shape-and-structure) can be found on the Arizona State University "Ask a Biologist" website.
+
+## Topics in the Cells and DNA chapter
+
+- [What is a cell?](https://medlineplus.gov/genetics/understanding/basics/cell/)
+- What is DNA?
+- [What is a gene?](https://medlineplus.gov/genetics/understanding/basics/gene/)
+- [What is a chromosome?](https://medlineplus.gov/genetics/understanding/basics/chromosome/)
+- [How many chromosomes do people have?](https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/)
+- [What is noncoding DNA?](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)
+
+[Other chapters in Help Me Understand Genetics](https://medlineplus.gov/genetics/understanding/)
+
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.

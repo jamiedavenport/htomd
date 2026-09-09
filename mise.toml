@@ -1,0 +1,32 @@
+[tools]
+python = "3.14.7"
+uv = "0.12.11"
+actionlint = "1.7.7"
+
+[env]
+# Mise owns interpreter installation; uv owns the project environment and lockfile.
+UV_PYTHON_DOWNLOADS = "never"
+UV_PYTHON = { value = "{{ tools.python.path }}", tools = true }
+
+[tasks.setup]
+description = "Install locked development dependencies"
+run = "uv sync --locked"
+
+[tasks.check]
+description = "Check hooks, lint, formatting, types, and offline tests"
+run = [
+  "actionlint",
+  "uv run --locked pre-commit validate-config",
+  "uv run --locked ruff check .",
+  "uv run --locked ruff format --check .",
+  "uv run --locked mypy",
+  "uv run --locked pytest",
+]
+
+[tasks.hooks]
+description = "Run safe Ruff fixes and formatting through pre-commit"
+run = "uv run --locked pre-commit run --all-files"
+
+[tasks.build]
+description = "Build and validate release distributions"
+run = ["uv build --no-sources", "uv run --locked python tools/check_dist.py"]

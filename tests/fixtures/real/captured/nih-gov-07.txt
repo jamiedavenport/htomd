@@ -1,0 +1,43 @@
+November 27, 2024
+
+# What Are Stem Cells?
+
+By [Kimberly Smith](https://www.nigms.nih.gov/blog-author/kimberly-rousseau?type%5B%5D=biobeat_post)
+
+[Stem cells](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#74) are a special type of [cell](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#104) that is uniquely able to replicate many times and to develop into many different cell types. Stem cells live in [tissues](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#85) and [organs](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#27) throughout the body—including the liver, muscles, and skin—at all stages of life.
+
+Humans have two basic types of stem cells. *Embryonic* stem cells are only found in the embryo during the early stages of development. They are pluripotent, meaning they can divide and transform—or [differentiate](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#191)—into every kind of cell in the body.
+
+On the other hand, *somatic* stem cells (also known as *adult* stem cells) are multipotent, which means they can only differentiate into a small subset of cell types. For example, blood stem cells can only differentiate into the stem cell types that make up the blood, such as red blood cells and [immune system](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#146) cells. Somatic stem cells live throughout the body at all ages and frequently replicate to replace nearby old or dying cells, which is an important part of maintaining healthy tissues. This type of cell is also important for [regeneration](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#54)—the natural process of replacing or restoring damaged tissue. In humans, regeneration is limited to processes like healing broken bones and cuts or scrapes on the skin, but some [organisms](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#30), like hydras, can regrow entire lost body parts with the help of stem cells!
+
+![Many long, thin, branching stem cells surrounding an oval cluster of other cells.](https://www.nigms.nih.gov/sites/nigms/files/wp_content_bio/2024/11/BioBeat-11.27.2024-2.jpg)
+
+Induced pluripotent stem cells derived from human skin cells in the laboratory. Credit: Junying Yu, University of Wisconsin-Madison.
+
+Scientists can create a third type of stem cells, called *induced pluripotent* stem cells (iPSCs), in the laboratory. To do this, the scientists change differentiated adult cells, like human skin cells, back into a pluripotent state through exposure to specific [cell culture](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#249) conditions. These newly reprogrammed cells then act like embryonic stem cells and are highly useful in biomedical research. For example, scientists use iPSCs to develop and test new [medicines](https://www.nigms.nih.gov/biobeat/2024/11/what-are-stem-cells#252) and to study the basics of human aging.
+
+**Studying Stem Cells**
+
+Some NIGMS-funded scientists are studying stem cells to learn more about how the body develops and maintains itself. Their research proje
+
+topic  [Cells](https://www.nigms.nih.gov/biobeat/category/cells)
+
+tag  [Cells](https://www.nigms.nih.gov/biobeat/tag/cells) , [Common questions](https://www.nigms.nih.gov/biobeat/tag/common-questions) , [Stem Cells](https://www.nigms.nih.gov/biobeat/tag/stem-cells)
+
+---
+
+## About the Author
+
+![Kimberly Smith Headshot](https://www.nigms.nih.gov/sites/nigms/files/headshots/headshot-kimberly-rousseau-1.png)
+
+### [Kimberly Smith](https://www.nigms.nih.gov/blog-author/kimberly-rousseau?type%5B%5D=biobeat_post)
+
+Kim is a biomedical researcher turned science writer who loves creating accessible science content that encourages enthusiasm for science, technology, engineering, and math in kids and adults.
+
+---
+
+**PREVIOUS**  
+ [arrow\_back  Haley Bridgewater: Taking the Sting Out of Vaccines](https://www.nigms.nih.gov/biobeat/2024/11/haley-bridgewater-taking-the-sting-out-of-vaccines)
+
+**NEXT**  
+ [arrow\_forward  From Science Fair to Science Lab: Q&amp;A With Chelsey Spriggs](https://www.nigms.nih.gov/biobeat/2024/12/from-science-fair-to-science-lab-qa-with-chelsey-spriggs)

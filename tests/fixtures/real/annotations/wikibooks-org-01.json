@@ -1,0 +1,1078 @@
+[
+  {
+    "node_index": 55,
+    "tag": "li",
+    "text": "Main Page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-mainpage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 58,
+    "tag": "li",
+    "text": "Help",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-help",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 61,
+    "tag": "li",
+    "text": "Browse",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Browse",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "li",
+    "text": "Cookbook",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Cookbook",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 67,
+    "tag": "li",
+    "text": "Wikijunior",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikijunior",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 70,
+    "tag": "li",
+    "text": "Featured books",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Featured-books",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Recent changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-recentchanges",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 76,
+    "tag": "li",
+    "text": "Special pages",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-specialpages",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Random book",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-randomrootpage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "Using Wikibooks",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Using-Wikibooks",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Reading room forum",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Reading-room-forum",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "li",
+    "text": "Community portal",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-portal",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Help out!",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-maintenance",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "Policies and guidelines",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Policies-and-guidelines",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 101,
+    "tag": "li",
+    "text": "Contact us",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-contact",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 145,
+    "tag": "li",
+    "text": "Donations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 148,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login-2",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 163,
+    "tag": "li",
+    "text": "Donations",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-sitesupport",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Create account",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-createaccount",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Log in",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "pt-login",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "h1",
+    "text": "Cookbook:Tea",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "firstHeading",
+      "class": "firstHeading mw-first-heading"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Azərbaycanca",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-az mw-list-item"
+    }
+  },
+  {
+    "node_index": 199,
+    "tag": "li",
+    "text": "Беларуская",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-be mw-list-item"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Deutsch",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-de mw-list-item"
+    }
+  },
+  {
+    "node_index": 205,
+    "tag": "li",
+    "text": "Français",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-fr mw-list-item"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "日本語",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ja mw-list-item"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Nederlands",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-nl mw-list-item"
+    }
+  },
+  {
+    "node_index": 214,
+    "tag": "li",
+    "text": "Русский",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-ru mw-list-item"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "Tiếng Việt",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "interlanguage-link interwiki-vi mw-list-item"
+    }
+  },
+  {
+    "node_index": 230,
+    "tag": "li",
+    "text": "Recipe",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-nstab-cookbook",
+      "class": "selected mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "Discussion",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-talk",
+      "class": "new mw-list-item vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view",
+      "class": "selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 252,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-ve-edit",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 255,
+    "tag": "li",
+    "text": "Edit source",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit",
+      "class": "collapsible mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 258,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history",
+      "class": "mw-list-item vector-menu-item--collapsible vector-tab-noicon"
+    }
+  },
+  {
+    "node_index": 278,
+    "tag": "li",
+    "text": "Read",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-view-more",
+      "class": "selected mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 282,
+    "tag": "li",
+    "text": "Edit",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-ve-edit-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 286,
+    "tag": "li",
+    "text": "Edit source",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-edit-more",
+      "class": "collapsible mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 290,
+    "tag": "li",
+    "text": "View history",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "ca-history-more",
+      "class": "mw-list-item vector-menu-item--collapsible"
+    }
+  },
+  {
+    "node_index": 298,
+    "tag": "li",
+    "text": "What links here",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-whatlinkshere",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 301,
+    "tag": "li",
+    "text": "Related changes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-recentchangeslinked",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Upload file",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-upload",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 307,
+    "tag": "li",
+    "text": "Permanent link",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-permalink",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 310,
+    "tag": "li",
+    "text": "Page information",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-info",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "Cite this page",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-cite",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 316,
+    "tag": "li",
+    "text": "Get shortened URL",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-urlshortener",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 323,
+    "tag": "li",
+    "text": "Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikipedia",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 326,
+    "tag": "li",
+    "text": "Wikiversity",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikiversity",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 329,
+    "tag": "li",
+    "text": "Wiktionary",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wiktionary",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 332,
+    "tag": "li",
+    "text": "Wikiquote",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikiquote",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 335,
+    "tag": "li",
+    "text": "Wikisource",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikisource",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "Wikinews",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikinews",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 341,
+    "tag": "li",
+    "text": "Wikivoyage",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikivoyage",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 344,
+    "tag": "li",
+    "text": "Commons",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Commons",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 347,
+    "tag": "li",
+    "text": "Wikidata",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Wikidata",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "MediaWiki",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-MediaWiki",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 353,
+    "tag": "li",
+    "text": "Meta-Wiki",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "n-Meta-Wiki",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 360,
+    "tag": "li",
+    "text": "Create a collection",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-create_a_book",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 363,
+    "tag": "li",
+    "text": "Download as PDF",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "coll-download-as-rl",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 366,
+    "tag": "li",
+    "text": "Printable version",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-print",
+      "class": "mw-list-item"
+    }
+  },
+  {
+    "node_index": 373,
+    "tag": "li",
+    "text": "Abstract Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-abstract mw-list-item"
+    }
+  },
+  {
+    "node_index": 376,
+    "tag": "li",
+    "text": "Wikimedia Commons",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-commons mw-list-item"
+    }
+  },
+  {
+    "node_index": 379,
+    "tag": "li",
+    "text": "Wikinews",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikinews mw-list-item"
+    }
+  },
+  {
+    "node_index": 382,
+    "tag": "li",
+    "text": "Wikipedia",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikipedia mw-list-item"
+    }
+  },
+  {
+    "node_index": 385,
+    "tag": "li",
+    "text": "Wikiquote",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikiquote mw-list-item"
+    }
+  },
+  {
+    "node_index": 388,
+    "tag": "li",
+    "text": "Wikivoyage",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"
+    }
+  },
+  {
+    "node_index": 391,
+    "tag": "li",
+    "text": "Wikidata item",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "t-wikibase",
+      "class": "wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"
+    }
+  },
+  {
+    "node_index": 418,
+    "tag": "th",
+    "text": "Tea",
+    "label": "unreviewed",
+    "formatting": {
+      "colspan": "2",
+      "class": "infobox-above",
+      "style": "background-color: #58E0D5;color:var:(--color-base-fixed,#202122);; font-size:medium; overflow-wrap: break-word; width:300px;"
+    }
+  },
+  {
+    "node_index": 424,
+    "tag": "p",
+    "text": "Cookbook | Recipes | Ingredients | Equipment | Techniques | Cookbook Disambiguation Pages | Ingredients",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 433,
+    "tag": "p",
+    "text": "Tea or brewed tea refers generally to a drink made from infusing tea leaves, which are the leaves of the tea plant, in hot water. Sometimes other plants are used, and these beverages are often called \"tisanes\". Usually the leaves are not actually eaten; they are strained out before drinking, but sometimes salads and other foods include the leaf as a food ingredient.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 438,
+    "tag": "h2",
+    "text": "Brewing guidelines",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Brewing_guidelines"
+    }
+  },
+  {
+    "node_index": 448,
+    "tag": "h3",
+    "text": "True teas",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "True_teas"
+    }
+  },
+  {
+    "node_index": 457,
+    "tag": "p",
+    "text": "White tea and yellow tea are the most delicate of all teas, so they require a water temperature of only 60–65°C and an infusion time of 2 minutes. Using too high a temperature or steeping for too long has a tendency to mask some of the delicate nuances of the tea and leave it a bit bitter.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 460,
+    "tag": "p",
+    "text": "Green tea requires water that is 65–75°C. You may either pour the hot water from the tea kettle into the teapot prior to the boil, or allow the water to come to a full boil (the better choice if water quality is questionable) and then allow the water to cool again prior to pouring over the tea leaves. Green teas usually infuse anywhere from 30 seconds to 2 minutes. Bitterness in the tea is usually the result of overheating the water, infusing the tea for too long, or both.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 462,
+    "tag": "p",
+    "text": "Oolong teas are 20–80% oxidized, so their preparation method usually falls somewhere in between green and black teas. The water should just be below a boil, at around 75–80°C, and the infusion time is typically 2–3 minutes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 464,
+    "tag": "p",
+    "text": "Black tea (also called red tea), having been oxidized and more stable, infuses best in water that is 80–90°C. Infusion times are generally longer, with 3–5 minutes being a typical time. Chai and other teas combined with fragrant herbs and spices may require additional infusion time to allow the full flavor to develop. Common black teas include Darjeeling tea and Assam tea from Northern India.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 467,
+    "tag": "p",
+    "text": "Puerh tea is the only type of tea that is truly fermented as the oxidation process is never halted during processing. These teas are often retained in storage for a minimum of 20 years before going to market. Their complex flavors robust constitution require full boiling water.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 469,
+    "tag": "p",
+    "text": "Many premium grade teas can handle multiple infusions utilizing the same tea leaf. In fact, many teas subtly change flavor in subsequent infusions, revealing flavors masked by stronger overtones of the tea. White and green teas often tolerate 3–4 infusions, yellow tea and oolong teas tolerate 5–8 infusions, black tea tolerates 3–5 infusions, and a good puerh can sometimes last a dozen infusions or more. A good rule-of-thumb to follow is to add 30 seconds to the first infusion time for each subsequent infusion.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 471,
+    "tag": "h3",
+    "text": "Herbal teas",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Herbal_teas"
+    }
+  },
+  {
+    "node_index": 480,
+    "tag": "p",
+    "text": "Rooibos (Aspalathus linearis, often referred to as red tea but is different from a true red tea) and honeybush (Cyclopia spp.) are not true teas (i.e., they are not made from the Camellia sinensis plant), but are derived from African plants and are infused in a manner similar to tea. These are herbal 'teas' often referred to as tisanes. Read the instructions that came with the product. If no instructions came with it, infuse as you would black tea, and experiment with infusion times and water temperatures in future attempts until you find the flavor that most appeals to you.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 486,
+    "tag": "p",
+    "text": "Yerba maté (Ilex paraguariensis) is a South American holly plant. Maté is a tea-like infusion that can be prepared in the same manner as green tea. However, there are many other methods that produce a very different (and some would say better) flavor.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 491,
+    "tag": "h2",
+    "text": "Preparation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Preparation"
+    }
+  },
+  {
+    "node_index": 501,
+    "tag": "h3",
+    "text": "Water",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Water"
+    }
+  },
+  {
+    "node_index": 510,
+    "tag": "p",
+    "text": "For the freshest tasting cup of tea, you should always use mineral water or freshly drawn water direct from the tap that has been running for a while. Standing water loses oxygen, and the resulting tea tastes flat. If your tap water is chlorinated, a compromise can be reached by drawing fresh water and letting it stand uncovered for a couple of hours to allow the chlorine taste to leave the water; although, using mineral water is a quick and easy solution. Boiling the water for long periods also removes oxygen from the water, so always use fresh water (do not re-boil it), and use the water quickly after it comes to a boil.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 512,
+    "tag": "h3",
+    "text": "Tea",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Tea"
+    }
+  },
+  {
+    "node_index": 521,
+    "tag": "p",
+    "text": "The tea may be steeped in the water loose or in either an infuser or a bag. Loose tea leaves traditionally offer the best flavor. Tea bags are convenient, but tea purists often despise them.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 523,
+    "tag": "h3",
+    "text": "Additions",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Additions"
+    }
+  },
+  {
+    "node_index": 532,
+    "tag": "p",
+    "text": "Adding lemon to tea provides a different, fresh taste to the tea. Lemon lightens the color of tea and may accentuate any bitterness in the tea. Lemon pairs well with citrus-flavored teas, such as the bergamot-enhanced \"Grey\" teas (e.g. Earl Grey, Lady Grey, etc.), and unflavored black teas.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 534,
+    "tag": "p",
+    "text": "Milk and cream pair well with sweet, flowery, or \"fruity\" teas, or with any black tea in which you wish to reduce bitterness. Chai teas by definition require the addition of milk, ranging from one-fourth to one-half of the total volume, and a sweetener. The milk may be warmed if serving hot chai. Otherwise, cold milk and ice cubes make a lovely iced chai. Generally, green and white teas need no sweetener or milk added to them for a delicious taste if prepared properly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 537,
+    "tag": "p",
+    "text": "Always add sweeteners to tea before adding any milk; otherwise, the milk will cool the tea, and the sweetener will not dissolve properly. For better dissolving, it is preferable to add several small amounts of sweetener to the tea, stirring each time, rather than adding a large amount of sweetener at once.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 539,
+    "tag": "p",
+    "text": "Tapioca pearls called boba may be added to some varieties of tea to make \"bubble tea\".",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 543,
+    "tag": "h2",
+    "text": "Use",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Use"
+    }
+  },
+  {
+    "node_index": 552,
+    "tag": "p",
+    "text": "Tea may be chilled with ice to make a refreshing drink known as ice tea or iced tea. In particular, chilled sweetened tea (or simply sweet tea) is a common beverage in the American South.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 555,
+    "tag": "p",
+    "text": "Tea is often sold in bottles with added sugar and lemon juice, to be chilled before use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 556,
+    "tag": "p",
+    "text": "Tea is a popular drink mixer in some areas; when mixed with vodka, it is known as an Ice Pick.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 558,
+    "tag": "h2",
+    "text": "Gallery",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Gallery"
+    }
+  },
+  {
+    "node_index": 568,
+    "tag": "li",
+    "text": "Iced milk tea with tapioca boba",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 162px"
+    }
+  },
+  {
+    "node_index": 574,
+    "tag": "li",
+    "text": "A Japanese tea ceremony",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 182px"
+    }
+  },
+  {
+    "node_index": 580,
+    "tag": "li",
+    "text": "A mesh infuser to hold tea while brewing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 182.66666666667px"
+    }
+  },
+  {
+    "node_index": 586,
+    "tag": "li",
+    "text": "Black tea with milk",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 92px"
+    }
+  },
+  {
+    "node_index": 592,
+    "tag": "li",
+    "text": "Tea poured through a strainer to filter out loose leaves",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 164px"
+    }
+  },
+  {
+    "node_index": 598,
+    "tag": "li",
+    "text": "Brewed green tea",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 182px"
+    }
+  },
+  {
+    "node_index": 604,
+    "tag": "li",
+    "text": "Iced tea with a slice of lemon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "gallerybox",
+      "style": "width: 72px"
+    }
+  },
+  {
+    "node_index": 611,
+    "tag": "h2",
+    "text": "Recipes",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "Recipes"
+    }
+  },
+  {
+    "node_index": 734,
+    "tag": "li",
+    "text": "Ingredients",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 739,
+    "tag": "li",
+    "text": "This page was last edited on 9 December 2025, at 02:43.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-lastmod"
+    }
+  },
+  {
+    "node_index": 740,
+    "tag": "li",
+    "text": "Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-info-copyright"
+    }
+  },
+  {
+    "node_index": 745,
+    "tag": "li",
+    "text": "Privacy policy",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-privacy"
+    }
+  },
+  {
+    "node_index": 747,
+    "tag": "li",
+    "text": "About Wikibooks",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-about"
+    }
+  },
+  {
+    "node_index": 749,
+    "tag": "li",
+    "text": "Disclaimers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-disclaimers"
+    }
+  },
+  {
+    "node_index": 751,
+    "tag": "li",
+    "text": "Legal & safety contacts",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-legal-safety-contacts"
+    }
+  },
+  {
+    "node_index": 753,
+    "tag": "li",
+    "text": "Code of Conduct",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-wm-codeofconduct"
+    }
+  },
+  {
+    "node_index": 755,
+    "tag": "li",
+    "text": "Developers",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-developers"
+    }
+  },
+  {
+    "node_index": 757,
+    "tag": "li",
+    "text": "Statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-statslink"
+    }
+  },
+  {
+    "node_index": 759,
+    "tag": "li",
+    "text": "Cookie statement",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-cookiestatement"
+    }
+  },
+  {
+    "node_index": 761,
+    "tag": "li",
+    "text": "Mobile view",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "footer-places-mobileview"
+    }
+  }
+]

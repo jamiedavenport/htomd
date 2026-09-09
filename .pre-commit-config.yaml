@@ -1,0 +1,16 @@
+exclude: ^tests/fixtures/
+repos:
+  - repo: local
+    hooks:
+      - id: ruff-check
+        name: Ruff lint (safe fixes)
+        entry: uv run --locked ruff check --fix
+        language: system
+        types_or: [python, pyi]
+        require_serial: true
+      - id: ruff-format
+        name: Ruff format
+        entry: uv run --locked ruff format
+        language: system
+        types_or: [python, pyi]
+        require_serial: true

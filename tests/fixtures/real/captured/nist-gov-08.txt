@@ -1,0 +1,19 @@
+![Alejandra Collopy wears safety glasses as she works the lab. She is surrounded by various pieces of equipment and many hanging wires.](https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2025/01/13/DSC02047.jpg?itok=Wymiodqj)
+
+Credit: R. Jacobson/NIST
+
+Every few weeks, NIST receives a report from the International Bureau of Weights and Measures, which documents how our atomic clocks are performing compared to those in other national measurement institutes around the world.
+
+This helps our experts make sure our clocks are running as they should since they have the important job of keeping time for the entire country.
+
+NIST researcher Alejandra Collopy is working to add another piece of timely feedback to help our ensemble of clocks perform at their best 24/7. She’s creating an atomic clock based on an electrically charged atom known as an ion, which comes from the element strontium.
+
+Once fully up and running — projected to happen later this year — Alejandra’s clock will measure the difference between two energy levels of the ion. Researchers can then compare the ion’s frequency to the frequency of the clocks in the ensemble. It’ll be like a conductor of an orchestra you don’t see — silently and invisibly keeping all the instruments playing together in proper time.
+
+Strontium and other atoms are also being considered in a worldwide campaign to redefine the scientific definition of the second, which is currently based on the cesium atom, to enable the use of even more accurate atomic clocks for international timekeeping.
+
+We must continually refine our timekeeping because of the important role atomic clocks play in society and the economy, especially for precise timekeeping needs such as the stock market.
+
+Learn more about how NIST’s atomic clocks keep time for you [on our atomic clock website](https://www.nist.gov/atomic-clocks).
+
+[Follow us on social media](https://www.nist.gov/social-media) for more like this from all across NIST!

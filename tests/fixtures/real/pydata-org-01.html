@@ -1,0 +1,785 @@
+<!-- Modified by htomd on 2026-09-09: embedded scripts, styles, artwork, frames and active attributes removed.
+Source: https://pandas.pydata.org/docs/getting_started/intro_tutorials/01_table_oriented.html
+Credits, licences and change details: ../NOTICE.md and ../LICENSES.txt; original hash: manifest.json. -->
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>What kind of data does pandas handle? &#8212; pandas 3.0.5 documentation</title>
+  
+  
+  
+  <template></template>
+  <!--
+    this give us a css class that will be invisible only if js is disabled
+  -->
+  <noscript>
+    <template></template>
+  </noscript>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../../_static/styles/theme.css?digest=956a7be408686d7d6a7b" rel="stylesheet" />
+<link href="../../_static/styles/pydata-sphinx-theme.css?digest=956a7be408686d7d6a7b" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../_static/plot_directive.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/getting_started.css?v=8d8a0ed4" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/pandas.css?v=b7db95b1" />
+  
+  <!-- So that users can add custom icons -->
+  <template></template>
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../../_static/scripts/bootstrap.js?digest=956a7be408686d7d6a7b" />
+<link rel="preload" as="script" href="../../_static/scripts/pydata-sphinx-theme.js?digest=956a7be408686d7d6a7b" />
+
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <template></template>
+    <link rel="icon" href="../../_static/favicon.ico"/>
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" />
+    <link rel="next" title="How do I read and write tabular data?" href="02_read_write.html" />
+    <link rel="prev" title="Getting started tutorials" href="index.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="3.0.5" />
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <dialog id="pst-search-dialog">
+    
+<form class="bd-search d-flex align-items-center"
+      action="../../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         placeholder="Search the docs ..."
+         aria-label="Search the docs ..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+  <aside class="bd-header-announcement d-print-none d-none" aria-label="Announcement" data-pst-announcement-url="https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/_templates/docs-announcement-banner.html"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+<div class="bd-header__inner bd-page-width">
+  <button class="pst-navbar-icon sidebar-toggle primary-toggle" aria-label="Site navigation">
+    <span class="fa-solid fa-bars"></span>
+  </button>
+  
+  
+  <div class=" navbar-header-items__start">
+    
+      <div class="navbar-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../../index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../../_static/pandas.svg" class="logo__image only-light" alt="pandas 3.0.5 documentation - Home"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" class="logo__image only-dark pst-js-only" alt="pandas 3.0.5 documentation - Home"/>
+  
+  
+</a></div>
+    
+  </div>
+  
+  <div class=" navbar-header-items">
+    
+    <div class="me-auto navbar-header-items__center">
+      
+        <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Getting started
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../user_guide/index.html">
+    User Guide
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../reference/index.html">
+    API reference
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../development/index.html">
+    Development
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../whatsnew/index.html">
+    Release notes
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+      
+    </div>
+    
+    
+    <div class="navbar-header-items__end">
+      
+        <div class="navbar-item navbar-persistent--container">
+          
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+        </div>
+      
+      
+        <div class="navbar-item">
+<div class="version-switcher__container dropdown pst-js-only">
+  <button id="pst-version-switcher-button-2"
+    type="button"
+    class="version-switcher__button btn btn-sm dropdown-toggle"
+    data-bs-toggle="dropdown"
+    aria-haspopup="listbox"
+    aria-controls="pst-version-switcher-list-2"
+    aria-label="Version switcher list"
+  >
+    Choose version  <!-- this text may get changed later by javascript -->
+    <span class="caret"></span>
+  </button>
+  <div id="pst-version-switcher-list-2"
+    class="version-switcher__menu dropdown-menu list-group-flush py-0"
+    role="listbox" aria-labelledby="pst-version-switcher-button-2">
+    <!-- dropdown will be populated by javascript on page load -->
+  </div>
+</div></div>
+      
+        <div class="navbar-item">
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button></div>
+      
+        <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/pandas-dev/pandas" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://x.com/pandas_dev" title="X" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-x-twitter fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">X</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://fosstodon.org/@pandas_dev" title="Mastodon" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-mastodon fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Mastodon</span></a>
+        </li>
+</ul></div>
+      
+    </div>
+    
+  </div>
+  
+  
+    <div class="navbar-persistent--mobile">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button>
+    </div>
+  
+
+  
+    <button class="pst-navbar-icon sidebar-toggle secondary-toggle" aria-label="On this page">
+      <span class="fa-solid fa-outdent"></span>
+    </button>
+  
+</div>
+
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+      <div class="sidebar-header-items__center">
+        
+          
+          
+            <div class="navbar-item">
+<nav>
+  <ul class="bd-navbar-elements navbar-nav">
+    
+<li class="nav-item current active">
+  <a class="nav-link nav-internal" href="../index.html">
+    Getting started
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../user_guide/index.html">
+    User Guide
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../reference/index.html">
+    API reference
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../development/index.html">
+    Development
+  </a>
+</li>
+
+
+<li class="nav-item ">
+  <a class="nav-link nav-internal" href="../../whatsnew/index.html">
+    Release notes
+  </a>
+</li>
+
+  </ul>
+</nav></div>
+          
+        
+      </div>
+    
+    
+    
+      <div class="sidebar-header-items__end">
+        
+          <div class="navbar-item">
+<div class="version-switcher__container dropdown pst-js-only">
+  <button id="pst-version-switcher-button-3"
+    type="button"
+    class="version-switcher__button btn btn-sm dropdown-toggle"
+    data-bs-toggle="dropdown"
+    aria-haspopup="listbox"
+    aria-controls="pst-version-switcher-list-3"
+    aria-label="Version switcher list"
+  >
+    Choose version  <!-- this text may get changed later by javascript -->
+    <span class="caret"></span>
+  </button>
+  <div id="pst-version-switcher-list-3"
+    class="version-switcher__menu dropdown-menu list-group-flush py-0"
+    role="listbox" aria-labelledby="pst-version-switcher-button-3">
+    <!-- dropdown will be populated by javascript on page load -->
+  </div>
+</div></div>
+        
+          <div class="navbar-item">
+
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button></div>
+        
+          <div class="navbar-item"><ul class="navbar-icon-links"
+    aria-label="Icon Links">
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://github.com/pandas-dev/pandas" title="GitHub" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">GitHub</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://x.com/pandas_dev" title="X" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-square-x-twitter fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">X</span></a>
+        </li>
+        <li class="nav-item">
+          
+          
+          
+          
+          
+          
+          
+          
+          <a href="https://fosstodon.org/@pandas_dev" title="Mastodon" class="nav-link pst-navbar-icon" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><i class="fa-brands fa-mastodon fa-lg" aria-hidden="true"></i>
+            <span class="sr-only">Mastodon</span></a>
+        </li>
+</ul></div>
+        
+      </div>
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <div class="bd-toc-item navbar-nav">
+    
+    <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../install.html">Installation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../overview.html">Package overview</a></li>
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="index.html">Getting started tutorials</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">What kind of data does pandas handle?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="02_read_write.html">How do I read and write tabular data?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="03_subset_data.html">How do I select a subset of a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="04_plotting.html">How do I create plots in pandas?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="05_add_columns.html">How to create new columns derived from existing columns</a></li>
+<li class="toctree-l2"><a class="reference internal" href="06_calculate_statistics.html">How to calculate summary statistics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="07_reshape_table_layout.html">How to reshape the layout of tables</a></li>
+<li class="toctree-l2"><a class="reference internal" href="08_combine_dataframes.html">How to combine data from multiple tables</a></li>
+<li class="toctree-l2"><a class="reference internal" href="09_timeseries.html">How to handle time series data with ease</a></li>
+<li class="toctree-l2"><a class="reference internal" href="10_text_data.html">How to manipulate textual data</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../comparison/index.html">Comparison with other tools</a><details><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_r.html">Comparison with R / R libraries</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_sql.html">Comparison with SQL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_spreadsheets.html">Comparison with spreadsheets</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_sas.html">Comparison with SAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_stata.html">Comparison with Stata</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../comparison/comparison_with_spss.html">Comparison with SPSS</a></li>
+</ul>
+</details></li>
+<li class="toctree-l1"><a class="reference internal" href="../tutorials.html">Community tutorials</a></li>
+</ul>
+
+    
+  </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+      <div class="sidebar-primary-item">
+<div id="ethical-ad-placement"
+      class="flat"
+      data-ea-publisher="readthedocs"
+      data-ea-type="readthedocs-sidebar"
+      data-ea-manual="true">
+</div></div>
+  </div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item">
+
+<nav aria-label="Breadcrumb" class="d-print-none">
+  <ul class="bd-breadcrumbs">
+    
+    <li class="breadcrumb-item breadcrumb-home">
+      <a href="../../index.html" class="nav-link" aria-label="Home">
+        <i class="fa-solid fa-home"></i>
+      </a>
+    </li>
+    
+    <li class="breadcrumb-item"><a href="../index.html" class="nav-link">Getting started</a></li>
+    
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Getting started tutorials</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page"><span class="ellipsis">What kind of data does pandas handle?</span></li>
+  </ul>
+</nav>
+</div>
+      
+    </div>
+  
+  
+</div>
+</div>
+              
+              
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section id="what-kind-of-data-does-pandas-handle">
+<span id="min-tut-01-tableoriented"></span><h1>What kind of data does pandas handle?<a class="headerlink" href="#what-kind-of-data-does-pandas-handle" title="Link to this heading">#</a></h1>
+<ul class="task-bullet">
+    <li><p>I want to start using pandas</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [1]: </span><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+</pre></div>
+</div>
+<p>To load the pandas package and start working with it, import the
+package. The community agreed alias for pandas is <code class="docutils literal notranslate"><span class="pre">pd</span></code>, so loading
+pandas as <code class="docutils literal notranslate"><span class="pre">pd</span></code> is assumed standard practice for all of the pandas
+documentation.</p>
+    </li>
+</ul><section id="pandas-data-table-representation">
+<h2>pandas data table representation<a class="headerlink" href="#pandas-data-table-representation" title="Link to this heading">#</a></h2>
+<img alt="../../_images/01_table_dataframe.svg" class="align-center" src="../../_images/01_table_dataframe.svg" />
+<ul class="task-bullet">
+    <li><p>I want to store passenger data of the Titanic. For a number of passengers, I know the name (characters), age (integers) and sex (male/female) data.</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [2]: </span><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span>
+<span class="gp">   ...: </span>    <span class="p">{</span>
+<span class="gp">   ...: </span>        <span class="s2">&quot;Name&quot;</span><span class="p">:</span> <span class="p">[</span>
+<span class="gp">   ...: </span>            <span class="s2">&quot;Braund, Mr. Owen Harris&quot;</span><span class="p">,</span>
+<span class="gp">   ...: </span>            <span class="s2">&quot;Allen, Mr. William Henry&quot;</span><span class="p">,</span>
+<span class="gp">   ...: </span>            <span class="s2">&quot;Bonnell, Miss Elizabeth&quot;</span><span class="p">,</span>
+<span class="gp">   ...: </span>        <span class="p">],</span>
+<span class="gp">   ...: </span>        <span class="s2">&quot;Age&quot;</span><span class="p">:</span> <span class="p">[</span><span class="mi">22</span><span class="p">,</span> <span class="mi">35</span><span class="p">,</span> <span class="mi">58</span><span class="p">],</span>
+<span class="gp">   ...: </span>        <span class="s2">&quot;Sex&quot;</span><span class="p">:</span> <span class="p">[</span><span class="s2">&quot;male&quot;</span><span class="p">,</span> <span class="s2">&quot;male&quot;</span><span class="p">,</span> <span class="s2">&quot;female&quot;</span><span class="p">],</span>
+<span class="gp">   ...: </span>    <span class="p">}</span>
+<span class="gp">   ...: </span><span class="p">)</span>
+<span class="gp">   ...: </span>
+
+<span class="gp">In [3]: </span><span class="n">df</span>
+<span class="gh">Out[3]: </span>
+<span class="go">                       Name  Age     Sex</span>
+<span class="go">0   Braund, Mr. Owen Harris   22    male</span>
+<span class="go">1  Allen, Mr. William Henry   35    male</span>
+<span class="go">2   Bonnell, Miss Elizabeth   58  female</span>
+</pre></div>
+</div>
+<p>To manually store data in a table, create a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>. When using a Python dictionary of lists, the dictionary keys will be used as column headers and
+the values in each list as columns of the <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>.</p>
+    </li>
+</ul><p>A <a class="reference internal" href="../../reference/api/pandas.DataFrame.html#pandas.DataFrame" title="pandas.DataFrame"><code class="xref py py-class docutils literal notranslate"><span class="pre">DataFrame</span></code></a> is a 2-dimensional data structure that can store data of
+different types (including characters, integers, floating point values,
+categorical data and more) in columns. It is similar to a spreadsheet, a
+SQL table or the <code class="docutils literal notranslate"><span class="pre">data.frame</span></code> in <a class="reference external" href="https://www.r-project.org/">R</a>.</p>
+<ul class="simple">
+<li><p>The table has 3 columns, each of them with a column label. The column
+labels are respectively <code class="docutils literal notranslate"><span class="pre">Name</span></code>, <code class="docutils literal notranslate"><span class="pre">Age</span></code> and <code class="docutils literal notranslate"><span class="pre">Sex</span></code>.</p></li>
+<li><p>The column <code class="docutils literal notranslate"><span class="pre">Name</span></code> consists of textual data with each value a
+string, the column <code class="docutils literal notranslate"><span class="pre">Age</span></code> are numbers and the column <code class="docutils literal notranslate"><span class="pre">Sex</span></code> is
+textual data.</p></li>
+<li><p>The index labels each row. By default, this is a sequence of integers
+starting at 0.</p></li>
+</ul>
+<p>In spreadsheet software, the table representation of our data would look
+very similar:</p>
+<img alt="../../_images/01_table_spreadsheet.png" class="align-center" src="../../_images/01_table_spreadsheet.png" />
+</section>
+<section id="each-column-in-a-dataframe-is-a-series">
+<h2>Each column in a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> is a <code class="docutils literal notranslate"><span class="pre">Series</span></code><a class="headerlink" href="#each-column-in-a-dataframe-is-a-series" title="Link to this heading">#</a></h2>
+<img alt="../../_images/01_table_series.svg" class="align-center" src="../../_images/01_table_series.svg" />
+<ul class="task-bullet">
+    <li><p>I’m just interested in working with the data in the column <code class="docutils literal notranslate"><span class="pre">Age</span></code></p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [4]: </span><span class="n">df</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span>
+<span class="gh">Out[4]: </span>
+<span class="go">0    22</span>
+<span class="go">1    35</span>
+<span class="go">2    58</span>
+<span class="go">Name: Age, dtype: int64</span>
+</pre></div>
+</div>
+<p>When selecting a single column of a pandas <a class="reference internal" href="../../reference/api/pandas.DataFrame.html#pandas.DataFrame" title="pandas.DataFrame"><code class="xref py py-class docutils literal notranslate"><span class="pre">DataFrame</span></code></a>, the result is
+a pandas <a class="reference internal" href="../../reference/api/pandas.Series.html#pandas.Series" title="pandas.Series"><code class="xref py py-class docutils literal notranslate"><span class="pre">Series</span></code></a>. To select the column, use the column label in
+between square brackets <code class="docutils literal notranslate"><span class="pre">[]</span></code>.</p>
+    </li>
+</ul><div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you are familiar with Python
+<a class="reference external" href="https://docs.python.org/3/tutorial/datastructures.html#tut-dictionaries" title="(in Python v3.14)"><span class="xref std std-ref">dictionaries</span></a>, the selection of a
+single column is very similar to the selection of dictionary values based on
+the key.</p>
+</div>
+<p>You can create a <code class="docutils literal notranslate"><span class="pre">Series</span></code> from scratch as well:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [5]: </span><span class="n">ages</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">Series</span><span class="p">([</span><span class="mi">22</span><span class="p">,</span> <span class="mi">35</span><span class="p">,</span> <span class="mi">58</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="s2">&quot;Age&quot;</span><span class="p">)</span>
+
+<span class="gp">In [6]: </span><span class="n">ages</span>
+<span class="gh">Out[6]: </span>
+<span class="go">0    22</span>
+<span class="go">1    35</span>
+<span class="go">2    58</span>
+<span class="go">Name: Age, dtype: int64</span>
+</pre></div>
+</div>
+<p>A pandas <code class="docutils literal notranslate"><span class="pre">Series</span></code> has no column labels, as it is just a single column
+of a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>. A Series does have row labels.</p>
+</section>
+<section id="do-something-with-a-dataframe-or-series">
+<h2>Do something with a DataFrame or Series<a class="headerlink" href="#do-something-with-a-dataframe-or-series" title="Link to this heading">#</a></h2>
+<ul class="task-bullet">
+    <li><p>I want to know the maximum Age of the passengers</p>
+<p>We can do this on the <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> by selecting the <code class="docutils literal notranslate"><span class="pre">Age</span></code> column and
+applying <code class="docutils literal notranslate"><span class="pre">max()</span></code>:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [7]: </span><span class="n">df</span><span class="p">[</span><span class="s2">&quot;Age&quot;</span><span class="p">]</span><span class="o">.</span><span class="n">max</span><span class="p">()</span>
+<span class="gh">Out[7]: </span><span class="go">58</span>
+</pre></div>
+</div>
+<p>Or to the <code class="docutils literal notranslate"><span class="pre">Series</span></code>:</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [8]: </span><span class="n">ages</span><span class="o">.</span><span class="n">max</span><span class="p">()</span>
+<span class="gh">Out[8]: </span><span class="go">58</span>
+</pre></div>
+</div>
+    </li>
+</ul><p>As illustrated by the <code class="docutils literal notranslate"><span class="pre">max()</span></code> method, you can <em>do</em> things with a
+<code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> or <code class="docutils literal notranslate"><span class="pre">Series</span></code>. pandas provides a lot of functionalities,
+each of them a <em>method</em> you can apply to a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> or <code class="docutils literal notranslate"><span class="pre">Series</span></code>.
+As methods are functions, do not forget to use parentheses <code class="docutils literal notranslate"><span class="pre">()</span></code>.</p>
+<ul class="task-bullet">
+    <li><p>I’m interested in some basic statistics of the numerical data of my data table</p>
+<div class="highlight-ipython notranslate"><div class="highlight"><pre><span></span><span class="gp">In [9]: </span><span class="n">df</span><span class="o">.</span><span class="n">describe</span><span class="p">()</span>
+<span class="gh">Out[9]: </span>
+<span class="go">             Age</span>
+<span class="go">count   3.000000</span>
+<span class="go">mean   38.333333</span>
+<span class="go">std    18.230012</span>
+<span class="go">min    22.000000</span>
+<span class="go">25%    28.500000</span>
+<span class="go">50%    35.000000</span>
+<span class="go">75%    46.500000</span>
+<span class="go">max    58.000000</span>
+</pre></div>
+</div>
+<p>The <a class="reference internal" href="../../reference/api/pandas.DataFrame.describe.html#pandas.DataFrame.describe" title="pandas.DataFrame.describe"><code class="xref py py-func docutils literal notranslate"><span class="pre">describe()</span></code></a> method provides a quick overview of the numerical data in
+a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>. As the <code class="docutils literal notranslate"><span class="pre">Name</span></code> and <code class="docutils literal notranslate"><span class="pre">Sex</span></code> columns are textual data,
+these are by default not taken into account by the <a class="reference internal" href="../../reference/api/pandas.DataFrame.describe.html#pandas.DataFrame.describe" title="pandas.DataFrame.describe"><code class="xref py py-func docutils literal notranslate"><span class="pre">describe()</span></code></a> method.</p>
+    </li>
+</ul><p>Many pandas operations return a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> or a <code class="docutils literal notranslate"><span class="pre">Series</span></code>. The
+<a class="reference internal" href="../../reference/api/pandas.DataFrame.describe.html#pandas.DataFrame.describe" title="pandas.DataFrame.describe"><code class="xref py py-func docutils literal notranslate"><span class="pre">describe()</span></code></a> method is an example of a pandas operation returning a
+pandas <code class="docutils literal notranslate"><span class="pre">Series</span></code> or a pandas <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code>.</p>
+<div class="d-flex flex-row gs-torefguide">
+    <span class="badge badge-info">To user guide</span><p>Check more options on <code class="docutils literal notranslate"><span class="pre">describe</span></code> in the user guide section about <a class="reference internal" href="../../user_guide/basics.html#basics-describe"><span class="std std-ref">aggregations with describe</span></a></p>
+</div><div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This is just a starting point. Similar to spreadsheet
+software, pandas represents data as a table with columns and rows. Apart
+from the representation, the data manipulations and calculations
+you would do in spreadsheet software are also supported by pandas. Continue
+reading the next tutorials to get started!</p>
+</div>
+<div class="shadow gs-callout gs-callout-remember">
+    <h4>REMEMBER</h4><ul class="simple">
+<li><p>Import the package, aka <code class="docutils literal notranslate"><span class="pre">import</span> <span class="pre">pandas</span> <span class="pre">as</span> <span class="pre">pd</span></code></p></li>
+<li><p>A table of data is stored as a pandas <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code></p></li>
+<li><p>Each column in a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> is a <code class="docutils literal notranslate"><span class="pre">Series</span></code></p></li>
+<li><p>You can do things by applying a method on a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> or <code class="docutils literal notranslate"><span class="pre">Series</span></code></p></li>
+</ul>
+</div><div class="d-flex flex-row gs-torefguide">
+    <span class="badge badge-info">To user guide</span><p>A more extended explanation of <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> and <code class="docutils literal notranslate"><span class="pre">Series</span></code> is provided in the <a class="reference internal" href="../../user_guide/dsintro.html#dsintro"><span class="std std-ref">introduction to data structures</span></a> page.</p>
+</div></section>
+</section>
+
+
+                </article>
+              
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="index.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Getting started tutorials</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="02_read_write.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">How do I read and write tabular data?</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+<div
+    id="pst-page-navigation-heading-2"
+    class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc" aria-labelledby="pst-page-navigation-heading-2">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#pandas-data-table-representation">pandas data table representation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#each-column-in-a-dataframe-is-a-series">Each column in a <code class="docutils literal notranslate"><span class="pre">DataFrame</span></code> is a <code class="docutils literal notranslate"><span class="pre">Series</span></code></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#do-something-with-a-dataframe-or-series">Do something with a DataFrame or Series</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+          </footer>
+        
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <template></template>
+<template></template>
+
+  <footer class="bd-footer">
+<div class="bd-footer__inner bd-page-width">
+  
+    <div class="footer-items__start">
+      
+        <div class="footer-item"><p class="copyright">
+    &copy 2026, pandas via <a href="https://numfocus.org">NumFOCUS, Inc.</a> Hosted by <a href="https://www.ovhcloud.com">OVHcloud</a>.
+</p></div>
+      
+        <div class="footer-item">
+
+  <p class="sphinx-version">
+    Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 9.0.4.
+    <br/>
+  </p>
+</div>
+      
+    </div>
+  
+  
+  
+    <div class="footer-items__end">
+      
+        <div class="footer-item">
+<p class="theme-version">
+  <!-- # L10n: Setting the PST URL as an argument as this does not need to be localized -->
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.16.1.
+</p></div>
+      
+    </div>
+  
+</div>
+
+  </footer>
+  </body>
+</html>

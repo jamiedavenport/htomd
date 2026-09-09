@@ -1,0 +1,36 @@
+# What is a chromosome?
+
+In the nucleus of each cell, the [DNA molecule](https://medlineplus.gov/genetics/understanding/basics/dna/) is packaged into thread-like structures called chromosomes. Each chromosome is made up of DNA tightly coiled many times around proteins called histones that support its structure.
+
+Chromosomes are not visible in the cell’s nucleus—not even under a microscope—when the cell is not dividing. However, the DNA that makes up chromosomes becomes more tightly packed during cell division and is then visible under a microscope. Most of what researchers know about chromosomes was learned by observing chromosomes during cell division.
+
+Each chromosome has a constriction point called the centromere, which divides the chromosome into two sections, or “arms.” The short arm of the chromosome is labeled the “p arm.” The long arm of the chromosome is labeled the “q arm.” The location of the centromere on each chromosome gives the chromosome its characteristic shape, and can be used to help describe the location of specific genes.
+
+DNA and histone proteins are packaged into structures called chromosomes.
+
+![Chromosomes have a p arm, a q arm, and a centromere. They are made up of DNA wrapped around histone proteins.](https://medlineplus.gov/images/PX00005G_PRESENTATION.jpeg)
+
+Credit: U.S. National Library of Medicine
+
+## For more information about chromosomes:
+
+MedlinePlus Genetics provides [information about each human chromosome](https://medlineplus.gov/genetics/chromosome/) written in lay language.![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+A [basic introduction to chromosomes](https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet) is available from the National Human Genome Research Institute (NHGRI).![From the National Institutes of Health](https://medlineplus.gov/images/nih.png)
+
+The Centers for Disease Control and Prevention (CDC) offers [information about chromosomes](https://www.cdc.gov/genomics-and-health/about/index.html).
+
+The University of Utah's Genetic Science Learning Center offers [a description of chromosomes](https://learn.genetics.utah.edu/content/basics/readchromosomes/), including how scientists tell them apart.
+
+## Topics in the Cells and DNA chapter
+
+- [What is a cell?](https://medlineplus.gov/genetics/understanding/basics/cell/)
+- [What is DNA?](https://medlineplus.gov/genetics/understanding/basics/dna/)
+- [What is a gene?](https://medlineplus.gov/genetics/understanding/basics/gene/)
+- What is a chromosome?
+- [How many chromosomes do people have?](https://medlineplus.gov/genetics/understanding/basics/howmanychromosomes/)
+- [What is noncoding DNA?](https://medlineplus.gov/genetics/understanding/basics/noncodingdna/)
+
+[Other chapters in Help Me Understand Genetics](https://medlineplus.gov/genetics/understanding/)
+
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.

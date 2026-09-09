@@ -1,0 +1,17 @@
+![Fishing vessel in high seas](https://oceanservice.noaa.gov/education/tutorial_currents/media/fishing_vessel_240.jpg)
+
+Oceanic currents are driven by tides, winds, and differences in water density. Currents are essential for maintaining the existing balance of life on Earth, but they can be deadly as well.
+
+---
+
+When used in association with water, the term "current" describes the motion of the water. Some currents you may be familiar with are the motion of rainwater as it flows down the street, or the motion of the water in a creek, stream, or river flowing from higher elevation to lower elevation. This motion is caused by gravity. The speed and direction (velocity) of currents can be measured and recorded.
+
+Oceanic currents are driven by several factors. One is the rise and fall of the tides, which is driven by the gravitational attraction of the sun and moon on Earth's oceans. Tides create a current in the oceans, near the shore, and in bays and estuaries along the coast. These are called "tidal currents." Tidal currents are the only type of currents that change in a very regular pattern and can be predicted for future dates.
+
+A second factor that drives ocean currents is wind. Winds drive currents that are at or near the ocean's surface. These currents are generally measured in meters per second or in knots (1 knot = 1.15 miles per hour or 1.85 kilometers per hour). Winds drive currents near coastal areas on a localized scale, and in the open ocean on a global scale.
+
+A third factor that drives currents is thermohaline circulation - a process driven by density differences in water due to temperature (thermo) and salinity (haline) in different parts of the ocean. Currents driven by thermohaline circulation occur at both deep and shallow ocean levels and move much slower than tidal or surface currents.
+
+The Currents Tutorial is an overview of the types of currents, what causes them, how they are measured, and how they affect people's lives.
+
+The Roadmap to Resources directs you to online data and education materials from NOAA and other reliable resources.

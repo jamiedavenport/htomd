@@ -1,0 +1,703 @@
+[
+  {
+    "node_index": 47,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 48,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 56,
+    "tag": "p",
+    "text": "Official websites use .govA .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 63,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPSA lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "Skip to global NPS navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "Skip to this park navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Skip to the main content",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Skip to this park information section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "Skip to the footer section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 119,
+    "tag": "h2",
+    "text": "Explore This Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--green",
+      "hidden": ""
+    }
+  },
+  {
+    "node_index": 121,
+    "tag": "h2",
+    "text": "Explore the National Park Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--blue"
+    }
+  },
+  {
+    "node_index": 127,
+    "tag": "h2",
+    "text": "Exiting nps.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "modal-title visually-hidden",
+      "id": "exitModalLabel"
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Alerts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 163,
+    "tag": "li",
+    "text": "Maps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 165,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Fees",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "h1",
+    "text": "Life in Extreme Heat",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "page-title"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "td",
+    "text": "On This Page Navigation Embed Embed Video <iframe title=\"Video Embed\" src=\"https://www.nps.gov/media/video/embed.htm?id=C7DE1F76-EF40-76C7-7AB58096C4472384\" width=\"480\" height=\"306\" frameborder=\"0\" scrolling=\"auto\" allowfullscreen></iframe> Close Copy Visit our keyboard shortcuts docs for details Duration:10 minutes, 54 seconds Learn about these amazing organisms that live in some of the hottest environment on earth—including in Yellowstone's hydrothermal features. The hydrothermal features of Yellowstone are magnificent evidence of Earth’s volcanic activity. Amazingly, they are also habitats in which microscopic organisms called thermophiles—“thermo” for heat, “phile” for lover—survive and thrive. Grand Prismatic Spring at Midway Geyser Basin is an outstanding example of a hydrothermal system that is teaming with thermophilic microbial life. Visitors marvel at its size and brilliant colors. Yet, those colors are due to the microbes and up-close examples can be readily seen on the boardwalk that crosses a vast habitat for thermophilic microbes. Nourished by energy and chemical building blocks available in the hot springs, microbes construct vividly colored communities. Living with ",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cs_idCell2x1x1",
+      "class": "CS_Layout_TD"
+    }
+  },
+  {
+    "node_index": 236,
+    "tag": "h1",
+    "text": "Embed Video",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "modal-title",
+      "id": "av_C7DE1F76EF4076C77AB58096C4472384EmbedModalLabel"
+    }
+  },
+  {
+    "node_index": 247,
+    "tag": "dt",
+    "text": "Duration:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "dd",
+    "text": "10 minutes, 54 seconds",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 249,
+    "tag": "p",
+    "text": "Learn about these amazing organisms that live in some of the hottest environment on earth—including in Yellowstone's hydrothermal features.",
+    "label": "unreviewed",
+    "formatting": {
+      "itemprop": "description"
+    }
+  },
+  {
+    "node_index": 254,
+    "tag": "p",
+    "text": "The hydrothermal features of Yellowstone are magnificent evidence of Earth’s volcanic activity. Amazingly, they are also habitats in which microscopic organisms called thermophiles—“thermo” for heat, “phile” for lover—survive and thrive.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 255,
+    "tag": "p",
+    "text": "Grand Prismatic Spring at Midway Geyser Basin is an outstanding example of a hydrothermal system that is teaming with thermophilic microbial life. Visitors marvel at its size and brilliant colors. Yet, those colors are due to the microbes and up-close examples can be readily seen on the boardwalk that crosses a vast habitat for thermophilic microbes. Nourished by energy and chemical building blocks available in the hot springs, microbes construct vividly colored communities. Living with these microscopic life forms are larger examples of life in extreme environments, such as mites, flies, spiders, and plants.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "p",
+    "text": "For thousands of years, people have likely wondered about these extreme habitats. The color of Yellowstone’s superheated environments certainly caused geologist Walter Harvey Weed to pause, think, and even question scientists who preceded him. In 1889, he wrote:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "p",
+    "text": "However, he could not have imagined what a fantastic world exists in these waters of brimstone. Species, unseen to the human eye, thrive in waters as acidic as the liquid in your car battery and hot enough to blister your skin. Some create layers that look like molten wax on the surface of steaming alkaline pools. Still others, apparent to us through the odors they create, exist only in murky, sulfuric caldrons that stink worse than rotten eggs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 261,
+    "tag": "p",
+    "text": "Today, many scientists study Yellowstone’s thermophiles. Some of these microbes are similar to the first life forms capable of oxygenic photosynthesis—the process of using sunlight to convert water and carbon dioxide to oxygen, sugars, and other by-products. These life forms, called Cyanobacteria, began to create an oxygen-rich atmosphere that would eventually support human life. Cyanobacteria are found in some of the colorful mats and streamers of Yellowstone’s hot springs and are typically responsible for the orange-colored sponge-like mats in alkaline springs, like Grand Prismatic. The production of oxygen by Cyanobacteria forever changed Earth and created numerous new opportunities for life to evolve, including animals (us) that require oxygen.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 267,
+    "tag": "figcaption",
+    "text": "Thermophiles, or heat-loving microscopic organisms, are nourished by the extreme habitat at hydrothermal features in Yellowstone National Park. They also color hydrothermal features shown here at Firehole Spring. NPS/Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 268,
+    "tag": "p",
+    "text": "NPS/Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 274,
+    "tag": "p",
+    "text": "Extremophile: A microorganism living in extreme conditions such as heat and acid, that cannot survive without these conditions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "p",
+    "text": "Thermophile: Heat-loving extremophile.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 278,
+    "tag": "p",
+    "text": "Microorganism: Single- or multi-celled organism of microscopic or submicroscopic size. Also called a microbe.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 280,
+    "tag": "p",
+    "text": "Microbes in Yellowstone: In addition to the thermophilic microorganisms, millions of other microbes thrive in Yellowstone’s soils, streams, rivers, lakes, vegetation, and animals.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 282,
+    "tag": "p",
+    "text": "Bacteria (Bacterium): Single-celled microorganisms without nuclei, varying in shape, metabolism, and ability to move.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 284,
+    "tag": "p",
+    "text": "Archaea (Archaeon ): Single-celled microorganisms without nuclei and with membranes different from all other organisms. Once thought to be bacteria.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 286,
+    "tag": "p",
+    "text": "Viruses: Non-living parasitic microorganisms consisting of a piece of DNA or RNA coated by protein.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 288,
+    "tag": "p",
+    "text": "Eukarya (Eukaryote): Single- or multi-celled organisms whose cells contain a distinct membrane-bound nucleus.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 298,
+    "tag": "figcaption",
+    "text": "Yellowstone’s hot springs contain species from the circled groups on this Tree of Life. Jack Farmer conceived of this version of the tree of life, which first appeared in GSA Today, July 2000 (used with permission). Mary Ann Franke",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 299,
+    "tag": "p",
+    "text": "Mary Ann Franke",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 300,
+    "tag": "h2",
+    "text": "Thermophiles in the Tree of Life",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 301,
+    "tag": "p",
+    "text": "In the last few decades, microbial research has led to a revised tree of life, far different from the one taught before. The new tree combines animal, plant, and fungi in one branch. The other two branches consist solely of microorganisms, including an entire branch of microorganisms not known until the 1970s—the Archaea.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 302,
+    "tag": "p",
+    "text": "Dr. Carl Woese first proposed this “tree” in the 1970s. He also proposed the new branch, Archaea, which includes many microorganisms formerly considered bacteria. The ancestor of the Bacteria, Archaea, and Eukarya is inferred to be where the blue, red, and green lines connect. Organisms that branch closest to this ancestor are hyperthermophiles, which thrive in water above 176°F (80°C), indicating life may have arisen in hot environments on the young Earth.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "h3",
+    "text": "Relevance to Yellowstone",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 304,
+    "tag": "p",
+    "text": "Among the earliest organisms to evolve on Earth were microorganisms whose descendants are found today in extreme high-temperature, and in some cases acidic, environments, such as those in Yellowstone. Their history exhibits principles of ecology and ways in which geologic processes might have influenced biological evolution.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "h2",
+    "text": "About Microbes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "p",
+    "text": "Other life forms—the Archaea—predated Cyanobacteria and other photosynthesitic organisms. Archaea can live in the hottest, most acidic conditions in Yellowstone; their ancestors are considered among the very earliest life forms to have evolved on Earth.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "p",
+    "text": "Yellowstone’s thermophiles and their environments provide a living laboratory for scientists, who continue to explore these extraordinary organisms. Researchers know that many mysteries of Yellowstone’s extreme environments remain to be revealed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 312,
+    "tag": "p",
+    "text": "Regardless of scientific advances, visitors and explorers in Yellowstone can still relate to something else written about Yellowstone, more than a century ago (Weed, 1889):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 320,
+    "tag": "h2",
+    "text": "Science Articles on Thermophiles",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "margin-bottom-1"
+    }
+  },
+  {
+    "node_index": 354,
+    "tag": "p",
+    "text": "Loading results...",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-alert__text"
+    }
+  },
+  {
+    "node_index": 368,
+    "tag": "h3",
+    "text": "Resources",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "accordion-header",
+      "id": "header53C40D31F6724C5F44DA8B20600D8669",
+      "title": ""
+    }
+  },
+  {
+    "node_index": 377,
+    "tag": "p",
+    "text": "Source: NPS DataStore Collection 7681. To search for additional information, visit the NPS DataStore.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "p",
+    "text": "Archaea are the most extreme of all extremophiles.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 398,
+    "tag": "p",
+    "text": "Almost all hot springs and geysers host thermophilic bacteria.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 405,
+    "tag": "p",
+    "text": "Microscopic plants and animals live in the extreme environments of Yellowstone's hydrothermal features.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 413,
+    "tag": "p",
+    "text": "Viruses, a logical part of thermophilic ecosystems, have been found in some pools in Yellowstone.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 420,
+    "tag": "p",
+    "text": "Thermophilic communities are very diverse, depending on the microbes living there, the pH, and the water temperature.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 428,
+    "tag": "p",
+    "text": "Yellowstone's hydrothermal systems are the visible expression of the immense Yellowstone volcano.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 435,
+    "tag": "p",
+    "text": "Learn about hot springs, geysers, mudpots, and fumaroles.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 443,
+    "tag": "p",
+    "text": "Yellowstone's hydrothermal features and thermophilic communities are studied by scientists searching for evidence of life on other planets.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 450,
+    "tag": "p",
+    "text": "Bioprospecting is the discovery of useful scientific information from genetic or biochemical resources.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 457,
+    "tag": "p",
+    "text": "Discover the natural wonder of Yellowstone, from the geology beneath the plant communities to the animals migrating through the ecosystem.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 463,
+    "tag": "p",
+    "text": "Last updated: April 17, 2025",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:right;"
+    }
+  },
+  {
+    "node_index": 465,
+    "tag": "h2",
+    "text": "Park footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 470,
+    "tag": "h3",
+    "text": "Contact Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 475,
+    "tag": "p",
+    "text": "PO Box 168 Yellowstone National Park, WY 82190-0168",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "adr"
+    }
+  },
+  {
+    "node_index": 482,
+    "tag": "p",
+    "text": "307-344-7381",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 490,
+    "tag": "h3",
+    "text": "Tools",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 492,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 495,
+    "tag": "li",
+    "text": "Site Index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 498,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 503,
+    "tag": "h3",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 517,
+    "tag": "li",
+    "text": "This Site",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 519,
+    "tag": "li",
+    "text": "All NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 527,
+    "tag": "p",
+    "text": "Download the NPS app to navigate the parks on the go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 563,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 565,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 567,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 569,
+    "tag": "li",
+    "text": "Notices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 571,
+    "tag": "li",
+    "text": "Contact Yellowstone National Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 573,
+    "tag": "li",
+    "text": "NPS FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 575,
+    "tag": "li",
+    "text": "No Fear Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 577,
+    "tag": "li",
+    "text": "Disclaimer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 579,
+    "tag": "li",
+    "text": "Vulnerability Disclosure Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 581,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 583,
+    "tag": "li",
+    "text": "Office of Civil Rights",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  }
+]

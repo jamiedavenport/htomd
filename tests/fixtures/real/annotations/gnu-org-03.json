@@ -1,0 +1,444 @@
+[
+  {
+    "node_index": 55,
+    "tag": "p",
+    "text": "GNU Operating System Supported by the Free Software Foundation",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "gnu-banner"
+    }
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "= ABOUT GNU =",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabAboutGNU",
+      "class": "active"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "PHILOSOPHY",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabPhilosophy"
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "LICENSES",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabLicenses"
+    }
+  },
+  {
+    "node_index": 86,
+    "tag": "li",
+    "text": "EDUCATION",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabEducation"
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "SOFTWARE",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabSoftware"
+    }
+  },
+  {
+    "node_index": 90,
+    "tag": "li",
+    "text": "DISTROS",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabDistros"
+    }
+  },
+  {
+    "node_index": 92,
+    "tag": "li",
+    "text": "DOCS",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabDoc"
+    }
+  },
+  {
+    "node_index": 94,
+    "tag": "li",
+    "text": "MALWARE",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabMalware"
+    }
+  },
+  {
+    "node_index": 96,
+    "tag": "li",
+    "text": "HELP GNU",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabHelp"
+    }
+  },
+  {
+    "node_index": 98,
+    "tag": "li",
+    "text": "AUDIO & VIDEO",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabAV"
+    }
+  },
+  {
+    "node_index": 100,
+    "tag": "li",
+    "text": "GNU ART",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabArt"
+    }
+  },
+  {
+    "node_index": 102,
+    "tag": "li",
+    "text": "FUN",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabFun"
+    }
+  },
+  {
+    "node_index": 104,
+    "tag": "li",
+    "text": "GNU'S WHO?",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "tabPeople"
+    }
+  },
+  {
+    "node_index": 106,
+    "tag": "li",
+    "text": "SOFTWARE DIRECTORY",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 108,
+    "tag": "li",
+    "text": "HARDWARE",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 110,
+    "tag": "li",
+    "text": "SITEMAP",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 114,
+    "tag": "h2",
+    "text": "About GNU",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 117,
+    "tag": "p",
+    "text": "This page lists a series of articles related to the GNU Project and the GNU Operating System. They are arranged in reverse chronological order. Items marked with an asterisk are recommended reads.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "GNU in a Nutshell",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 123,
+    "tag": "p",
+    "text": "Download distributions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 128,
+    "tag": "p",
+    "text": "If you're looking for a whole system to install, see our list of GNU/Linux distributions which are entirely free software.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 132,
+    "tag": "h3",
+    "text": "GNU History",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "gnu-history"
+    }
+  },
+  {
+    "node_index": 134,
+    "tag": "li",
+    "text": "[2003] My Lisp Experiences and the Development of GNU Emacs (by Richard Stallman)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "[1999] 15 Years of Free Software (by Richard Stallman)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 140,
+    "tag": "li",
+    "text": "[1999] BYTE interview with Richard Stallman",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "*[1998] The GNU Project (by Richard Stallman) — A more detailed history of GNU.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "li",
+    "text": "*[1996] Overview of the GNU System",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "[1989] One Man's Fight for Free Software (by John Markoff) — An article about Richard Stallman and the early GNU development, published at The New York Times on January 11, 1989. One problem with the article is that it uses the propaganda term “intellectual property” as if that referred to something coherent. The term is such a confusion that talking about it makes no sense. The article is also somewhat confused in regard to Symbolics. What Stallman did, while still working at MIT, was to write, independently, replacement improvements comparable to the improvements that Symbolics made in its version of the MIT Lisp Machine System.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "*[1985] The GNU Manifesto",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "*[1984] First Hackers Conference",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "*[1983] Initial Announcement of the GNU Project",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "[1983] The Road to GNU — Richard Stallman describes the experiences that prepared him to fight for a free software world.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "p",
+    "text": "Here are two postings that Stallman wrote for a bulletin board at Stanford while he was visiting there in May, 1983. They show some of his thinking on the way towards launching the development of the GNU system. They don't use the term “free software”; apparently he had not yet started to put those two words together.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "[1983] Why Programs Should be Shared",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "[1983] Yes, Give It Away",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 179,
+    "tag": "h3",
+    "text": "GNU Structure",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "gnu-structure"
+    }
+  },
+  {
+    "node_index": 181,
+    "tag": "li",
+    "text": "[2020] The Structure and Administration of the GNU Project (by Brandon Invergo and Richard Stallman)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 184,
+    "tag": "h3",
+    "text": "GNU and Linux",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "gnulinux"
+    }
+  },
+  {
+    "node_index": 186,
+    "tag": "li",
+    "text": "[2018] Incorrect Quotation (by Richard Stallman)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 189,
+    "tag": "li",
+    "text": "[2006] GNU Users Who Have Never Heard of GNU (by Richard Stallman)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "*[2001] A GNU/Linux FAQ (by Richard Stallman)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "*[2000] What's in a Name? (by Richard Stallman) — Why the “Linux system” should be called GNU/Linux.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "*[1997] Linux and the GNU System (by Richard Stallman) — The relationship between GNU and Linux.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "h3",
+    "text": "Other GNU-related resources",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "misc"
+    }
+  },
+  {
+    "node_index": 206,
+    "tag": "li",
+    "text": "GNU/Linux, GNU/Hurd, and free software user groups",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 208,
+    "tag": "h3",
+    "text": "GNU elsewhere",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "elsewhere"
+    }
+  },
+  {
+    "node_index": 210,
+    "tag": "p",
+    "text": "Main-belt asteroid (9965) GNU, provisionally designated as 1992 EF2, was named after the GNU project in the Minor Planet Circular 41571. The asteroid was discovered at Kitt Peak by Spacewatch on the 5th March 1992.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "p",
+    "text": "Available for this page:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "p",
+    "text": "[en] English [ar] العربية [bg] български [ca] català [de] Deutsch [el] ελληνικά [es] español [fr] français [hr] hrvatski [it] italiano [ja] 日本語 [ko] 한국어 [ml] മലയാളം [nl] Nederlands [pl] polski [pt-br] português [ru] русский [sq] Shqip [sr] српски [tr] Türkçe [uk] українська [zh-cn] 简体中文 [zh-tw] 繁體中文",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 285,
+    "tag": "p",
+    "text": "“The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom. We defend the rights of all software users.”",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "direction:ltr; text-align:left"
+    }
+  },
+  {
+    "node_index": 295,
+    "tag": "p",
+    "text": "Please send general FSF & GNU inquiries to <gnu@gnu.org>. There are also other ways to contact the FSF. Broken links and other corrections or suggestions can be sent to <webmasters@gnu.org>.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 299,
+    "tag": "p",
+    "text": "Please see the Translations README for information on coordinating and contributing translations of this article.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 301,
+    "tag": "p",
+    "text": "Copyright © 2002, 2006-2008, 2011, 2014-2016, 2020, 2021, 2022, 2023, 2026 Free Software Foundation, Inc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 302,
+    "tag": "p",
+    "text": "This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 305,
+    "tag": "p",
+    "text": "Copyright Infringement Notification",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 308,
+    "tag": "p",
+    "text": "Updated: $Date: 2026/06/22 12:34:50 $",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "unprintable"
+    }
+  }
+]

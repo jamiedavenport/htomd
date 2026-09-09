@@ -1,0 +1,828 @@
+[
+  {
+    "node_index": 69,
+    "tag": "li",
+    "text": "Getting started",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 71,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 73,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 75,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": "Mastodon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "Getting started",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "X",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Mastodon",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "Installation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Package overview",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "Getting started tutorials What kind of data does pandas handle? How do I read and write tabular data? How do I select a subset of a DataFrame? How do I create plots in pandas? How to create new columns derived from existing columns How to calculate summary statistics How to reshape the layout of tables How to combine data from multiple tables How to handle time series data with ease How to manipulate textual data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 current active has-children"
+    }
+  },
+  {
+    "node_index": 180,
+    "tag": "li",
+    "text": "What kind of data does pandas handle?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2 current active"
+    }
+  },
+  {
+    "node_index": 182,
+    "tag": "li",
+    "text": "How do I read and write tabular data?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 184,
+    "tag": "li",
+    "text": "How do I select a subset of a DataFrame?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 188,
+    "tag": "li",
+    "text": "How do I create plots in pandas?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "How to create new columns derived from existing columns",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "How to calculate summary statistics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "How to reshape the layout of tables",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "How to combine data from multiple tables",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "How to handle time series data with ease",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "How to manipulate textual data",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 202,
+    "tag": "li",
+    "text": "Comparison with other tools Comparison with R / R libraries Comparison with SQL Comparison with spreadsheets Comparison with SAS Comparison with Stata Comparison with SPSS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 has-children"
+    }
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Comparison with R / R libraries",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Comparison with SQL",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Comparison with spreadsheets",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Comparison with SAS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "Comparison with Stata",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Comparison with SPSS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l2"
+    }
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Community tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 238,
+    "tag": "li",
+    "text": "Getting started",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Getting started tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "What kind of data does pandas handle?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item active",
+      "aria-current": "page"
+    }
+  },
+  {
+    "node_index": 248,
+    "tag": "h1",
+    "text": "What kind of data does pandas handle?#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "I want to start using pandas In [1]: import pandas as pd To load the pandas package and start working with it, import the package. The community agreed alias for pandas is pd, so loading pandas as pd is assumed standard practice for all of the pandas documentation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "p",
+    "text": "I want to start using pandas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 255,
+    "tag": "pre",
+    "text": "In [1]: import pandas as pd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 265,
+    "tag": "p",
+    "text": "To load the pandas package and start working with it, import the package. The community agreed alias for pandas is pd, so loading pandas as pd is assumed standard practice for all of the pandas documentation.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "h2",
+    "text": "pandas data table representation#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "I want to store passenger data of the Titanic. For a number of passengers, I know the name (characters), age (integers) and sex (male/female) data. In [2]: df = pd.DataFrame( ...: { ...: \"Name\": [ ...: \"Braund, Mr. Owen Harris\", ...: \"Allen, Mr. William Henry\", ...: \"Bonnell, Miss Elizabeth\", ...: ], ...: \"Age\": [22, 35, 58], ...: \"Sex\": [\"male\", \"male\", \"female\"], ...: } ...: ) ...: In [3]: df Out[3]: Name Age Sex 0 Braund, Mr. Owen Harris 22 male 1 Allen, Mr. William Henry 35 male 2 Bonnell, Miss Elizabeth 58 female To manually store data in a table, create a DataFrame. When using a Python dictionary of lists, the dictionary keys will be used as column headers and the values in each list as columns of the DataFrame.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 276,
+    "tag": "p",
+    "text": "I want to store passenger data of the Titanic. For a number of passengers, I know the name (characters), age (integers) and sex (male/female) data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 279,
+    "tag": "pre",
+    "text": "In [2]: df = pd.DataFrame( ...: { ...: \"Name\": [ ...: \"Braund, Mr. Owen Harris\", ...: \"Allen, Mr. William Henry\", ...: \"Bonnell, Miss Elizabeth\", ...: ], ...: \"Age\": [22, 35, 58], ...: \"Sex\": [\"male\", \"male\", \"female\"], ...: } ...: ) ...: In [3]: df Out[3]: Name Age Sex 0 Braund, Mr. Owen Harris 22 male 1 Allen, Mr. William Henry 35 male 2 Bonnell, Miss Elizabeth 58 female",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 337,
+    "tag": "p",
+    "text": "To manually store data in a table, create a DataFrame. When using a Python dictionary of lists, the dictionary keys will be used as column headers and the values in each list as columns of the DataFrame.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 342,
+    "tag": "p",
+    "text": "A DataFrame is a 2-dimensional data structure that can store data of different types (including characters, integers, floating point values, categorical data and more) in columns. It is similar to a spreadsheet, a SQL table or the data.frame in R.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "li",
+    "text": "The table has 3 columns, each of them with a column label. The column labels are respectively Name, Age and Sex.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 351,
+    "tag": "p",
+    "text": "The table has 3 columns, each of them with a column label. The column labels are respectively Name, Age and Sex.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 358,
+    "tag": "li",
+    "text": "The column Name consists of textual data with each value a string, the column Age are numbers and the column Sex is textual data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 359,
+    "tag": "p",
+    "text": "The column Name consists of textual data with each value a string, the column Age are numbers and the column Sex is textual data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 366,
+    "tag": "li",
+    "text": "The index labels each row. By default, this is a sequence of integers starting at 0.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 367,
+    "tag": "p",
+    "text": "The index labels each row. By default, this is a sequence of integers starting at 0.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 368,
+    "tag": "p",
+    "text": "In spreadsheet software, the table representation of our data would look very similar:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 371,
+    "tag": "h2",
+    "text": "Each column in a DataFrame is a Series#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 379,
+    "tag": "li",
+    "text": "I’m just interested in working with the data in the column Age In [4]: df[\"Age\"] Out[4]: 0 22 1 35 2 58 Name: Age, dtype: int64 When selecting a single column of a pandas DataFrame, the result is a pandas Series. To select the column, use the column label in between square brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 380,
+    "tag": "p",
+    "text": "I’m just interested in working with the data in the column Age",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 385,
+    "tag": "pre",
+    "text": "In [4]: df[\"Age\"] Out[4]: 0 22 1 35 2 58 Name: Age, dtype: int64",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "p",
+    "text": "When selecting a single column of a pandas DataFrame, the result is a pandas Series. To select the column, use the column label in between square brackets [].",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "p",
+    "text": "Note",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 408,
+    "tag": "p",
+    "text": "If you are familiar with Python dictionaries, the selection of a single column is very similar to the selection of dictionary values based on the key.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 411,
+    "tag": "p",
+    "text": "You can create a Series from scratch as well:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "pre",
+    "text": "In [5]: ages = pd.Series([22, 35, 58], name=\"Age\") In [6]: ages Out[6]: 0 22 1 35 2 58 Name: Age, dtype: int64",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 442,
+    "tag": "p",
+    "text": "A pandas Series has no column labels, as it is just a single column of a DataFrame. A Series does have row labels.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 448,
+    "tag": "h2",
+    "text": "Do something with a DataFrame or Series#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 451,
+    "tag": "li",
+    "text": "I want to know the maximum Age of the passengers We can do this on the DataFrame by selecting the Age column and applying max(): In [7]: df[\"Age\"].max() Out[7]: 58 Or to the Series: In [8]: ages.max() Out[8]: 58",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 452,
+    "tag": "p",
+    "text": "I want to know the maximum Age of the passengers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "p",
+    "text": "We can do this on the DataFrame by selecting the Age column and applying max():",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 462,
+    "tag": "pre",
+    "text": "In [7]: df[\"Age\"].max() Out[7]: 58",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 474,
+    "tag": "p",
+    "text": "Or to the Series:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 479,
+    "tag": "pre",
+    "text": "In [8]: ages.max() Out[8]: 58",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 488,
+    "tag": "p",
+    "text": "As illustrated by the max() method, you can do things with a DataFrame or Series. pandas provides a lot of functionalities, each of them a method you can apply to a DataFrame or Series. As methods are functions, do not forget to use parentheses ().",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 504,
+    "tag": "li",
+    "text": "I’m interested in some basic statistics of the numerical data of my data table In [9]: df.describe() Out[9]: Age count 3.000000 mean 38.333333 std 18.230012 min 22.000000 25% 28.500000 50% 35.000000 75% 46.500000 max 58.000000 The describe() method provides a quick overview of the numerical data in a DataFrame. As the Name and Sex columns are textual data, these are by default not taken into account by the describe() method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 505,
+    "tag": "p",
+    "text": "I’m interested in some basic statistics of the numerical data of my data table",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 508,
+    "tag": "pre",
+    "text": "In [9]: df.describe() Out[9]: Age count 3.000000 mean 38.333333 std 18.230012 min 22.000000 25% 28.500000 50% 35.000000 75% 46.500000 max 58.000000",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 525,
+    "tag": "p",
+    "text": "The describe() method provides a quick overview of the numerical data in a DataFrame. As the Name and Sex columns are textual data, these are by default not taken into account by the describe() method.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 538,
+    "tag": "p",
+    "text": "Many pandas operations return a DataFrame or a Series. The describe() method is an example of a pandas operation returning a pandas Series or a pandas DataFrame.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 552,
+    "tag": "p",
+    "text": "Check more options on describe in the user guide section about aggregations with describe",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 558,
+    "tag": "p",
+    "text": "Note",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "p",
+    "text": "This is just a starting point. Similar to spreadsheet software, pandas represents data as a table with columns and rows. Apart from the representation, the data manipulations and calculations you would do in spreadsheet software are also supported by pandas. Continue reading the next tutorials to get started!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 563,
+    "tag": "li",
+    "text": "Import the package, aka import pandas as pd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 564,
+    "tag": "p",
+    "text": "Import the package, aka import pandas as pd",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 570,
+    "tag": "li",
+    "text": "A table of data is stored as a pandas DataFrame",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 571,
+    "tag": "p",
+    "text": "A table of data is stored as a pandas DataFrame",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 574,
+    "tag": "li",
+    "text": "Each column in a DataFrame is a Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 575,
+    "tag": "p",
+    "text": "Each column in a DataFrame is a Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 580,
+    "tag": "li",
+    "text": "You can do things by applying a method on a DataFrame or Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 581,
+    "tag": "p",
+    "text": "You can do things by applying a method on a DataFrame or Series",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 588,
+    "tag": "p",
+    "text": "A more extended explanation of DataFrame and Series is provided in the introduction to data structures page.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 600,
+    "tag": "p",
+    "text": "previous",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 601,
+    "tag": "p",
+    "text": "Getting started tutorials",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 604,
+    "tag": "p",
+    "text": "next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 605,
+    "tag": "p",
+    "text": "How do I read and write tabular data?",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 615,
+    "tag": "li",
+    "text": "pandas data table representation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 617,
+    "tag": "li",
+    "text": "Each column in a DataFrame is a Series",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 623,
+    "tag": "li",
+    "text": "Do something with a DataFrame or Series",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 632,
+    "tag": "p",
+    "text": "© 2026, pandas via NumFOCUS, Inc. Hosted by OVHcloud.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  },
+  {
+    "node_index": 636,
+    "tag": "p",
+    "text": "Created using Sphinx 9.0.4.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sphinx-version"
+    }
+  },
+  {
+    "node_index": 641,
+    "tag": "p",
+    "text": "Built with the PyData Sphinx Theme 0.16.1.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "theme-version"
+    }
+  }
+]

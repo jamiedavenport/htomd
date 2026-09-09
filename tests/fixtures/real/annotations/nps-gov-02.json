@@ -1,0 +1,563 @@
+[
+  {
+    "node_index": 51,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 52,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 60,
+    "tag": "p",
+    "text": "Official websites use .govA .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 67,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPSA lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 77,
+    "tag": "li",
+    "text": "Skip to global NPS navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "li",
+    "text": "Skip to this park navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 81,
+    "tag": "li",
+    "text": "Skip to the main content",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 83,
+    "tag": "li",
+    "text": "Skip to this park information section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 85,
+    "tag": "li",
+    "text": "Skip to the footer section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 123,
+    "tag": "h2",
+    "text": "Explore This Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--green",
+      "hidden": ""
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "h2",
+    "text": "Explore the National Park Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--blue"
+    }
+  },
+  {
+    "node_index": 131,
+    "tag": "h2",
+    "text": "Exiting nps.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "modal-title visually-hidden",
+      "id": "exitModalLabel"
+    }
+  },
+  {
+    "node_index": 162,
+    "tag": "li",
+    "text": "Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Alerts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 167,
+    "tag": "li",
+    "text": "Maps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 171,
+    "tag": "li",
+    "text": "Fees",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 204,
+    "tag": "h1",
+    "text": "West Thumb Geyser Basin",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "page-title"
+    }
+  },
+  {
+    "node_index": 210,
+    "tag": "td",
+    "text": "The West Thumb Geyser Basin, including Potts Basin to the north, is the largest geyser basin on the shores of Yellowstone Lake. NPS/Damon Joyce While many of the park's features had been described by mountain men and other explorers, the West Thumb area was the first Yellowstone feature to be written about in a publication. Daniel T. Potts, a trapper in the Yellowstone region in the 1820s, wrote a letter to his brother in Philadelphia, Pennsylvania, regarding his experiences in this area. The letter was later corrected for punctuation and spelling and printed in the Philadelphia Gazette on September 27, 1827. Part of the letter describing the northern part of the West Thumb Geyser Basin, which is currently known as \"Potts Basin\" follows: ...on the south borders of this lake is a number of hot and boiling springs some of water and others of most beautiful fine clay and resembles that of a mush pot and throws its particles to the immense height of from twenty to thirty feet in height[.] The clay is white and of a pink and water appears fathomless as it appears to be entirely hollow under neath. There is also a number of places where the pure sulfur is sent forth in abundance[.] One o",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cs_idCell2x1x1",
+      "class": "CS_Layout_TD"
+    }
+  },
+  {
+    "node_index": 218,
+    "tag": "figcaption",
+    "text": "The West Thumb Geyser Basin, including Potts Basin to the north, is the largest geyser basin on the shores of Yellowstone Lake. NPS/Damon Joyce",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 219,
+    "tag": "p",
+    "text": "NPS/Damon Joyce",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "p",
+    "text": "While many of the park's features had been described by mountain men and other explorers, the West Thumb area was the first Yellowstone feature to be written about in a publication. Daniel T. Potts, a trapper in the Yellowstone region in the 1820s, wrote a letter to his brother in Philadelphia, Pennsylvania, regarding his experiences in this area.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 222,
+    "tag": "p",
+    "text": "The letter was later corrected for punctuation and spelling and printed in the Philadelphia Gazette on September 27, 1827. Part of the letter describing the northern part of the West Thumb Geyser Basin, which is currently known as \"Potts Basin\" follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 224,
+    "tag": "p",
+    "text": "...on the south borders of this lake is a number of hot and boiling springs some of water and others of most beautiful fine clay and resembles that of a mush pot and throws its particles to the immense height of from twenty to thirty feet in height[.] The clay is white and of a pink and water appears fathomless as it appears to be entirely hollow under neath. There is also a number of places where the pure sulfur is sent forth in abundance[.] One of our men visited one of those whilst taking his recreation[.] There at an instant the earth began a tremendous trembling and he with difficulty made his escape when an explosion took place resembling that of thunder. During our stay in that quarter I heard it every day[.]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "p",
+    "text": "In 1869, the first scientific expedition to explore the Yellowstone area, the Folsom- Cook-Peterson Expedition, visited the West Thumb Geyser Basin. David Folsom described the area as follows:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "p",
+    "text": "Among these were springs differing from any we had previously seen. They were situated along the shore for a distance of two miles, extending back from it about five hundred yards and into the lake perhaps as many feet. There were several hundred springs here, varying in size from miniature fountains to pools or wells seventy-five feet in diameter and of great depth. The water had a pale violet tinge, and was very clear, enabling us to discern small objects fifty or sixty feet below the surface. A small cluster of mud springs near by claimed our attention. These were filled with mud, resembling thick paint of the finest quality, differing in color from pure white to the various shades of yellow, pink, red and violet. During the afternoon they threw mud to the height of fifteen feet. . . .",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 228,
+    "tag": "p",
+    "text": "Historically, visitors travelling to Yellowstone would arrive at West Thumb via stagecoach from the Old Faithful area. At West Thumb, they had the choice of continuing on the dusty, bumpy stagecoach or boarding the steamship \"Zillah\" to continue the journey to the Lake Hotel. The boat dock was located near the south end of the basin near Lakeside Spring.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "p",
+    "text": "The West Thumb area used to be the site of a large campground, cabins, a photo shop, a cafeteria, and a gas station. This development was located immediately next to the geyser basin with the park road passing between the two. In an effort to further protect the scenic quality and the very resource that visitors were coming to see, the National Park Service removed this development in the 1980s.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 238,
+    "tag": "figcaption",
+    "text": "NPS/Johnson",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 239,
+    "tag": "p",
+    "text": "NPS/Johnson",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "h2",
+    "text": "Abyss Pool",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "p",
+    "text": "In 1935, Chief Park Naturalist C.M. Bauer named Abyss Pool, a hot spring of the West Thumb Geyser Basin, for its impressive deepness. Bauer may have taken the name from Lieutenant G.C. Doane's 1870 description of a spring in this area: \"the distance to which objects are visible down in [its] deep abysses is truly wonderful\" (Bonney and Bonney, Battle Drums, p. 330). Abyss Pool may also be the spring that visitors referred to during the 1880s as \"Tapering Spring\" because of its sloping walls.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 242,
+    "tag": "p",
+    "text": "Nineteenth century observers were impressed with the pool's beauty. In 1871, F.V. Hayden reported that this spring's \"ultramarine hue of the transparent depth in the bright sunlight was the most dazzlingly beautiful sight I have ever beheld\" (Preliminary Reports, p. 101). And W.W. Wylie (see Wylie Hill) observed in 1882 that the spring's walls, \"coral-like in formation and singular in shape, tinted by the water's color, are surely good representations of fairy palaces\" (Yellowstone, p. 47).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "figcaption",
+    "text": "NPS/Johnson",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 252,
+    "tag": "p",
+    "text": "NPS/Johnson",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 253,
+    "tag": "h2",
+    "text": "Fishing Cone",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "p",
+    "text": "Fishing Cone is a hot spring located in the West Thumb Geyser Basin. The Folsom party probably saw it in 1869, but the first recorded description of Fishing Cone comes from the 1870 Washburn Expedition. Party member Walter Trumball wrote about Cornelius Hedges's experience fishing:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 256,
+    "tag": "p",
+    "text": "A gentleman was fishing from one of the narrow isthmuses or shelves of rock, which divided one of these hot springs from the [Yellowstone] lake, when, in swinging a trout ashore, it accidentally got off the hook and fell into the spring. For a moment it darted about with wonderful rapidity, as if seeking an outlet. Then it came to the top, dead, and literally boiled (Overland Monthly, June 1871, p. 492).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "p",
+    "text": "From that time on, and perhaps even earlier, visitor after visitor performed this feat, catching fish from the cold lake and cooking them on the hook. Hayden Survey members did it in 1871, and the next year they named the spring \"Fish Pot\" or \"Hot Spring Cone.\" Later names were \"Fisherman's Kettle,\" \"Fish Cone,\" \"Fishpot Spring,\" \"Crater Island,\" and \"Chowder Pot.\" The name Fishing Cone came about gradually through the generic use of the term in guidebooks.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 258,
+    "tag": "p",
+    "text": "The cooking-on-the-hook feat at Fishing Cone soon became famous. For years, park Superintendent P.W. Norris (1877-1882) demonstrated it to incredulous tourists, and in 1894 members of Congress hooted at their colleagues who described the process. A national magazine reported in 1903 that no visit to the park was complete without this experience, and tourists often dressed in a cook's hat and apron to have their pictures taken at Fishing Cone. The fishing and cooking practice, regarded today as unhealthy, is now prohibited.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 259,
+    "tag": "p",
+    "text": "Fishing at the cone can be dangerous. A known geyser, Fishing Cone erupted frequently to the height of 40 feet in 1919 and to lesser heights in 1939. One fisherman was badly burned at Fishing Cone in 1921.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "p",
+    "text": "More Information",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "section_title",
+      "style": "text-align: left;"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "Geysers video, Yellowstone InDepth episode 7 (5 min. 49 sec.): With over half the world's geysers, Yellowstone offers tremendous opportunities to see these geologic wonders in action. Explore the mechanics of geysers, their role in the park's history and what they teach us about the world in which we live.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Hydrothermal Features",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Hydrothermal Features Videos: Watch videos that tell the story of microorganisms that thrive in hot water.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Old Faithful Geyser Webcam: Watch streaming video of Old Faithful and other geysers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "Life in Extreme Heat (Other Life Forms)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 284,
+    "tag": "p",
+    "text": "Last updated: April 29, 2025",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:right;"
+    }
+  },
+  {
+    "node_index": 286,
+    "tag": "h2",
+    "text": "Park footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 291,
+    "tag": "h3",
+    "text": "Contact Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 296,
+    "tag": "p",
+    "text": "PO Box 168 Yellowstone National Park, WY 82190-0168",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "adr"
+    }
+  },
+  {
+    "node_index": 303,
+    "tag": "p",
+    "text": "307-344-7381",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "h3",
+    "text": "Tools",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 313,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 316,
+    "tag": "li",
+    "text": "Site Index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 319,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 324,
+    "tag": "h3",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 338,
+    "tag": "li",
+    "text": "This Site",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 340,
+    "tag": "li",
+    "text": "All NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 348,
+    "tag": "p",
+    "text": "Download the NPS app to navigate the parks on the go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 384,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 386,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 388,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 390,
+    "tag": "li",
+    "text": "Notices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 392,
+    "tag": "li",
+    "text": "Contact Yellowstone National Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 394,
+    "tag": "li",
+    "text": "NPS FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 396,
+    "tag": "li",
+    "text": "No Fear Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 398,
+    "tag": "li",
+    "text": "Disclaimer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 400,
+    "tag": "li",
+    "text": "Vulnerability Disclosure Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 402,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 404,
+    "tag": "li",
+    "text": "Office of Civil Rights",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  }
+]

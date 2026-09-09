@@ -1,0 +1,299 @@
+[
+  {
+    "node_index": 25,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 27,
+    "tag": "li",
+    "text": "index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right",
+      "style": "margin-right: 10px"
+    }
+  },
+  {
+    "node_index": 29,
+    "tag": "li",
+    "text": "modules |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 31,
+    "tag": "li",
+    "text": "next |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 33,
+    "tag": "li",
+    "text": "previous |",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "right"
+    }
+  },
+  {
+    "node_index": 35,
+    "tag": "li",
+    "text": "Flask Documentation (3.1.x) »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-0"
+    }
+  },
+  {
+    "node_index": 37,
+    "tag": "li",
+    "text": "Tutorial »",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-1"
+    }
+  },
+  {
+    "node_index": 39,
+    "tag": "li",
+    "text": "Project Layout",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item nav-item-this"
+    }
+  },
+  {
+    "node_index": 46,
+    "tag": "h1",
+    "text": "Project Layout¶",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 48,
+    "tag": "p",
+    "text": "Create a project directory and enter it:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 51,
+    "tag": "pre",
+    "text": "$ mkdir flask-tutorial $ cd flask-tutorial",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 53,
+    "tag": "p",
+    "text": "Then follow the installation instructions to set up a Python virtual environment and install Flask for your project.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 56,
+    "tag": "p",
+    "text": "The tutorial will assume you’re working from the flask-tutorial directory from now on. The file names at the top of each code block are relative to this directory.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 60,
+    "tag": "p",
+    "text": "A Flask application can be as simple as a single file.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 69,
+    "tag": "pre",
+    "text": "from flask import Flask app = Flask(__name__) @app.route('/') def hello(): return 'Hello, World!'",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "p",
+    "text": "However, as a project gets bigger, it becomes overwhelming to keep all the code in one file. Python projects use packages to organize code into multiple modules that can be imported where needed, and the tutorial will do this as well.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "p",
+    "text": "The project directory will contain:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 99,
+    "tag": "li",
+    "text": "flaskr/, a Python package containing your application code and files.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 100,
+    "tag": "p",
+    "text": "flaskr/, a Python package containing your application code and files.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "tests/, a directory containing test modules.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 104,
+    "tag": "p",
+    "text": "tests/, a directory containing test modules.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 107,
+    "tag": "li",
+    "text": ".venv/, a Python virtual environment where Flask and other dependencies are installed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 108,
+    "tag": "p",
+    "text": ".venv/, a Python virtual environment where Flask and other dependencies are installed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 111,
+    "tag": "li",
+    "text": "Installation files telling Python how to install your project.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 112,
+    "tag": "p",
+    "text": "Installation files telling Python how to install your project.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 113,
+    "tag": "li",
+    "text": "Version control config, such as git. You should make a habit of using some type of version control for all your projects, no matter the size.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 114,
+    "tag": "p",
+    "text": "Version control config, such as git. You should make a habit of using some type of version control for all your projects, no matter the size.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 116,
+    "tag": "li",
+    "text": "Any other project files you might add in the future.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 117,
+    "tag": "p",
+    "text": "Any other project files you might add in the future.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 118,
+    "tag": "p",
+    "text": "By the end, your project layout will look like this:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 121,
+    "tag": "pre",
+    "text": "/home/user/Projects/flask-tutorial ├── flaskr/ │ ├── __init__.py │ ├── db.py │ ├── schema.sql │ ├── auth.py │ ├── blog.py │ ├── templates/ │ │ ├── base.html │ │ ├── auth/ │ │ │ ├── login.html │ │ │ └── register.html │ │ └── blog/ │ │ ├── create.html │ │ ├── index.html │ │ └── update.html │ └── static/ │ └── style.css ├── tests/ │ ├── conftest.py │ ├── data.sql │ ├── test_factory.py │ ├── test_db.py │ ├── test_auth.py │ └── test_blog.py ├── .venv/ ├── pyproject.toml └── MANIFEST.in",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 123,
+    "tag": "p",
+    "text": "If you’re using version control, the following files that are generated while running your project should be ignored. There may be other files based on the editor you use. In general, ignore files that you didn’t write. For example, with git:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 132,
+    "tag": "pre",
+    "text": ".venv/ *.pyc __pycache__/ instance/ .pytest_cache/ .coverage htmlcov/ dist/ build/ *.egg-info/",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 134,
+    "tag": "p",
+    "text": "Continue to Application Setup.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 144,
+    "tag": "h3",
+    "text": "Navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 146,
+    "tag": "li",
+    "text": "Overview Tutorial Previous: Tutorial Next: Application Setup",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "li",
+    "text": "Tutorial Previous: Tutorial Next: Application Setup",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 152,
+    "tag": "li",
+    "text": "Previous: Tutorial",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Next: Application Setup",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 157,
+    "tag": "h3",
+    "text": "Quick search",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "searchlabel"
+    }
+  }
+]

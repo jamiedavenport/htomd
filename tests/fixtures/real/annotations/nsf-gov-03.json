@@ -1,0 +1,1413 @@
+[
+  {
+    "node_index": 50,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 51,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 59,
+    "tag": "p",
+    "text": "Official websites use .gov A .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 66,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPS. A lock () or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 108,
+    "tag": "li",
+    "text": "Find Funding Funding Search Award Search NSF-wide Initiatives Research Experiences for Undergraduates Where to Start For Everyone For Early-Career Researchers For Postdoctoral Fellows For Graduate Students For Undergraduates For Industry For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 112,
+    "tag": "li",
+    "text": "Funding Search Award Search NSF-wide Initiatives Research Experiences for Undergraduates",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "Funding Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 116,
+    "tag": "li",
+    "text": "Award Search",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 118,
+    "tag": "li",
+    "text": "NSF-wide Initiatives",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 120,
+    "tag": "li",
+    "text": "Research Experiences for Undergraduates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 122,
+    "tag": "li",
+    "text": "Where to Start For Everyone For Early-Career Researchers For Postdoctoral Fellows For Graduate Students For Undergraduates For Industry For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 125,
+    "tag": "li",
+    "text": "For Everyone",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 127,
+    "tag": "li",
+    "text": "For Early-Career Researchers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 129,
+    "tag": "li",
+    "text": "For Postdoctoral Fellows",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 131,
+    "tag": "li",
+    "text": "For Graduate Students",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "For Undergraduates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "For Industry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "For Entrepreneurs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "How to Apply Preparing Your Proposal Submitting Your Proposal Proposal & Award Policies & Procedures Guide (PAPPG) Additional Resources Research.gov Grants.gov How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Preparing Your Proposal Submitting Your Proposal Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 145,
+    "tag": "li",
+    "text": "Preparing Your Proposal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 147,
+    "tag": "li",
+    "text": "Submitting Your Proposal",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 149,
+    "tag": "li",
+    "text": "Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 151,
+    "tag": "li",
+    "text": "Additional Resources Research.gov Grants.gov How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 154,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 156,
+    "tag": "li",
+    "text": "Grants.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "How We Make Funding Decisions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 160,
+    "tag": "li",
+    "text": "Manage Your Award Getting Started Request a Change to Your Award Report Your Outcomes Proposal & Award Policies & Procedures Guide (PAPPG) Additional Resources Research.gov NSF Public Access Repository Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-small"
+    }
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Getting Started Request a Change to Your Award Report Your Outcomes Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 166,
+    "tag": "li",
+    "text": "Getting Started",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 168,
+    "tag": "li",
+    "text": "Request a Change to Your Award",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 170,
+    "tag": "li",
+    "text": "Report Your Outcomes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 172,
+    "tag": "li",
+    "text": "Proposal & Award Policies & Procedures Guide (PAPPG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Additional Resources Research.gov NSF Public Access Repository Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 177,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 179,
+    "tag": "li",
+    "text": "NSF Public Access Repository",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "li",
+    "text": "Who to Contact With Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "li",
+    "text": "Focus Areas Major Initiatives Artificial Intelligence Biotechnology Quantum STEM Workforce Focus Areas Explore All Focus Areas Arctic and Antarctic Astronomy and Space Biology Chemistry Computing Earth and Environment Education and Training Engineering Facilities and Infrastructure Materials Research Mathematics People and Society Physics Research Partnerships Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-33-66-text-large-small"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "li",
+    "text": "Major Initiatives Artificial Intelligence Biotechnology Quantum STEM Workforce",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 190,
+    "tag": "li",
+    "text": "Artificial Intelligence",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Biotechnology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 194,
+    "tag": "li",
+    "text": "Quantum",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "STEM Workforce",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 198,
+    "tag": "li",
+    "text": "Focus Areas Explore All Focus Areas Arctic and Antarctic Astronomy and Space Biology Chemistry Computing Earth and Environment Education and Training Engineering Facilities and Infrastructure Materials Research Mathematics People and Society Physics Research Partnerships Technology",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 201,
+    "tag": "li",
+    "text": "Explore All Focus Areas",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 203,
+    "tag": "li",
+    "text": "Arctic and Antarctic",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 205,
+    "tag": "li",
+    "text": "Astronomy and Space",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 207,
+    "tag": "li",
+    "text": "Biology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 209,
+    "tag": "li",
+    "text": "Chemistry",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 211,
+    "tag": "li",
+    "text": "Computing",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 213,
+    "tag": "li",
+    "text": "Earth and Environment",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 215,
+    "tag": "li",
+    "text": "Education and Training",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 217,
+    "tag": "li",
+    "text": "Engineering",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 219,
+    "tag": "li",
+    "text": "Facilities and Infrastructure",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 221,
+    "tag": "li",
+    "text": "Materials Research",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 223,
+    "tag": "li",
+    "text": "Mathematics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 225,
+    "tag": "li",
+    "text": "People and Society",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 227,
+    "tag": "li",
+    "text": "Physics",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 229,
+    "tag": "li",
+    "text": "Research Partnerships",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 231,
+    "tag": "li",
+    "text": "Technology",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 233,
+    "tag": "li",
+    "text": "News & Events News & Announcements NSF Impacts Science Matters Blog For the Press Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-50-50-text-large-large"
+    }
+  },
+  {
+    "node_index": 237,
+    "tag": "li",
+    "text": "News & Announcements NSF Impacts Science Matters Blog For the Press",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 239,
+    "tag": "li",
+    "text": "News & Announcements",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "li",
+    "text": "NSF Impacts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 243,
+    "tag": "li",
+    "text": "Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 245,
+    "tag": "li",
+    "text": "For the Press",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 247,
+    "tag": "li",
+    "text": "Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 249,
+    "tag": "li",
+    "text": "Upcoming Events",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "About About NSF Careers at NSF Updates on NSF Priorities Contact Us Our Directorates & Offices How NSF Is Organized Biological Sciences (BIO) Computer & Information Science & Engineering (CISE) Engineering (ENG) Geosciences (GEO) Integrative Activities (OIA) International Science & Engineering (OISE) Mathematical & Physical Sciences (MPS) Social, Behavioral & Economic Sciences (SBE) STEM Education (EDU) Technology, Innovation & Partnerships (TIP) National Center for Science & Engineering Statistics (NCSES) National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": " usa-nav__primary-item two-col-33-66-text-large-small"
+    }
+  },
+  {
+    "node_index": 255,
+    "tag": "li",
+    "text": "About NSF Careers at NSF Updates on NSF Priorities Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list "
+    }
+  },
+  {
+    "node_index": 258,
+    "tag": "li",
+    "text": "Careers at NSF",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "li",
+    "text": "Updates on NSF Priorities",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 262,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 264,
+    "tag": "li",
+    "text": "Our Directorates & Offices How NSF Is Organized Biological Sciences (BIO) Computer & Information Science & Engineering (CISE) Engineering (ENG) Geosciences (GEO) Integrative Activities (OIA) International Science & Engineering (OISE) Mathematical & Physical Sciences (MPS) Social, Behavioral & Economic Sciences (SBE) STEM Education (EDU) Technology, Innovation & Partnerships (TIP) National Center for Science & Engineering Statistics (NCSES) National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-nav__submenu-item with-nested-list usa-nav__no-link"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "How NSF Is Organized",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Biological Sciences (BIO)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 271,
+    "tag": "li",
+    "text": "Computer & Information Science & Engineering (CISE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 273,
+    "tag": "li",
+    "text": "Engineering (ENG)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 275,
+    "tag": "li",
+    "text": "Geosciences (GEO)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 277,
+    "tag": "li",
+    "text": "Integrative Activities (OIA)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 279,
+    "tag": "li",
+    "text": "International Science & Engineering (OISE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "li",
+    "text": "Mathematical & Physical Sciences (MPS)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 283,
+    "tag": "li",
+    "text": "Social, Behavioral & Economic Sciences (SBE)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 285,
+    "tag": "li",
+    "text": "STEM Education (EDU)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 287,
+    "tag": "li",
+    "text": "Technology, Innovation & Partnerships (TIP)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 289,
+    "tag": "li",
+    "text": "National Center for Science & Engineering Statistics (NCSES)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 291,
+    "tag": "li",
+    "text": "National Science Board (NSB)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 302,
+    "tag": "li",
+    "text": "Home",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 304,
+    "tag": "li",
+    "text": "Science Matters",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 306,
+    "tag": "li",
+    "text": "Advancing farming with cutting-edge technologies",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumbs__item"
+    }
+  },
+  {
+    "node_index": 339,
+    "tag": "h1",
+    "text": "Advancing farming with cutting-edge technologies",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 345,
+    "tag": "p",
+    "text": "Precision agriculture is revolutionizing the way farmers grow crops, lowering costs, maximizing yields, optimizing the use of irrigation water, addressing farming labor challenges and securing the supply of safe, high-quality food.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 352,
+    "tag": "h2",
+    "text": "The bottom line",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 354,
+    "tag": "li",
+    "text": "Precision agriculture leverages technology and data analytics to provide timely, detailed information on crops, soil and environmental conditions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 355,
+    "tag": "li",
+    "text": "It helps farmers use resources more accurately and efficiently, improves soil quality and crop health and addresses labor shortages.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 356,
+    "tag": "li",
+    "text": "The U.S. National Science Foundation's investments drive technological innovation and help farmers adopt state-of-the-art precision agriculture systems, enhancing U.S. farm operations, optimizing land use and bolstering food security.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 357,
+    "tag": "h3",
+    "text": "What is precision agriculture?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 358,
+    "tag": "p",
+    "text": "Precision agriculture is a crop management strategy that gathers and analyzes data to ensure that crops receive exactly what they need for optimum health and productivity. It uses sensors, satellites and other technologies to collect data on crop status, weather, soil conditions, water needs, disease and pests. Algorithms convert these data into actionable information, allowing farmers to tailor their decisions to their unique field conditions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 359,
+    "tag": "p",
+    "text": "The earliest precision agriculture systems, employed in the 1990s, included portable yield monitors and GPS-guided tractors that could perform targeted seed placement or fertilizer application. Today, advanced technologies use remote and in situ sensing, wireless networks, robotics and AI-based analytics to provide more detailed and timely data. These modern systems can provide live feedback, enabling real-time adjustments to optimize farming operations.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 365,
+    "tag": "figcaption",
+    "text": "A sensor provides an instant readout of plant nitrogen levels, aiding in nitrogen fertilizer management.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 366,
+    "tag": "h3",
+    "text": "Why is precision agriculture important?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 367,
+    "tag": "p",
+    "text": "Historically, farmers managed pests, disease, irrigation and soil nutrients using observation and trial and error — necessary but inefficient practices that are expensive and labor-intensive. With rising production costs and labor shortages, updating or replacing these practices with more effective methods is a priority.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 368,
+    "tag": "p",
+    "text": "Precision agriculture makes farming easier and less stressful. By providing site-specific, real-time data, this set of technologies enables farmers to make accurate, timely management decisions, producing higher yields with fewer inputs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 369,
+    "tag": "p",
+    "text": "Examples of precision agriculture's benefits include:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 371,
+    "tag": "li",
+    "text": "Optimizing the timing of planting to maximize yields.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 372,
+    "tag": "li",
+    "text": "Early intervention for problems like crop disease, pest outbreaks and soil nutrient deficits.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 373,
+    "tag": "li",
+    "text": "Applying fertilizers, pesticides and irrigation only where they are needed. This allows farmers to address problem areas while allocating resources efficiently, improving yields, reducing waste and saving money.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 374,
+    "tag": "li",
+    "text": "Using AI and robotics to support tasks that are difficult, time-sensitive or labor-intensive, such as crop monitoring, harvesting, sorting, irrigation planning and disease detection.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 375,
+    "tag": "h3",
+    "text": "NSF's investments in precision agriculture",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 376,
+    "tag": "p",
+    "text": "Early NSF investments enabled key analytical tools used in today's precision agriculture systems. For example, NSF support in the 1980s-90s for the National Center for Geographic Information and Analysis was instrumental in the development and growth of geographic information systems (GIS) — tools that visualize and analyze spatial data. Use of GIS in precision agriculture enables farmers to integrate variables like soil type, wind direction, rainfall amount or topography to evaluate site suitability and optimize farming operations.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 378,
+    "tag": "p",
+    "text": "Decades of NSF-supported research in foundational robotics, computer vision, machine learning, sensing and cyber-physical systems have helped create tools such as drones, advanced cameras and software that can identify pests and diseases, monitor crops at scale, support autonomous field operations and improve decision-making under uncertainty.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 379,
+    "tag": "p",
+    "text": "Recently, NSF-supported researchers linked a major geomagnetic storm in May 2024 to malfunctioning GPS-enabled tractors in the Midwest, which cost farmers hundreds of millions of dollars. Building on this finding, researchers are developing ways to better forecast space weather disturbances and correct GPS errors to mitigate future space weather risks to farmers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 381,
+    "tag": "h3",
+    "text": "What opportunities remain?",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 382,
+    "tag": "p",
+    "text": "Despite the benefits of precision agriculture, there are barriers to its widespread adoption. Precision agriculture technologies save money in the long term, but high upfront costs inhibit many farmers from implementing them. Additionally, rural areas often lack the wireless infrastructure required for advanced precision agriculture technologies. And many farmers prefer equipment that they can build, adapt and repair themselves.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 383,
+    "tag": "p",
+    "text": "In addition, farmers need tools that are reliable, explainable and designed for real farm conditions — not just laboratory demonstrations. That is why NSF investments increasingly emphasize partnerships with growers, testing on real farms, workforce development and translation pathways that help move promising research into practical use.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 389,
+    "tag": "figcaption",
+    "text": "A researcher explains how a drone's sensing technology collects farm data.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 390,
+    "tag": "h3",
+    "text": "Taking precision agriculture into the future",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 391,
+    "tag": "p",
+    "text": "Today, NSF's investments help equip agricultural communities with the tools, technical assistance and infrastructure needed to benefit from precision agriculture. These include:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 393,
+    "tag": "li",
+    "text": "Working with farmers and community members to deploy networks of low-cost sensors that provide critical, real-time weather and soil data for farm management through the Data-Advanced Research and Education project, supported by the NSF Established Program to Stimulate Competitive Research.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 395,
+    "tag": "li",
+    "text": "Gathering input from farmers to guide the development of low-cost sensors and wireless communication systems and transition these technologies to real-world use through the NSF Engineering Research Center for the Internet of Things for Precision Agriculture.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "li",
+    "text": "Working to deploy universal, affordable rural broadband through the NSF Agriculture and Rural Communities platform, which will enable advanced precision agriculture.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 404,
+    "tag": "figcaption",
+    "text": "The NSF Engineering Research Center for the Internet of Things for Precision Agriculture (IoT4Ag) has developed an autonomous agricultural ground robot designed for in-row and under-canopy crop monitoring and physical sampling. It is shown here operating autonomously inside a crop row.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 405,
+    "tag": "p",
+    "text": "NSF is also helping farmers deploy cutting-edge AI-driven tools. These efforts include:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "li",
+    "text": "Collaborating with farmers to develop and test AI-driven technologies under real-world farming conditions through the NSF AgTech Engine in North Dakota and the NSF Artificial Intelligence for Agriculture (AI4Ag) Testbed.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 410,
+    "tag": "li",
+    "text": "Investing in AI innovation and training for farmers by partnering with international agencies through the Advancing Innovations for Empowering NextGen AGriculturE initiative, and with the U.S. Department of Agriculture (USDA) National Institute of Food and Agriculture through the NSF TechAccess: AI-Ready America initiative.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 413,
+    "tag": "li",
+    "text": "Supporting agriculture-focused National Artificial Intelligence Research Institutes with USDA that are developing predictive digital twins of plants and fields and AI-driven systems that help farmers manage risk, improve productivity and strengthen the nation’s food systems.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 415,
+    "tag": "p",
+    "text": "With these investments, NSF empowers farmers with state-of-the-art tools and knowledge to optimize crop health and productivity, strengthen food security and improve their quality of life.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 416,
+    "tag": "h3",
+    "text": "Additional resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 418,
+    "tag": "li",
+    "text": "Boosting Crops with Biotechnology Learn how NSF's investments in agricultural biotechnologies are transforming food and fiber production.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 421,
+    "tag": "li",
+    "text": "\"Convergence Research – Highlighting AgTech PhD Pathways\" This video is your guide to understanding what a PhD in Agriculture or Engineering entails, why it might be the right path for you, and how to successfully apply to programs in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 424,
+    "tag": "li",
+    "text": "\"Robotics: Engineering the future of intelligent machines\" NSF's investments in robotics expand possibilities in agriculture and more.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 427,
+    "tag": "li",
+    "text": "\"AI enhancing Agriculture\" Explore how Artificial Intelligence technologies help support the nation’s agricultural production needs.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 432,
+    "tag": "h2",
+    "text": "Topics",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "content-tags--title"
+    }
+  },
+  {
+    "node_index": 434,
+    "tag": "li",
+    "text": "People & Society",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "tags--item tags--item--unlinked"
+    }
+  },
+  {
+    "node_index": 437,
+    "tag": "li",
+    "text": "Older Blog Post Materials science: The stuff of the modern world",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "pagination__item pagination__item--next"
+    }
+  },
+  {
+    "node_index": 443,
+    "tag": "h2",
+    "text": "Share",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 458,
+    "tag": "h2",
+    "text": "Related Stories",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 468,
+    "tag": "h2",
+    "text": "HeartFlow's AI-powered medical technology debuts on Nasdaq",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "headline--left header-two-as-three headline-callout headline--left-linked"
+    }
+  },
+  {
+    "node_index": 477,
+    "tag": "h2",
+    "text": "NSF M3X: Integrating human expertise and AI to transform health care",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "headline--left header-two-as-three headline-callout headline--left-linked"
+    }
+  },
+  {
+    "node_index": 486,
+    "tag": "h2",
+    "text": "Fighting the spread of Lyme disease",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "headline--left header-two-as-three headline-callout headline--left-linked"
+    }
+  },
+  {
+    "node_index": 496,
+    "tag": "li",
+    "text": "Publication date: August 26, 2026",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 499,
+    "tag": "li",
+    "text": "Last updated: September 2, 2026",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 516,
+    "tag": "p",
+    "text": "Randolph Building401 Dulany StreetAlexandria, VA 22314",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 523,
+    "tag": "p",
+    "text": "Sign up for email updates",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 550,
+    "tag": "h2",
+    "text": "Footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden menu--footer__title",
+      "id": "block-footer-menu"
+    }
+  },
+  {
+    "node_index": 553,
+    "tag": "li",
+    "text": "About Us About NSF Careers Our Directorates & Offices National Science Board Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 554,
+    "tag": "h3",
+    "text": "About Us",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 557,
+    "tag": "li",
+    "text": "About NSF",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 559,
+    "tag": "li",
+    "text": "Careers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 561,
+    "tag": "li",
+    "text": "Our Directorates & Offices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 563,
+    "tag": "li",
+    "text": "National Science Board",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 565,
+    "tag": "li",
+    "text": "Contact Us",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 567,
+    "tag": "li",
+    "text": "What's New News & Announcements Events Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 568,
+    "tag": "h3",
+    "text": "What's New",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 571,
+    "tag": "li",
+    "text": "News & Announcements",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 573,
+    "tag": "li",
+    "text": "Events",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 575,
+    "tag": "li",
+    "text": "Science Matters Blog",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 577,
+    "tag": "li",
+    "text": "Information For Funding Seekers NSF Awardees Congress Media Educators Panelists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 578,
+    "tag": "h3",
+    "text": "Information For",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 581,
+    "tag": "li",
+    "text": "Funding Seekers",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 583,
+    "tag": "li",
+    "text": "NSF Awardees",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 585,
+    "tag": "li",
+    "text": "Congress",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 587,
+    "tag": "li",
+    "text": "Media",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 589,
+    "tag": "li",
+    "text": "Educators",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 591,
+    "tag": "li",
+    "text": "Panelists",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 593,
+    "tag": "li",
+    "text": "Resources Documents & Reports Budget, Performance & Financial Reporting Public Access Stopping Harassment Research Security Scientific Integrity Research.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--top menu-item"
+    }
+  },
+  {
+    "node_index": 594,
+    "tag": "h3",
+    "text": "Resources",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 597,
+    "tag": "li",
+    "text": "Documents & Reports",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 599,
+    "tag": "li",
+    "text": "Budget, Performance & Financial Reporting",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 601,
+    "tag": "li",
+    "text": "Public Access",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 603,
+    "tag": "li",
+    "text": "Stopping Harassment",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 605,
+    "tag": "li",
+    "text": "Research Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 607,
+    "tag": "li",
+    "text": "Scientific Integrity",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 609,
+    "tag": "li",
+    "text": "Research.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item--sub menu-item"
+    }
+  },
+  {
+    "node_index": 615,
+    "tag": "h2",
+    "text": "Required Policy Links",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden menu--required-policy-links__title",
+      "id": "block-requiredpolicylinks-menu"
+    }
+  },
+  {
+    "node_index": 618,
+    "tag": "li",
+    "text": "Vulnerability disclosure",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 620,
+    "tag": "li",
+    "text": "Inspector General",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 622,
+    "tag": "li",
+    "text": "Privacy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 624,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 626,
+    "tag": "li",
+    "text": "No FEAR Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 628,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 630,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  },
+  {
+    "node_index": 632,
+    "tag": "li",
+    "text": "Plain language",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "menu-item"
+    }
+  }
+]

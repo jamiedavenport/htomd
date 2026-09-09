@@ -1,0 +1,1431 @@
+[
+  {
+    "node_index": 72,
+    "tag": "p",
+    "text": "SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "title logo__title"
+    }
+  },
+  {
+    "node_index": 78,
+    "tag": "li",
+    "text": "Installing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 80,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 82,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 84,
+    "tag": "li",
+    "text": "Building from source",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 86,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 88,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 103,
+    "tag": "li",
+    "text": "System Settings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 106,
+    "tag": "li",
+    "text": "Light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 109,
+    "tag": "li",
+    "text": "Dark",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 114,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 118,
+    "tag": "li",
+    "text": "Scientific Python Forum",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 133,
+    "tag": "li",
+    "text": "Installing",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 135,
+    "tag": "li",
+    "text": "User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item current active"
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "li",
+    "text": "API reference",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 139,
+    "tag": "li",
+    "text": "Building from source",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 141,
+    "tag": "li",
+    "text": "Development",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "li",
+    "text": "Release notes",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item "
+    }
+  },
+  {
+    "node_index": 158,
+    "tag": "li",
+    "text": "System Settings",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 161,
+    "tag": "li",
+    "text": "Light",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 164,
+    "tag": "li",
+    "text": "Dark",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 169,
+    "tag": "li",
+    "text": "GitHub",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 173,
+    "tag": "li",
+    "text": "Scientific Python Forum",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "nav-item"
+    }
+  },
+  {
+    "node_index": 187,
+    "tag": "p",
+    "text": "Section Navigation",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "bd-links__title",
+      "role": "heading",
+      "aria-level": "1"
+    }
+  },
+  {
+    "node_index": 189,
+    "tag": "p",
+    "text": "User guide",
+    "label": "unreviewed",
+    "formatting": {
+      "aria-level": "2",
+      "class": "caption",
+      "role": "heading"
+    }
+  },
+  {
+    "node_index": 192,
+    "tag": "li",
+    "text": "Discrete Fourier Transforms (scipy.fft)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 196,
+    "tag": "li",
+    "text": "Integration (scipy.integrate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1 current active"
+    }
+  },
+  {
+    "node_index": 200,
+    "tag": "li",
+    "text": "Interpolation (scipy.interpolate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 204,
+    "tag": "li",
+    "text": "File IO (scipy.io)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 208,
+    "tag": "li",
+    "text": "Linear Algebra (scipy.linalg)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 212,
+    "tag": "li",
+    "text": "Multidimensional Image Processing (scipy.ndimage)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 216,
+    "tag": "li",
+    "text": "Optimization (scipy.optimize)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 220,
+    "tag": "li",
+    "text": "Signal Processing (scipy.signal)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 224,
+    "tag": "li",
+    "text": "Sparse Arrays (scipy.sparse)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 228,
+    "tag": "li",
+    "text": "Spatial Data Structures and Algorithms (scipy.spatial)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 232,
+    "tag": "li",
+    "text": "Special Functions (scipy.special)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 236,
+    "tag": "li",
+    "text": "Statistics (scipy.stats)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "li",
+    "text": "Sparse eigenvalue problems with ARPACK",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 242,
+    "tag": "li",
+    "text": "Compressed Sparse Graph Routines (scipy.sparse.csgraph)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 246,
+    "tag": "li",
+    "text": "Parallel execution support in SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Security",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 250,
+    "tag": "li",
+    "text": "Thread Safety in SciPy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toctree-l1"
+    }
+  },
+  {
+    "node_index": 267,
+    "tag": "li",
+    "text": "SciPy User Guide",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item"
+    }
+  },
+  {
+    "node_index": 269,
+    "tag": "li",
+    "text": "Integration (scipy.integrate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "breadcrumb-item active",
+      "aria-current": "page"
+    }
+  },
+  {
+    "node_index": 276,
+    "tag": "h1",
+    "text": "Integration (scipy.integrate)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 281,
+    "tag": "p",
+    "text": "The scipy.integrate sub-package provides several integration techniques including an ordinary differential equation integrator.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 286,
+    "tag": "h2",
+    "text": "General integration (quad)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 291,
+    "tag": "p",
+    "text": "The function quad is provided to integrate a function of one variable between two points. The points can be \\(\\pm\\infty\\) (\\(\\pm\\) inf) to indicate infinite limits. For example, suppose you wish to integrate a bessel function jv(2.5, x) along the interval \\([0, 4.5].\\)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 304,
+    "tag": "p",
+    "text": "This could be computed using quad:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "pre",
+    "text": ">>> import scipy.integrate as integrate >>> import scipy.special as special >>> result = integrate.quad(lambda x: special.jv(2.5,x), 0, 4.5) >>> result (1.1178179380783249, 7.8663172481899801e-09)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 355,
+    "tag": "pre",
+    "text": ">>> from numpy import sqrt, sin, cos, pi >>> I = sqrt(2/pi)*(18.0/27*sqrt(2)*cos(4.5) - 4.0/27*sqrt(2)*sin(4.5) + ... sqrt(2*pi) * special.fresnel(3/sqrt(pi))[0]) >>> I 1.117817938088701",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 434,
+    "tag": "pre",
+    "text": ">>> print(abs(result[0]-I)) 1.03761443881e-11",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 449,
+    "tag": "p",
+    "text": "The first argument to quad is a “callable” Python object (i.e., a function, method, or class instance). Notice the use of a lambda- function in this case as the argument. The next two arguments are the limits of integration. The return value is a tuple, with the first element holding the estimated value of the integral and the second element holding an estimate of the absolute integration error. Notice, that in this case, the true value of this integral is",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 451,
+    "tag": "p",
+    "text": "where",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 453,
+    "tag": "p",
+    "text": "is the Fresnel sine integral. Note that the numerically-computed integral is within \\(1.04\\times10^{-11}\\) of the exact result — well below the reported error estimate.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 455,
+    "tag": "p",
+    "text": "If the function to integrate takes additional parameters, they can be provided in the args argument. Suppose that the following integral shall be calculated:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 458,
+    "tag": "p",
+    "text": "This integral can be evaluated by using the following code:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 461,
+    "tag": "pre",
+    "text": ">>> from scipy.integrate import quad >>> def integrand(x, a, b): ... return a*x**2 + b ... >>> a = 2 >>> b = 1 >>> I = quad(integrand, 0, 1, args=(a,b)) >>> I (1.6666666666666667, 1.8503717077085944e-14)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 520,
+    "tag": "p",
+    "text": "Infinite inputs are also allowed in quad by using \\(\\pm\\) inf as one of the arguments. For example, suppose that a numerical value for the exponential integral:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 528,
+    "tag": "p",
+    "text": "is desired (and the fact that this integral can be computed as special.expn(n,x) is forgotten). The functionality of the function special.expn can be replicated by defining a new function vec_expint based on the routine quad:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 541,
+    "tag": "pre",
+    "text": ">>> from scipy.integrate import quad >>> import numpy as np >>> def integrand(t, n, x): ... return np.exp(-x*t) / t**n ...",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 587,
+    "tag": "pre",
+    "text": ">>> def expint(n, x): ... return quad(integrand, 1, np.inf, args=(n, x))[0] ...",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 622,
+    "tag": "pre",
+    "text": ">>> vec_expint = np.vectorize(expint)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 635,
+    "tag": "pre",
+    "text": ">>> vec_expint(3, np.arange(1.0, 4.0, 0.5)) array([ 0.1097, 0.0567, 0.0301, 0.0163, 0.0089, 0.0049]) >>> import scipy.special as special >>> special.expn(3, np.arange(1.0,4.0,0.5)) array([ 0.1097, 0.0567, 0.0301, 0.0163, 0.0089, 0.0049])",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 679,
+    "tag": "p",
+    "text": "The function which is integrated can even use the quad argument (though the error bound may underestimate the error due to possible numerical error in the integrand from the use of quad ). The integral in this case is",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 686,
+    "tag": "pre",
+    "text": ">>> result = quad(lambda x: expint(3, x), 0, np.inf) >>> print(result) (0.33333333324560266, 2.8548934485373678e-09)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 716,
+    "tag": "pre",
+    "text": ">>> I3 = 1.0/3.0 >>> print(I3) 0.333333333333",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 732,
+    "tag": "pre",
+    "text": ">>> print(I3 - result[0]) 8.77306560731e-11",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 744,
+    "tag": "p",
+    "text": "This last example shows that multiple integration can be handled using repeated calls to quad.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 749,
+    "tag": "p",
+    "text": "Warning",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "admonition-title"
+    }
+  },
+  {
+    "node_index": 750,
+    "tag": "p",
+    "text": "Numerical integration algorithms sample the integrand at a finite number of points. Consequently, they cannot guarantee accurate results (or accuracy estimates) for arbitrary integrands and limits of integration. Consider the Gaussian integral, for example:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 753,
+    "tag": "pre",
+    "text": ">>> def gaussian(x): ... return np.exp(-x**2) >>> res = integrate.quad(gaussian, -np.inf, np.inf) >>> res (1.7724538509055159, 1.4202636756659625e-08) >>> np.allclose(res[0], np.sqrt(np.pi)) # compare against theoretical result True",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 813,
+    "tag": "p",
+    "text": "Since the integrand is nearly zero except near the origin, we would expect large but finite limits of integration to yield the same result. However:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 816,
+    "tag": "pre",
+    "text": ">>> integrate.quad(gaussian, -10000, 10000) (1.975190562208035e-203, 0.0)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 831,
+    "tag": "p",
+    "text": "This happens because the adaptive quadrature routine implemented in quad, while working as designed, does not notice the small, important part of the function within such a large, finite interval. For best results, consider using integration limits that tightly surround the important part of the integrand.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 837,
+    "tag": "pre",
+    "text": ">>> integrate.quad(gaussian, -15, 15) (1.772453850905516, 8.476526631214648e-11)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 852,
+    "tag": "p",
+    "text": "Integrands with several important regions can be broken into pieces as necessary.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 854,
+    "tag": "h2",
+    "text": "General multiple integration (dblquad, tplquad, nquad)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 865,
+    "tag": "p",
+    "text": "The mechanics for double and triple integration have been wrapped up into the functions dblquad and tplquad. These functions take the function to integrate and four, or six arguments, respectively. The limits of all inner integrals need to be defined as functions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 872,
+    "tag": "p",
+    "text": "An example of using double integration to compute several values of \\(I_{n}\\) is shown below:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 876,
+    "tag": "pre",
+    "text": ">>> from scipy.integrate import quad, dblquad >>> def I(n): ... return dblquad(lambda t, x: np.exp(-x*t)/t**n, 0, np.inf, lambda x: 1, lambda x: np.inf) ...",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 938,
+    "tag": "pre",
+    "text": ">>> print(I(4)) (0.2500000000043577, 1.29830334693681e-08) >>> print(I(3)) (0.33333333325010883, 1.3888461883425516e-08) >>> print(I(2)) (0.4999999999985751, 1.3894083651858995e-08)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 964,
+    "tag": "p",
+    "text": "As example for non-constant limits consider the integral",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 966,
+    "tag": "p",
+    "text": "This integral can be evaluated using the expression below (Note the use of the non-constant lambda functions for the upper limit of the inner integral):",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 969,
+    "tag": "pre",
+    "text": ">>> from scipy.integrate import dblquad >>> area = dblquad(lambda x, y: x*y, 0, 0.5, lambda x: 0, lambda x: 1-2*x) >>> area (0.010416666666666668, 1.1564823173178715e-16)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1013,
+    "tag": "p",
+    "text": "For n-fold integration, scipy provides the function nquad. The integration bounds are an iterable object: either a list of constant bounds, or a list of functions for the non-constant integration bounds. The order of integration (and therefore the bounds) is from the innermost integral to the outermost one.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1017,
+    "tag": "p",
+    "text": "The integral from above",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1019,
+    "tag": "p",
+    "text": "can be calculated as",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1022,
+    "tag": "pre",
+    "text": ">>> from scipy import integrate >>> N = 5 >>> def f(t, x): ... return np.exp(-x*t) / t**N ... >>> integrate.nquad(f, [[1, np.inf],[0, np.inf]]) (0.20000000000002294, 1.2239614263187945e-08)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1081,
+    "tag": "p",
+    "text": "Note that the order of arguments for f must match the order of the integration bounds; i.e., the inner integral with respect to \\(t\\) is on the interval \\([1, \\infty]\\) and the outer integral with respect to \\(x\\) is on the interval \\([0, \\infty]\\).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1087,
+    "tag": "p",
+    "text": "Non-constant integration bounds can be treated in a similar manner; the example from above",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1089,
+    "tag": "p",
+    "text": "can be evaluated by means of",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1092,
+    "tag": "pre",
+    "text": ">>> from scipy import integrate >>> def f(x, y): ... return x*y ... >>> def bounds_y(): ... return [0, 0.5] ... >>> def bounds_x(y): ... return [0, 1-2*y] ... >>> integrate.nquad(f, [bounds_x, bounds_y]) (0.010416666666666668, 4.101620128472366e-16)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1161,
+    "tag": "p",
+    "text": "which is the same result as before.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1163,
+    "tag": "h2",
+    "text": "Gaussian quadrature#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1165,
+    "tag": "p",
+    "text": "fixed_quad performs fixed-order Gaussian quadrature over a fixed interval. This function uses the collection of orthogonal polynomials provided by scipy.special, which can calculate the roots and quadrature weights of a large variety of orthogonal polynomials (the polynomials themselves are available as special functions returning instances of the polynomial class — e.g., special.legendre).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1175,
+    "tag": "h2",
+    "text": "Integrating using Samples#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1177,
+    "tag": "p",
+    "text": "If the samples are equally-spaced and the number of samples available is \\(2^{k}+1\\) for some integer \\(k\\), then Romberg romb integration can be used to obtain high-precision estimates of the integral using the available samples. Romberg integration uses the trapezoid rule at step-sizes related by a power of two and then performs Richardson extrapolation on these estimates to approximate the integral with a higher degree of accuracy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1183,
+    "tag": "p",
+    "text": "In case of arbitrary spaced samples, the two functions trapezoid and simpson are available. They are using Newton-Coates formulas of order 1 and 2 respectively to perform integration. The trapezoidal rule approximates the function as a straight line between adjacent points, while Simpson’s rule approximates the function between three adjacent points as a parabola.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1190,
+    "tag": "p",
+    "text": "For an odd number of samples that are equally spaced Simpson’s rule is exact if the function is a polynomial of order 3 or less. If the samples are not equally spaced, then the result is exact only if the function is a polynomial of order 2 or less.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1193,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> def f1(x): ... return x**2 ... >>> def f2(x): ... return x**3 ... >>> x = np.array([1,3,4]) >>> y1 = f1(x) >>> from scipy import integrate >>> I1 = integrate.simpson(y1, x=x) >>> print(I1) 21.0",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1275,
+    "tag": "p",
+    "text": "This corresponds exactly to",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1277,
+    "tag": "p",
+    "text": "whereas integrating the second function",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1280,
+    "tag": "pre",
+    "text": ">>> y2 = f2(x) >>> I2 = integrate.simpson(y2, x=x) >>> print(I2) 61.5",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1308,
+    "tag": "p",
+    "text": "does not correspond to",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1310,
+    "tag": "p",
+    "text": "because the order of the polynomial in f2 is larger than two.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1313,
+    "tag": "h2",
+    "text": "Faster integration using low-level callback functions#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1315,
+    "tag": "p",
+    "text": "A user desiring reduced integration times may pass a C function pointer through scipy.LowLevelCallable to quad, dblquad, tplquad or nquad and it will be integrated and return a result in Python. The performance increase here arises from two factors. The primary improvement is faster function evaluation, which is provided by compilation of the function itself. Additionally we have a speedup provided by the removal of function calls between C and Python in quad. This method may provide a speed improvements of ~2x for trivial functions such as sine but can produce a much more noticeable improvements (10x+) for more complex functions. This feature then, is geared towards a user with numerically intensive integrations willing to write a little C to reduce computation time significantly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1334,
+    "tag": "p",
+    "text": "The approach can be used, for example, via ctypes in a few simple steps:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1338,
+    "tag": "p",
+    "text": "1.) Write an integrand function in C with the function signature double f(int n, double *x, void *user_data), where x is an array containing the point the function f is evaluated at, and user_data to arbitrary additional data you want to provide.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1353,
+    "tag": "pre",
+    "text": "/* testlib.c */ double f(int n, double *x, void *user_data) { double c = *(double *)user_data; return c + x[0] - x[1] * x[2]; /* corresponds to c + x - y * z */ }",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1421,
+    "tag": "p",
+    "text": "2.) Now compile this file to a shared/dynamic library (a quick search will help with this as it is OS-dependent). The user must link any math libraries, etc., used. On linux this looks like:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1424,
+    "tag": "pre",
+    "text": "$ gcc -shared -fPIC -o testlib.so testlib.c",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1426,
+    "tag": "p",
+    "text": "The output library will be referred to as testlib.so, but it may have a different file extension. A library has now been created that can be loaded into Python with ctypes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1432,
+    "tag": "p",
+    "text": "3.) Load shared library into Python using ctypes and set restypes and argtypes - this allows SciPy to interpret the function correctly:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1442,
+    "tag": "pre",
+    "text": "import os, ctypes from scipy import integrate, LowLevelCallable lib = ctypes.CDLL(os.path.abspath('testlib.so')) lib.f.restype = ctypes.c_double lib.f.argtypes = (ctypes.c_int, ctypes.POINTER(ctypes.c_double), ctypes.c_void_p) c = ctypes.c_double(1.0) user_data = ctypes.cast(ctypes.pointer(c), ctypes.c_void_p) func = LowLevelCallable(lib.f, user_data)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1538,
+    "tag": "p",
+    "text": "The last void *user_data in the function is optional and can be omitted (both in the C function and ctypes argtypes) if not needed. Note that the coordinates are passed in as an array of doubles rather than a separate argument.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1542,
+    "tag": "p",
+    "text": "4.) Now integrate the library function as normally, here using nquad:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1548,
+    "tag": "pre",
+    "text": ">>> integrate.nquad(func, [[0, 10], [-10, 0], [-1, 1]]) (1200.0, 1.1102230246251565e-11)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1575,
+    "tag": "p",
+    "text": "The Python tuple is returned as expected in a reduced amount of time. All optional parameters can be used with this method including specifying singularities, infinite bounds, etc.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1577,
+    "tag": "h2",
+    "text": "Ordinary differential equations (solve_ivp)#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1582,
+    "tag": "p",
+    "text": "Integrating a set of ordinary differential equations (ODEs) given initial conditions is another useful example. The function solve_ivp is available in SciPy for integrating a first-order vector differential equation:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1587,
+    "tag": "p",
+    "text": "given initial conditions \\(\\mathbf{y}\\left(0\\right)=\\mathbf{y}_{0}\\), where \\(\\mathbf{y}\\) is a length \\(N\\) vector and \\(\\mathbf{f}\\) is a mapping from \\(\\mathbb{R}^{N}\\) to \\(\\mathbb{R}^{N}.\\) A higher-order ordinary differential equation can always be reduced to a differential equation of this type by introducing intermediate derivatives into the \\(\\mathbf{y}\\) vector.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1595,
+    "tag": "p",
+    "text": "For example, suppose it is desired to find the solution to the following second-order differential equation:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1597,
+    "tag": "p",
+    "text": "with initial conditions \\(w\\left(0\\right)=\\frac{1}{\\sqrt[3]{3^{2}}\\Gamma\\left(\\frac{2}{3}\\right)}\\) and \\(\\left.\\frac{dw}{dz}\\right|_{z=0}=-\\frac{1}{\\sqrt[3]{3}\\Gamma\\left(\\frac{1}{3}\\right)}.\\) It is known that the solution to this differential equation with these boundary conditions is the Airy function",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1601,
+    "tag": "p",
+    "text": "which gives a means to check the integrator using special.airy.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1605,
+    "tag": "p",
+    "text": "First, convert this ODE into standard form by setting \\(\\mathbf{y}=\\left[\\frac{dw}{dz},w\\right]\\) and \\(t=z\\). Thus, the differential equation becomes",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1609,
+    "tag": "p",
+    "text": "In other words,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1611,
+    "tag": "p",
+    "text": "As an interesting reminder, if \\(\\mathbf{A}\\left(t\\right)\\) commutes with \\(\\int_{0}^{t}\\mathbf{A}\\left(\\tau\\right)\\, d\\tau\\) under matrix multiplication, then this linear differential equation has an exact solution using the matrix exponential:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1615,
+    "tag": "p",
+    "text": "However, in this case, \\(\\mathbf{A}\\left(t\\right)\\) and its integral do not commute.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1617,
+    "tag": "p",
+    "text": "This differential equation can be solved using the function solve_ivp. It requires the derivative, fprime, the time span [t_start, t_end] and the initial conditions vector, y0, as input arguments and returns an object whose y field is an array with consecutive solution values as columns. The initial conditions are therefore given in the first output column.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1629,
+    "tag": "pre",
+    "text": ">>> from scipy.integrate import solve_ivp >>> from scipy.special import gamma, airy >>> y1_0 = +1 / 3**(2/3) / gamma(2/3) >>> y0_0 = -1 / 3**(1/3) / gamma(1/3) >>> y0 = [y0_0, y1_0] >>> def func(t, y): ... return [t*y[1],y[0]] ... >>> t_span = [0, 4] >>> sol1 = solve_ivp(func, t_span, y0) >>> print(\"sol1.t: {}\".format(sol1.t)) sol1.t: [0. 0.10097672 1.04643602 1.91060117 2.49872472 3.08684827 3.62692846 4. ]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1752,
+    "tag": "p",
+    "text": "As it can be seen solve_ivp determines its time steps automatically if not specified otherwise. To compare the solution of solve_ivp with the airy function the time vector created by solve_ivp is passed to the airy function.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1766,
+    "tag": "pre",
+    "text": ">>> print(\"sol1.y[1]: {}\".format(sol1.y[1])) sol1.y[1]: [0.35502805 0.328952 0.12801343 0.04008508 0.01601291 0.00623879 0.00356316 0.00405982] >>> print(\"airy(sol.t)[0]: {}\".format(airy(sol1.t)[0])) airy(sol.t)[0]: [0.35502805 0.328952 0.12804768 0.03995804 0.01575943 0.00562799 0.00201689 0.00095156]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1804,
+    "tag": "p",
+    "text": "The solution of solve_ivp with its standard parameters shows a big deviation to the airy function. To minimize this deviation, relative and absolute tolerances can be used.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1810,
+    "tag": "pre",
+    "text": ">>> rtol, atol = (1e-8, 1e-8) >>> sol2 = solve_ivp(func, t_span, y0, rtol=rtol, atol=atol) >>> print(\"sol2.y[1][::6]: {}\".format(sol2.y[1][0::6])) sol2.y[1][::6]: [0.35502805 0.19145234 0.06368989 0.0205917 0.00554734 0.00106409] >>> print(\"airy(sol2.t)[0][::6]: {}\".format(airy(sol2.t)[0][::6])) airy(sol2.t)[0][::6]: [0.35502805 0.19145234 0.06368989 0.0205917 0.00554733 0.00106406]",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1881,
+    "tag": "p",
+    "text": "To specify user defined time points for the solution of solve_ivp, solve_ivp offers two possibilities that can also be used complementarily. By passing the t_eval option to the function call solve_ivp returns the solutions of these time points of t_eval in its output.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1895,
+    "tag": "pre",
+    "text": ">>> import numpy as np >>> t = np.linspace(0, 4, 100) >>> sol3 = solve_ivp(func, t_span, y0, t_eval=t)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1933,
+    "tag": "p",
+    "text": "If the jacobian matrix of function is known, it can be passed to the solve_ivp to achieve better results. Please be aware however that the default integration method RK45 does not support jacobian matrices and thereby another integration method has to be chosen. One of the integration methods that support a jacobian matrix is the for example the Radau method of following example.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1945,
+    "tag": "pre",
+    "text": ">>> def gradient(t, y): ... return [[0,t], [1,0]] >>> sol4 = solve_ivp(func, t_span, y0, method='Radau', jac=gradient)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1988,
+    "tag": "h3",
+    "text": "Solving a system with a banded Jacobian matrix#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1990,
+    "tag": "p",
+    "text": "odeint can be told that the Jacobian is banded. For a large system of differential equations that are known to be stiff, this can improve performance significantly.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 1995,
+    "tag": "p",
+    "text": "As an example, we’ll solve the 1-D Gray-Scott partial differential equations using the method of lines [MOL]. The Gray-Scott equations for the functions \\(u(x, t)\\) and \\(v(x, t)\\) on the interval \\(x \\in [0, L]\\) are",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2002,
+    "tag": "p",
+    "text": "where \\(D_u\\) and \\(D_v\\) are the diffusion coefficients of the components \\(u\\) and \\(v\\), respectively, and \\(f\\) and \\(k\\) are constants. (For more information about the system, see http://groups.csail.mit.edu/mac/projects/amorphous/GrayScott/)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2010,
+    "tag": "p",
+    "text": "We’ll assume Neumann (i.e., “no flux”) boundary conditions:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2012,
+    "tag": "p",
+    "text": "To apply the method of lines, we discretize the \\(x\\) variable by defining the uniformly spaced grid of \\(N\\) points \\(\\left\\{x_0, x_1, \\ldots, x_{N-1}\\right\\}\\), with \\(x_0 = 0\\) and \\(x_{N-1} = L\\). We define \\(u_j(t) \\equiv u(x_k, t)\\) and \\(v_j(t) \\equiv v(x_k, t)\\), and replace the \\(x\\) derivatives with finite differences. That is,",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2022,
+    "tag": "p",
+    "text": "We then have a system of \\(2N\\) ordinary differential equations:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2027,
+    "tag": "p",
+    "text": "For convenience, the \\((t)\\) arguments have been dropped.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2029,
+    "tag": "p",
+    "text": "To enforce the boundary conditions, we introduce “ghost” points \\(x_{-1}\\) and \\(x_N\\), and define \\(u_{-1}(t) \\equiv u_1(t)\\), \\(u_N(t) \\equiv u_{N-2}(t)\\); \\(v_{-1}(t)\\) and \\(v_N(t)\\) are defined analogously.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2036,
+    "tag": "p",
+    "text": "Then",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2040,
+    "tag": "p",
+    "text": "and",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2044,
+    "tag": "p",
+    "text": "Our complete system of \\(2N\\) ordinary differential equations is (1) for \\(k = 1, 2, \\ldots, N-2\\), along with (2) and (3).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2050,
+    "tag": "p",
+    "text": "We can now starting implementing this system in code. We must combine \\(\\{u_k\\}\\) and \\(\\{v_k\\}\\) into a single vector of length \\(2N\\). The two obvious choices are \\(\\{u_0, u_1, \\ldots, u_{N-1}, v_0, v_1, \\ldots, v_{N-1}\\}\\) and \\(\\{u_0, v_0, u_1, v_1, \\ldots, u_{N-1}, v_{N-1}\\}\\). Mathematically, it does not matter, but the choice affects how efficiently odeint can solve the system. The reason is in how the order affects the pattern of the nonzero elements of the Jacobian matrix.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2059,
+    "tag": "p",
+    "text": "When the variables are ordered as \\(\\{u_0, u_1, \\ldots, u_{N-1}, v_0, v_1, \\ldots, v_{N-1}\\}\\), the pattern of nonzero elements of the Jacobian matrix is",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2062,
+    "tag": "p",
+    "text": "The Jacobian pattern with variables interleaved as \\(\\{u_0, v_0, u_1, v_1, \\ldots, u_{N-1}, v_{N-1}\\}\\) is",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2065,
+    "tag": "p",
+    "text": "In both cases, there are just five nontrivial diagonals, but when the variables are interleaved, the bandwidth is much smaller. That is, the main diagonal and the two diagonals immediately above and the two immediately below the main diagonal are the nonzero diagonals. This is important, because the inputs mu and ml of odeint are the upper and lower bandwidths of the Jacobian matrix. When the variables are interleaved, mu and ml are 2. When the variables are stacked with \\(\\{v_k\\}\\) following \\(\\{u_k\\}\\), the upper and lower bandwidths are \\(N\\).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2080,
+    "tag": "p",
+    "text": "With that decision made, we can write the function that implements the system of differential equations.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2081,
+    "tag": "p",
+    "text": "First, we define the functions for the source and reaction terms of the system:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2084,
+    "tag": "pre",
+    "text": "def G(u, v, f, k): return f * (1 - u) - u*v**2 def H(u, v, f, k): return -(f + k) * v + u*v**2",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2139,
+    "tag": "p",
+    "text": "Next, we define the function that computes the right-hand side of the system of differential equations:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2142,
+    "tag": "pre",
+    "text": "def grayscott1d(y, t, f, k, Du, Dv, dx): \"\"\" Differential equations for the 1-D Gray-Scott equations. The ODEs are derived using the method of lines. \"\"\" # The vectors u and v are interleaved in y. We define # views of u and v by slicing y. u = y[::2] v = y[1::2] # dydt is the return value of this function. dydt = np.empty_like(y) # Just like u and v are views of the interleaved vectors # in y, dudt and dvdt are views of the interleaved output # vectors in dydt. dudt = dydt[::2] dvdt = dydt[1::2] # Compute du/dt and dv/dt. The end points and the interior points # are handled separately. dudt[0] = G(u[0], v[0], f, k) + Du * (-2.0*u[0] + 2.0*u[1]) / dx**2 dudt[1:-1] = G(u[1:-1], v[1:-1], f, k) + Du * np.diff(u,2) / dx**2 dudt[-1] = G(u[-1], v[-1], f, k) + Du * (- 2.0*u[-1] + 2.0*u[-2]) / dx**2 dvdt[0] = H(u[0], v[0], f, k) + Dv * (-2.0*v[0] + 2.0*v[1]) / dx**2 dvdt[1:-1] = H(u[1:-1], v[1:-1], f, k) + Dv * np.diff(v,2) / dx**2 dvdt[-1] = H(u[-1], v[-1], f, k) + Dv * (-2.0*v[-1] + 2.0*v[-2]) / dx**2 return dydt",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2473,
+    "tag": "p",
+    "text": "We won’t implement a function to compute the Jacobian, but we will tell odeint that the Jacobian matrix is banded. This allows the underlying solver (LSODA) to avoid computing values that it knows are zero. For a large system, this improves the performance significantly, as demonstrated in the following ipython session.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2477,
+    "tag": "p",
+    "text": "First, we define the required inputs:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2480,
+    "tag": "pre",
+    "text": "In [30]: rng = np.random.default_rng() In [31]: y0 = rng.standard_normal(5000) In [32]: t = np.linspace(0, 50, 11) In [33]: f = 0.024 In [34]: k = 0.055 In [35]: Du = 0.01 In [36]: Dv = 0.005 In [37]: dx = 0.025",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2557,
+    "tag": "p",
+    "text": "Time the computation without taking advantage of the banded structure of the Jacobian matrix:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2560,
+    "tag": "pre",
+    "text": "In [38]: %timeit sola = odeint(grayscott1d, y0, t, args=(f, k, Du, Dv, dx)) 1 loop, best of 3: 25.2 s per loop",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2602,
+    "tag": "p",
+    "text": "Now set ml=2 and mu=2, so odeint knows that the Jacobian matrix is banded:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2612,
+    "tag": "pre",
+    "text": "In [39]: %timeit solb = odeint(grayscott1d, y0, t, args=(f, k, Du, Dv, dx), ml=2, mu=2) 10 loops, best of 3: 191 ms per loop",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2662,
+    "tag": "p",
+    "text": "That is quite a bit faster!",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2663,
+    "tag": "p",
+    "text": "Let’s ensure that they have computed the same result:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2666,
+    "tag": "pre",
+    "text": "In [41]: np.allclose(sola, solb) Out[41]: True",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2686,
+    "tag": "h3",
+    "text": "References#",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2694,
+    "tag": "p",
+    "text": "https://en.wikipedia.org/wiki/Method_of_lines",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 2701,
+    "tag": "p",
+    "text": "previous",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 2702,
+    "tag": "p",
+    "text": "Discrete Fourier Transforms (scipy.fft)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 2707,
+    "tag": "p",
+    "text": "next",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-subtitle"
+    }
+  },
+  {
+    "node_index": 2708,
+    "tag": "p",
+    "text": "Interpolation (scipy.interpolate)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "prev-next-title"
+    }
+  },
+  {
+    "node_index": 2720,
+    "tag": "li",
+    "text": "General integration (quad)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2724,
+    "tag": "li",
+    "text": "General multiple integration (dblquad, tplquad, nquad)",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2732,
+    "tag": "li",
+    "text": "Gaussian quadrature",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2734,
+    "tag": "li",
+    "text": "Integrating using Samples",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2736,
+    "tag": "li",
+    "text": "Faster integration using low-level callback functions",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2738,
+    "tag": "li",
+    "text": "Ordinary differential equations (solve_ivp) Solving a system with a banded Jacobian matrix References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h2 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2743,
+    "tag": "li",
+    "text": "Solving a system with a banded Jacobian matrix",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2745,
+    "tag": "li",
+    "text": "References",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "toc-h3 nav-item toc-entry"
+    }
+  },
+  {
+    "node_index": 2754,
+    "tag": "p",
+    "text": "© Copyright 2008, The SciPy community.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "copyright"
+    }
+  },
+  {
+    "node_index": 2757,
+    "tag": "p",
+    "text": "Created using Sphinx 8.1.3.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "sphinx-version"
+    }
+  },
+  {
+    "node_index": 2762,
+    "tag": "p",
+    "text": "Built with the PyData Sphinx Theme 0.19.0.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "theme-version"
+    }
+  }
+]

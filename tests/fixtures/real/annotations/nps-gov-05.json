@@ -1,0 +1,869 @@
+[
+  {
+    "node_index": 63,
+    "tag": "p",
+    "text": "An official website of the United States government",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-text"
+    }
+  },
+  {
+    "node_index": 64,
+    "tag": "p",
+    "text": "Here's how you know",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-banner__header-action"
+    }
+  },
+  {
+    "node_index": 72,
+    "tag": "p",
+    "text": "Official websites use .govA .gov website belongs to an official government organization in the United States.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 79,
+    "tag": "p",
+    "text": "Secure .gov websites use HTTPSA lock ( ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 89,
+    "tag": "li",
+    "text": "Skip to global NPS navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 91,
+    "tag": "li",
+    "text": "Skip to this park navigation",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 93,
+    "tag": "li",
+    "text": "Skip to the main content",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 95,
+    "tag": "li",
+    "text": "Skip to this park information section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 97,
+    "tag": "li",
+    "text": "Skip to the footer section",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 135,
+    "tag": "h2",
+    "text": "Explore This Park",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--green",
+      "hidden": ""
+    }
+  },
+  {
+    "node_index": 137,
+    "tag": "h2",
+    "text": "Explore the National Park Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "GlobalNav__SectionHeading GlobalNav__SectionHeading--blue"
+    }
+  },
+  {
+    "node_index": 143,
+    "tag": "h2",
+    "text": "Exiting nps.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "modal-title visually-hidden",
+      "id": "exitModalLabel"
+    }
+  },
+  {
+    "node_index": 174,
+    "tag": "li",
+    "text": "Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 176,
+    "tag": "li",
+    "text": "Alerts",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 179,
+    "tag": "li",
+    "text": "Maps",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 181,
+    "tag": "li",
+    "text": "Calendar",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 183,
+    "tag": "li",
+    "text": "Fees",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 216,
+    "tag": "h1",
+    "text": "Hydrothermal Features",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "page-title"
+    }
+  },
+  {
+    "node_index": 222,
+    "tag": "td",
+    "text": "On This Page Navigation Great Fountain Geyser is one of more than 10,000 hydrothermal features in Yellowstone. NPS / Diane Renkin Yellowstone National Park preserves the most extraordinary collection of hot springs, geysers, mudpots, and fumaroles on Earth. More than 10,000 hydrothermal features are found here, of which more than 500 are geysers. Microorganisms called thermophiles, or heat lovers, make their homes in the hydrothermal features of Yellowstone. Although individually they are too small to be seen with the naked eye, so many are grouped together in the park's hydrothermal features—trillions!—that they often appear as mats of color. These microorganisms are also called extremophiles because they inhabit environments that are extreme to human life. Imagine living in water at near-boiling temperatures, with the alkalinity of baking soda, or with acidity that can burn holes in clothing. Microorganisms in Yellowstone not only exist in such conditions, but require these extremes to thrive. Types of Hydrothermal Features There are five types of hydrothermal features readily visible in Yellowstone: Hot springs: Pools of hydrothermally heated water. Geysers: Hot springs with con",
+    "label": "unreviewed",
+    "formatting": {
+      "id": "cs_idCell2x1x1",
+      "class": "CS_Layout_TD"
+    }
+  },
+  {
+    "node_index": 234,
+    "tag": "figcaption",
+    "text": "Great Fountain Geyser is one of more than 10,000 hydrothermal features in Yellowstone. NPS / Diane Renkin",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 235,
+    "tag": "p",
+    "text": "NPS / Diane Renkin",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 240,
+    "tag": "p",
+    "text": "Yellowstone National Park preserves the most extraordinary collection of hot springs, geysers, mudpots, and fumaroles on Earth. More than 10,000 hydrothermal features are found here, of which more than 500 are geysers.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 241,
+    "tag": "p",
+    "text": "Microorganisms called thermophiles, or heat lovers, make their homes in the hydrothermal features of Yellowstone. Although individually they are too small to be seen with the naked eye, so many are grouped together in the park's hydrothermal features—trillions!—that they often appear as mats of color. These microorganisms are also called extremophiles because they inhabit environments that are extreme to human life. Imagine living in water at near-boiling temperatures, with the alkalinity of baking soda, or with acidity that can burn holes in clothing. Microorganisms in Yellowstone not only exist in such conditions, but require these extremes to thrive.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 246,
+    "tag": "p",
+    "text": "There are five types of hydrothermal features readily visible in Yellowstone:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 248,
+    "tag": "li",
+    "text": "Hot springs: Pools of hydrothermally heated water.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 251,
+    "tag": "li",
+    "text": "Geysers: Hot springs with constrictions in their plumbing, which causes them to periodically erupt to release the pressure that builds up.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 254,
+    "tag": "li",
+    "text": "Mudpots: Hot springs that are acidic enough to dissolve the surrounding rock, and typically also lack water in their systems.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 257,
+    "tag": "li",
+    "text": "Travertine terraces: Hot springs that rise up through limestone, dissolve the calcium carbonate, and deposit the calcite that makes the travertine terraces.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 260,
+    "tag": "li",
+    "text": "Fumaroles: These hot features, also known as steam vents, lack water in their system, and instead constantly release hot steam.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 291,
+    "tag": "h1",
+    "text": "Embed Video",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "modal-title",
+      "id": "av_A6BC16DCAB3407ABB7851FCD7B17488BEmbedModalLabel"
+    }
+  },
+  {
+    "node_index": 302,
+    "tag": "dt",
+    "text": "Duration:",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 303,
+    "tag": "dd",
+    "text": "3 minutes, 35 seconds",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 309,
+    "tag": "h2",
+    "text": "Hot Springs",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 310,
+    "tag": "p",
+    "text": "Hot springs are the most common hydrothermal features in Yellowstone. Beginning as rain at the surface, the water of a hot spring seeps through the bedrock underlying Yellowstone and becomes superheated by the Yellowstone magmatic system. An open plumbing system allows the hot water to rise back to the surface unimpeded. Convection currents constantly circulate the water, preventing it from getting hot enough to trigger an eruption.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 311,
+    "tag": "p",
+    "text": "At times, fierce, boiling waters within a hot spring (such as Crested Pool) can explode and shoot water into the air, acting much like a geyser. It is believed, however, that in the case of Crested Pool, no constrictions block the flow of water to the surface. The spring's wide mouth and 42-foot depth provide a natural conduit for superheated water to circulate continuously to the surface.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 315,
+    "tag": "p",
+    "text": "Crested Pool: A Thermal Comparison",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "ImageComparison__Heading"
+    }
+  },
+  {
+    "node_index": 325,
+    "tag": "p",
+    "text": "Left image Infrared view (yellow = hottest, blue = coolest) Credit: NPS/Dave Krueger",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 331,
+    "tag": "p",
+    "text": "Right image Normal view of Crested Pool Credit: NPS/Dave Krueger",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 337,
+    "tag": "p",
+    "text": "Set of comparison photographs of Crested Pool showing the underlying heat in and around the hot spring.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 346,
+    "tag": "figcaption",
+    "text": "The intense blue color of some springs results when sunlight passes into their deep, clear waters. Blue, a color visible in light, is scattered the most and, therfore the color we see. NPS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 347,
+    "tag": "p",
+    "text": "NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 348,
+    "tag": "h3",
+    "text": "Hot Springs Colors",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 349,
+    "tag": "p",
+    "text": "Many of the bright colors found in Yellowstone's hydrothermal basins come from thermophiles—microorganisms that thrive in hot temperatures. An abundance of individual microorganisms grouped together appear as masses of color.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 350,
+    "tag": "p",
+    "text": "Different types of thermophiles live at different specific temperatures within a hot spring and cannot tolerate much cooler or warmer conditions. Yellowstone's hot water systems often show distinct gradations of living, vibrant colors where the temperature limit of one group of microbes is reached, only to be replaced by another group.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 360,
+    "tag": "p",
+    "text": "Hydrothermal features are habitats for microscopic organisms called thermophiles: \"thermo\" for heat, \"phile\" for lover.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 369,
+    "tag": "figcaption",
+    "text": "Mudpots, like Red Spouter in Lower Geyser Basin shown here, are acidic features with a limited water supply. NPS / Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 370,
+    "tag": "p",
+    "text": "NPS / Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 372,
+    "tag": "h2",
+    "text": "Mudpots",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 373,
+    "tag": "p",
+    "text": "A mudpot is a natural double boiler! Surface water collects in a shallow, impermeable depression (usually due to a lining of clay) that has no direct connection to an underground water flow. Thermal water beneath the depression causes steam to rise through the ground, heating the collected surface water. Hydrogen sulfide gas is usually present, giving mudpots their characteristic odor of rotten eggs. Some microorganisms use the hydrogen sulfide for energy. The microbes help convert the gas to sulfuric acid, which breaks down rock into clay. The result is a gooey mix through which gases gurgle and bubble. After coming upon Mud Volcano during his 1871 expedition to Yellowstone, Ferdinand Hayden described the mudpot as \"the greatest marvel we have met with.\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 374,
+    "tag": "p",
+    "text": "Minerals tint the mudpots with such a large palette of colors that the mudpots are sometimes called \"paint pots.\" Iron oxides cause the pinks, beiges, and grays of the Fountain Paint Pot.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 384,
+    "tag": "figcaption",
+    "text": "Fumaroles or steam vents are the hottest hydrothermal features in Yellowstone. NPS / Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 385,
+    "tag": "p",
+    "text": "NPS / Jim Peaco",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 387,
+    "tag": "h2",
+    "text": "Fumaroles (or Steam Vents)",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 388,
+    "tag": "p",
+    "text": "A fumarole, or steam vent, exists when a hydrothermal feature has so little water in its system that the water boils away before reaching the surface. Steam and other gases emerge from the feature's vent, sometimes hissing or whistling. Steam vents are often superheated, with temperatures as high as 280°F (138°C).",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 389,
+    "tag": "p",
+    "text": "Located in Norris Geyser Basin, Black Growler is one of Yellowstone's most famous steam vents. This feature has a history of shifting its location several times. It has been active since 1878 at least, often roaring in a noisy stream of hot vapor.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 390,
+    "tag": "p",
+    "text": "Another wonderful place to enjoy the marvels of fumaroles is at Roaring Mountain, where fumaroles dot an entire mountainside. It is especially dramatic on cool days when the steam is more visible.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 396,
+    "tag": "h2",
+    "text": "Travertine Terraces",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 397,
+    "tag": "p",
+    "text": "Travertine terraces are formed from limestone. Thermal water rises through the limestone, carrying high amounts of the dissolved limestone (calcium carbonate). At the surface, carbon dioxide is released and calcium carbonate is deposited, forming travertine, the chalky white mineral forming the rock of travertine terraces. The formations resemble a cave turned inside out. Colorful stripes are formed by thermophiles, or heat-loving organisms.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 406,
+    "tag": "h3",
+    "text": "Mammoth Hot Springs Terraces",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 407,
+    "tag": "p",
+    "text": "As one early visitor described the Mammoth Hot Springs, \"No human architect ever designed such intricate fountains as these. The water trickles over the edges from one to another, blending them together with the effect of a frozen waterfall.\" The hot springs were an early commercialized attraction for those seeking relief from ailments in the mineral waters. Today, to preserve these unique and fragile features, soaking in the hot springs is prohibitted.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 408,
+    "tag": "p",
+    "text": "Mammoth Hot Springs are a surface expression of the deep magmatic forces at work in Yellowstone. Although these springs lie outside the Yellowstone Caldera boundary, scientists surmise that the heat from the hot springs comes from the same magmatic system that fuels other Yellowstone hydrothermal areas. A large fault system runs between Norris Geyser Basin and Mammoth, which may allow thermal water to flow between the two. Also, multiple basalt eruptions have occurred in this area. Thus, basalt may be a heat source for the Mammoth area.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 409,
+    "tag": "p",
+    "text": "Hydrothermal activity in Yellowstone is extensive and has been present for several thousand years. Terrace Mountain, northwest of Golden Gate, has a thick cap of travertine. The Mammoth Hot Springs extend all the way from the hillside where we see them today, across the historic Parade Ground, and down to Boiling River. The Mammoth Hot Springs Hotel, as well as all of Fort Yellowstone, is built upon an old terrace formation known as Hotel Terrace. There was some concern when construction began in 1891 on the fort site that the hollow ground would not support the weight of the buildings. Currently, several large sink holes (fenced off) can be seen on the historic Fort Yellowstone Parade Ground.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 419,
+    "tag": "p",
+    "text": "Virtually wander around Mammoth Hot Springs, where the underlying limestone allow large terraces to form above ground.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 425,
+    "tag": "h2",
+    "text": "Geysers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 426,
+    "tag": "p",
+    "text": "Sprinkled amid the hot springs are the rarest fountains of all, the geysers. What makes geysers rare and distinguishes them from hot springs is that somewhere, usually near the surface in the plumbing system of a geyser, there are one or more constrictions.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 427,
+    "tag": "p",
+    "text": "Geysers are hot springs with constrictions in their plumbing, usually near the surface, that prevent water from circulating freely to the surface where heat would escape. The deepest circulating water of the system can exceed the surface boiling point of water (199°F/93°C). Surrounding pressure increases with depth, much as it does with depth in the ocean. Increased pressure exerted by the enormous weight of the overlying water and rock prevents the water from boiling. As the water rises due to heating, steam forms and expands, increasing pressure in the constricted plumbing near the surface. At a critical point, the confined bubbles actually lift the water above the surface vent, causing the geyser to splash or overflow. This decreases pressure on the system, and violent boiling results. Tremendous amounts of steam force water out of the vent, and an eruption begins. Water is expelled faster than it can enter back into the geyser's plumbing system, and the heat and pressure gradually decrease. The eruption stops when the water reservoir is depleted or when the system cools.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 428,
+    "tag": "p",
+    "text": "There are more geysers in Yellowstone than anywhere else on Earth. Old Faithful, certainly the most famous geyser, is joined by numerous others big and small, named and unnamed. Though born of the same water and rock, what is enchanting is how differently they play in the sky. Riverside Geyser, in the Upper Geyser Basin, shoots at an angle across the Firehole River, often forming a rainbow in its mist. Castle Geyser erupts from a cone shaped like the ruins of some medieval fortress. Grand Geyser explodes in a series of powerful bursts, towering above the surrounding trees. Echinus Geyser spouts up and out to all sides like a fireworks display of water. And Steamboat Geyser, the largest in the world, pulsates like a massive steam engine in a rare, but remarkably memorable eruption, reaching heights of 300 to 400 feet.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 480,
+    "tag": "p",
+    "text": "- Predictions are not available when the Old Faithful Visitor Education Center is closed, typically early November through mid-December and mid-March through mid-April.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 481,
+    "tag": "p",
+    "text": "- The last prediction made will remain up until a new prediction is available.",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "padding-left:20px;text-indent:-20px"
+    }
+  },
+  {
+    "node_index": 492,
+    "tag": "p",
+    "text": "Unpredictable and dormant for years, Steamboat Geyser has been quite active since 2018.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 497,
+    "tag": "p",
+    "text": "Sinter is a common mineral deposit in thermal areas. It is silica that was dissolved from rhyolite, a volcanic rock, and left behind after it precipitates out of hydrothermal water. It coats the plumbing of hydrothermal features, and forms the pools and cones of hydrothermal features.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 502,
+    "tag": "h3",
+    "text": "Cone Geysers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 503,
+    "tag": "p",
+    "text": "Cone geysers, such as Riverside in the Upper Geyser Basin, erupt in a narrow jet of water, usually from a cone.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 504,
+    "tag": "p",
+    "text": "The plumbing system of a cone-type geyser usually has a narrow constriction close to the geyser's vent. During eruptions, the constriction acts like a nozzle, causing the water to jet in great columns. The cone is formed by the constant deposition of silica around the geyser's vent.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 505,
+    "tag": "p",
+    "text": "While traveling underground through rhyolite, a high silica volcanic rock, the superheated water dissolves the silica, then carries it to the surface. Although some of the silica lines the underground plumbing system, a portion may be deposited as sinter around the outside of a geyser to form a distinctive cone. The splashing of silica-rich thermal water may also form spiny, bulbous masses of \"geyserite.\"",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 514,
+    "tag": "figcaption",
+    "text": "Showing the eruption and structural differences of cone and fountain geysers. NPS",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 515,
+    "tag": "p",
+    "text": "NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "figcredit"
+    }
+  },
+  {
+    "node_index": 516,
+    "tag": "p",
+    "text": "The vents within these massive cones are often very narrow, causing the water to splash and spray as it emerges. Every splash and each eruption adds its own increment of silica, enlarging the cones as the years pass. The cones of many of Yellowstone's geysers are hundreds of years old.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 517,
+    "tag": "p",
+    "text": "Beehive Geyser is an example of a cone geyser. It was so named because its four-foot high cone resembles an old fashioned beehive. Though its cone is modest compared to others in the Upper Geyser Basin, Beehive is one of the most powerful and impressive geysers in the park. Typically, Beehive's activity is not predictable, but when eruption cycles start, intervals between eruptions can range from 10 hours to five days. An average eruption lasts about five minutes.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 556,
+    "tag": "p",
+    "text": "Loading results...",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-alert__text"
+    }
+  },
+  {
+    "node_index": 567,
+    "tag": "h3",
+    "text": "Fountain Geysers",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 568,
+    "tag": "p",
+    "text": "Fountain geysers, such as Great Fountain Gesyer in the Lower Geyser Basin, shoot water in various directions, typically from a pool. A fountain-type geyser has a large opening at the surface that usually fills with water before or during an eruption. Steam bubbles rising through the pool during the eruption cause separate bursts of water that generally spray out in all directions. Fountain type geysers are the most common type of geyser and can range in size from very small to very large.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 574,
+    "tag": "h2",
+    "text": "Old Faithful Frequently Asked Questions",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 631,
+    "tag": "p",
+    "text": "Learn about the mechanics of geysers, their role in the park's history and what they teach us about the world in which we live.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 638,
+    "tag": "p",
+    "text": "Get the latest geyser eruption predictions.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 645,
+    "tag": "p",
+    "text": "Grab a front row seat for the next eruption of Old Faithful.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 653,
+    "tag": "p",
+    "text": "A volcano, geysers and other thermal features, earthquakes, and glaciers shape Yellowstone's landscape.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 660,
+    "tag": "p",
+    "text": "Yellowstone's hydrothermal systems are the visible expression of the immense Yellowstone volcano.",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "Feature-description"
+    }
+  },
+  {
+    "node_index": 666,
+    "tag": "p",
+    "text": "Last updated: April 17, 2025",
+    "label": "unreviewed",
+    "formatting": {
+      "style": "text-align:right;"
+    }
+  },
+  {
+    "node_index": 668,
+    "tag": "h2",
+    "text": "Park footer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "visually-hidden"
+    }
+  },
+  {
+    "node_index": 673,
+    "tag": "h3",
+    "text": "Contact Info",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 678,
+    "tag": "p",
+    "text": "PO Box 168 Yellowstone National Park, WY 82190-0168",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "adr"
+    }
+  },
+  {
+    "node_index": 685,
+    "tag": "p",
+    "text": "307-344-7381",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 693,
+    "tag": "h3",
+    "text": "Tools",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 695,
+    "tag": "li",
+    "text": "FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 698,
+    "tag": "li",
+    "text": "Site Index",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 701,
+    "tag": "li",
+    "text": "Español",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "col-xs-6 col-sm-12"
+    }
+  },
+  {
+    "node_index": 706,
+    "tag": "h3",
+    "text": "Stay Connected",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 720,
+    "tag": "li",
+    "text": "This Site",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 722,
+    "tag": "li",
+    "text": "All NPS",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-button-group__item"
+    }
+  },
+  {
+    "node_index": 730,
+    "tag": "p",
+    "text": "Download the NPS app to navigate the parks on the go.",
+    "label": "unreviewed",
+    "formatting": {}
+  },
+  {
+    "node_index": 766,
+    "tag": "li",
+    "text": "Accessibility",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 768,
+    "tag": "li",
+    "text": "Privacy Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 770,
+    "tag": "li",
+    "text": "FOIA",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 772,
+    "tag": "li",
+    "text": "Notices",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 774,
+    "tag": "li",
+    "text": "Contact The National Park Service",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 776,
+    "tag": "li",
+    "text": "NPS FAQ",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 778,
+    "tag": "li",
+    "text": "No Fear Act",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 780,
+    "tag": "li",
+    "text": "Disclaimer",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 782,
+    "tag": "li",
+    "text": "Vulnerability Disclosure Policy",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  },
+  {
+    "node_index": 784,
+    "tag": "li",
+    "text": "USA.gov",
+    "label": "unreviewed",
+    "formatting": {
+      "class": "usa-identifier__required-links-item"
+    }
+  }
+]

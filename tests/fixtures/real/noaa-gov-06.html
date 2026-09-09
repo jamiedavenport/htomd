@@ -1,0 +1,575 @@
+<!-- Modified by htomd on 2026-09-09: embedded scripts, styles, artwork, frames and active attributes removed.
+Source: https://oceanservice.noaa.gov/education/tutorial_currents/welcome.html
+Credits, licences and change details: ../NOTICE.md and ../LICENSES.txt; original hash: manifest.json. -->
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- TITLE -->
+    <title>Currents: NOAA's National Ocean Service Education</title>
+   
+   <!-- DONT FORGET THE METADATA-->
+    <meta name="keywords" content="currents, reefs, ecosystems, species, biology, resources,  education, lessons, kits, ocean, NOAA, noaa, National Oceanic and Atmospheric Administration,">
+<!-- THERE IS ONE TITLE -->
+    <meta name="DC.title" content="Currents: NOAA's National Ocean Service Education">
+  <!-- AND TWO DESCRIPTIONS-->
+    <meta name="DC.description" content="National Ocean Service's Education Online tutorial on Corals">
+    <meta name="description" content="National Ocean Service's Education Online tutorial on Corals?">
+    <meta name="DC.creator" content="US Department of Commerce, National Oceanic and Atmospheric Administration">
+    <meta name="DC.date.created" scheme="ISO8601" content="2013-06-01">
+<meta name="DC.date.reviewed" scheme="ISO8601" content="
+2024-08-12
+" />
+    <meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN-US">
+
+      <!-- important! jquery reference needs to be at top of page -->
+
+<template></template>
+
+<meta property="og:image" content="https://oceanservice.noaa.gov/apple-icon-144x144.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+<link href="/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="/font-awesome/css/all.css" rel="stylesheet">
+<link href="/bootstrap/css/theme.css" rel="stylesheet">
+<link href="/bootstrap/css/zocial.css" rel="stylesheet" type="text/css"/>
+<link href="/bootstrap/css/video-js.css" rel="stylesheet" type="text/css"/>
+
+ 
+<!--[if IE 7]>
+<link rel="stylesheet" href="/bootstrap/css/font-awesome-ie7.min.css">
+<![endif]-->
+
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-icon-57x57-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-icon-72x72-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-icon-144x144-precomposed.png" />
+<link rel="shortcut icon" href="/favicon.ico">
+<!--end head.html-->
+
+
+     <header>
+	<template></template>
+    
+<!--usa-banner-->
+        
+	<div class="usa-banner">
+		<small>
+			<p class="text-center"> <img class="flag" src="/bs4/img/flag.png" alt="U.S. flag"> An official website of the United States government.
+				
+				<a data-toggle="collapse" href="#collapse-usa" role="button" aria-expanded="false" aria-controls="collapseExample">Here's how you know we're official.
+				</a>
+			</p>
+		</small>
+       
+        
+		<div class="collapse pb-3" id="collapse-usa">
+       <div class="container-fluid">                 	
+       <div class="row-fluid">
+				
+           <div class="span6">	
+			        <div class="card" >
+                        <div class="card-body">
+									<h5 class="card-title small text-uppercase"><template></template> <strong>Official websites use .gov</strong></h5>
+									<p class="card-text"><small>A <strong>.gov</strong> website belongs to an official government organization in the United States.</small></p>
+                                    <div class="pad15"></div>
+								</div>
+						  </div>
+						
+                      </div>
+            
+            
+            	<div class="span6">	
+					
+				           <div class="card" >
+							
+								<div class="card-body">
+									<h5 class="card-title small text-uppercase"><template></template> <strong>Secure websites use HTTPS</strong></h5>
+									
+									<p class="card-text"><small>A small lock or <strong>https://</strong> means you’ve safely connected to a .gov website. Share sensitive information only on official, secure websites.</small></p>
+                                    <div class="pad15"></div>
+								</div>
+							</div>
+						</div>
+						
+                </div>
+           <div class="pad45"></div>
+            </div>
+			</div>
+		
+        </div>
+    
+      <!--usa-banner-->
+    
+    
+	  <div id="boxes-box-header_logo_blind" class="boxes-box">
+		<div class="boxes-box-content"> <a class="logo" alt="NOAA Logo" href="/" aria-label="NOAA Home"> </a> <a class="site-name" href="/welcome.html" aria-label="NOS Home">National Ocean Service</a> <a class="site-slogan" href="http://www.noaa.gov" aria-label="site slogan">National Oceanic and Atmospheric Administration</a>  </div>
+		<div class="input-append searchbar-nav">
+			<form id="input-search-form" class="input-search" action="https://search.usa.gov/search"  method="GET">
+				<input  name="affiliate" type="hidden" value="oceanservice.noaa.gov" />
+				<label for="header-search" class="sr-only">Search</label>
+				<input type="search" id="header-search" name="query" placeholder="Search">
+				<button type="submit" class="fas fa-search input-search__button hidden-phone"><span class="sr-only">Search National Ocean Service</span></button>
+			</form>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="header">
+		<div class="container"> 
+			<!--menu-->
+			
+			<div class="navbar">
+				<div class=".navbar-inner-mainnav">
+					<button type="button" class="btn btn-navbar navbar-toggle" role="toggle-navigation" data-toggle="collapse" data-target=".navHeaderCollapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+					<div class="clear"></div>
+					<div class="collapse nav-collapse navbar-collapse navHeaderCollapse">
+						<ul class="nav navbar-nav"  role="navigation">
+							<li class="home"> <a href="/welcome.html"  aria-label="home">Home</a> </li>
+							<li class="facts"> <a href="/facts/" aria-label="ocean facts">Ocean Facts</a> </li>
+							<li class="dropdown explore"> <a href="/topics/"   class="dropdown-toggle" data-toggle="dropdown"  data-hover="dropdown" role="button" aria-haspopup="true" aria-expanded="false">TOPICS <b class="dropdown-caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a href="/topics/">Explore All Topics</a></li>
+									<li><a href="/profiles/">Careers</a></li>
+                                 <li><a href="/deep-seabed-mining/">Deep Seabed Mining</a></li>
+									<li><a href="/economy/">Economy</a></li>
+									<li><a href="/ecosystems/">Ecosystems</a></li>
+									<li><a href="/geodesy/">Geodesy</a></li>
+									<li><a href="/hazards/">Hazards</a></li>
+									<li><a href="/navigation/">Navigation</a></li>
+									<li><a href="/observations/">Observations</a></li>
+									<li><a href="/ocean/">Ocean</a></li>
+									<li><a href="/recreation/">Recreation</a></li>
+                                    <li><a href="/hazards/sealevelrise/">Sea Level Rise</a> </li>
+									<li><a href="/map-stories/">Story Maps</a></li>
+									<li><a href="/tools/">Tools</a></li>
+								</ul>
+							</li>
+							
+														<li class="education"> <a href="/education/" aria-label="Educatione">Education</a> </li>
+
+							
+							<!--     <li class="dropdown education">
+           <a href="/education/welcome.html" data-toggle="dropdown" data-hover="dropdown"  class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Education <b class="dropdown-caret"></b></a>
+             <ul class="dropdown-menu"> 
+                  <li><a href="/education/">NOS Education</a></li>
+                <li><a href="/education/about.html">About</a></li>                
+             <li><a href="/education/nautical_charts/welcome.html">Students</a></li>
+                  <li><a href="https://oceanservice.noaa.gov/education/literacy.html">Teacher</a></li>
+                 </ul>
+              </li>-->
+							
+						<!--	<li class="dropdown education"> <a href="/education/welcome.html" data-toggle="dropdown" data-hover="dropdown"  class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">Education <b class="dropdown-caret"></b></a>
+								<ul class="dropdown-menu">
+									<li><a href="/education/">NOS Education</a></li>
+									<li><a href="/education/about.html">About</a></li>
+									<li><a href="/kids/">Just for Kids</a></li>
+									<li class="dropdown-submenu"> <a href="#" tabindex="-1"  >Students</a>
+										<ul class="dropdown-menu" >
+											<li><a href="/education/nautical_charts/welcome.html">Nautical Charts</a></li>
+											<li><a href="/education/seafloor-mapping/welcome.html">Sea Floor Mapping</a></li>
+											<li class="divider"></li>
+											<li><a href="/education/tutorial_corals/welcome.html">Corals</a></li>
+											<li><a href="/education/tutorial_currents/welcome.html">Currents</a></li>
+											<li><a href="/education/tutorial_estuaries/welcome.html">Estuaries</a></li>
+											<li><a href="/education/tutorial_geodesy/welcome.html">Global Positioning </a></li>
+											<li><a href="/education/tutorial_pollution/welcome.html">Pollution</a></li>
+											<li><a href="/education/tutorial_tides/welcome.html">Tides</a></li>
+											<li class="divider"></li>
+											<li><a href="/education/stories/oilymess/welcome.html">Prince William's Oily Mess</a></li>
+											<li><a href="/education/stories/lionfish/welcome.html">The Lionfish Invasion</a></li>
+											<li class="divider"></li>
+											<li><a href="/education/waterlife/welcome.html">Games</a></li>
+											<li><a href="/education/resources.html">Resources</a></li>
+											<li><a href="/education/projects.html">Projects</a></li>
+										</ul>
+									</li>
+									<li class="dropdown-submenu"> <a tabindex="-1"  href="#"  >Teachers</a>
+										<ul class="dropdown-menu" >
+											<li><a href="/education/literacy.html">Ocean&amp;Climate Literacy</a></li>
+											<li><a href="/education/planet-stewards/welcome.html">Planet Stewards Program</a></li>
+											<li><a href="/education/sea-level-rise/welcome.html">Sea Level Rise</a></li>
+											<li><a href="/education/earthscientists/welcome.html">The Earth Scientist</a></li>
+											<li><a href="/education/oysters-in-the-chesapeake-bay/welcome.html">Oysters In the Chesapeake Bay</a></li>
+											<li class="divider"></li>
+											<li class="text-center"><a href="/education/pd/welcome.html"><span>Professional Development</span></a></li>
+											<li><a href="/education/pd/corals/welcome.html">Coral Reefs</a></li>
+											<li><a href="/education/pd/estuaries/welcome.html">Estuaries</a></li>
+											<li><a href="/education/pd/living_weather/welcome.html">Living in Weather</a></li>
+											<li><a href="/education/pd/oceans_weather_climate/welcome.html">Ocean &amp; Climate</a></li>
+											<li><a href="/education/pd/tidescurrents/welcome.html">Tides &amp; Currents</a></li>
+											<li><a href="/education/pd/climate/welcome.html">Climate Resources </a></li>
+											<li class="divider"></li>
+											<li><a href="/education/lessons/welcome.html">Lesson Plans</a></li>
+											<li><a href="/education/curriculum.html">Curriculum</a></li>
+											<li class="divider"></li>
+											<li><a href="/education/games.html">Education Games</a></li>
+											<li><a href="/education/discoveryourworld.html">Discover Your World</a></li>
+											<li><a href="/education/discoverclimate/">Discover Your Changing World</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li> -->
+							<li class="posts"> <a href="/news/" aria-label="news">News</a> </li>
+							<li class="media-podcast"> <a href="/podcast/" aria-label="podcast">Podcasts</a> </li>
+							<li class="media-video"> <a href="/video/" aria-label="video">Video</a> </li>
+							<li class="media-images"> <a href="/gallery/" aria-label="Image">Images</a> </li>
+							<li class="about"> <a href="/about/"  aria-label="about us" >About Us</a> </li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!--  <script>
+  
+$(document).ready(function(){
+  $('.dropdown-submenu a.edu').on("click", function(e){
+    $(this).parent().parent().find('.dropdown-menu').hide();
+    $(this).next('ul').toggle();
+    e.stopPropagation();
+    e.preventDefault();
+  });
+});
+</script>
+--> 
+	<template></template> 
+	<!--//header--> 
+	
+	<!--  <div class="alert alert-block text-center">
+ 
+ <p>Parts of the U.S. Government are closed. This site will not be updated; however NOAA websites and social media channels necessary to protect lives and property will be maintained. <strong>See <a href=" https://www.weather.gov">www.weather.gov</a> for critical weather information.</strong> To learn more, see <a href=" https://www.commerce.gov">www.commerce.gov</a>.</p>
+
+</div> --> 
+	
+</header>
+<!-- end header.html -->
+
+<!--header-->
+     
+   
+	
+<link href="/bootstrap/css/noshomepage.css" rel="stylesheet">
+     
+     <template></template>
+</head>
+<body class="education">
+
+
+	<!--page-->  
+    <div class="container wrapper">
+    <!-- UPDATE THE BREADCRUMB  -->
+	<div class="breadcrumbs"><a href="/">Home</a> <i class="fa fa-angle-double-right grey"></i> <a href="/education/">Education</a> <i class="fa fa-angle-double-right grey"></i> <a href="/education/for-students.html">For Students</a> <i class="fa fa-angle-double-right grey"></i> <a href="/education/tutorial_currents/">Currents</a> </div>
+	
+	<div class="inner_content">
+<!-- state the question below-->
+		<h1 class="title">Currents</h1>
+<!-- SUBHEADER is one line answer to the above question; use <span> to  emphasize a key word or two-->
+			
+<h2>Currents Tutorial</h2>
+			
+			<div class="row">
+			<div class="span8 pad5">
+				
+				
+	
+			
+<div class="pad30"></div> <!--Add a bit of padding-->
+		<!--BODY TEXT -->
+        
+        		<div class="span4 pull-right">
+		
+        		<div class="span3">
+                         <img src="media/fishing_vessel_240.jpg" alt="Fishing vessel in high seas" border="0" />
+                        <div class="pad15"></div>	
+                        <figure>Oceanic currents are driven by tides, winds,  and differences in water density. Currents are essential for  maintaining the existing balance of life on Earth, but they can be  deadly as well.</figure>
+                        <hr>
+                	</div>
+                </div>
+                
+                
+<p>When used in association with water, the term &quot;current&quot; describes the  motion of the water. Some currents you may be familiar with are the  motion of rainwater as it flows down the street, or the motion of the  water in a creek, stream, or river flowing from higher elevation to  lower elevation. This motion is caused by gravity. The speed and  direction (velocity) of currents can be measured and recorded.</p>
+<p>Oceanic currents are driven by several factors. One is the rise and  fall of the tides, which is driven by the gravitational attraction of  the sun and moon on Earth's oceans. Tides create a current in the  oceans, near the shore, and in bays and estuaries along the coast.  These are called &quot;tidal currents.&quot; Tidal currents are the only type of  currents that change in a very regular pattern and can be predicted for  future dates.</p>
+<p>A second factor that drives ocean currents is wind. Winds drive  currents that are at or near the ocean's surface. These currents are  generally measured in meters per second or in knots (1 knot = 1.15  miles per hour or 1.85 kilometers per hour). Winds drive currents near  coastal areas on a localized scale, and in the open ocean on a global  scale.</p>
+<p>A third factor that drives currents is thermohaline circulation - a  process driven by density differences in water due to temperature  (thermo) and salinity (haline) in different parts of the ocean.  Currents driven by thermohaline circulation occur at both deep and  shallow ocean levels and move much slower than tidal or surface  currents.</p>
+<p>The Currents Tutorial is an overview of the types of currents, what  causes them, how they are measured, and how they affect people's lives.</p>
+<p>The Roadmap to Resources directs you to online data and education materials from NOAA and other reliable resources. </p>
+                
+       		<!--END BODY TEXT -->
+					</div>
+					
+		<div class="span1"></div>
+
+           <!--sidebar-->
+			<div class="span3">
+  <!--  stand out gray box. Delete if not needed for page -->
+          <div class="well">
+                        	<div class="span3"></div>
+                        <h3>Currents <span>Lessons</span></h3>
+                           	<div class="span2"></div>
+                     <div class="listgroup">
+				
+<ul>
+
+<li id="chap1"><a href="/education/tutorial_currents/welcome.html">Welcome</a></li>		  	
+<li id="chap2-1"><a href="/education/tutorial_currents/02tidal1.html">Tidal Currents 1</a></li>  
+<li id="chap2-2"><a href="/education/tutorial_currents/02tidal2.html">Tidal Currents 2</a></li>
+    
+    <h5>Coastal Currents</h5>
+
+	<li id="chap3-1"><a href="/education/tutorial_currents/03coastal1.html">Waves</a></li>
+    <li id="chap3-2"><a href="/education/tutorial_currents/03coastal2.html">Longshore Currents</a></li>
+    <li id="chap3-3"><a href="/education/tutorial_currents/03coastal3.html">Rip Currents</a></li>
+    <li id="chap3-4"><a href="/education/tutorial_currents/03coastal4.html">Upwelling</a></li>
+    
+    <h5>Surface Ocean Currents</h5>
+
+	    <li id="chap4-1"><a href="/education/tutorial_currents/04currents1.html">The Coriolis Effect</a></li>
+        <li id="chap4-2"><a href="/education/tutorial_currents/04currents2.html">Surface Ocean Currents</a></li>
+        <li id="chap4-3"><a href="/education/tutorial_currents/04currents3.html">Boundary Currents</a></li>
+        <li id="chap4-4"><a href="/education/tutorial_currents/04currents4.html">The Ekman Spiral</a></li>
+
+    <h5>The Global Conveyor Belt</h5>
+
+	  <li id="chap5-1"><a href="/education/tutorial_currents/05conveyor1.html">Thermohaline Circulation</a></li>
+	  <li id="chap5-2"><a href="/education/tutorial_currents/05conveyor2.html">The Global Conveyor Belt</a></li>
+	  <li id="chap5-3"><a href="/education/tutorial_currents/05conveyor3.html">Effects of Climate Change</a></li>
+
+    <h5>How Are Currents Measured?</h5>
+
+
+    <li id="chap6-1"><a href="/education/tutorial_currents/06measure1.html">Age of Exploration</a></li>
+	<li id="chap6-2"><a href="/education/tutorial_currents/06measure2.html">What is a &quot;knot&quot;?</a></li>
+    <li id="chap6-3"><a href="/education/tutorial_currents/06measure3.html">Shallow Water Drifter</a></li>
+    <li id="chap6-4"><a href="/education/tutorial_currents/06measure4.html">Deep Ocean Drifter</a></li>
+    <li id="chap6-5"><a href="/education/tutorial_currents/06measure5.html">Current Profiler</a></li>
+    <li id="chap6-6"><a href="/education/tutorial_currents/06measure6.html">Shore-based Current Meters</a></li>
+   
+<hr width="45" />
+    <li id="chap7"><a href="/education/tutorial_currents/07affect.html">How Currents Affect Our Lives?</a></li>
+<li id="references"><a href="/education/tutorial_currents/08references.html">References</a></li>
+<li id="roadmap"><a href="/education/tutorial_currents/supp_currents_roadmap.html">Roadmap to Resources</a></li> 
+<li><a href="/education/tutorial_currents/lessons/sub_review.pdf">Subject Review</a></li>
+
+
+</ul>							<div class="pad15"></div>
+
+					 <!-- SEARCH  -->
+			<h6 class="title-divider span3"><strong>Search</strong> Education<span></span></h6>
+
+
+
+ <div class="input-append"> 
+
+<form accept-charset="UTF-8" action="https://search.noaa.gov/search" id="search_form" style="width: 90%;"method="get">
+
+<!-- the  input type value defines the usa.gov search parameters are set to only facts -->
+    <input type="hidden" name="dc" value="1203">
+
+    <input name="utf8" type="hidden" value="&#x2713;" />
+
+    <input id="affiliate" name="affiliate" type="hidden" value="oceanservice.noaa.gov" />
+
+    <input autocomplete="on" class="usagov-search-autocomplete" id="query" name="query" type="text" placeholder="search"  style="width: 90%;"/>
+
+    				<span class="add-on">
+
+<input name="commit" class="icon-search" type="submit" value="&#xf002;" /></span>
+
+</form>
+
+</div>
+
+
+
+<!-- END SEARCH -->
+
+	     		<div class="pad15"></div>
+			<h6 class="title-divider span3">Get <strong>Social</strong>  <span></span></h6>
+			<p>
+			<a href="https://instagram.com/noaaocean" class="zocial icon instagram" alt="Instagram logo" aria-label="Instagram logo"></a> 
+
+			<a href="https://twitter.com/noaaocean" class="zocial icon twitter" alt="Twitter logo" aria-label="Twitter logo"></a> 
+			<a href="https://facebook.com/usoceangov" class="zocial icon facebook" alt="Facebook logo" aria-label="Facebook logo"></a>
+			<a href="https://oceanservice.noaa.gov/rss.html" class="zocial icon rss" alt="RSS icon" aria-label="RSS icon"></a>
+			<!--<a href="http://www.flickr.com/photos/usoceangov" class="zocial icon flickr" alt="Flickr logo" aria-label="Flickr logo" ></a>-->
+			<a href="http://www.youtube.com/usoceangov" class="zocial icon youtube" alt="youtube logo" aria-label="youtube" ></a>
+            <a href="https://www.linkedin.com/company/noaa-national-ocean-service" class="zocial icon linkedin" alt="LinkedIn logo" aria-label="LinkedIn" ></a>
+                             
+			</p>
+			
+
+			
+			<div class="pad15"></div>
+					
+			
+
+<p><a href="mailto:nos.info@noaa.gov">Contact Us</a></p>
+			</div>
+
+			
+				<div class="pad45"></div>
+			</div>
+		</div>
+	</div>
+		</div>
+			</div>
+            </div>
+			<!--end-->
+
+						<!--//page-->
+					
+	<!--footer-->
+
+    
+     <footer role="contentinfo">
+	<a href="#" id="scroll-to-top"><img src="/bs4/img/Scroll-To-Top_Icon@2x.png"  alt="scroll to top arrow icon"  role="button"  data-toggle="tooltip" data-placement="left"></a> 
+    
+  <div id="footer-top">
+	                
+	<div class="container">			
+	<div class="row">
+         <div class="pad45"></div>
+				<div class="span12 text-center">
+					<ul class="btn-link text-center">
+                      <!--  <li><a href="/survey.html"><button type="button" class="btn btn-large btn-primary-alt">Provide Feedback</button></a> </li>-->
+                        <li> <a href="/contact.html"><button type="button" class="btn btn-large btn-primary-alt">Contact Us</button></a> </li>
+                        <li> <a href="/contact.html#feedback"><button type="button" class="btn btn-large btn-primary-alt">Report an error</button></a> </li>
+					</ul>
+				</div>
+             </div>
+    </div>
+    </div>         
+			
+
+	<div id="footer-main">
+     <div class="pad25"></div>
+		<div class="container">
+			<div class="row">			
+				<div class="span3 text-center">
+					<a href="http://www.noaa.gov/"><img src="/bootstrap/img/noaa_logo_circle_72x72.svg" alt="NOAA Logo" /></a>
+					<h5 class="text-center">
+						<a href="https://www.noaa.gov/">Science. Service.<br>Stewardship.</a>
+						</h5>
+				</div>
+				
+				<div class="span3">
+					<h6 class="sr-only">
+						About NOS 
+					</h6>
+					<ul class="list-unstyled">
+						<li><a href="/about/">About Us</a></li>
+						<li><a href="/programs">NOS Program Offices</a></li>
+						<li><a href="/newsroom/">Media Inquiries</a></li>
+						<li><a href="/about/acknowledgements.html">Website Acknowledgements</a></li>
+
+					</ul>
+				</div>
+				<div class="span3">
+					<!--<h6 class="list-head">-->
+                    <h6 class="sr-only">
+						Resources 
+					</h6>
+					<ul >
+						<li><a href="/sitemap.html">Site Index</a></li>
+						<li><a href="/disclaimer.html">Disclaimer</a></li>
+						<li><a href="https://www.noaa.gov/information-technology/foia">Freedom of Information Act</a></li>
+						<li><a href="/accessibility-statement.html">Accessibility</a></li>
+					</ul>
+				</div>
+				<div class="span3">
+                  	<h6 class="sr-only">
+						More Resources 
+					</h6>
+                   	<ul class="list-unstyled">                        
+						<li><a href="https://www.noaa.gov/office-of-chief-information-officer/it-policy-oversight/information-quality">Information Quality</a></li>
+						<li><a href="/privacy.html">Privacy Policy</a></li>
+						
+						<li><a href="https://www.usa.gov/">USA.gov</a></li>
+					</ul>
+				</div>
+                
+				</div></div>
+        
+				         
+				<div class="container">
+                    <div class="pad25"></div>
+					<div class="row span12 text-center">
+						<ul class="footer-mainnav text-center">
+								<li > <a href="/">National Ocean Service</a></li>
+								<li > <a href="https://www.noaa.gov/">National Oceanic and Atmospheric Administration</a></li>
+								<li > <a href="https://www.commerce.gov">Department of Commerce</a></li>
+							</ul>
+						</div>
+                </div>
+        
+        <div class="container">
+			<div class="row">
+                 <div class="pad15"></div>
+				<div class="span12 text-center">
+					<h5 class="sr-only">
+						Social 
+					</h5>
+					<ul class="social text-center text-small " >
+						<li><a href="https://twitter.com/noaaocean"><img src="/bs4/img/twitter.png" alt="Twitter Logo" /> </a></li>
+						<li><a href="https://www.facebook.com/usoceangov/"><img src="/bs4/img/facebook.png" alt="Facebook Logo" /> </a></li>
+						<li><a href="https://www.instagram.com/noaaocean/"><img src="/bs4/img/instagram.png" alt="Instagram Logo" /> </a></li>
+						<li><a href="https://www.youtube.com/user/usoceangov"><img src="/bs4/img/youtube.png" alt="Youtube Logo" /> </a></li>
+                        <li><a href="https://www.linkedin.com/company/noaa-national-ocean-service"><img src="/bs4/img/linkedin_bw.png" alt="LinkedIn Logo" /> </a></li>
+					</ul>
+				</div></div></div>
+    
+				 <div class="pad45"></div>
+                
+            
+        
+           </div>
+    
+</footer>
+<!--//footer-->
+<!--//end-->
+
+
+		
+<!-- up to top --> 
+<!--<a href="#" class="black"><i class="go-top fa fa-angle-double-up"></i></a> 
+<!--//end--> 
+<template></template> 
+<!--<script type="text/javascript" src="/js/exit.js"></script> -->
+<template></template> 
+<template></template> 
+<template></template> 
+<!--//back to top -->
+<template></template>			
+
+<!-- analytics and search stats  -->
+			<template></template>
+			<template></template>
+			<template></template>
+<!-- Google Analytics -->
+			<template></template>
+
+		<!-- Google tag (gtag.js) -->
+		<template></template>
+		<template></template>
+        
+<!--touchpoints survey code-->
+<template></template>
+            
+<!-- END  -->
+<!-- Initialize Bootstrap functionality -->
+<template></template>
+
+<!--siteimprove test-->
+
+<template></template>
+
+</body>
+</html>
+
+

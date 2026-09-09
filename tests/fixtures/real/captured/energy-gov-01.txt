@@ -1,0 +1,44 @@
+# DOE Explains...Quantum Mechanics
+
+![Electrons don’t just travel in circles. Because of quantum mechanics, their positions are described by probabilities that they are in a certain location. These figures describe the probability for electrons in various configurations in a hydrogen atom.](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2024-07/doe-explains-quantum-mechanics.png?itok=3FnuxzVY)
+
+Electrons don’t just travel in circles. Because of quantum mechanics, their positions are described by probabilities that they are in a certain location. These figures describe the probability for electrons in various configurations in a hydrogen atom.
+
+This work has been released into the public domain by its author, PoorLeno at English Wikipedia. This applies worldwide.
+
+Quantum mechanics is the field of physics that explains how extremely small objects simultaneously have the characteristics of both particles (tiny pieces of matter) and waves (a disturbance or variation that transfers energy). Physicists call this the “wave-particle duality.”
+
+The particle portion of the wave-particle duality involves how objects can be described as “quanta.” A quanta is the smallest discrete unit (such as a particle) of a natural phenomenon in a system where the units are in a bound state. For example, a quanta of electromagnetic radiation, or light, is a photon. A bound state is one where the particles are trapped. One example of a bound state is the electrons, neutrons, and protons that are in an atom.
+
+To be “quantized” means the particles in a bound state can only have discrete values for properties such as energy or momentum. For example, an electron in an atom can only have very specific energy levels. This is different from our world of macroscopic particles, where these properties can be any value in a range. A baseball can have essentially any energy as it is thrown, travels through the air, gradually slows down, then stops.
+
+At the same time, tiny quantized particles such as electrons can also be described as waves. Like a wave in the ocean in our macroscopic world – the world we can see with our eyes -- waves in the quantum world are constantly shifting. In quantum mechanics, scientists talk about a particle’s “wave function.” This is a mathematical representation used to describe the probability that a particle exists at a certain location at a certain time with a certain momentum.
+
+The world of quantum mechanics is very different from how we usually see our macroscopic world, which is controlled by what physicists call classical mechanics. Quantum mechanics grew out of the tremendous progress that physicists made in the early 20th century toward understanding the microscopic world around us and how it differed from the macroscopic world.
+
+As with many things in science, new discoveries prompted new questions. Prior to this time, scientists thought that light existed as an electromagnetic wave and that electrons existed as discrete, point-like particles. However, this created problems in explaining various phenomena in physics. These include blackbody radiation—the emission of light from objects based on their temperature. Quantum mechanics also helped explain the structure of the atom. It helped make sense of the photoelectric effect, which involves how materials emit electrons when those materials are hit with light of certain wavelengths. By explaining how things can be both particles and waves, quantum mechanics solved these problems.
+
+This new knowledge had profound effects in science and technology. Quantum mechanics led to the development of things like lasers, light-emitting diodes, transistors, medical imaging, electron microscopes, and a host of other modern devices. Your cell phone would not exist without the science of quantum mechanics!
+
+## DOE Office of Science: Contributions to Quantum Mechanics
+
+The Department of Energy Office of Science supports research in technology and science resulting from quantum mechanics. The Office of Science has many programs involved with quantum computing and quantum information science. In addition, modern scientific research supported by the Office of Science takes place within the framework of quantum mechanics. [Accelerator](https://www.energy.gov/science/doe-explainsparticle-accelerators) facilities such as the Argonne Tandem Linac Accelerator System (ATLAS) at Argonne National Laboratory, Brookhaven National Laboratory’s Relativistic Heavy Ion Collider (RHIC), and Thomas Jefferson National Accelerator Facility’s Continuous Electron Beam Accelerator Facility all exist to study the properties of the smallest particles of nature. These tiny particles are controlled by the rules of quantum mechanics. Other facilities that study the quantized nature of particles include Fermi National Accelerator Laboratory, the core U.S. particle physics lab. The Facility for Rare Isotope Beams (FRIB) at Michigan State University exists to study the properties of exotic atomic nuclei.
+
+## Fast Facts
+
+- Many subatomic particles, including the proton, have angular momentum, which is often referred to as “spin.” Medical experts use this property in MRI imaging devices.
+- Smartphones contain billions of transistors that work based on the wave nature of electrons, which scientists understand through quantum mechanics.
+- [Quantum computers](https://www.energy.gov/science/doe-explainsquantum-computing) and [quantum networks](https://www.energy.gov/science/doe-explainsquantum-networks) are new applications of quantum mechanics that use the quantized nature of particles to store and transfer information.
+
+## Resources
+
+- DOE Office of Science, [Nuclear Physics Program](https://www.energy.gov/science/np/nuclear-physics)
+- DOE Office of Science, [High Energy Physics Program](https://www.energy.gov/science/hep/high-energy-physics)
+- [ATLAS](https://www.anl.gov/atlas) at Argonne National Laboratory
+- [RHIC](https://www.bnl.gov/rhic/) at Brookhaven National Laboratory
+- [Fermi National Accelerator Laboratory](https://www.fnal.gov/)
+- [FRIB](https://frib.msu.edu/index.php) at Michigan State University
+- The Continuous Electron Beam Accelerator Facility (CEBAF) at [Thomas Jefferson National Accelerator Facility](https://www.jlab.org/)
+- DOE’s [National Quantum Information Science Research Centers](https://science.osti.gov/Initiatives/QIS/QIS-Centers)
+
+*Scientific terms can be confusing.* [*DOE Explains*](https://www.energy.gov/science/doe-explains) *offers straightforward explanations of key words and concepts in fundamental science. It also describes how these concepts apply to the work that the Department of Energy’s Office of Science conducts as it helps the United States excel in research across the scientific spectrum.*
