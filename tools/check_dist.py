@@ -79,7 +79,7 @@ def smoke(artifact: Path) -> None:
                 )
                 assert not result.stderr, result.stderr
                 if args in (["version"], ["--version"]):
-                    assert result.stdout.decode() == f"htomd {version('htomd')}\n"
+                    assert result.stdout.decode() == f"htomd {version('htomd')}{os.linesep}"
                 else:
                     assert b"cat page.html | htomd convert" in result.stdout
             for subcommand in ("convert", "extract"):

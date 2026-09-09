@@ -1,3 +1,4 @@
+import errno
 import io
 import json
 import os
@@ -99,7 +100,8 @@ def test_command_help(command: str) -> None:
 def test_version(command: str) -> None:
     result = run_cli(command, html=b"\xff")
     assert result.returncode == 0
-    assert result.stdout.decode() == f"htomd {version('htomd')}\n"
+    # Help/version use text stdout; conversion output uses exact UTF-8 bytes.
+    assert result.stdout.decode() == f"htomd {version('htomd')}{os.linesep}"
     assert result.stderr == b""
 
 
@@ -168,4 +170,9 @@ def test_broken_pipe() -> None:
             timeout=10,
         )
     assert result.returncode == 1
-    assert result.stderr == b""
+    if os.name == "nt":
+        # Windows reports a closed anonymous pipe as EINVAL, not BrokenPipeError.
+        error = OSError(errno.EINVAL, os.strerror(errno.EINVAL))
+        assert result.stderr.decode() == f"htomd: {error}{os.linesep}"
+    else:
+        assert result.stderr == b""
