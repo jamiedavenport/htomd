@@ -1,10 +1,12 @@
-# Disabled intentionally. Keep outside .github/workflows until PyPI publishing is approved.
 name: Release
 on:
   release:
     types: [published]
 permissions:
   contents: read
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
 jobs:
   checks:
     uses: ./.github/workflows/ci.yml
@@ -48,4 +50,21 @@ jobs:
         with:
           name: distributions
           path: dist
-      - run: uv publish --trusted-publishing always dist/*
+      - name: Publish to PyPI
+        run: uv publish --trusted-publishing always dist/*
+  release-assets:
+    needs: publish
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: distributions
+          path: dist
+      - name: Attach published distributions to the GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: gh release upload "$RELEASE_TAG" dist/* --clobber

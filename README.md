@@ -3,6 +3,20 @@
 Extract Markdown and metadata from HTML. Pure Python 3.12+, with no runtime
 dependencies or network access.
 
+## Installation
+
+```sh
+python -m pip install htomd
+```
+
+For the command line, install in an isolated tool environment:
+
+```sh
+uv tool install htomd
+```
+
+## Python API
+
 ```python
 import htomd
 
@@ -32,7 +46,8 @@ python -m pip install dist/htomd-0.1.0-py3-none-any.whl
 ```
 
 In Windows PowerShell, activate with `.venv\Scripts\Activate.ps1` instead.
-See [Contributing](CONTRIBUTING.md#releases) for the build commands.
+See [Contributing](https://github.com/jamiedavenport/htomd/blob/main/CONTRIBUTING.md#releases)
+for the build commands.
 
 ```sh
 curl -s https://example.com/article | htomd convert --url https://example.com/article
@@ -66,8 +81,10 @@ mise run setup
 mise exec -- uv run --locked pytest
 ```
 
-`mise run check` runs all checks. See [CONTRIBUTING.md](CONTRIBUTING.md) for hooks
-and releases.
+`mise run check` runs all checks. See
+[CONTRIBUTING.md](https://github.com/jamiedavenport/htomd/blob/main/CONTRIBUTING.md)
+for hooks and releases.
 
-MIT license, copyright 2026 JXD Ltd. [Fixtures](tests/fixtures/real/README.md)
+MIT license, copyright 2026 JXD Ltd.
+[Fixtures](https://github.com/jamiedavenport/htomd/blob/main/tests/fixtures/real/README.md)
 have separate licenses.

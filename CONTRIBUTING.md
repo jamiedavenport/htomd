@@ -21,12 +21,13 @@ See the [fixture guide](tests/fixtures/real/README.md) when updating snapshots.
 mise run check
 mise run build
 mise exec -- uv run --locked twine check dist/*
+mise exec -- env RELEASE_TAG=v0.1.0 uv run --locked python tools/check_release.py
 ```
 
-Release checks require 120 human-reviewed pages and 40 exact expectations;
-that review is incomplete.
+See [RELEASING.md](RELEASING.md) for the manual version, changelog, tag, and
+GitHub Release steps.
 
-PyPI publishing is disabled. The release workflow is parked at
-[.github/release.yml.disabled](.github/release.yml.disabled), outside the Actions
-workflow directory. Pushes, tags and GitHub releases cannot publish packages.
-Keep it disabled until a PyPI release is explicitly planned. CI remains enabled.
+The [release workflow](.github/workflows/release.yml) publishes to PyPI when a
+GitHub Release is published. It runs CI, verifies the tag matches the package
+version, validates both distributions, and uploads them to PyPI and the GitHub
+Release. Pushing a branch or tag alone does not publish a package.

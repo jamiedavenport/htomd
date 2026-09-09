@@ -1,4 +1,4 @@
-include LICENSE README.md CONTRIBUTING.md
+include LICENSE README.md CONTRIBUTING.md RELEASING.md CHANGELOG.md
 recursive-include src/htomd *.py py.typed
 prune tests
 prune tools

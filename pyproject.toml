@@ -23,6 +23,11 @@ classifiers = [
 [project.scripts]
 htomd = "htomd._cli:main"
 
+[project.urls]
+Repository = "https://github.com/jamiedavenport/htomd"
+Issues = "https://github.com/jamiedavenport/htomd/issues"
+Changelog = "https://github.com/jamiedavenport/htomd/blob/main/CHANGELOG.md"
+
 [dependency-groups]
 dev = [
   "mypy==1.20.2",
