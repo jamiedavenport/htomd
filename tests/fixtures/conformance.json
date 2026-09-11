@@ -7,6 +7,19 @@
       "metadata": {
         "title": "\u001cTea"
       }
+    },
+    "go": {
+      "markdown": "# \u001cTea\n\n\ufeffA B\u001dC D\n",
+      "metadata": {
+        "title": "\u001cTea"
+      }
+    },
+    "reason": "Go and Rust use Unicode whitespace; Python-only control separators and boundary BOM remain literal.",
+    "rust": {
+      "markdown": "# \u001cTea\n\n\ufeffA B\u001dC D\n",
+      "metadata": {
+        "title": "\u001cTea"
+      }
     }
   },
   {
@@ -18,11 +31,25 @@
     "html": "<ol start=' +\u0661_\u0662 '><li>A<li value='-\uff19'>B<li>C</ol>",
     "typescript": {
       "markdown": "1. A\n2. B\n3. C\n"
+    },
+    "go": {
+      "markdown": "1. A\n2. B\n3. C\n"
+    },
+    "reason": "Native ports accept ASCII decimal list counters without underscores or Unicode digits.",
+    "rust": {
+      "markdown": "1. A\n2. B\n3. C\n"
     }
   },
   {
     "id": "attributes-entities",
-    "html": "<article><h1>A &notit; &NotEqualTilde; &#128; &#1;</h1><p><a href='?a=&notit;&b=&amp=2&c=&copy;'>Link</a></p></article>"
+    "html": "<article><h1>A &notit; &NotEqualTilde; &#128; &#1;</h1><p><a href='?a=&notit;&b=&amp=2&c=&copy;'>Link</a></p></article>",
+    "go": {
+      "markdown": "# A \u00acit; \u2242\u0338 \u20ac \u0001\n\n[Link](?a=%C2%ACit;&b=&=2&c=%C2%A9)\n",
+      "metadata": {
+        "title": "A \u00acit; \u2242\u0338 \u20ac \u0001"
+      }
+    },
+    "reason": "Go uses html.UnescapeString, including legacy attribute references and numeric control characters."
   },
   {
     "id": "duplicate-attributes",
@@ -63,11 +90,22 @@
     "url": "https://EXAMPLE.org:443/x/y",
     "typescript": {
       "markdown": "[Link](https://example.org/a//b/d)\n\nText\n"
+    },
+    "go": {
+      "markdown": "[Link](https://EXAMPLE.org:443/a//b/d)\n\nText\n"
+    },
+    "reason": "Go preserves repeated path slashes; Rust uses WHATWG host, port, and path normalization.",
+    "rust": {
+      "markdown": "[Link](https://example.org/a//b/d)\n\nText\n"
     }
   },
   {
     "id": "unsafe-normalized-netloc",
-    "html": "<p><a href='https://example.org\uff20evil/x'>Link</a> text</p>"
+    "html": "<p><a href='https://example.org\uff20evil/x'>Link</a> text</p>",
+    "go": {
+      "markdown": "[Link](https://example.org%EF%BC%A0evil/x) text\n"
+    },
+    "reason": "Go net/url does not apply Python Unicode netloc normalization validation."
   },
   {
     "id": "metadata-duplicates",
@@ -93,6 +131,19 @@
         "title": null,
         "author": null
       }
+    },
+    "go": {
+      "metadata": {
+        "title": null,
+        "author": null
+      }
+    },
+    "reason": "Native JSON parsers reject nonstandard NaN and Infinity tokens.",
+    "rust": {
+      "metadata": {
+        "title": null,
+        "author": null
+      }
     }
   },
   {
@@ -102,5 +153,41 @@
   {
     "id": "jsonld-string-nonfinite",
     "html": "<script type='application/ld+json'>{\"@type\":\"Article\",\"headline\":\"NaN Infinity -Infinity\"}</script>"
+  },
+  {
+    "id": "archives-gov-01",
+    "reason": "Go net/url drops an empty fragment when resolving a relative reference.",
+    "go": {
+      "markdown_replacements": [
+        [
+          "[Print This Page](https://www.archives.gov/founding-docs/declaration-transcript#)",
+          "[Print This Page](https://www.archives.gov/founding-docs/declaration-transcript)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "archives-gov-02",
+    "reason": "Go net/url drops an empty fragment when resolving a relative reference.",
+    "go": {
+      "markdown_replacements": [
+        [
+          "[Print This Page](https://www.archives.gov/founding-docs/constitution-transcript#)",
+          "[Print This Page](https://www.archives.gov/founding-docs/constitution-transcript)"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "archives-gov-03",
+    "reason": "Go net/url drops an empty fragment when resolving a relative reference.",
+    "go": {
+      "markdown_replacements": [
+        [
+          "[Print This Page](https://www.archives.gov/founding-docs/bill-of-rights-transcript#)",
+          "[Print This Page](https://www.archives.gov/founding-docs/bill-of-rights-transcript)"
+        ]
+      ]
+    }
   }
 ]

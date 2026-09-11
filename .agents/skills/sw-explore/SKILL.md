@@ -6,6 +6,7 @@ description: Map a reference codebase and its behavioral contract before creatin
 # Explore a codebase
 
 - Read repository instructions and `shipwright.toml`.
+- Select the requested entry in `targets`; accept legacy singular `target` configurations.
 - Identify source and target packages, versions, runtimes, and dependency limits.
 - Trace public APIs and CLI commands through their modules and data types.
 - Read tests and fixtures; separate the product contract from incidental source-runtime behavior and assumptions.

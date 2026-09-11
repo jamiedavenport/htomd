@@ -1,4 +1,4 @@
-"""Compare the maintained Python and TypeScript implementations, entirely offline."""
+"""Compare all maintained implementations using offline fixtures and built packages."""
 
 from __future__ import annotations
 
@@ -13,6 +13,7 @@ from pathlib import Path
 from typing import Any
 
 from tools.check_ts_dist import install_package
+from tools.native import binary
 
 ROOT = Path(__file__).resolve().parents[1]
 FIXTURES = ROOT / "tests/fixtures"
@@ -32,7 +33,11 @@ def cases() -> list[dict[str, Any]]:
         }
         for row in manifest
     ]
-    return [*synthetic, *edge, *real]
+    overrides = {case["id"]: case for case in edge if "html" not in case}
+    for case in real:
+        case.update(overrides.pop(case["id"], {}))
+    assert not overrides, f"Unknown real fixture overrides: {list(overrides)}"
+    return [*synthetic, *(case for case in edge if "html" in case), *real]
 
 
 def install_packages(artifacts: Path, work: Path) -> list[list[str]]:
@@ -64,9 +69,15 @@ def install_packages(artifacts: Path, work: Path) -> list[list[str]]:
     )
     package = install_package(tarballs[0], work / "consumer")
     metadata = json.loads((package / "package.json").read_text(encoding="utf-8"))
+    for language in ("go", "rust"):
+        assert binary(language, artifacts).is_file(), (
+            f"Missing {language} binary; run mise run build:native"
+        )
     return [
         [str(scripts / ("htomd.exe" if os.name == "nt" else "htomd"))],
         [node, str(package / metadata["bin"]["htomd"])],
+        [str(binary("go", artifacts))],
+        [str(binary("rust", artifacts))],
     ]
 
 
@@ -85,6 +96,9 @@ def check_cli_contract(invocations: list[list[str]], work: Path) -> None:
         (["convert"], b"\xff", 1),
         (["extract"], b"\xed\xa0\x80", 1),
         (["unknown"], b"\xff", 2),
+        (["help", "unknown"], b"\xff", 2),
+        (["version", "page.html"], b"\xff", 2),
+        (["extract", "--url", "-unknown"], b"\xff", 2),
         (["convert", "page.html"], b"\xff", 2),
         (["extract", "--json"], b"\xff", 2),
         (["convert", "--url"], b"\xff", 2),
@@ -108,7 +122,21 @@ def check_cli_contract(invocations: list[list[str]], work: Path) -> None:
             else:
                 assert not result.stderr
         # Help/version are text streams and use platform line endings in Python.
-        assert results[0].stdout.replace(b"\r\n", b"\n") == results[1].stdout
+        assert all(results[0].stdout.replace(b"\r\n", b"\n") == r.stdout for r in results[1:])
+    help_cases = [
+        [],
+        ["help"],
+        ["--help"],
+        *(["help", topic] for topic in ("convert", "extract", "help", "version")),
+        *([topic, "--help"] for topic in ("convert", "extract", "help", "version")),
+    ]
+    for args in help_cases:
+        for cmd in invocations:
+            result = subprocess.run(
+                [*cmd, *args], input=b"\xff", capture_output=True, cwd=work, timeout=10
+            )
+            assert result.returncode == 0 and not result.stderr, (cmd, args, result.stderr)
+            assert b"usage: htomd" in result.stdout, (cmd, args)
     if os.name != "nt":
         for cmd in invocations:
             read_fd, write_fd = os.pipe()
@@ -136,6 +164,25 @@ def main() -> None:
         compare(invocations, work)
 
 
+def expected_output(reference: bytes, command: str, overrides: dict[str, Any]) -> bytes:
+    """Apply only explicit, fixture-local native-runtime expectations."""
+    if not overrides:
+        return reference
+    assert set(overrides) <= {"markdown", "metadata", "markdown_replacements"}
+    document = json.loads(reference) if command == "extract" else None
+    markdown = document["markdown"] if document is not None else reference.decode("utf-8")
+    markdown = overrides.get("markdown", markdown)
+    assert isinstance(markdown, str)
+    for old, new in overrides.get("markdown_replacements", []):
+        assert markdown.count(old) == 1, f"Expected one replacement occurrence: {old!r}"
+        markdown = markdown.replace(old, new, 1)
+    if document is None:
+        return markdown.encode("utf-8")
+    document["markdown"] = markdown
+    document["metadata"].update(overrides.get("metadata", {}))
+    return (json.dumps(document, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+
+
 def compare(invocations: list[list[str]], work: Path) -> None:
     inputs = cases()
     for case in inputs:
@@ -156,19 +203,9 @@ def compare(invocations: list[list[str]], work: Path) -> None:
             for invocation, result in zip(invocations, results, strict=True):
                 assert result.returncode == 0, (case["id"], command, invocation, result.stderr)
                 assert not result.stderr, (case["id"], command, invocation, result.stderr)
-            expected = results[0].stdout
-            # Fixtures name deliberate runtime differences; all other bytes must match.
-            overrides = case.get("typescript", {})
-            if overrides:
-                if command == "convert":
-                    expected = overrides.get("markdown", expected.decode("utf-8")).encode("utf-8")
-                else:
-                    document = json.loads(expected)
-                    if "markdown" in overrides:
-                        document["markdown"] = overrides["markdown"]
-                    document["metadata"].update(overrides.get("metadata", {}))
-                    expected = (json.dumps(document, ensure_ascii=False, indent=2) + "\n").encode()
-            assert expected == results[1].stdout, (case["id"], command, "CLI mismatch")
+            for language, result in zip(("typescript", "go", "rust"), results[1:], strict=True):
+                expected = expected_output(results[0].stdout, command, case.get(language, {}))
+                assert expected == result.stdout, (case["id"], command, language, "CLI mismatch")
             if command == "convert" and "markdown" in case:
                 assert results[0].stdout == case["markdown"].encode("utf-8"), case["id"]
     print(

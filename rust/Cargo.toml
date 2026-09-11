@@ -1,0 +1,15 @@
+[package]
+name = "htomd"
+version = "0.1.1"
+edition = "2024"
+rust-version = "1.98"
+description = "Focused Markdown and metadata from HTML, without fetching"
+license = "MIT"
+repository = "https://github.com/jamiedavenport/htomd"
+readme = "README.md"
+include = ["src/**", "Cargo.toml", "Cargo.lock", "README.md", "LICENSE", "NOTICE"]
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["arbitrary_precision"] }
+url = "2.5"

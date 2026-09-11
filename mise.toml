@@ -4,6 +4,8 @@ uv = "0.12.11"
 actionlint = "1.7.7"
 node = "24.20.0"
 bun = "1.4.2"
+go = "1.27.1"
+rust = "1.98.1"
 
 [env]
 # Mise owns interpreter installation; uv owns the project environment and lockfile.
@@ -12,11 +14,17 @@ UV_PYTHON = { value = "{{ tools.python.path }}", tools = true }
 
 [tasks.setup]
 description = "Install locked development dependencies"
-run = ["uv sync --directory python --locked", "bun install --cwd typescript --frozen-lockfile"]
+run = ["uv sync --directory python --locked", "bun install --cwd typescript --frozen-lockfile", "cargo fetch --manifest-path rust/Cargo.toml --locked"]
 
 [tasks.test]
 description = "Test packages, distributions, and shared CLI fixtures after building"
-run = ["mise run test:python", "mise run test:typescript", "mise run test:integration", "mise run test:packages", "mise run test:conformance"]
+run = ["mise run test:python", "mise run test:typescript", "mise run test:go", "mise run test:rust", "mise run test:integration", "mise run test:packages", "mise run test:conformance"]
+
+[tasks."test:go"]
+run = "go test -C go ./..."
+
+[tasks."test:rust"]
+run = "cargo test --manifest-path rust/Cargo.toml --locked --offline"
 
 [tasks."test:python"]
 description = "Run the Python test suite"
@@ -40,6 +48,7 @@ run = [
   "uv run --project python --locked python tools/check_dist.py",
   "uv run --project python --locked python -m tools.check_ts_dist",
   "uv run --project python --locked twine check dist/python/*",
+  "python -m tools.native check",
 ]
 
 [tasks.check]
@@ -58,6 +67,10 @@ run = [
   "bun run --cwd typescript lint",
   "bun run --cwd typescript format:check",
   "bun run --cwd typescript typecheck",
+  "python -m tools.native lint-go",
+  "cargo fmt --manifest-path rust/Cargo.toml --check",
+  "cargo clippy --manifest-path rust/Cargo.toml --locked --offline --all-targets -- -D warnings",
+  "python tools/generate_rust_entities.py --check",
 ]
 
 [tasks.hooks]
@@ -75,7 +88,15 @@ run = "uv run --directory python --locked pytest"
 
 [tasks.build]
 description = "Build release artifacts for every package"
-run = ["mise run build:python", "mise run build:typescript"]
+run = ["mise run build:sources", "mise run build:native"]
+
+[tasks."build:sources"]
+description = "Package platform-independent source distributions"
+run = ["mise run build:python", "mise run build:typescript", "python -m tools.native package"]
+
+[tasks."build:native"]
+description = "Build this platform's native CLIs from packaged source"
+run = "python -m tools.native build"
 
 [tasks."build:python"]
 description = "Build the Python wheel and source archive"

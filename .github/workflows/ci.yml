@@ -18,7 +18,7 @@ jobs:
         with:
           version: 2026.9.1
       - run: mise run setup
-      - run: mise run build
+      - run: mise run build:sources
       - run: mise run lint
       - name: Validate release versions
         if: github.event_name == 'release'
@@ -52,7 +52,15 @@ jobs:
           name: distributions
           path: .
       - run: mise run setup
+      - run: mise run build:native
       - run: mise run test
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: native-${{ matrix.os }}
+          path: |
+            dist/native/**/*.tar.gz
+            dist/native/**/*.sha256
+          if-no-files-found: error
   test-python:
     name: Test (Python ${{ matrix.python }})
     strategy:

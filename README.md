@@ -2,8 +2,9 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/htomd?color=black)](https://pypi.org/project/htomd/)
 
-Extract Markdown and metadata from HTML. Available for Python 3.12+ and Node 24+,
-with no runtime dependencies or network access.
+Extract Markdown and metadata from HTML. Implementations support Python 3.12+,
+Node 24+, Go 1.27+, and Rust 1.98+. None fetch network content. Python, TypeScript,
+and Go have no runtime dependencies; Rust uses Serde, Serde JSON, and URL.
 
 [Introducing htomd](https://jamiedavenport.me/blog/introducing-htomd/)
 
@@ -51,6 +52,18 @@ const document = extract(html, { url: "https://example.com/article" });
 console.log(document.metadata.title);
 ```
 
+## Go and Rust
+
+The [Go package](go/README.md) exposes `Extract(html, Options)` and
+`Convert(html, Options)`, returning results and errors for invalid UTF-8 input.
+The [Rust crate](rust/README.md) exposes `extract(&str, Options)` and
+`convert(&str, Options)`, returning owned results. Both use idiomatic public
+structs, preserve optional metadata, and provide the same CLI commands.
+
+These ports are available in this checkout; registry installation becomes
+available after their first release. Package READMEs describe installation,
+dependency choices, and intentional native-runtime differences.
+
 ## Command line
 
 ```sh
@@ -93,25 +106,62 @@ mise run check
 
 Build once before checking: `check` runs static checks and tests against the
 existing artifacts. `mise run lint` runs static checks alone; `mise run test`
-runs the suites and isolated package checks. Both package suites use the shared
+runs the suites and isolated package checks. All four package suites use the shared
 cases in `tests/fixtures/synthetic/cases.json`.
 
 Install hooks with `mise exec -- uv run --project python --locked pre-commit install`;
-run them with `mise run hooks`. Keep runtime dependencies empty and add focused
+run them with `mise run hooks`. Keep Python, TypeScript, and Go runtime dependencies
+empty; Rust's three direct dependencies are documented in its README. Add focused
 regression tests for behavior changes. See the [Python](python/README.md) and
 [TypeScript](typescript/README.md) READMEs for package commands, the
 [fixture guide](tests/fixtures/real/README.md) for snapshots, and
 [Releases](#releases) for publishing.
 
+Shipwright maintains these ports from the Python behavioral reference. Use
+`sw-explore` to map behavior, then `sw-ts`, `sw-go`, or `sw-rust` for the requested
+language. Skills live in `.agents/skills/`; `shipwright.toml` lists the targets.
+Compatibility means equivalent I/O through idiomatic implementations. Explicit
+runtime exceptions live in the shared conformance fixtures. Corpus overrides
+may reference an existing real fixture ID and replace one exact Markdown link;
+missing or ambiguous replacements fail validation.
+
+`mise run build:sources` packages source distributions once. Each platform runs
+`mise run build:native` against those packages, then checks the resulting CLIs.
+Native archive names include language, version, OS, and architecture, with SHA-256
+checksum files. `mise run lint` includes Go vet, Rust Clippy, and formatter checks.
+
 ## Releases
 
-Update both package versions, lockfiles, and `CHANGELOG.md`. Clear old build
+Update Python and TypeScript package versions, Rust's manifest and lockfile,
+the Go `Version` constant, `shipwright.toml`, other affected lockfiles, and
+`CHANGELOG.md` together. Clear old build
 artifacts, then run `mise run build` and `mise run check`. Commit and push,
 then publish a GitHub Release tagged `v<version>`.
 
 The [release workflow](.github/workflows/release.yml) builds, tests, and publishes
-to PyPI and npm; tags alone do not publish. Both registries need trusted publishing
-configured for `release.yml`, using the `pypi` and `npm` GitHub environments.
+to PyPI, npm, and crates.io, creates the matching `go/v<version>` module tag,
+and attaches native CLI archives and checksums. Tags alone do not trigger the
+workflow. Registry publishers use `release.yml` and the `pypi`, `npm`, and
+`crates-io` GitHub environments. An existing Go tag must point to the root release
+commit; conflicting tags fail without rewriting history.
+
+Before the first Rust release, confirm ownership or availability of the `htomd`
+crate name. Publish the initial tested crate with owner credentials, then configure
+its crates.io trusted publisher for this repository, `release.yml`, and the
+`crates-io` environment. Subsequent versions use the pinned Rust authentication
+action and short-lived credentials. Initial registry setup is external to the
+repository. Do not republish the bootstrap version through the shared workflow.
+
+Validate release metadata and Cargo repackaging without publishing:
+
+```sh
+RELEASE_TAG=v0.1.1 mise exec -- python -m tools.release_native publish-rust --dry-run
+```
+
+The helper compares repackaged code, data, lockfile, and normalized manifest with
+the tested `.crate`; only Cargo packaging provenance may differ. Go tag dry runs
+use `python -m tools.release_native tag-go --dry-run` with `RELEASE_TAG` set and
+the corresponding root tag checked out. No release is published by local checks.
 
 ## License
 

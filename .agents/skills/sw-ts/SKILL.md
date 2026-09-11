@@ -9,6 +9,7 @@ description: Create or update an idiomatic TypeScript port of a Python reference
 
 - Use the codebase map or run `sw-explore`; read relevant source and tests before editing.
 - Follow repository instructions and Shipwright configuration, versions, and dependency limits.
+- Select TypeScript from `targets`; accept legacy singular `target` configurations.
 - For updates, inspect current source and uncommitted changes; preserve independent target edits.
 - Implement the product's behavioral contract in maintained TypeScript. Use native APIs for incidental runtime behavior; document intentional differences in conformance cases.
 - Do not copy source-runtime implementations to chase incidental compatibility. A zero-dependency requirement is not a reason to vendor a standard library. Identify the smallest implementation the product needs.

@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+- Add idiomatic Go and Rust libraries and CLIs, maintained through the `sw-go`
+  and `sw-rust` Shipwright skills with Python as the behavioral reference.
+- Extend shared conformance, isolated package checks, platform CI, and release
+  automation to all four implementations. Record native-runtime differences
+  explicitly. Go has no external dependencies; Rust uses Serde, Serde JSON, and URL.
+
 ## 0.1.1 — 2026-09-09
 
 - Reduce conversion time by 27.9% on the 115-page offline corpus in a controlled
