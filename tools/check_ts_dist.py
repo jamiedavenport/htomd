@@ -24,7 +24,12 @@ def install_package(archive: Path, consumer: Path) -> Path:
         cwd=consumer,
         check=True,
     )
-    return consumer / "node_modules/htomd"
+    with tarfile.open(archive) as tarball:
+        metadata_file = tarball.extractfile("package/package.json")
+        assert metadata_file is not None
+        name = json.load(metadata_file)["name"]
+        assert isinstance(name, str)
+    return consumer / "node_modules" / name
 
 
 def main() -> None:
@@ -60,7 +65,7 @@ def main() -> None:
         consumer = work / "consumer"
         install_package(archive_path, consumer)
         (consumer / "example.ts").write_text(
-            'import {convert, extract, type Document} from "htomd";\n'
+            'import {convert, extract, type Document} from "@jamiedavenport/htomd";\n'
             'const doc: Document = extract("<article><h1>Tea</h1></article>");\n'
             'const empty: Document = extract("", {url: undefined});\n'
             'if (empty.metadata.url !== null) throw Error("undefined URL");\n'

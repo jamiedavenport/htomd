@@ -45,7 +45,7 @@ The [TypeScript package](typescript/README.md) provides the same extraction pipe
 for Node 24+, with no runtime dependencies. Its ESM API uses an options object:
 
 ```ts
-import { extract } from "htomd";
+import { extract } from "@jamiedavenport/htomd";
 
 const document = extract(html, { url: "https://example.com/article" });
 console.log(document.metadata.title);

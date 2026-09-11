@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "htomd",
+      "name": "@jamiedavenport/htomd",
       "devDependencies": {
         "@types/node": "24.13.4",
         "oxfmt": "0.67.0",

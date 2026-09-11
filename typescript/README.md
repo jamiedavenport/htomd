@@ -4,11 +4,11 @@ Extract Markdown and metadata from decoded HTML, with no runtime dependencies
 or network access. Requires Node 24 or later; the package is ESM.
 
 ```sh
-npm install htomd
+npm install @jamiedavenport/htomd
 ```
 
 ```ts
-import { convert, extract, type Document } from "htomd";
+import { convert, extract, type Document } from "@jamiedavenport/htomd";
 
 const html = "<article><h1>Hello</h1><p>Readable text.</p></article>";
 console.log(convert(html));
@@ -36,9 +36,9 @@ produces `""`.
 ## CLI
 
 ```sh
-cat page.html | npx htomd convert > page.md
-cat page.html | npx htomd extract > page.json
-cat page.html | npx htomd convert --url https://example.com/article
+cat page.html | npx @jamiedavenport/htomd convert > page.md
+cat page.html | npx @jamiedavenport/htomd extract > page.json
+cat page.html | npx @jamiedavenport/htomd convert --url https://example.com/article
 ```
 
 Both commands read strict UTF-8 from stdin, stripping an initial BOM. `convert`

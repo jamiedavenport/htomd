@@ -1,5 +1,5 @@
 {
-  "name": "htomd",
+  "name": "@jamiedavenport/htomd",
   "version": "0.1.1",
   "description": "Focused Markdown and metadata from messy HTML, with no runtime dependencies",
   "license": "MIT",
