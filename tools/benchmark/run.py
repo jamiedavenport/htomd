@@ -120,7 +120,17 @@ def prepare() -> dict[str, Library]:
     # A version bump must not leave an older generated wheel in the next run.
     for old_wheel in (WORK / "wheels").glob("htomd-*.whl"):
         old_wheel.unlink()
-    command(["uv", "build", "--wheel", "--no-sources", "--out-dir", str(WORK / "wheels")])
+    command(
+        [
+            "uv",
+            "build",
+            str(ROOT / "python"),
+            "--wheel",
+            "--no-sources",
+            "--out-dir",
+            str(WORK / "wheels"),
+        ]
+    )
     wheels = list((WORK / "wheels").glob("htomd-*.whl"))
     if len(wheels) != 1:
         raise ValueError("Expected one freshly built htomd wheel; clear .benchmark/wheels")
@@ -171,13 +181,15 @@ def metadata() -> dict[str, Any]:
         "dirty": bool(command(["git", "status", "--porcelain"])),
         "git_status": command(["git", "status", "--porcelain"]),
         "source_sha256": {
-            str(p.relative_to(ROOT)): digest(p) for p in sorted((ROOT / "src/htomd").glob("*.py"))
+            str(p.relative_to(ROOT)): digest(p)
+            for p in sorted((ROOT / "python/src/htomd").glob("*.py"))
         },
         "harness_sha256": {p.name: digest(p) for p in sorted(HERE.glob("*.py"))},
         "lock_sha256": {p.name: digest(p) for p in sorted((HERE / "locks").glob("*.txt"))},
         "manifest_sha256": digest(ROOT / "tests/fixtures/real/manifest.json"),
         "build_inputs_sha256": {
-            name: digest(ROOT / name) for name in ["README.md", "pyproject.toml", "MANIFEST.in"]
+            name: digest(ROOT / name)
+            for name in ["python/README.md", "python/pyproject.toml", "python/MANIFEST.in"]
         },
         "uv": command(["uv", "--version"]),
     }

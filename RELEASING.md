@@ -1,97 +1,67 @@
 # Releasing htomd
 
-Releases are prepared manually. Publishing a GitHub Release starts the
-[release workflow](.github/workflows/release.yml), which runs CI, validates the
-version and distributions, publishes to PyPI, and attaches the wheel and source
-archive to the GitHub Release.
+Publishing a GitHub Release runs Build → Test → Deploy. The
+[CI workflow](.github/workflows/ci.yml) builds once on Linux and tests the same
+artifacts on Linux, Windows, and macOS. Static checks run once in the build job.
+The [release workflow](.github/workflows/release.yml) deploys those tested
+artifacts through separate Python/PyPI and TypeScript/npm jobs. Deployment
+does not rebuild packages. Pushing a tag or saving a draft does not publish.
 
-## Publishing identity
+## Publisher setup
 
-PyPI Trusted Publishing uses these settings:
+Both registries use trusted publishing from `jamiedavenport/htomd` with workflow
+filename `release.yml`. Configure these identities in the registry settings:
 
-| Field | Value |
-| --- | --- |
-| Project | `htomd` |
-| Repository owner | `jamiedavenport` |
-| Repository | `htomd` |
-| Workflow filename | `release.yml` |
-| GitHub environment | `pypi` |
+| Registry | Package | GitHub environment |
+| --- | --- | --- |
+| PyPI | `htomd` | `pypi` |
+| npm | `htomd` | `npm` |
 
-Configure the publisher in the project's PyPI settings, or use an account-level
-pending publisher for the first upload. No stored PyPI API token is needed.
-See [PyPI's setup instructions](https://docs.pypi.org/trusted-publishers/creating-a-project-through-oidc/).
+The package owner must configure each publisher before automated deployment.
+For npm, allow direct publishing from this workflow and ensure the package's
+repository metadata matches. No registry tokens are stored in the workflow. See the
+[PyPI setup guide](https://docs.pypi.org/trusted-publishers/creating-a-project-through-oidc/)
+and [npm trusted publishing guide](https://docs.npmjs.com/trusted-publishers/).
 
-## 1. Prepare the version and release notes
+## Prepare and validate
 
-Set the version in `pyproject.toml` and refresh `uv.lock` if the version changed.
-Update `CHANGELOG.md` with the release date and user-facing changes. Version
-`0.1.0` is used in the examples below; substitute the new version for later
-releases.
-
-## 2. Validate, commit, and push
+Update `python/pyproject.toml` and `typescript/package.json` to the same version,
+refresh `python/uv.lock` and `typescript/bun.lock` with their package managers,
+and update `CHANGELOG.md`. The release tag must be `v` followed by that version;
+`tools/check_release.py` checks both package versions. Use the new version in
+place of `0.1.1` below.
 
 ```sh
-mise run check
+mise run setup
 mise run build
-mise exec -- uv run --locked twine check dist/*
-mise exec -- env RELEASE_TAG=v0.1.0 uv run --locked python tools/check_release.py
+mise run check
+mise exec -- env RELEASE_TAG=v0.1.1 uv run --project python --locked python tools/check_release.py
 ```
 
-The build inspects package contents and installs both artifacts in separate
-virtual environments to exercise the API and CLI. Keep exactly one wheel and
-one source archive in `dist/`; move aside old-version artifacts before building.
+Builds produce a wheel and source archive in `dist/python/` and a tarball in
+`dist/typescript/`. Move aside artifacts from older versions before building;
+checks require exactly one artifact of each kind.
 
-Commit and push the release changes to `main`. Wait for all CI jobs to pass,
-including the Windows package build. The release workflow must be included in
-the commit you tag.
+## Publish
 
-## 3. Create the tag and GitHub Release
-
-From the clean, validated `main` checkout:
+Commit and push the validated release changes, then create the tag and Release:
 
 ```sh
-git tag -a v0.1.0 -m "htomd 0.1.0"
-git push origin v0.1.0
-gh release create v0.1.0 --verify-tag --title "htomd 0.1.0" --notes-file CHANGELOG.md
+git tag -a v0.1.1 -m "htomd 0.1.1"
+git push origin v0.1.1
+gh release create v0.1.1 --verify-tag --title "htomd 0.1.1" --notes-file release-notes.md
 ```
 
-For later releases, pass a file containing only that version's changelog entry
-as `--notes-file`. Pushing the tag alone does not publish. Publishing the GitHub
-Release triggers the PyPI upload; saving a draft does not.
-
-## 4. Monitor publishing and verify installation
-
-Find the new Release run, then watch it using its numeric ID:
-
-```sh
-gh run list --workflow release.yml --limit 5
-gh run watch RUN_ID --exit-status
-```
-
-Verify PyPI installation in an isolated environment:
-
-```sh
-mise exec -- uv run --isolated --no-project --refresh-package htomd \
-  --default-index https://pypi.org/simple/ --with htomd==0.1.0 \
-  python -I -c "import htomd; assert htomd.convert('<h1>Hello</h1>') == '# Hello\n'"
-mise exec -- uv run --isolated --no-project --refresh-package htomd \
-  --default-index https://pypi.org/simple/ --with htomd==0.1.0 \
-  htomd --version
-```
-
-Check the package page on [PyPI](https://pypi.org/project/htomd/) and both
-attachments on [GitHub Releases](https://github.com/jamiedavenport/htomd/releases).
-
-If publisher configuration fails, correct it and rerun the failed jobs on the
-same release. If only the release-asset job fails, PyPI publication has already
-succeeded; rerun that job to attach the existing artifacts. Published artifacts
-cannot be replaced with changed files; corrections need a new version.
+Use a notes file containing only this version's changelog entry. Watch the
+Release workflow; each deployment job publishes and attaches its own artifacts.
+If one package fails, rerun its failed job after correcting the problem. The
+other package may already be published. If only attachment fails, upload the
+existing artifact with `gh release upload` without republishing. Changed package
+contents require a new version.
 
 ## Documentation references
 
-Commands were checked against uv `0.12.11` using Context7 library ID
-`/astral-sh/uv` (requested version `0.12.11`; current unversioned documentation)
-and the [uv publishing guide](https://docs.astral.sh/uv/guides/package/).
-The GitHub CLI release command was checked against installed `gh` `2.100.0` and
-Context7 library ID `/websites/cli_github_manual` (unversioned), alongside the
-[GitHub CLI manual](https://cli.github.com/manual/gh_release_create).
+Checked with Context7 `/astral-sh/uv` (requested uv 0.12.11) and `/npm/cli`
+(requested npm 11.19.0); both entries are unversioned. The pinned Node installation
+includes npm with OIDC support. Bun remains the TypeScript development tool;
+only deployment uses npm's trusted-publishing client.

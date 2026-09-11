@@ -8,7 +8,9 @@ import pytest
 import htomd
 
 CASES = json.loads(
-    (Path(__file__).parent / "fixtures/synthetic/cases.json").read_text(encoding="utf-8")
+    (Path(__file__).resolve().parents[2] / "tests/fixtures/synthetic/cases.json").read_text(
+        encoding="utf-8"
+    )
 )
 
 

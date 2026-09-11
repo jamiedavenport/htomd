@@ -2,6 +2,8 @@
 python = "3.14.7"
 uv = "0.12.11"
 actionlint = "1.7.7"
+node = "24.20.0"
+bun = "1.4.2"
 
 [env]
 # Mise owns interpreter installation; uv owns the project environment and lockfile.
@@ -10,35 +12,81 @@ UV_PYTHON = { value = "{{ tools.python.path }}", tools = true }
 
 [tasks.setup]
 description = "Install locked development dependencies"
-run = "uv sync --locked"
+run = ["uv sync --directory python --locked", "bun install --cwd typescript --frozen-lockfile"]
+
+[tasks.test]
+description = "Test packages, distributions, and shared CLI fixtures after building"
+run = ["mise run test:python", "mise run test:typescript", "mise run test:integration", "mise run test:packages", "mise run test:conformance"]
+
+[tasks."test:python"]
+description = "Run the Python test suite"
+run = "uv run --directory python --locked pytest"
+
+[tasks."test:typescript"]
+description = "Test the built TypeScript package on Node"
+run = "bun run --cwd typescript test"
+
+[tasks."test:conformance"]
+description = "Install built packages and compare their CLIs on shared fixtures"
+run = "uv run --project python --locked python -m tools.conformance"
+
+[tasks."test:integration"]
+description = "Run repository corpus and benchmark checks"
+run = "uv run --project python --locked pytest tests"
+
+[tasks."test:packages"]
+description = "Validate built artifacts and isolated installations"
+run = [
+  "uv run --project python --locked python tools/check_dist.py",
+  "uv run --project python --locked python -m tools.check_ts_dist",
+  "uv run --project python --locked twine check dist/python/*",
+]
 
 [tasks.check]
-description = "Check hooks, lint, formatting, types, and offline tests"
+description = "Run static checks and all tests using existing build artifacts"
+run = ["mise run lint", "mise run test"]
+
+[tasks.lint]
+description = "Check formatting, lint, and types after building"
 run = [
   "actionlint",
-  "uv run --locked pre-commit validate-config",
-  "uv run --locked ruff check .",
-  "uv run --locked ruff format --check .",
-  "uv run --locked mypy",
-  "uv run --locked pytest",
+  "uv run --project python --locked pre-commit validate-config",
+  "uv run --project python --locked ruff check .",
+  "uv run --project python --locked ruff format --check .",
+  "uv run --project python --locked mypy",
+  "uv run --directory python --locked mypy",
+  "bun run --cwd typescript lint",
+  "bun run --cwd typescript format:check",
+  "bun run --cwd typescript typecheck",
 ]
 
 [tasks.hooks]
 description = "Run safe Ruff fixes and formatting through pre-commit"
-run = "uv run --locked pre-commit run --all-files"
+run = "uv run --project python --locked pre-commit run --all-files"
 
 # Task tools keep the older CI interpreters in mise.lock.
 [tasks."test:3.12"]
 tools.python = "3.12.14"
-run = "uv run --locked pytest"
+run = "uv run --directory python --locked pytest"
 
 [tasks."test:3.13"]
 tools.python = "3.13.15"
-run = "uv run --locked pytest"
+run = "uv run --directory python --locked pytest"
 
 [tasks.build]
-description = "Build and validate release distributions"
-run = ["uv build --no-sources", "uv run --locked python tools/check_dist.py"]
+description = "Build release artifacts for every package"
+run = ["mise run build:python", "mise run build:typescript"]
+
+[tasks."build:python"]
+description = "Build the Python wheel and source archive"
+run = "uv build python --no-sources --out-dir dist/python"
+
+[tasks."build:typescript"]
+description = "Build and pack the TypeScript package"
+run = [
+  "python -c \"from pathlib import Path; Path('dist/typescript').mkdir(parents=True, exist_ok=True)\"",
+  "bun pm --cwd typescript pack --destination ../dist/typescript",
+]
 
 [tasks.benchmark]
 description = "Build isolated environments and benchmark all 115 offline snapshots"

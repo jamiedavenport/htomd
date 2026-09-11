@@ -1,0 +1,106 @@
+[
+  {
+    "id": "unicode-space",
+    "html": "<article><h1>\u001cTea\u0085</h1><p>\ufeffA\u00a0B\u001dC\u2007D</p></article>",
+    "typescript": {
+      "markdown": "# \u001cTea\n\nA B\u001dC D\n",
+      "metadata": {
+        "title": "\u001cTea"
+      }
+    }
+  },
+  {
+    "id": "large-list-start",
+    "html": "<ol start='9007199254740993'><li>A<li>B</ol>"
+  },
+  {
+    "id": "unicode-list-start",
+    "html": "<ol start=' +\u0661_\u0662 '><li>A<li value='-\uff19'>B<li>C</ol>",
+    "typescript": {
+      "markdown": "1. A\n2. B\n3. C\n"
+    }
+  },
+  {
+    "id": "attributes-entities",
+    "html": "<article><h1>A &notit; &NotEqualTilde; &#128; &#1;</h1><p><a href='?a=&notit;&b=&amp=2&c=&copy;'>Link</a></p></article>"
+  },
+  {
+    "id": "duplicate-attributes",
+    "html": "<p hidden hidden=false>Hide</p><article CLASS=bad class=good><a href='/a' href='/b'>Link</a><p>Text</p></article>"
+  },
+  {
+    "id": "prototype-attributes",
+    "html": "<article __proto__=x constructor=y><constructor>Safe</constructor><p>Text</p></article>"
+  },
+  {
+    "id": "rcdata-title",
+    "html": "<title>A <b>B</b> &amp; C</title><p>Text</p>"
+  },
+  {
+    "id": "raw-text",
+    "html": "<article><xmp>A <b>B</b> &amp; C</xmp></article>"
+  },
+  {
+    "id": "plaintext",
+    "html": "<plaintext>A <b>B</b> &amp; C"
+  },
+  {
+    "id": "comments-declarations",
+    "html": "<p>A</p><!--><p>B</p><!-- --!><p>C</p><![CDATA[discard]]><p>D</p>"
+  },
+  {
+    "id": "truncated-tag",
+    "html": "<p>Keep</p><article attr='unfinished"
+  },
+  {
+    "id": "relative-url-empty-query",
+    "html": "<article><a href='?'>Query</a><a href='#'>Fragment</a><a href=''>Empty</a><p>Text</p></article>",
+    "url": "https://EXAMPLE.org/a/b?old#anchor"
+  },
+  {
+    "id": "relative-url-spelling",
+    "html": "<article><a href='../a//b/./c/../d'>Link</a><p>Text</p></article>",
+    "url": "https://EXAMPLE.org:443/x/y",
+    "typescript": {
+      "markdown": "[Link](https://example.org/a//b/d)\n\nText\n"
+    }
+  },
+  {
+    "id": "unsafe-normalized-netloc",
+    "html": "<p><a href='https://example.org\uff20evil/x'>Link</a> text</p>"
+  },
+  {
+    "id": "metadata-duplicates",
+    "html": "<meta name='author' content='First'><meta name='author' content='Second'><script type='application/ld+json'>{\"@graph\":[{\"@type\":\"https://schema.org/Article\",\"headline\":\"JSON\",\"author\":[\"A\",{\"name\":\"B\"}]}]}</script><article><h1>Selected</h1><time itemprop='dateModified' datetime='No'>Modified</time><time datetime='Yes'>Published</time><p>Text</p></article>"
+  },
+  {
+    "id": "unicode-code-language",
+    "html": "<pre class='language-\u8336'>a\r\n\r\nb\r</pre>"
+  },
+  {
+    "id": "selection-tie",
+    "html": "<article><h1>One</h1><p>A</p></article><article><h1>Two</h1><p>B</p></article>"
+  },
+  {
+    "id": "node-count-unicode",
+    "html": "<div><section><p>\ud83c\udf75\ud83c\udf75\ud83c\udf75\ud83c\udf75\ud83c\udf75\ud83c\udf75\ud83c\udf75</p></section><section><p>abcdefg</p></section></div>"
+  },
+  {
+    "id": "jsonld-nonfinite",
+    "html": "<script type='application/ld+json'>{\"@type\":\"Article\",\"headline\":\"Title\",\"author\": [NaN, \"A\"],\"ignored\":Infinity}</script>",
+    "typescript": {
+      "metadata": {
+        "title": null,
+        "author": null
+      }
+    }
+  },
+  {
+    "id": "unmatched-prototype-tag",
+    "html": "<article><p>Keep</constructor>Text</p></article>"
+  },
+  {
+    "id": "jsonld-string-nonfinite",
+    "html": "<script type='application/ld+json'>{\"@type\":\"Article\",\"headline\":\"NaN Infinity -Infinity\"}</script>"
+  }
+]
