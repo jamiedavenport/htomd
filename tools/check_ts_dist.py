@@ -37,7 +37,7 @@ def main() -> None:
     node = shutil.which("node")
     assert bun and node, "Bun and Node must be installed"
     archives = list((ROOT / "dist/typescript").glob("*.tgz"))
-    assert len(archives) == 1, "Run mise run build first; expected one TypeScript tarball"
+    assert len(archives) == 1, "Run mise run package:sources first; expected one TypeScript tarball"
     archive_path = archives[0]
     with tempfile.TemporaryDirectory(prefix="htomd-ts-dist-") as directory:
         work = Path(directory)

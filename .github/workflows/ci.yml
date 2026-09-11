@@ -32,7 +32,7 @@ jobs:
         with:
           version: 2026.9.1
       - run: mise run setup
-      - run: mise run build:sources
+      - run: mise run package:sources
       - run: mise run lint
       - name: Validate release versions
         if: github.event_name == 'release'
@@ -66,8 +66,11 @@ jobs:
           name: distributions
           path: .
       - run: mise run setup
-      - run: mise run build:native
+      - run: shipwright build
       - run: mise run test
+      - run: mise run package:native
+      - run: mise run test:packages
+      - run: mise run test:conformance
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: native-${{ matrix.os }}
@@ -91,5 +94,6 @@ jobs:
       - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
         with:
           version: 2026.9.1
+          install_args: python uv
       - run: mise run test:python
       - run: mise run test:integration

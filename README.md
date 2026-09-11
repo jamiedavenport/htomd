@@ -100,13 +100,27 @@ Libraries perform different work by default. Timings do not measure output quali
 mise trust
 mise install
 mise run setup
-mise run build
+shipwright build
 mise run check
+```
+
+Mise installs Shipwright from the pinned `swb` crate along with the language tools.
+`shipwright build` builds all four packages concurrently in their normal output
+locations. Append `python`, `typescript`, `go`, or `rust` to build one package.
+
+For distribution checks and release validation, build the packaged artifacts first:
+
+```sh
+mise run package:sources
+mise run package:native
+mise run test:packages
+mise run test:conformance
 ```
 
 Build once before checking: `check` runs static checks and tests against the
 existing artifacts. `mise run lint` runs static checks alone; `mise run test`
-runs the suites and isolated package checks. All four package suites use the shared
+runs the package and integration suites. Conformance checks run separately against
+packaged distributions, as shown above. All four package suites use the shared
 cases in `tests/fixtures/synthetic/cases.json`.
 
 Install hooks with `mise exec -- uv run --project python --locked pre-commit install`;
@@ -125,8 +139,8 @@ runtime exceptions live in the shared conformance fixtures. Corpus overrides
 may reference an existing real fixture ID and replace one exact Markdown link;
 missing or ambiguous replacements fail validation.
 
-`mise run build:sources` packages source distributions once. Each platform runs
-`mise run build:native` against those packages, then checks the resulting CLIs.
+`mise run package:sources` packages source distributions once. Each platform runs
+`mise run package:native` against those packages, then checks the resulting CLIs.
 Native archive names include language, version, OS, and architecture, with SHA-256
 checksum files. `mise run lint` includes Go vet, Rust Clippy, and formatter checks.
 
@@ -135,8 +149,8 @@ checksum files. `mise run lint` includes Go vet, Rust Clippy, and formatter chec
 Update Python and TypeScript package versions, Rust's manifest and lockfile,
 the Go `Version` constant, `shipwright.toml`, other affected lockfiles, and
 `CHANGELOG.md` together. Clear old build
-artifacts, then run `mise run build` and `mise run check`. Commit and push,
-then publish a GitHub Release tagged `v<version>`.
+artifacts, then run `shipwright build`, `mise run check`, and the distribution
+validation commands above. Commit and push, then publish a GitHub Release tagged `v<version>`.
 
 The [release workflow](.github/workflows/release.yml) builds, tests, and publishes
 to PyPI, npm, and crates.io, creates the matching `go/v<version>` module tag,

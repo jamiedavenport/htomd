@@ -182,6 +182,7 @@ REQ
 Repeat for each competitor and rerun smoke/full measurements. Locks are independent
 so each package resolves and installs its own dependencies without contamination
 from another converter. `mise run check` covers the harness with Ruff, strict mypy
-and deterministic offline tests. `mise run build` checks both archives and verifies
+and deterministic offline tests. After `mise run package:sources` and
+`mise run package:native`, `mise run test:packages` checks both Python archives and verifies
 that htomd installs and runs without benchmark packages. The harness does not tune
 converter settings. Concurrency, scheduled CI and regression thresholds remain deferred.

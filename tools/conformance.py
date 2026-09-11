@@ -48,7 +48,7 @@ def install_packages(artifacts: Path, work: Path) -> list[list[str]]:
     wheels = list((artifacts / "python").glob("*.whl"))
     tarballs = list((artifacts / "typescript").glob("*.tgz"))
     assert len(wheels) == len(tarballs) == 1, (
-        "Run mise run build first; expected one wheel and tarball"
+        "Run mise run package:sources first; expected one wheel and tarball"
     )
     venv = work / "venv"
     subprocess.run([uv, "venv", "--python", sys.executable, str(venv)], cwd=work, check=True)
@@ -71,7 +71,7 @@ def install_packages(artifacts: Path, work: Path) -> list[list[str]]:
     metadata = json.loads((package / "package.json").read_text(encoding="utf-8"))
     for language in ("go", "rust"):
         assert binary(language, artifacts).is_file(), (
-            f"Missing {language} binary; run mise run build:native"
+            f"Missing {language} binary; run mise run package:native"
         )
     return [
         [str(scripts / ("htomd.exe" if os.name == "nt" else "htomd"))],
