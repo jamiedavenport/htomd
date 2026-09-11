@@ -1,0 +1,4 @@
+include LICENSE README.md
+recursive-include src/htomd *.py py.typed
+prune tests
+exclude uv.lock

@@ -2,8 +2,8 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/htomd?color=black)](https://pypi.org/project/htomd/)
 
-Extract Markdown and metadata from HTML. Pure Python 3.12+, with no runtime
-dependencies or network access.
+Extract Markdown and metadata from HTML. Available for Python 3.12+ and Node 24+,
+with no runtime dependencies or network access.
 
 [Introducing htomd](https://jamiedavenport.me/blog/introducing-htomd/)
 
@@ -38,6 +38,18 @@ print(document.metadata.title)
 Pass decoded HTML strings. The optional `url` resolves relative references; it
 never fetches a page. Results are immutable, missing metadata is `None`, and
 empty content yields empty Markdown.
+
+## TypeScript
+
+The [TypeScript package](typescript/README.md) provides the same extraction pipeline
+for Node 24+, with no runtime dependencies. Its ESM API uses an options object:
+
+```ts
+import { extract } from "htomd";
+
+const document = extract(html, { url: "https://example.com/article" });
+console.log(document.metadata.title);
+```
 
 ## Command line
 
@@ -75,11 +87,31 @@ Libraries perform different work by default. Timings do not measure output quali
 mise trust
 mise install
 mise run setup
+mise run build
 mise run check
 ```
 
-See [Contributing](https://github.com/jamiedavenport/htomd/blob/main/CONTRIBUTING.md)
-for hooks and releases.
+Build once before checking: `check` runs static checks and tests against the
+existing artifacts. `mise run lint` runs static checks alone; `mise run test`
+runs the suites and isolated package checks. Both package suites use the shared
+cases in `tests/fixtures/synthetic/cases.json`.
+
+Install hooks with `mise exec -- uv run --project python --locked pre-commit install`;
+run them with `mise run hooks`. Keep runtime dependencies empty and add focused
+regression tests for behavior changes. See the [Python](python/README.md) and
+[TypeScript](typescript/README.md) READMEs for package commands, the
+[fixture guide](tests/fixtures/real/README.md) for snapshots, and
+[Releases](#releases) for publishing.
+
+## Releases
+
+Update both package versions, lockfiles, and `CHANGELOG.md`. Clear old build
+artifacts, then run `mise run build` and `mise run check`. Commit and push,
+then publish a GitHub Release tagged `v<version>`.
+
+The [release workflow](.github/workflows/release.yml) builds, tests, and publishes
+to PyPI and npm; tags alone do not publish. Both registries need trusted publishing
+configured for `release.yml`, using the `pypi` and `npm` GitHub environments.
 
 ## License
 

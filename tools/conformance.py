@@ -1,0 +1,182 @@
+"""Compare the maintained Python and TypeScript implementations, entirely offline."""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import shutil
+import subprocess
+import sys
+import tempfile
+from pathlib import Path
+from typing import Any
+
+from tools.check_ts_dist import install_package
+
+ROOT = Path(__file__).resolve().parents[1]
+FIXTURES = ROOT / "tests/fixtures"
+
+
+def cases() -> list[dict[str, Any]]:
+    synthetic = json.loads((FIXTURES / "synthetic/cases.json").read_text(encoding="utf-8"))
+    edge = json.loads((FIXTURES / "conformance.json").read_text(encoding="utf-8"))
+    manifest = json.loads((FIXTURES / "real/manifest.json").read_text(encoding="utf-8"))
+    real = [
+        {
+            "id": row["id"],
+            "html": (FIXTURES / "real" / (row["id"] + ".html"))
+            .read_bytes()
+            .decode(row["encoding"]),
+            "url": row["source_url"],
+        }
+        for row in manifest
+    ]
+    return [*synthetic, *edge, *real]
+
+
+def install_packages(artifacts: Path, work: Path) -> list[list[str]]:
+    """Install the artifacts from the build stage outside the checkout."""
+    uv = shutil.which("uv")
+    node = shutil.which("node")
+    assert uv and node, "uv and Node must be installed"
+    wheels = list((artifacts / "python").glob("*.whl"))
+    tarballs = list((artifacts / "typescript").glob("*.tgz"))
+    assert len(wheels) == len(tarballs) == 1, (
+        "Run mise run build first; expected one wheel and tarball"
+    )
+    venv = work / "venv"
+    subprocess.run([uv, "venv", "--python", sys.executable, str(venv)], cwd=work, check=True)
+    scripts = venv / ("Scripts" if os.name == "nt" else "bin")
+    python = scripts / ("python.exe" if os.name == "nt" else "python")
+    subprocess.run(
+        [
+            uv,
+            "pip",
+            "install",
+            "--python",
+            str(python),
+            "--no-deps",
+            str(wheels[0]),
+        ],
+        cwd=work,
+        check=True,
+    )
+    package = install_package(tarballs[0], work / "consumer")
+    metadata = json.loads((package / "package.json").read_text(encoding="utf-8"))
+    return [
+        [str(scripts / ("htomd.exe" if os.name == "nt" else "htomd"))],
+        [node, str(package / metadata["bin"]["htomd"])],
+    ]
+
+
+def check_cli_contract(invocations: list[list[str]], work: Path) -> None:
+    controls: list[tuple[list[str], bytes, int]] = [
+        (["convert"], b"\xef\xbb\xbf<p>Tea</p>", 0),
+        (["extract"], b"\xef\xbb\xbf<p>Tea</p>", 0),
+        (["convert", "--url", "https://example.org/"], b"<p><a href='x'>X</a></p>", 0),
+        (["extract", "--url="], b"<p>Tea</p>", 0),
+        (["extract", "--url=-1"], b"<p>Tea</p>", 0),
+        (["extract", "--url", "first", "--url", ""], b"<p>Tea</p>", 0),
+        (["extract", "--url=first", "--url", "last"], b"<p>Tea</p>", 0),
+        (["extract", "--url=-.5"], b"<p>Tea</p>", 0),
+        (["version"], b"\xff", 0),
+        (["--version"], b"\xff", 0),
+        (["convert"], b"\xff", 1),
+        (["extract"], b"\xed\xa0\x80", 1),
+        (["unknown"], b"\xff", 2),
+        (["convert", "page.html"], b"\xff", 2),
+        (["extract", "--json"], b"\xff", 2),
+        (["convert", "--url"], b"\xff", 2),
+        (["extract", "--url", "--url"], b"\xff", 2),
+        (["extract", "--url", "first", "--url"], b"\xff", 2),
+    ]
+    for args, data, status in controls:
+        results = [
+            subprocess.run([*cmd, *args], input=data, capture_output=True, cwd=work, timeout=10)
+            for cmd in invocations
+        ]
+        for result in results:
+            assert result.returncode == status, (args, result.stderr)
+            if status:
+                assert not result.stdout
+                marker = b"usage: htomd" if status == 2 else b"htomd:"
+                assert marker in result.stderr and b"Traceback" not in result.stderr, (
+                    args,
+                    result.stderr,
+                )
+            else:
+                assert not result.stderr
+        # Help/version are text streams and use platform line endings in Python.
+        assert results[0].stdout.replace(b"\r\n", b"\n") == results[1].stdout
+    if os.name != "nt":
+        for cmd in invocations:
+            read_fd, write_fd = os.pipe()
+            os.close(read_fd)
+            with os.fdopen(write_fd, "wb") as output:
+                result = subprocess.run(
+                    [*cmd, "convert"],
+                    input=b"<p>Tea</p>",
+                    stdout=output,
+                    stderr=subprocess.PIPE,
+                    cwd=work,
+                    timeout=10,
+                )
+            assert result.returncode == 1 and not result.stderr, (cmd, result.stderr)
+    print(f"CLI: {len(controls)} input, argument, and exit-status comparisons match.")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--artifacts", type=Path, default=ROOT / "dist")
+    args = parser.parse_args()
+    with tempfile.TemporaryDirectory(prefix="htomd-conformance-") as directory:
+        work = Path(directory)
+        invocations = install_packages(args.artifacts.resolve(), work)
+        compare(invocations, work)
+
+
+def compare(invocations: list[list[str]], work: Path) -> None:
+    inputs = cases()
+    for case in inputs:
+        for command in ["convert", "extract"]:
+            argv = [command]
+            if case.get("url") is not None:
+                argv += ["--url", case["url"]]
+            results = [
+                subprocess.run(
+                    [*invocation, *argv],
+                    input=case["html"].encode("utf-8"),
+                    capture_output=True,
+                    cwd=work,
+                    timeout=30,
+                )
+                for invocation in invocations
+            ]
+            for invocation, result in zip(invocations, results, strict=True):
+                assert result.returncode == 0, (case["id"], command, invocation, result.stderr)
+                assert not result.stderr, (case["id"], command, invocation, result.stderr)
+            expected = results[0].stdout
+            # Fixtures name deliberate runtime differences; all other bytes must match.
+            overrides = case.get("typescript", {})
+            if overrides:
+                if command == "convert":
+                    expected = overrides.get("markdown", expected.decode("utf-8")).encode("utf-8")
+                else:
+                    document = json.loads(expected)
+                    if "markdown" in overrides:
+                        document["markdown"] = overrides["markdown"]
+                    document["metadata"].update(overrides.get("metadata", {}))
+                    expected = (json.dumps(document, ensure_ascii=False, indent=2) + "\n").encode()
+            assert expected == results[1].stdout, (case["id"], command, "CLI mismatch")
+            if command == "convert" and "markdown" in case:
+                assert results[0].stdout == case["markdown"].encode("utf-8"), case["id"]
+    print(
+        f"CLI: {len(inputs) * 2} UTF-8 Markdown/JSON checks passed, "
+        "including explicit runtime expectations."
+    )
+    check_cli_contract(invocations, work)
+
+
+if __name__ == "__main__":
+    main()

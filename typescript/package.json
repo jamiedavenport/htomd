@@ -1,0 +1,45 @@
+{
+  "name": "htomd",
+  "version": "0.1.1",
+  "description": "Focused Markdown and metadata from messy HTML, with no runtime dependencies",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamiedavenport/htomd.git",
+    "directory": "typescript"
+  },
+  "bin": {
+    "htomd": "./dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "NOTICE"
+  ],
+  "type": "module",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "prepack": "bun run build",
+    "test": "node --test tests/*.test.ts",
+    "typecheck": "tsc -p tsconfig.tests.json",
+    "lint": "oxlint --deny-warnings src tests",
+    "format": "oxfmt .",
+    "format:check": "oxfmt --check ."
+  },
+  "devDependencies": {
+    "@types/node": "24.13.4",
+    "oxfmt": "0.67.0",
+    "oxlint": "1.82.0",
+    "typescript": "6.0.2"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

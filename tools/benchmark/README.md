@@ -154,7 +154,7 @@ The installed locked versions were then verified by the shared smoke test.
 
 | Package/version | Public adapter (all other settings default) | Context7 library ID | Official source |
 | --- | --- | --- | --- |
-| htomd 0.1.0 | `htomd.convert(html)` | Local repository, not queried | [Implementation](../../src/htomd/__init__.py) |
+| htomd 0.1.0 | `htomd.convert(html)` | Local repository, not queried | [Implementation](../../python/src/htomd/__init__.py) |
 | markdownify 1.2.3 | `markdownify.markdownify(html)` | `/matthewwithanm/python-markdownify` | [README](https://github.com/matthewwithanm/python-markdownify) |
 | html2text 2025.4.15 | `html2text.html2text(html)` | `/alir3z4/html2text` | [README](https://github.com/Alir3z4/html2text) |
 | Trafilatura 2.2.0 | `trafilatura.extract(html, output_format="markdown")` | `/adbar/trafilatura` | [API](https://trafilatura.readthedocs.io/en/latest/corefunctions.html) |

@@ -127,8 +127,8 @@ def smoke(artifact: Path) -> None:
 
 
 def main() -> None:
-    wheels = list((ROOT / "dist").glob("*.whl"))
-    sources = list((ROOT / "dist").glob("*.tar.gz"))
+    wheels = list((ROOT / "dist/python").glob("*.whl"))
+    sources = list((ROOT / "dist/python").glob("*.tar.gz"))
     assert len(wheels) == len(sources) == 1, "Expected exactly one wheel and one source archive"
     inspect(wheels[0], sources[0])
     for artifact in [wheels[0], sources[0]]:
