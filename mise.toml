@@ -14,7 +14,7 @@ UV_PYTHON = { value = "{{ tools.python.path }}", tools = true }
 
 [tasks.setup]
 description = "Install locked development dependencies"
-run = ["uv sync --directory python --locked", "bun install --cwd typescript --frozen-lockfile", "cargo fetch --manifest-path rust/Cargo.toml --locked"]
+run = ["uv sync --directory python --locked", "bun install --cwd typescript --frozen-lockfile", "rustup component add rustfmt clippy", "cargo fetch --manifest-path rust/Cargo.toml --locked"]
 
 [tasks.test]
 description = "Test packages, distributions, and shared CLI fixtures after building"
