@@ -1,5 +1,7 @@
 # htomd for Python
 
+[Documentation](https://htomd.dev/python/)
+
 Extract focused Markdown and metadata from decoded HTML. Requires Python 3.12+
 and has no runtime dependencies or network access.
 

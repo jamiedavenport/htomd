@@ -1,5 +1,7 @@
 # htomd for Rust
 
+[Documentation](https://htomd.dev/rust/)
+
 Extract Markdown and metadata from decoded HTML without network access.
 Requires Rust 1.98 or newer, using edition 2024.
 

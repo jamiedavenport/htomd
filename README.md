@@ -6,7 +6,7 @@ Extract Markdown and metadata from HTML. Implementations support Python 3.12+,
 Node 24+, Go 1.27+, and Rust 1.98+. None fetch network content. Python, TypeScript,
 and Go have no runtime dependencies; Rust uses Serde, Serde JSON, and URL.
 
-[Introducing htomd](https://jamiedavenport.me/blog/introducing-htomd/)
+[Documentation](https://htomd.dev) · [Introducing htomd](https://jamiedavenport.me/blog/introducing-htomd/)
 
 ## Installation
 

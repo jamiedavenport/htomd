@@ -1,0 +1,17 @@
+{
+  "name": "htomd-docs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "blume dev",
+    "build": "blume build",
+    "preview": "blume preview",
+    "deploy": "bun run build && wrangler deploy"
+  },
+  "dependencies": {
+    "blume": "1.6.4"
+  },
+  "devDependencies": {
+    "wrangler": "4.131.1"
+  }
+}

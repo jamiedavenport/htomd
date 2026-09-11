@@ -1,0 +1,5 @@
+.blume/
+.astro/
+.wrangler/
+.env*
+.blume-verify/

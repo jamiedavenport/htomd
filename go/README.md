@@ -1,5 +1,7 @@
 # htomd for Go
 
+[Documentation](https://htomd.dev/go/)
+
 Extract Markdown and metadata from decoded HTML, with no external dependencies
 or network access. Requires Go 1.27.0 or newer.
 

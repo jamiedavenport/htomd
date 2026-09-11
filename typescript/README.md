@@ -1,5 +1,7 @@
 # htomd
 
+[Documentation](https://htomd.dev/typescript/)
+
 Extract Markdown and metadata from decoded HTML, with no runtime dependencies
 or network access. Requires Node 24 or later; the package is ESM.
 
