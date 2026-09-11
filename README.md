@@ -105,42 +105,13 @@ regression tests for behavior changes. See the [Python](python/README.md) and
 
 ## Releases
 
-Configure trusted publishing for package `htomd` from `jamiedavenport/htomd`,
-workflow `release.yml`: use the `pypi` GitHub environment for
-[PyPI](https://docs.pypi.org/trusted-publishers/creating-a-project-through-oidc/)
-and `npm` for [npm](https://docs.npmjs.com/trusted-publishers/). Enable direct
-publishing for npm and keep its repository metadata aligned. Registry tokens
-are not needed in the workflow.
+Update both package versions, lockfiles, and `CHANGELOG.md`. Clear old build
+artifacts, then run `mise run build` and `mise run check`. Commit and push,
+then publish a GitHub Release tagged `v<version>`.
 
-Set matching versions in `python/pyproject.toml` and `typescript/package.json`,
-refresh both lockfiles, and update `CHANGELOG.md`. Move aside older artifacts
-from `dist/python/` and `dist/typescript/`; checks expect one artifact of each kind.
-Replace `0.1.1` below with the release version:
-
-```sh
-mise run setup
-mise run build
-mise run check
-mise exec -- env RELEASE_TAG=v0.1.1 uv run --project python --locked python tools/check_release.py
-```
-
-Commit and push the validated changes, then publish the release with notes
-containing only that version's changelog entry:
-
-```sh
-git tag -a v0.1.1 -m "htomd 0.1.1"
-git push origin v0.1.1
-gh release create v0.1.1 --verify-tag --title "htomd 0.1.1" --notes-file release-notes.md
-```
-
-Publishing a GitHub Release triggers [Build → Test → Deploy](.github/workflows/release.yml).
-CI builds once on Linux, tests the same artifacts on Linux, Windows, and macOS,
-then separate jobs publish to PyPI and npm and attach the artifacts. Deployment
-does not rebuild; pushing a tag or saving a draft does not publish.
-
-If one deployment fails, fix the cause and rerun only that job; the other package
-may already be published. For attachment-only failures, use `gh release upload`
-with the existing artifacts. Changed package contents require a new version.
+The [release workflow](.github/workflows/release.yml) builds, tests, and publishes
+to PyPI and npm; tags alone do not publish. Both registries need trusted publishing
+configured for `release.yml`, using the `pypi` and `npm` GitHub environments.
 
 ## License
 
