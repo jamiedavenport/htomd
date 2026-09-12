@@ -346,6 +346,6 @@ backend = "core:rust"
 specifiers = ["1.98.1"]
 
 [[tools."cargo:swb"]]
-version = "0.2.0"
+version = "0.3.0"
 backend = "cargo:swb"
-specifiers = ["0.2.0"]
+specifiers = ["0.3.0"]

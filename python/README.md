@@ -32,7 +32,12 @@ JavaScript, browser layout, math, and SVG rendering are unsupported.
 
 ## Development
 
-From this directory:
+Follow the root [development instructions](../README.md#development) for dependency
+installation and the shared `shipwright build`, `shipwright lint`,
+`shipwright format`, and `shipwright test` commands. From the repository root,
+`shipwright test python` selects this package.
+
+For direct package tooling, run from this directory:
 
 ```sh
 uv sync --locked

@@ -96,37 +96,67 @@ Libraries perform different work by default. Timings do not measure output quali
 
 ## Development
 
+Install tools and locked development dependencies from the repository root:
+
 ```sh
 mise trust
 mise install
-mise run setup
-mise run build
-mise run check
+uv sync --directory python --locked
+bun install --cwd typescript --frozen-lockfile
+rustup component add rustfmt clippy
+cargo fetch --manifest-path rust/Cargo.toml --locked
 ```
 
-`setup` installs the Python development environment and locked dependencies.
-`build` compiles TypeScript into `typescript/dist/`, Go into `go/bin/`, and the
-Rust release CLI into `rust/target/release/`, directly from the checkout.
-Python runs from the existing development environment and needs no separate build.
+Mise manages tools and environment variables; Shipwright runs package commands.
+Build before running the checks:
 
-Build once before checking: `check` runs formatting, lint, types, native API tests,
-repository tests, and cross-language conformance against those outputs. The
-individual tasks are `mise run lint`, `mise run test`, and
-`mise run test:conformance`; none rebuild the CLIs or install distributions.
-Normal Go/Rust test compilation and Rust Clippy checks are separate from the
-release CLI build. All four package suites use the shared cases in
-`tests/fixtures/synthetic/cases.json`.
+```sh
+shipwright build
+shipwright lint
+shipwright format
+shipwright test
+uv run --project python --locked pytest tests
+uv run --project python --locked python -m tools.conformance
+```
 
-PR CI checks out the commit and runs `setup` → `build` → native/integration tests
-→ conformance independently on Linux, Windows, and macOS. Linux also runs `lint`
-after building. Python 3.12 and 3.13 run the Python and repository suites separately.
-No package archives are uploaded or downloaded for these tests. The website has
-its own unchanged build job.
+`shipwright build` builds all configured packages. Conformance requires the
+compiled JavaScript in `typescript/dist/`, Go CLI in `go/bin/`, and Rust release
+CLI in `rust/target/release/`, directly from the checkout, and runs Python from
+the development environment.
 
-Install hooks with `mise exec -- uv run --project python --locked pre-commit install`;
-run them with `mise run hooks`. Keep Python, TypeScript, and Go runtime dependencies
-empty; Rust's three direct dependencies are documented in its README. Add focused
-regression tests for behavior changes. See the [Python](python/README.md) and
+`shipwright lint` checks package lint. `shipwright format` checks package formatting
+and fails on differences. `shipwright test`
+runs package suites; `shipwright test python` selects only Python. Repository
+integration tests and cross-language conformance use the explicit commands above.
+All four package suites use the shared cases in `tests/fixtures/synthetic/cases.json`.
+
+Shipwright 0.3.0 does not run type checking or checks outside the packages.
+Run these additional checks to match CI coverage:
+
+```sh
+actionlint
+uv run --project python --locked pre-commit validate-config
+uv run --project python --locked ruff check .
+uv run --project python --locked ruff format --check .
+uv run --project python --locked mypy
+uv run --directory python --locked mypy
+bun run --cwd typescript typecheck
+python tools/generate_rust_entities.py --check
+```
+
+PR CI installs dependencies, then runs `shipwright build`, `shipwright test`,
+integration tests, and conformance independently on Linux, Windows, and macOS.
+Linux also runs `shipwright lint`, `shipwright format`, and the additional checks
+above after building.
+Python 3.12 and 3.13 run `shipwright test python` and repository integration tests
+separately. No package archives are uploaded or downloaded for these tests.
+The website has its own build job.
+
+Install hooks with `uv run --project python --locked pre-commit install`;
+run them with `uv run --project python --locked pre-commit run --all-files`.
+Keep Python, TypeScript, and Go runtime dependencies empty; Rust's three direct
+dependencies are documented in its README. Add focused regression tests for
+behavior changes. See the [Python](python/README.md) and
 [TypeScript](typescript/README.md) READMEs for package commands, the
 [fixture guide](tests/fixtures/real/README.md) for snapshots, and
 [Releases](#releases) for publishing.
@@ -148,15 +178,16 @@ omitted; native API tests and shared conformance cover behavior.
 ## Releases
 
 Update the package versions, Go `Version` constant, `shipwright.toml`, affected
-lockfiles, and `CHANGELOG.md` together. Run `mise run setup`, `mise run build`,
-and `mise run check`, then preview release preparation:
+lockfiles, and `CHANGELOG.md` together. Install dependencies and run the build
+and validation commands in [Development](#development), then preview release
+preparation:
 
 ```sh
 mise install
-mise run release
+shipwright release --dry-run
 ```
 
-`mise run release` runs `shipwright release --dry-run`: it prepares packages and
+`shipwright release --dry-run` prepares packages and
 host-platform native archives without publishing or requiring registry tokens.
 It checks existing tags and assets for conflicts. The current `v0.1.1` root tag
 points to an older commit; choose the next release version rather than moving it.
@@ -175,7 +206,7 @@ authentication action. Keep the `release.yml` trusted-publisher bindings and the
 `pypi`, `npm`, and `crates-io` environments. Git and GitHub uploads use the built-in
 Actions token. No manually configured registry secrets are needed.
 
-Mise installs Shipwright from the `swb` crate, pinned to 0.2.0.
+Mise installs Shipwright from the `swb` crate, pinned to 0.3.0.
 The release workflow must be on the default branch
 to receive CI completion events; it checks out the commit tested by the release's
 CI run. Successful pull-request and branch CI runs do not publish packages.

@@ -82,8 +82,10 @@ and attribution. Package code uses the repository's [MIT license](LICENSE).
 
 ## Development
 
-From the repository root, `mise run setup`, `mise run build`, and `mise run check`
-install dependencies, build the CLIs, and validate the existing artifacts.
+Follow the root [development instructions](../README.md#development) to install
+dependencies, then run `shipwright build`, `shipwright lint`, `shipwright format`,
+and `shipwright test` from the repository root, followed by the documented
+integration and conformance commands.
 Within this directory:
 
 ```sh

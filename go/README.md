@@ -54,7 +54,10 @@ best-effort extraction limitations are shared with the Python package.
 
 ## Development
 
-From the repository root, run `mise run setup`, `mise run build`, and
-`mise run check`. Native API tests use the authoritative root fixtures. Conformance
-uses the built CLI; release archives reuse that executable without rebuilding.
+Follow the root [development instructions](../README.md#development) to install
+dependencies, then run `shipwright build`, `shipwright lint`, `shipwright format`,
+and `shipwright test` from the repository root, followed by the documented
+integration and conformance commands. Native API tests use the authoritative
+root fixtures. Conformance uses the built CLI; release archives reuse that
+executable without rebuilding.
 Go module releases use `go/vX.Y.Z` tags matching the root `vX.Y.Z` release commit.

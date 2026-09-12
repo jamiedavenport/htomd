@@ -92,5 +92,5 @@ per environment with `rss` instead of `speed` for memory. The comparison JSON re
 per-document timings and warm-up diagnostics; each full benchmark JSON retains every
 pass's output diagnostics as well. Timing excludes loading, imports and bookkeeping.
 
-Run `mise run benchmark` and regenerate the main report as described in
+Run `python -m tools.benchmark.run` and regenerate the main report as described in
 [the benchmark instructions](../README.md) to refresh the competitor comparison.

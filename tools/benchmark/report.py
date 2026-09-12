@@ -223,7 +223,8 @@ def detailed_report(results: Results) -> str:
         "Exact source, harness, wheel, lock and corpus hashes are in the adjacent JSON.",
         "## Reproduction",
         "See [benchmark instructions](../README.md). "
-        "Regenerate this report and the README from saved JSON with `mise run benchmark:report`.",
+        "Regenerate this report and the README from saved JSON with "
+        "`python -m tools.benchmark.report tools/benchmark/results/macos-arm64.json --readme`.",
         "## Failures and output diagnostics",
         "Empty output is recorded separately from exceptions and is not a quality score. "
         "Incomplete timing rounds never receive complete-corpus throughput or ratios. "

@@ -12,16 +12,20 @@ jobs:
     name: Website build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: 📥 Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           persist-credentials: false
-      - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
+      - name: 🛠️ Install tools
+        uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
         with:
           version: 2026.9.1
           # The shared UV_PYTHON environment template also requires Python.
           install_args: node bun python
-      - run: bun install --cwd website --frozen-lockfile
-      - run: bun run --cwd website build
+      - name: 📦 Install dependencies
+        run: bun install --cwd website --frozen-lockfile
+      - name: 🏗️ Build
+        run: bun run --cwd website build
   test:
     name: Build and test (${{ matrix.os }})
     strategy:
@@ -30,19 +34,45 @@ jobs:
         os: [ubuntu-latest, windows-latest, macos-latest]
     runs-on: ${{ matrix.os }}
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: 📥 Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           ref: ${{ github.sha }}
           persist-credentials: false
-      - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
+      - name: 🛠️ Install tools
+        uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
         with:
           version: 2026.9.1
-      - run: mise run setup
-      - run: mise run build
-      - run: mise run lint
+      - name: 📦 Install dependencies
+        run: |
+          uv sync --directory python --locked
+          bun install --cwd typescript --frozen-lockfile
+          rustup component add rustfmt clippy
+          cargo fetch --manifest-path rust/Cargo.toml --locked
+      - name: 🏗️ Build
+        run: shipwright build
+      - name: 🔎 Lint
+        run: |
+          shipwright lint
+          actionlint
+          uv run --project python --locked pre-commit validate-config
+          uv run --project python --locked ruff check .
+          uv run --project python --locked mypy
+          uv run --directory python --locked mypy
+          bun run --cwd typescript typecheck
+          python tools/generate_rust_entities.py --check
         if: runner.os == 'Linux'
-      - run: mise run test
-      - run: mise run test:conformance
+      - name: 🎨 Check formatting
+        run: |
+          shipwright format
+          uv run --project python --locked ruff format --check .
+        if: runner.os == 'Linux'
+      - name: 🧪 Test
+        run: shipwright test
+      - name: 🔗 Integration tests
+        run: uv run --project python --locked pytest tests
+      - name: 🔄 Conformance tests
+        run: uv run --project python --locked python -m tools.conformance
   test-python:
     name: Test (Python ${{ matrix.python }})
     strategy:
@@ -53,13 +83,19 @@ jobs:
     env:
       MISE_PYTHON_VERSION: ${{ matrix.python }}
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: 📥 Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
           ref: ${{ github.sha }}
           persist-credentials: false
-      - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
+      - name: 🛠️ Install tools
+        uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
         with:
           version: 2026.9.1
-          install_args: python uv
-      - run: mise run test:python
-      - run: mise run test:integration
+          install_args: python uv rust cargo:swb
+      - name: 📦 Install dependencies
+        run: uv sync --directory python --locked
+      - name: 🧪 Test
+        run: shipwright test python
+      - name: 🔗 Integration tests
+        run: uv run --project python --locked pytest tests

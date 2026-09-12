@@ -37,7 +37,7 @@ Source revision: `8f7c57f1d0487fb8dcf32e0cc2a5f4930601c8e9`; dirty: `True`. Exac
 
 ## Reproduction
 
-See [benchmark instructions](../README.md). Regenerate this report and the README from saved JSON with `mise run benchmark:report`.
+See [benchmark instructions](../README.md). Regenerate this report and the README from saved JSON with `python -m tools.benchmark.report tools/benchmark/results/macos-arm64.json --readme`.
 
 ## Failures and output diagnostics
 

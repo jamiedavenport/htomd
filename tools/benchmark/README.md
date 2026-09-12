@@ -13,9 +13,9 @@ uv 0.12.11. Install these with mise, then run from the repository root:
 
 ```sh
 mise install
-mise run setup
-mise run benchmark:smoke
-mise run benchmark
+uv sync --directory python --locked
+python -m tools.benchmark.run --smoke --output .benchmark/smoke.json
+python -m tools.benchmark.run
 ```
 
 Each invocation builds a fresh htomd wheel and recreates six isolated environments
@@ -24,15 +24,16 @@ conversion uses only local HTML, with no fetching or external cleanup. Binary wh
 are required so compilation toolchains cannot silently affect the installation
 comparison. Setup errors stop the command with their underlying error.
 
-`benchmark:smoke` checks every adapter against the same short article and requires
-a string containing `Steep the tea`; this is an API check, not quality scoring.
-`benchmark` writes `.benchmark/results.json`, checkpointing after each speed worker.
+The `--smoke` invocation checks every adapter against the same short article and
+requires a string containing `Steep the tea`; this is an API check, not quality scoring.
+The full invocation writes `.benchmark/results.json`, checkpointing after each
+speed worker.
 The initial reference results are retained as `results/macos-arm64.json` and the
 human-readable [report](results/macos-arm64.md). To deliberately replace them:
 
 ```sh
 cp .benchmark/results.json tools/benchmark/results/macos-arm64.json
-mise run benchmark:report
+python -m tools.benchmark.report tools/benchmark/results/macos-arm64.json --readme
 mise exec -- python -m tools.benchmark.report tools/benchmark/results/macos-arm64.json --readme --check
 ```
 
@@ -181,7 +182,9 @@ REQ
 
 Repeat for each competitor and rerun smoke/full measurements. Locks are independent
 so each package resolves and installs its own dependencies without contamination
-from another converter. `mise run check` covers the harness with Ruff, strict mypy
-and deterministic offline tests. Benchmark runs retain their own isolated
+from another converter. The root [development checks](../../README.md#development)
+cover the harness with Ruff and strict mypy;
+`uv run --project python --locked pytest tests` runs
+the deterministic offline tests. Benchmark runs retain their own isolated
 environments; ordinary tests and conformance use the development checkout.
 The harness does not tune converter settings. Concurrency, scheduled CI and regression thresholds remain deferred.

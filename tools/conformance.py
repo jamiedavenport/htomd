@@ -46,7 +46,7 @@ def commands() -> list[list[str]]:
     cli = ROOT / "typescript/dist/cli.js"
     for language, path in (("typescript", cli), ("go", binary("go")), ("rust", binary("rust"))):
         if not path.is_file():
-            raise SystemExit(f"Missing {language} CLI; run mise run build first")
+            raise SystemExit(f"Missing {language} CLI; run shipwright build first")
     return [
         [sys.executable, "-m", "htomd"],
         [node, str(cli)],
