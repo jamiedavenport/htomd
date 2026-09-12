@@ -21,34 +21,8 @@ jobs:
           install_args: node bun python
       - run: bun install --cwd website --frozen-lockfile
       - run: bun run --cwd website build
-  build:
-    name: Build and static checks
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          persist-credentials: false
-      - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
-        with:
-          version: 2026.9.1
-      - run: mise run setup
-      - run: mise run package:sources
-      - run: mise run lint
-      - name: Validate release versions
-        if: github.event_name == 'release'
-        env:
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: uv run --project python --locked python tools/check_release.py
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
-        with:
-          name: distributions
-          path: |
-            dist/
-            typescript/dist/
-          if-no-files-found: error
   test:
-    name: Test (${{ matrix.os }})
-    needs: build
+    name: Build and test (${{ matrix.os }})
     strategy:
       fail-fast: false
       matrix:
@@ -57,21 +31,40 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
+          ref: ${{ github.sha }}
           persist-credentials: false
       - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
         with:
           version: 2026.9.1
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
-        with:
-          name: distributions
-          path: .
       - run: mise run setup
-      - run: shipwright build
+      - run: mise run build
+      - run: mise run lint
+        if: runner.os == 'Linux'
       - run: mise run test
-      - run: mise run package:native
-      - run: mise run test:packages
       - run: mise run test:conformance
+      - name: Validate release versions
+        if: github.event_name == 'release'
+        env:
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: python tools/check_release.py
+      - run: mise run package
+        if: github.event_name == 'release' && runner.os == 'Linux'
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: github.event_name == 'release' && runner.os == 'Linux'
+        with:
+          name: python-distributions
+          path: dist/python/
+          if-no-files-found: error
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: github.event_name == 'release' && runner.os == 'Linux'
+        with:
+          name: typescript-distribution
+          path: dist/typescript/
+          if-no-files-found: error
+      - run: mise run package:native
+        if: github.event_name == 'release'
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: github.event_name == 'release'
         with:
           name: native-${{ matrix.os }}
           path: |
@@ -90,6 +83,7 @@ jobs:
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
+          ref: ${{ github.sha }}
           persist-credentials: false
       - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
         with:

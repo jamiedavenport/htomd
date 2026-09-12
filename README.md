@@ -100,28 +100,28 @@ Libraries perform different work by default. Timings do not measure output quali
 mise trust
 mise install
 mise run setup
-shipwright build
+mise run build
 mise run check
 ```
 
-Mise installs Shipwright from the pinned `swb` crate along with the language tools.
-`shipwright build` builds all four packages concurrently in their normal output
-locations. Append `python`, `typescript`, `go`, or `rust` to build one package.
+`setup` installs the Python development environment and locked dependencies.
+`build` compiles TypeScript into `typescript/dist/`, Go into `go/bin/`, and the
+Rust release CLI into `rust/target/release/`, directly from the checkout.
+Python runs from the existing development environment and needs no separate build.
 
-For distribution checks and release validation, build the packaged artifacts first:
+Build once before checking: `check` runs formatting, lint, types, native API tests,
+repository tests, and cross-language conformance against those outputs. The
+individual tasks are `mise run lint`, `mise run test`, and
+`mise run test:conformance`; none rebuild the CLIs or install distributions.
+Normal Go/Rust test compilation and Rust Clippy checks are separate from the
+release CLI build. All four package suites use the shared cases in
+`tests/fixtures/synthetic/cases.json`.
 
-```sh
-mise run package:sources
-mise run package:native
-mise run test:packages
-mise run test:conformance
-```
-
-Build once before checking: `check` runs static checks and tests against the
-existing artifacts. `mise run lint` runs static checks alone; `mise run test`
-runs the package and integration suites. Conformance checks run separately against
-packaged distributions, as shown above. All four package suites use the shared
-cases in `tests/fixtures/synthetic/cases.json`.
+PR CI checks out the commit and runs `setup` → `build` → native/integration tests
+→ conformance independently on Linux, Windows, and macOS. Linux also runs `lint`
+after building. Python 3.12 and 3.13 run the Python and repository suites separately.
+No package archives are uploaded or downloaded for these tests. The website has
+its own unchanged build job.
 
 Install hooks with `mise exec -- uv run --project python --locked pre-commit install`;
 run them with `mise run hooks`. Keep Python, TypeScript, and Go runtime dependencies
@@ -139,18 +139,20 @@ runtime exceptions live in the shared conformance fixtures. Corpus overrides
 may reference an existing real fixture ID and replace one exact Markdown link;
 missing or ambiguous replacements fail validation.
 
-`mise run package:sources` packages source distributions once. Each platform runs
-`mise run package:native` against those packages, then checks the resulting CLIs.
-Native archive names include language, version, OS, and architecture, with SHA-256
-checksum files. `mise run lint` includes Go vet, Rust Clippy, and formatter checks.
+Conformance runs the current Python environment, compiled JavaScript on Node,
+and the built Go/Rust CLIs on synthetic, edge, and saved-page fixtures. Missing
+implementations, output mismatches, and CLI contract violations fail the run.
+Isolated installed-distribution and generated-consumer checks are intentionally
+omitted; native API tests and shared conformance cover behavior.
 
 ## Releases
 
 Update Python and TypeScript package versions, Rust's manifest and lockfile,
 the Go `Version` constant, `shipwright.toml`, other affected lockfiles, and
 `CHANGELOG.md` together. Clear old build
-artifacts, then run `shipwright build`, `mise run check`, and the distribution
-validation commands above. Commit and push, then publish a GitHub Release tagged `v<version>`.
+artifacts, then run `mise run setup`, `mise run build`, `mise run check`, and the
+local release packaging commands below. Commit and push, then publish a GitHub
+Release tagged `v<version>`.
 
 The [release workflow](.github/workflows/release.yml) builds, tests, and publishes
 to PyPI, npm, and crates.io, creates the matching `go/v<version>` module tag,
@@ -166,16 +168,36 @@ its crates.io trusted publisher for this repository, `release.yml`, and the
 action and short-lived credentials. Initial registry setup is external to the
 repository. Do not republish the bootstrap version through the shared workflow.
 
-Validate release metadata and Cargo repackaging without publishing:
+On a release, the same CI validates each platform's checkout before packaging.
+Linux runs `mise run package` to build the Python wheel and sdist directly from
+source and pack the existing TypeScript output. Every platform runs
+`mise run package:native` to archive its already-tested executables with licenses,
+documentation, and SHA-256 checksums. Native archive names retain language,
+version, OS, and architecture. Packaging does not compile TypeScript, Go, or Rust.
+
+After all CI jobs pass, the existing registry jobs download the Python/npm
+artifacts and publish them with `uv publish` and `npm publish --ignore-scripts`.
+Rust checks out the exact tested commit and runs
+`cargo publish --manifest-path rust/Cargo.toml --locked --no-verify`, which packages
+once without repeating compilation. Cargo's clean-checkout guard remains enabled.
+The Go publisher creates the matching module tag. Published packages and native
+CLI archives are attached to the GitHub Release; custom Go source archives are
+no longer produced.
+
+Exercise release metadata and packaging locally without publishing:
 
 ```sh
-RELEASE_TAG=v0.1.1 mise exec -- python -m tools.release_native publish-rust --dry-run
+RELEASE_TAG=v0.1.1 mise exec -- python tools/check_release.py
+mise run package
+mise run package:native
+mise exec -- cargo package --manifest-path rust/Cargo.toml --locked --no-verify
 ```
 
-The helper compares repackaged code, data, lockfile, and normalized manifest with
-the tested `.crate`; only Cargo packaging provenance may differ. Go tag dry runs
-use `python -m tools.release_native tag-go --dry-run` with `RELEASE_TAG` set and
-the corresponding root tag checked out. No release is published by local checks.
+Cargo requires a clean checkout; add `--allow-dirty` only for a local packaging
+trial of uncommitted changes. The release workflow does not use it. A Go tag dry
+run uses `RELEASE_TAG=v0.1.1 mise exec -- python -m tools.release_native tag-go --dry-run`
+with the corresponding root tag checked out. No local command above publishes a
+package or writes a tag.
 
 ## License
 

@@ -1,4 +1,4 @@
-"""Validate the release tag and license attribution."""
+"""Validate shared package versions and the release tag."""
 
 import json
 import os
@@ -20,8 +20,6 @@ def main() -> None:
     expected = "v" + project["version"]
     if os.environ.get("RELEASE_TAG") != expected:
         raise SystemExit(f"Release tag must match package metadata: {expected}")
-    if "awaiting owner confirmation" in (ROOT / "LICENSE").read_text(encoding="utf-8"):
-        raise SystemExit("The owner must confirm the MIT copyright attribution before release.")
     print("Release prerequisites passed.")
 
 

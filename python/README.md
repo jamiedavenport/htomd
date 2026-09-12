@@ -40,7 +40,7 @@ uv run ruff check .
 uv run ruff format --check .
 uv run mypy
 uv run pytest
-uv build --no-sources
+uv build --sdist --wheel --no-sources
 ```
 
 Builds produce a wheel and source archive in `dist/`. Runtime dependencies remain

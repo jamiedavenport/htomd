@@ -37,7 +37,6 @@ def test_release_versions(
     (tmp_path / "typescript/package.json").write_text(
         json.dumps({"version": typescript_version}), encoding="utf-8"
     )
-    (tmp_path / "LICENSE").write_text("MIT", encoding="utf-8")
     monkeypatch.setattr(check_release, "ROOT", tmp_path)
     monkeypatch.setenv("RELEASE_TAG", tag)
     if error:

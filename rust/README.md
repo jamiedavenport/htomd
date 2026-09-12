@@ -56,7 +56,8 @@ additional crate. Arena node IDs keep traversal and destruction stack-safe.
 
 ## Development
 
-From the repository root run `mise run setup`, `shipwright build`, and
+From the repository root run `mise run setup`, `mise run build`, and
 `mise run check`. Native tests use the shared root fixtures. The `.crate` includes
 unit tests and documentation examples; repository fixture tests remain outside
-the package. Packaging and isolated consumer checks run through the root tooling.
+the package. Release archives reuse the tested CLI. Cargo publishes directly from the tested
+release checkout without repeating compilation.

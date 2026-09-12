@@ -19,7 +19,6 @@ from tools.benchmark.report import (
 )
 from tools.benchmark.run import Library, Results
 from tools.benchmark.worker import Document, Output, Worker, corpus_pass, footprint, rss_bytes
-from tools.check_dist import assert_no_benchmark_files
 
 
 def library(samples: list[list[int]]) -> Library:
@@ -204,22 +203,6 @@ def test_installer_files_are_not_counted(monkeypatch: pytest.MonkeyPatch, tmp_pa
     # WHEEL tags are irrelevant to footprint accounting.
     assert installation("htomd")["installed_bytes"] == 10
     assert set(installation("htomd")["packages"]) == {"htomd", "dependency"}
-
-
-@pytest.mark.parametrize(
-    "path",
-    [
-        "tools/benchmark/run.py",
-        "pkg/.benchmark/envs/a",
-        "pkg/results/raw.json",
-        "pkg/locks/a.txt",
-        "pkg/.venv/bin/python",
-    ],
-)
-def test_distribution_exclusions(path: str) -> None:
-    with pytest.raises(AssertionError, match="Benchmark/development"):
-        assert_no_benchmark_files([path])
-    assert_no_benchmark_files(["htomd/__init__.py", "htomd-0.1.dist-info/METADATA"])
 
 
 def test_saved_report_matches_measurements() -> None:

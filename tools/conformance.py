@@ -1,8 +1,7 @@
-"""Compare all maintained implementations using offline fixtures and built packages."""
+"""Compare all maintained implementations using offline fixtures and checkout builds."""
 
 from __future__ import annotations
 
-import argparse
 import json
 import os
 import shutil
@@ -12,7 +11,6 @@ import tempfile
 from pathlib import Path
 from typing import Any
 
-from tools.check_ts_dist import install_package
 from tools.native import binary
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -40,44 +38,20 @@ def cases() -> list[dict[str, Any]]:
     return [*synthetic, *(case for case in edge if "html" in case), *real]
 
 
-def install_packages(artifacts: Path, work: Path) -> list[list[str]]:
-    """Install the artifacts from the build stage outside the checkout."""
-    uv = shutil.which("uv")
+def commands() -> list[list[str]]:
+    """Use the current Python environment and existing checkout build outputs."""
     node = shutil.which("node")
-    assert uv and node, "uv and Node must be installed"
-    wheels = list((artifacts / "python").glob("*.whl"))
-    tarballs = list((artifacts / "typescript").glob("*.tgz"))
-    assert len(wheels) == len(tarballs) == 1, (
-        "Run mise run package:sources first; expected one wheel and tarball"
-    )
-    venv = work / "venv"
-    subprocess.run([uv, "venv", "--python", sys.executable, str(venv)], cwd=work, check=True)
-    scripts = venv / ("Scripts" if os.name == "nt" else "bin")
-    python = scripts / ("python.exe" if os.name == "nt" else "python")
-    subprocess.run(
-        [
-            uv,
-            "pip",
-            "install",
-            "--python",
-            str(python),
-            "--no-deps",
-            str(wheels[0]),
-        ],
-        cwd=work,
-        check=True,
-    )
-    package = install_package(tarballs[0], work / "consumer")
-    metadata = json.loads((package / "package.json").read_text(encoding="utf-8"))
-    for language in ("go", "rust"):
-        assert binary(language, artifacts).is_file(), (
-            f"Missing {language} binary; run mise run package:native"
-        )
+    if node is None:
+        raise SystemExit("Node must be installed")
+    cli = ROOT / "typescript/dist/cli.js"
+    for language, path in (("typescript", cli), ("go", binary("go")), ("rust", binary("rust"))):
+        if not path.is_file():
+            raise SystemExit(f"Missing {language} CLI; run mise run build first")
     return [
-        [str(scripts / ("htomd.exe" if os.name == "nt" else "htomd"))],
-        [node, str(package / metadata["bin"]["htomd"])],
-        [str(binary("go", artifacts))],
-        [str(binary("rust", artifacts))],
+        [sys.executable, "-m", "htomd"],
+        [node, str(cli)],
+        [str(binary("go"))],
+        [str(binary("rust"))],
     ]
 
 
@@ -155,13 +129,9 @@ def check_cli_contract(invocations: list[list[str]], work: Path) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--artifacts", type=Path, default=ROOT / "dist")
-    args = parser.parse_args()
+    invocations = commands()
     with tempfile.TemporaryDirectory(prefix="htomd-conformance-") as directory:
-        work = Path(directory)
-        invocations = install_packages(args.artifacts.resolve(), work)
-        compare(invocations, work)
+        compare(invocations, Path(directory))
 
 
 def expected_output(reference: bytes, command: str, overrides: dict[str, Any]) -> bytes:

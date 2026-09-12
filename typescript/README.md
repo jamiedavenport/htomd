@@ -82,8 +82,8 @@ and attribution. Package code uses the repository's [MIT license](LICENSE).
 
 ## Development
 
-From the repository root, `mise run setup`, `shipwright build`, and `mise run check`
-install dependencies, build all four packages, and validate the existing artifacts.
+From the repository root, `mise run setup`, `mise run build`, and `mise run check`
+install dependencies, build the CLIs, and validate the existing artifacts.
 Within this directory:
 
 ```sh
@@ -98,7 +98,7 @@ bun run test
 The compiler builds JavaScript and declarations into `dist/` and checks source
 types. The separate `typecheck` command checks tests against those declarations.
 Tests run on Node and read the root fixtures without making package-local copies.
-`bun pm pack` builds once through `prepack`; test and package-check commands never
-rebuild. Distribution checks validate the packed tarball in an isolated consumer;
-conformance checks compare all four installed CLIs on synthetic, edge, and
-saved-page fixtures. See the root README for the separate packaging steps.
+`bun pm pack` packages the existing `dist/`; run `bun run build` first. There is
+no `prepack` build hook. Tests and conformance reuse the compiled output, with
+conformance comparing the Python environment and built TypeScript/Go/Rust CLIs.
+See the root README for release packaging steps.
