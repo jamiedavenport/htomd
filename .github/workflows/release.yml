@@ -1,144 +1,63 @@
 name: Release
 on:
-  release:
-    types: [published]
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
 permissions:
   contents: read
 concurrency:
-  group: release-${{ github.ref }}
+  group: release-${{ github.event.workflow_run.head_sha }}
   cancel-in-progress: false
 jobs:
-  ci:
-    name: Build and Test
-    uses: ./.github/workflows/ci.yml
-  deploy-python:
-    name: Deploy python
-    needs: ci
+  publish:
+    name: Publish ${{ matrix.package }}
+    if: >-
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'release' &&
+      github.event.workflow_run.head_repository.full_name == github.repository
     runs-on: ubuntu-latest
-    environment: pypi
+    environment: ${{ matrix.environment }}
     permissions:
       contents: write
       id-token: write
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - package: python
+            environment: pypi
+          - package: typescript
+            environment: npm
+          - package: go
+            environment: ''
+          - package: rust
+            environment: crates-io
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
-          ref: ${{ github.sha }}
-          persist-credentials: false
-      - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
-        with:
-          version: 2026.9.1
-          install_args: python uv
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
-        with:
-          name: python-distributions
-          path: dist/python
-      - name: Publish package
-        run: uv publish --trusted-publishing always dist/python/*
-      - name: Attach published artifacts
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: gh release upload "$RELEASE_TAG" dist/python/* --clobber
-  deploy-typescript:
-    name: Deploy typescript
-    needs: ci
-    runs-on: ubuntu-latest
-    environment: npm
-    permissions:
-      contents: write
-      id-token: write
-    steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          ref: ${{ github.sha }}
-          persist-credentials: false
-      - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
-        with:
-          version: 2026.9.1
-          install_args: python node
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
-        with:
-          name: typescript-distribution
-          path: dist/typescript
-      - name: Publish package
-        run: npm publish dist/typescript/*.tgz --access public --ignore-scripts
-      - name: Attach published artifacts
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: gh release upload "$RELEASE_TAG" dist/typescript/* --clobber
-  deploy-go:
-    name: Publish Go module tag
-    needs: ci
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          ref: ${{ github.sha }}
+          ref: ${{ github.event.workflow_run.head_sha }}
           fetch-depth: 0
       - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
         with:
           version: 2026.9.1
-          install_args: python
-      - name: Create the matching module tag
+          install_args: python uv node bun go rust cargo:swb
+      - name: Validate the release tag and tested commit
         env:
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: python -m tools.release_native tag-go
-  deploy-rust:
-    name: Publish Rust crate
-    needs: ci
-    runs-on: ubuntu-latest
-    environment: crates-io
-    permissions:
-      contents: write
-      id-token: write
-    steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          ref: ${{ github.sha }}
-          persist-credentials: false
-      - uses: jdx/mise-action@c2a87611a18de5b3828c5652fe268e992400cb5c # v4
-        with:
-          version: 2026.9.1
-          install_args: python rust
-      - name: Validate release versions
-        env:
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: python tools/check_release.py
+          RELEASE_TAG: ${{ github.event.workflow_run.head_branch }}
+          RELEASE_COMMIT: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          test "$RELEASE_TAG" = "v$(node -p "require('./typescript/package.json').version")"
+          test "$(git rev-parse "refs/tags/$RELEASE_TAG^{commit}")" = "$RELEASE_COMMIT"
+      - name: Install TypeScript dependencies
+        if: matrix.package == 'typescript'
+        run: bun install --cwd typescript --frozen-lockfile
       - name: Authenticate with crates.io
+        if: matrix.package == 'rust'
         id: auth
         uses: rust-lang/crates-io-auth-action@c6f97d42243bad5fab37ca0427f495c86d5b1a18 # v1.0.5
-      - name: Publish from the tested release commit
+      - name: Publish package and configured native downloads
         env:
+          GH_TOKEN: ${{ github.token }}
           CARGO_REGISTRY_TOKEN: ${{ steps.auth.outputs.token }}
-        run: cargo publish --manifest-path rust/Cargo.toml --locked --no-verify
-      - name: Attach published crate
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: gh release upload "$RELEASE_TAG" rust/target/package/*.crate --clobber
-  attach-native:
-    name: Attach native CLI archives
-    needs: [deploy-go, deploy-rust]
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
-        with:
-          pattern: native-*
-          path: native
-          merge-multiple: true
-      - name: Attach native artifacts
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: |
-          mapfile -d '' files < <(find native -type f -print0)
-          gh release upload "$RELEASE_TAG" "${files[@]}" --clobber
+          PACKAGE: ${{ matrix.package }}
+        run: shipwright release "$PACKAGE"

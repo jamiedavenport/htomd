@@ -6,6 +6,7 @@ node = "24.20.0"
 bun = "1.4.2"
 go = "1.27.1"
 rust = "1.98.1"
+"cargo:swb" = "0.2.0"
 
 [env]
 # Mise owns interpreter installation; uv owns the project environment and lockfile.
@@ -85,17 +86,10 @@ run = "uv run --directory python --locked pytest"
 tools.python = "3.13.15"
 run = "uv run --directory python --locked pytest"
 
-[tasks.package]
-description = "Package Python and built TypeScript for release"
-run = [
-  "uv build python --sdist --wheel --no-sources --out-dir dist/python",
-  "python -c \"from pathlib import Path; Path('dist/typescript').mkdir(parents=True, exist_ok=True)\"",
-  "bun pm --cwd typescript pack --destination ../dist/typescript",
-]
-
-[tasks."package:native"]
-description = "Archive the tested native CLIs for release without rebuilding"
-run = "python -m tools.native package"
+[tasks.release]
+description = "Preview release preparation locally; publishing runs in GitHub Actions"
+raw_args = true
+run = "shipwright release --dry-run"
 
 [tasks.benchmark]
 description = "Build isolated environments and benchmark all 115 offline snapshots"

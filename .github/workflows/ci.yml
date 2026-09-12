@@ -3,7 +3,8 @@ on:
   pull_request:
   push:
     branches: [main]
-  workflow_call:
+  release:
+    types: [published]
 permissions:
   contents: read
 jobs:
@@ -42,35 +43,6 @@ jobs:
         if: runner.os == 'Linux'
       - run: mise run test
       - run: mise run test:conformance
-      - name: Validate release versions
-        if: github.event_name == 'release'
-        env:
-          RELEASE_TAG: ${{ github.event.release.tag_name }}
-        run: python tools/check_release.py
-      - run: mise run package
-        if: github.event_name == 'release' && runner.os == 'Linux'
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
-        if: github.event_name == 'release' && runner.os == 'Linux'
-        with:
-          name: python-distributions
-          path: dist/python/
-          if-no-files-found: error
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
-        if: github.event_name == 'release' && runner.os == 'Linux'
-        with:
-          name: typescript-distribution
-          path: dist/typescript/
-          if-no-files-found: error
-      - run: mise run package:native
-        if: github.event_name == 'release'
-      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
-        if: github.event_name == 'release'
-        with:
-          name: native-${{ matrix.os }}
-          path: |
-            dist/native/**/*.tar.gz
-            dist/native/**/*.sha256
-          if-no-files-found: error
   test-python:
     name: Test (Python ${{ matrix.python }})
     strategy:

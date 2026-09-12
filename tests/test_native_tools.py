@@ -1,16 +1,8 @@
-"""Release tag protection and explicit conformance fixture expectations."""
+"""Explicit conformance fixture expectations."""
 
 import pytest
 
 from tools.conformance import expected_output
-from tools.release_native import go_tag_action
-
-
-def test_go_tag_conflicts() -> None:
-    assert go_tag_action("abc", None)
-    assert not go_tag_action("abc", "abc")
-    with pytest.raises(SystemExit, match="different commit"):
-        go_tag_action("abc", "def")
 
 
 def test_fixture_replacement_requires_one_match() -> None:

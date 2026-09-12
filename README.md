@@ -147,57 +147,42 @@ omitted; native API tests and shared conformance cover behavior.
 
 ## Releases
 
-Update Python and TypeScript package versions, Rust's manifest and lockfile,
-the Go `Version` constant, `shipwright.toml`, other affected lockfiles, and
-`CHANGELOG.md` together. Clear old build
-artifacts, then run `mise run setup`, `mise run build`, `mise run check`, and the
-local release packaging commands below. Commit and push, then publish a GitHub
-Release tagged `v<version>`.
-
-The [release workflow](.github/workflows/release.yml) builds, tests, and publishes
-to PyPI, npm, and crates.io, creates the matching `go/v<version>` module tag,
-and attaches native CLI archives and checksums. Tags alone do not trigger the
-workflow. Registry publishers use `release.yml` and the `pypi`, `npm`, and
-`crates-io` GitHub environments. An existing Go tag must point to the root release
-commit; conflicting tags fail without rewriting history.
-
-Before the first Rust release, confirm ownership or availability of the `htomd`
-crate name. Publish the initial tested crate with owner credentials, then configure
-its crates.io trusted publisher for this repository, `release.yml`, and the
-`crates-io` environment. Subsequent versions use the pinned Rust authentication
-action and short-lived credentials. Initial registry setup is external to the
-repository. Do not republish the bootstrap version through the shared workflow.
-
-On a release, the same CI validates each platform's checkout before packaging.
-Linux runs `mise run package` to build the Python wheel and sdist directly from
-source and pack the existing TypeScript output. Every platform runs
-`mise run package:native` to archive its already-tested executables with licenses,
-documentation, and SHA-256 checksums. Native archive names retain language,
-version, OS, and architecture. Packaging does not compile TypeScript, Go, or Rust.
-
-After all CI jobs pass, the existing registry jobs download the Python/npm
-artifacts and publish them with `uv publish` and `npm publish --ignore-scripts`.
-Rust checks out the exact tested commit and runs
-`cargo publish --manifest-path rust/Cargo.toml --locked --no-verify`, which packages
-once without repeating compilation. Cargo's clean-checkout guard remains enabled.
-The Go publisher creates the matching module tag. Published packages and native
-CLI archives are attached to the GitHub Release; custom Go source archives are
-no longer produced.
-
-Exercise release metadata and packaging locally without publishing:
+Update the package versions, Go `Version` constant, `shipwright.toml`, affected
+lockfiles, and `CHANGELOG.md` together. Run `mise run setup`, `mise run build`,
+and `mise run check`, then preview release preparation:
 
 ```sh
-RELEASE_TAG=v0.1.1 mise exec -- python tools/check_release.py
-mise run package
-mise run package:native
-mise exec -- cargo package --manifest-path rust/Cargo.toml --locked --no-verify
+mise install
+mise run release
 ```
 
-Cargo requires a clean checkout; add `--allow-dirty` only for a local packaging
-trial of uncommitted changes. The release workflow does not use it. A Go tag dry
-run uses `RELEASE_TAG=v0.1.1 mise exec -- python -m tools.release_native tag-go --dry-run`
-with the corresponding root tag checked out. No local command above publishes a
-package or writes a tag.
+`mise run release` runs `shipwright release --dry-run`: it prepares packages and
+host-platform native archives without publishing or requiring registry tokens.
+It checks existing tags and assets for conflicts. The current `v0.1.1` root tag
+points to an older commit; choose the next release version rather than moving it.
+
+Commit and push the release changes, then publish a GitHub Release tagged
+`v<version>`. This starts CI; after that release's CI run succeeds, the
+[release workflow](.github/workflows/release.yml) runs
+`shipwright release "$PACKAGE"` in a four-language matrix. Each job
+builds and publishes directly from that release commit. The workflow validates
+the triggering tag and tested commit. Shipwright validates manifest versions,
+creates the Go module tag, and uploads
+configured Linux native archives. Windows/macOS downloads are not yet included.
+
+PyPI and npm use trusted publishing; Rust uses the existing crates.io
+authentication action. Keep the `release.yml` trusted-publisher bindings and the
+`pypi`, `npm`, and `crates-io` environments. Git and GitHub uploads use the built-in
+Actions token. No manually configured registry secrets are needed.
+
+Mise installs Shipwright from the `swb` crate, pinned to 0.2.0.
+The release workflow must be on the default branch
+to receive CI completion events; it checks out the commit tested by the release's
+CI run. Successful pull-request and branch CI runs do not publish packages.
+
+Rerun failed matrix jobs after fixing their cause. Existing npm/crates.io versions
+are skipped, uv resumes Python files, and matching Go tags and native assets are
+kept. Conflicting tags or asset checksums fail without overwriting them.
 
 ## License
 
